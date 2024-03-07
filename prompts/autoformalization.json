@@ -1,0 +1,5 @@
+{
+    "system": "",
+    "user": "Natural language version: {text}\nTranslate the natural language version to an Isabelle/Isar version without any additional text and do not give any proof: ",
+    "assistant": "{statement}"
+}
