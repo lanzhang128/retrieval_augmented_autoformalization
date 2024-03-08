@@ -107,7 +107,7 @@ class Isabelle:
     
     def check_ZF_Session_error(self, theory_name, directory):
         start_time = time.time()
-        isabelle_response = self.isabelle.use_theories(session_id=self.start_id, session="ZF", theories=[theory_name], master_dir=directory,watchdog_timeout=self.timeout)
+        isabelle_response = self.isabelle.use_theories(session_id=self.start_id, session=self.session_name, theories=[theory_name], master_dir=directory,watchdog_timeout=self.timeout)
         inference_time = time.time() - start_time 
             
         error_details = []
