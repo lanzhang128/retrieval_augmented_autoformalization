@@ -55,7 +55,7 @@ class Isabelle:
         
         return has_syntax_error, error_details, error_lines
     
-    def check_HOL_logical_error(self, theory_name, directory, proof_code_file_path):
+    def check_HOL_session_logical_error(self, theory_name, directory, proof_code_file_path):
         start_time = time.time()
         isabelle_response = self.isabelle.use_theories(session_id=self.start_id, session=self.session_name, theories=[theory_name], master_dir=directory,watchdog_timeout=self.timeout)
         inference_time = time.time() - start_time 
