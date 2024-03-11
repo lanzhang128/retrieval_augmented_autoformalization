@@ -3,6 +3,7 @@ import json
 import argparse
 from evaluation.utils import postprocess_model_output, preprocess_metric_input
 from evaluation.common_metric import BLEU, ChrF, RUBY
+from evaluation.model_based_metric import CodeBERTScore
 
 
 if __name__ == '__main__':
@@ -11,7 +12,7 @@ if __name__ == '__main__':
                         help='json file that stores reference data')
     parser.add_argument('--result_json', default='results/mistral_0_auto.json',
                         help='json file that stores results')
-    parser.add_argument('--metrics', nargs='+', default=['BLEU', 'ChrF', 'RUBY'],
+    parser.add_argument('--metrics', nargs='+', default=['BLEU', 'ChrF', 'RUBY', 'CodeBERTScore'],
                         help='metrics to evaluate results')
     args = parser.parse_args()
 
@@ -35,13 +36,19 @@ if __name__ == '__main__':
         with open(args.result_json[:-4]+'post.json', 'w', encoding='utf-8') as f:
             json.dump(can_json, f, ensure_ascii=False, indent=4)
 
+    nl_texts = []
     ref_texts = []
     can_texts = []
     for key in ref_json.keys():
+        nl_texts.append(preprocess_metric_input(ref_json[key]['text']))
         ref_texts.append(preprocess_metric_input(ref_json[key]['statement']))
         can_texts.append(preprocess_metric_input(can_json[key]['statement']))
 
     score_dic = {}
     for metric in args.metrics:
-        score_dic.update(metric_class[metric].evaluate(ref_texts, can_texts))
+        print(f'Evaluating with {metric} metric.')
+        if metric == 'CodeBERTScore':
+            score_dic.update(CodeBERTScore().evaluate(ref_texts, can_texts, nl_texts))
+        else:
+            score_dic.update(metric_class[metric].evaluate(ref_texts, can_texts))
     print(score_dic)
