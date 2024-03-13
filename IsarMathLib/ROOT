@@ -1,9 +1,9 @@
-session "IsarMathLib" = "ZF" +
-  options [document = pdf, document_output = "output",document_variants="document:outline=/proof"]
+
+session "IsarMathLib" in IsarMathLib = ZF +
   theories
     Introduction
     Fol1
-    ZF1 
+    ZF1
     Nat_ZF_IML
     Order_ZF
     Order_ZF_1
@@ -93,13 +93,10 @@ session "IsarMathLib" = "ZF" +
     TopologicalGroup_ZF_3
     MMI_prelude
     MMI_examples
-  theories [document = false]
     Generalization_ZF
     NatGenIntEx_ZF
     MMI_Complex_ZF
     MMI_Complex_ZF_1
     MMI_Complex_ZF_2
-theories [document = true]
-    Metamath_Interface     
+    Metamath_Interface
     Metamath_Sampler
-document_files "root.bib" "root.tex"

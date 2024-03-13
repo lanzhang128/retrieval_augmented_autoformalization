@@ -4,6 +4,7 @@ import argparse
 from evaluation.utils import postprocess_model_output, preprocess_metric_input
 from evaluation.common_metric import BLEU, ChrF, RUBY
 from evaluation.model_based_metric import CodeBERTScore
+from evaluation.isabelle_checker import IsabelleChecker
 
 
 if __name__ == '__main__':
@@ -12,7 +13,7 @@ if __name__ == '__main__':
                         help='json file that stores reference data')
     parser.add_argument('--result_json', default='results/mistral_0_auto.json',
                         help='json file that stores results')
-    parser.add_argument('--metrics', nargs='+', default=['BLEU', 'ChrF', 'RUBY', 'CodeBERTScore'],
+    parser.add_argument('--metrics', nargs='+', default=['BLEU', 'ChrF', 'RUBY', 'Pass', 'CodeBERTScore'],
                         help='metrics to evaluate results')
     args = parser.parse_args()
 
@@ -49,6 +50,13 @@ if __name__ == '__main__':
         print(f'Evaluating with {metric} metric.')
         if metric == 'CodeBERTScore':
             score_dic.update(CodeBERTScore().evaluate(ref_texts, can_texts, nl_texts))
+        elif metric == 'Pass':
+            checker = IsabelleChecker(session_name='IsarMathLib',
+                                      server_log_file=args.result_json[:-4] + '.log',
+                                      isabelle_dirs=['../Isabelle2023'],
+                                      dependency_file='./base.thy')
+            score_dic.update(checker.evaluate(args.result_json[:-5], ref_json.keys(), nl_texts, can_texts))
+            checker.checker.shutdown()
         else:
             score_dic.update(metric_class[metric].evaluate(ref_texts, can_texts))
     print(score_dic)
