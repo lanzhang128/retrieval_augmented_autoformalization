@@ -35,6 +35,10 @@ def parse_thy_file(file_name, types, source):
         start = r
     new_lines += lines[start:]
 
+    imports = re.findall('imports.*?begin', new_lines, flags=re.DOTALL)
+    imports = imports[0][7:-5].replace('\n', ' ').split()
+    imports = ['IsarMathLib.' + thy if '.' not in thy else thy for thy in imports]
+
     lines = [_ +'\n' for _ in new_lines.split('\n')]
 
     chunks = []
@@ -90,6 +94,7 @@ def parse_thy_file(file_name, types, source):
                     else:
                         item['statement'] = chunks[i]
                         item['proof'] = ''
+                item['imports'] = imports
                 item['source'] = f'{source}/{os.path.basename(file_name)}'
                 items.append(item)
     return items

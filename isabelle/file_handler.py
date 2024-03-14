@@ -1,8 +1,7 @@
-def write_to_thy_file(file_path, theory_name, dependency_file, text, statement):
-    with open(file_path, 'w') as f1:
-        with open(dependency_file, 'r') as f2:
-            dependency = f2.read()
-        f1.write(f'theory {theory_name}\n{dependency}\n{text}\n{statement}')
+def write_to_thy_file(file_path, theory_name, import_thy, text, statement):
+    with open(file_path, 'w') as f:
+        imports = '\n'.join(import_thy)
+        f.write(f'theory {theory_name}\nimports\n{imports}\nbegin\n\n{text}\n\n{statement}')
 
 
 def write_error_to_file(file_path, is_valid, error_lines, error_details, inference_time):

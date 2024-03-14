@@ -7,12 +7,10 @@ class IsabelleChecker:
     def __init__(self,
                  session_name='IsarMathLib',
                  server_log_file='server.log',
-                 isabelle_dirs=None,
-                 dependency_file=None):
+                 isabelle_dirs=None):
         self.checker = Isabelle(session_name=session_name, log_file=server_log_file, dirs=isabelle_dirs)
-        self.dependency_file = dependency_file if dependency_file is not None else '../base.thy'
 
-    def evaluate(self, files_dir, keys, texts, statements):
+    def evaluate(self, files_dir, keys, imports, texts, statements):
         if not os.path.exists(files_dir):
             os.mkdir(files_dir)
         if len(statements) == 0:
@@ -20,9 +18,9 @@ class IsabelleChecker:
 
         count = 0
         pass_count = 0
-        for key, text, statement in zip(tqdm(keys), texts, statements):
+        for key, import_thy, text, statement in zip(tqdm(keys), imports, texts, statements):
             thy_file_path = os.path.join(files_dir, f'test_{key}.thy')
-            write_to_thy_file(thy_file_path, f'test_{key}', self.dependency_file, text, statement)
+            write_to_thy_file(thy_file_path, f'test_{key}', import_thy, text, statement)
             response, inference_time = self.checker.get_response(theories=[f'test_{key}'], master_dir=files_dir)
             is_valid, error_lines, error_details, _ = self.checker.check_error(isabelle_response=response)
             error_log_path = os.path.join(files_dir, f'test_{key}.error.log')

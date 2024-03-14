@@ -40,10 +40,12 @@ if __name__ == '__main__':
     nl_texts = []
     ref_texts = []
     can_texts = []
+    imports = []
     for key in ref_json.keys():
         nl_texts.append(preprocess_metric_input(ref_json[key]['text']))
         ref_texts.append(preprocess_metric_input(ref_json[key]['statement']))
         can_texts.append(preprocess_metric_input(can_json[key]['statement']))
+        imports.append(ref_json[key]['imports'] + [ref_json[key]['source'][:-4].replace('/', '.')])
 
     score_dic = {}
     for metric in args.metrics:
@@ -53,9 +55,12 @@ if __name__ == '__main__':
         elif metric == 'Pass':
             checker = IsabelleChecker(session_name='IsarMathLib',
                                       server_log_file=args.result_json[:-4] + '.log',
-                                      isabelle_dirs=['../Isabelle2023'],
-                                      dependency_file='./base.thy')
-            score_dic.update(checker.evaluate(args.result_json[:-5], ref_json.keys(), nl_texts, can_texts))
+                                      isabelle_dirs=['../Isabelle2023'])
+            score_dic.update(checker.evaluate(files_dir=args.result_json[:-5],
+                                              keys=ref_json.keys(),
+                                              imports=imports,
+                                              texts=nl_texts,
+                                              statements=can_texts))
             checker.checker.shutdown()
         else:
             score_dic.update(metric_class[metric].evaluate(ref_texts, can_texts))

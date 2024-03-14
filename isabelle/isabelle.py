@@ -48,7 +48,7 @@ class Isabelle:
 
     @staticmethod
     def check_error(isabelle_response, proof_code_file_path=None):
-        is_valid = False
+        is_valid = True
         error_details = []
         error_lines = []
         stuck_error_line = None
@@ -68,6 +68,7 @@ class Isabelle:
                     message, line = error['message'], error['pos']['line']
                     error_details.append(f'Error on line {line}: {message}')
                     error_lines.append(line)
+                    is_valid = False
             elif percentage != 100:
                 if proof_code_file_path is not None:
                     proof_line_number = None
@@ -88,11 +89,11 @@ class Isabelle:
                             stuck_error_line = proof_line_number + number
                         else:
                             stuck_error_line = 0
+                        is_valid = False
 
                 if percentage == 0:
                     error_details = ['Not processed']
-            else:
-                is_valid = True
+                    is_valid = False
 
             for node in response_body.get('nodes', []):
                 for message in node.get('messages', []):
@@ -103,6 +104,7 @@ class Isabelle:
                         is_valid = False
         else:
             print('Wrong theory name')
+            is_valid = False
         return is_valid, error_lines, error_details, stuck_error_line
 
     def shutdown(self):
