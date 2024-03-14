@@ -41,11 +41,13 @@ if __name__ == '__main__':
     ref_texts = []
     can_texts = []
     imports = []
+    statements = []
     for key in ref_json.keys():
         nl_texts.append(preprocess_metric_input(ref_json[key]['text']))
         ref_texts.append(preprocess_metric_input(ref_json[key]['statement']))
         can_texts.append(preprocess_metric_input(can_json[key]['statement']))
         imports.append(ref_json[key]['imports'] + [ref_json[key]['source'][:-4].replace('/', '.')])
+        statements.append(can_json[key]['statement'])
 
     score_dic = {}
     for metric in args.metrics:
@@ -60,7 +62,7 @@ if __name__ == '__main__':
                                               keys=ref_json.keys(),
                                               imports=imports,
                                               texts=nl_texts,
-                                              statements=can_texts))
+                                              statements=statements))
             checker.checker.shutdown()
         else:
             score_dic.update(metric_class[metric].evaluate(ref_texts, can_texts))
