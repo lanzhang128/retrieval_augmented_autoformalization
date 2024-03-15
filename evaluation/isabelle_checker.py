@@ -1,14 +1,25 @@
 import os
 from tqdm import tqdm
 from isabelle import Isabelle, write_to_thy_file, write_error_to_file
+import signal
+
+
+def handler(signum, frame):
+    raise Exception('Isabelle response timed out at: ')
 
 
 class IsabelleChecker:
     def __init__(self,
                  session_name='IsarMathLib',
                  server_log_file='server.log',
-                 isabelle_dirs=None):
-        self.checker = Isabelle(session_name=session_name, log_file=server_log_file, dirs=isabelle_dirs)
+                 isabelle_dirs=None,
+                 watchdog_timeout=60,
+                 timeout=120):
+        self.checker = Isabelle(session_name=session_name,
+                                log_file=server_log_file,
+                                dirs=isabelle_dirs,
+                                watchdog_timeout=watchdog_timeout)
+        self.timeout = timeout
 
     def evaluate(self, files_dir, keys, imports, texts, statements):
         if not os.path.exists(files_dir):
@@ -21,7 +32,17 @@ class IsabelleChecker:
         for key, import_thy, text, statement in zip(tqdm(keys), imports, texts, statements):
             thy_file_path = os.path.join(files_dir, f'test_{key}.thy')
             write_to_thy_file(thy_file_path, f'test_{key}', import_thy, text, statement)
-            response, inference_time = self.checker.get_response(theories=[f'test_{key}'], master_dir=files_dir)
+
+            signal.signal(signal.SIGALRM, handler)
+            signal.alarm(self.timeout)
+
+            try:
+                response, inference_time = self.checker.get_response(theories=[f'test_{key}'], master_dir=files_dir)
+                signal.alarm(0)
+            except Exception as e:
+                print(e, end=f'test_{key}.thy\n')
+                response, inference_time = [], self.timeout
+
             is_valid, error_lines, error_details, _ = self.checker.check_error(isabelle_response=response)
             error_log_path = os.path.join(files_dir, f'test_{key}.error.log')
             write_error_to_file(error_log_path, is_valid, error_lines, error_details, inference_time)

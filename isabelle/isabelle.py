@@ -12,7 +12,7 @@ class Isabelle:
                  dirs=None,
                  verbose=True,
                  options=None,
-                 timeout=60):
+                 watchdog_timeout=60):
         self.isabelle_name = isabelle_name
         self.port = port
         self.log_file = log_file
@@ -20,7 +20,7 @@ class Isabelle:
         self.dirs = dirs if dirs is not None else ['./Isabelle2023']
         self.verbose = verbose
         self.options = options if options is not None else []
-        self.timeout = timeout
+        self.watchdog_timeout = watchdog_timeout
         self._init_client()
         self._init_session()
 
@@ -42,7 +42,7 @@ class Isabelle:
         isabelle_response = self.isabelle.use_theories(session_id=self.session_id,
                                                        theories=theories,
                                                        master_dir=master_dir,
-                                                       watchdog_timeout=self.timeout)
+                                                       watchdog_timeout=self.watchdog_timeout)
         inference_time = time.time() - start_time
         return isabelle_response, inference_time
 
