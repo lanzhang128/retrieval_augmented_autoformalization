@@ -111,3 +111,7 @@ class Isabelle:
         self.isabelle.session_stop(session_id=self.session_id)
         self.isabelle.shutdown()
         print('Isabelle session is shut down.')
+
+    def restart(self):
+        self._init_client()
+        self._init_session()

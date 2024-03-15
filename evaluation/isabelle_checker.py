@@ -42,6 +42,8 @@ class IsabelleChecker:
             except Exception as e:
                 print(e, end=f'test_{key}.thy\n')
                 response, inference_time = [], self.timeout
+                self.checker.shutdown()
+                self.checker.restart()
 
             is_valid, error_lines, error_details, _ = self.checker.check_error(isabelle_response=response)
             error_log_path = os.path.join(files_dir, f'test_{key}.error.log')
