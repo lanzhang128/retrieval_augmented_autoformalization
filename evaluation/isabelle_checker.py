@@ -31,24 +31,33 @@ class IsabelleChecker:
         pass_count = 0
         for key, import_thy, text, statement in zip(tqdm(keys), imports, texts, statements):
             thy_file_path = os.path.join(files_dir, f'test_{key}.thy')
+            error_log_path = os.path.join(files_dir, f'test_{key}.error.log')
             write_to_thy_file(thy_file_path, f'test_{key}', import_thy, text, statement)
 
-            signal.signal(signal.SIGALRM, handler)
-            signal.alarm(self.timeout)
+            if os.path.exists(error_log_path):
+                with open(error_log_path, 'r') as f:
+                    is_valid = f.readlines()[0].split()[-1]
+                is_valid = True if is_valid == 'True' else False
 
-            try:
-                response, inference_time = self.checker.get_response(theories=[f'test_{key}'], master_dir=files_dir)
-                signal.alarm(0)
-            except Exception as e:
-                print(e, end=f'test_{key}.thy\n')
-                response, inference_time = [], self.timeout
-                self.checker.shutdown()
-                self.checker.restart()
+            else:
+                write_to_thy_file(thy_file_path, f'test_{key}', import_thy, text, statement)
+                signal.signal(signal.SIGALRM, handler)
+                signal.alarm(self.timeout)
 
-            is_valid, error_lines, error_details, _ = self.checker.check_error(isabelle_response=response)
-            error_log_path = os.path.join(files_dir, f'test_{key}.error.log')
-            write_error_to_file(error_log_path, is_valid, error_lines, error_details, inference_time)
+                try:
+                    response, inference_time = self.checker.get_response(theories=[f'test_{key}'], master_dir=files_dir)
+                    signal.alarm(0)
+                except Exception as e:
+                    print(e, end=f'test_{key}.thy\n')
+                    response, inference_time = [], self.timeout
+                    self.checker.shutdown()
+                    self.checker.restart()
+
+                is_valid, error_lines, error_details, _ = self.checker.check_error(isabelle_response=response)
+
+                write_error_to_file(error_log_path, is_valid, error_lines, error_details, inference_time)
+
             count += 1
             if is_valid:
                 pass_count += 1
-        return {'Pass': pass_count / count}
+        return {'Pass Count': pass_count, 'Pass Rate': pass_count / count}
