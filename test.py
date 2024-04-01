@@ -15,6 +15,7 @@ if __name__ == '__main__':
                         help='json file that stores results')
     parser.add_argument('--metrics', nargs='+', default=['BLEU', 'ChrF', 'RUBY', 'Pass', 'CodeBERTScore'],
                         help='metrics to evaluate results')
+    parser.add_argument('--no_post', action='store_true', help='no postprocessing')
     args = parser.parse_args()
 
     metric_class = {
@@ -26,16 +27,20 @@ if __name__ == '__main__':
     with open(args.ref_json, 'r', encoding='utf-8') as f:
         ref_json = json.load(f)
 
-    if os.path.exists(args.result_json[:-4]+'post.json'):
-        with open(args.result_json[:-4]+'post.json', 'r', encoding='utf-8') as f:
-            can_json = json.load(f)
-    else:
+    if args.no_post:
         with open(args.result_json, 'r', encoding='utf-8') as f:
             can_json = json.load(f)
-        for key in can_json.keys():
-            can_json[key]['statement'] = postprocess_model_output(can_json[key]['statement'])
-        with open(args.result_json[:-4]+'post.json', 'w', encoding='utf-8') as f:
-            json.dump(can_json, f, ensure_ascii=False, indent=4)
+    else:
+        if os.path.exists(args.result_json[:-4]+'post.json'):
+            with open(args.result_json[:-4]+'post.json', 'r', encoding='utf-8') as f:
+                can_json = json.load(f)
+        else:
+            with open(args.result_json, 'r', encoding='utf-8') as f:
+                can_json = json.load(f)
+            for key in can_json.keys():
+                can_json[key]['statement'] = postprocess_model_output(can_json[key]['statement'])
+            with open(args.result_json[:-4]+'post.json', 'w', encoding='utf-8') as f:
+                json.dump(can_json, f, ensure_ascii=False, indent=4)
 
     nl_texts = []
     ref_texts = []
