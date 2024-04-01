@@ -61,7 +61,7 @@ if __name__ == '__main__':
             score_dic.update(CodeBERTScore().evaluate(ref_texts, can_texts, nl_texts))
         elif metric == 'Pass':
             checker = IsabelleChecker(session_name='IsarMathLib',
-                                      server_log_file=args.result_json[:-4] + '.log',
+                                      server_log_file=args.result_json[:-4] + 'log',
                                       isabelle_dirs=['../Isabelle2023'])
             score_dic.update(checker.evaluate(files_dir=args.result_json[:-5],
                                               keys=ref_json.keys(),

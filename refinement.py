@@ -9,7 +9,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Autoformalization with LLMs')
     parser.add_argument('--model_name', default='mistral',
                         help='name of the LLM')
-    parser.add_argument('--round', type=int, default='1.1',
+    parser.add_argument('--round', default='1.1',
                         help='round indicator:\n0 zero-shot\n1 3-shot\n2 retrieved prompt')
     parser.add_argument('--result_json', default='results/mistral_t_0_1.1.json',
                         help='json file to store results')
