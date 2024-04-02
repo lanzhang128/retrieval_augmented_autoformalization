@@ -23,11 +23,8 @@ if __name__ == '__main__':
     with open(args.test_json, 'r', encoding='utf-8') as f:
         json_dic = json.load(f)
 
-    if mode == '1.1':
-        with open('prompts/round1.1.json', 'r', encoding='utf-8') as f:
-            prompt = json.load(f)
-    else:
-        raise ValueError(f'round {mode} is not supported.')
+    with open(f'prompts/round_{mode}.json', 'r', encoding='utf-8') as f:
+        prompt = json.load(f)
 
     result_dic = {}
     if model_name == 'mistral' or model_name == 'mixtral' or model_name == 'llemma-7B' or model_name == 'llemma-34B':
@@ -52,8 +49,7 @@ if __name__ == '__main__':
             statement = json_dic[key]['statement']
 
             messages = []
-            if mode == '1.1':
-                messages.append({'role': 'user', 'content': prompt['user'].replace('{isabelle_code}', statement)})
+            messages.append({'role': 'user', 'content': prompt['user'].replace('{isabelle_code}', statement)})
 
             encodeds = tokenizer.apply_chat_template(messages, return_tensors='pt')
             model_inputs = encodeds.to('cuda')
