@@ -1,8 +1,10 @@
 import json
 import argparse
+import os.path
 import torch
 import time
 from transformers import AutoModelForCausalLM, AutoTokenizer
+from isabelle.file_handler import parse_error_file
 
 
 if __name__ == '__main__':
@@ -48,20 +50,30 @@ if __name__ == '__main__':
             text = json_dic[key]['text']
             statement = json_dic[key]['statement']
 
-            messages = []
-            messages.append({'role': 'user', 'content': prompt['user'].replace('{isabelle_code}', statement)})
+            thy_file_path = os.path.join(args.result_json[:-5], f'test_{key}.thy')
+            error_log_path = os.path.join(args.result_json[:-5], f'test_{key}.error.log')
+            validity, syntax_error = parse_error_file(error_log_path, thy_file_path)
 
-            encodeds = tokenizer.apply_chat_template(messages, return_tensors='pt')
-            model_inputs = encodeds.to('cuda')
-            generated_ids = model.generate(model_inputs, max_new_tokens=1000,
-                                           do_sample=False, pad_token_id=tokenizer.eos_token_id)
-            decoded = tokenizer.batch_decode(generated_ids)
+            if mode == 'refine' and validity:
+                refined_code = statement
+            else:
+                messages = []
+                content = prompt['user'].replace('{text}', text)
+                content = content.replace('{isabelle_code}', statement)
+                content = content.replace('{syntax_error}', syntax_error)
+                messages.append({'role': 'user', 'content': content})
 
-            refined_code = decoded[0]
-            template = tokenizer.batch_decode(encodeds)[0]
-            refined_code = refined_code[refined_code.find(template) + len(template):]
-            if refined_code[-4:] == '</s>':
-                refined_code = refined_code[:-4]
+                encodeds = tokenizer.apply_chat_template(messages, return_tensors='pt')
+                model_inputs = encodeds.to('cuda')
+                generated_ids = model.generate(model_inputs, max_new_tokens=1000,
+                                               do_sample=False, pad_token_id=tokenizer.eos_token_id)
+                decoded = tokenizer.batch_decode(generated_ids)
+
+                refined_code = decoded[0]
+                template = tokenizer.batch_decode(encodeds)[0]
+                refined_code = refined_code[refined_code.find(template) + len(template):]
+                if refined_code[-4:] == '</s>':
+                    refined_code = refined_code[:-4]
 
             result_dic[key] = {'text': text, 'statement': refined_code}
 
