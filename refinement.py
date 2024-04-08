@@ -17,6 +17,10 @@ if __name__ == '__main__':
                         help='json file to store results')
     parser.add_argument('--test_json', default='results/mistral_t_auto_0.json',
                         help='json file containing test data')
+    parser.add_argument('--shot_json', default='data/IsarMathLib/3-shot.json',
+                        help='json file containing few-shot data')
+    parser.add_argument('--retrieval_folder', default='results/BM25_retrieval_t',
+                        help='retrieval results folder')
     args = parser.parse_args()
 
     model_name = args.model_name
@@ -49,20 +53,35 @@ if __name__ == '__main__':
         for key in json_dic.keys():
             text = json_dic[key]['text']
             statement = json_dic[key]['statement']
+            content = prompt['user'].replace('{text}', text)
+            content = content.replace('{isabelle_code}', statement)
+
+            examples_fix = ''
+            if '{examples_fix}' in prompt['user']:
+                with open(args.shot_json, 'r', encoding='utf-8') as f:
+                    temp_dic = json.load(f)
+                for i in temp_dic.keys():
+                    examples_fix += temp_dic[i]['statement'] + '\n'
+            content = content.replace('{examples_fix}', examples_fix)
+
+            examples_ret = ''
+            if '{examples_ret}' in prompt['user']:
+                with open(f'{args.retrieval_folder}/{key}.json', 'r', encoding='utf-8') as f:
+                    temp_dic = json.load(f)
+                for i in temp_dic.keys():
+                    examples_ret += temp_dic[i]['statement'] + '\n'
+            content = content.replace('{examples_ret}', examples_ret)
 
             thy_file_path = os.path.join(args.result_json[:-5], f'test_{key}.thy')
             error_log_path = os.path.join(args.result_json[:-5], f'test_{key}.error.log')
             validity, syntax_error = parse_error_file(error_log_path, thy_file_path)
+            content = content.replace('{syntax_error}', syntax_error)
 
             if mode == 'refine' and validity:
                 refined_code = statement
             else:
                 messages = []
-                content = prompt['user'].replace('{text}', text)
-                content = content.replace('{isabelle_code}', statement)
-                content = content.replace('{syntax_error}', syntax_error)
                 messages.append({'role': 'user', 'content': content})
-
                 encodeds = tokenizer.apply_chat_template(messages, return_tensors='pt')
                 model_inputs = encodeds.to('cuda')
                 generated_ids = model.generate(model_inputs, max_new_tokens=1000,
