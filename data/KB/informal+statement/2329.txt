@@ -1,0 +1,1 @@
+{"informal": " If function `f` of argument `A` is not equal to zero, then `A` is not equal to zero.", "statement": "lemma func1_1_L13: assumes A1:\"f-``(A) \\<noteq> 0\" shows \"A\\<noteq>0\"\n  "}

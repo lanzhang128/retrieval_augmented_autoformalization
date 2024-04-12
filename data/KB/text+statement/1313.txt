@@ -1,0 +1,1 @@
+{"text": "text\\<open> $|a^{-1}|\\leq |a|$.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_3_L7:\n  assumes \"r {is total on} G\" and \"a\\<in>G\"\n  shows \"\\<bar>a\\<inverse>\\<bar>\\<lsq>\\<bar>a\\<bar>\"\n  "}

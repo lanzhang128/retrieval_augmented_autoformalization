@@ -1,0 +1,1 @@
+{"text": "text\\<open>Given a family of subsets satisfying the base condition,\n  it is possible to construct a topology where that family is a base of. Even more,\n  it is the only topology with such characteristics.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>$|a|\\leq L$ implies $L^{-1} \\leq a$\n  (it would be $-L \\leq a$ in the additive notation).\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_3_L8:\n  assumes A1:  \"a\\<in>G\" and A2: \"\\<bar>a\\<bar>\\<lsq>L\"\n   shows \n  \"L\\<inverse>\\<lsq>a\"\n"}

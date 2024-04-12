@@ -1,0 +1,1 @@
+{"text": "text\\<open>Linear order is a lattice.\\<close>\n", "informal": " If relation r is a subset of L x L and L ordered by r forms a linear order, then r is a lattice on L.", "statement": "lemma lin_is_latt: assumes \"r\\<subseteq>L\\<times>L\" and \"IsLinOrder(L,r)\"\n  shows \"r {is a lattice on} L\"\n"}

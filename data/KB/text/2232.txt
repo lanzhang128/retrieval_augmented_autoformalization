@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $\\Theta$ are uniform covers of $X$ then we can recover $X$ from $\\Theta$ by taking \n  $\\bigcup\\bigcup \\Theta$. \\<close>\n"}

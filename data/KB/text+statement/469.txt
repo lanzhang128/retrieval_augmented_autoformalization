@@ -1,0 +1,1 @@
+{"text": "text\\<open> A simple rearrangement following from associativity of the product of sets operation.\\<close>\n", "statement": "lemma (in group4) interval_prod_rearr1: assumes \"A\\<subseteq>G\" \"B\\<subseteq>G\" \"C\\<subseteq>G\" \"D\\<subseteq>G\"\n  shows \"A\\<sdot>B\\<sdot>(C\\<sdot>D) = A\\<sdot>(B\\<sdot>C)\\<sdot>D\"\n"}

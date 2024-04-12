@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can replace factors on one side of an inequality \n  with greater ones.\\<close>\n"}

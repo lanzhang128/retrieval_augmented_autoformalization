@@ -1,0 +1,1 @@
+{"text": "text\\<open>The lemma: a collection closed with respect to taking a union of two sets \n  is closed under taking finite unions.\\<close>\n"}

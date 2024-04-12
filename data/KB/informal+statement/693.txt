@@ -1,0 +1,1 @@
+{"informal": " If a and b are integers, and a and b are not zero, then the product of a and b is not zero.", "statement": "lemma (in int0) Int_ZF_1_3_L8: \n  assumes \"a\\<in>\\<int>\"  \"b\\<in>\\<int>\" \n  and \"\\<not>(a\\<lsq>\\<zero>)\"  \"\\<not>(b\\<lsq>\\<zero>)\"\n  shows \"\\<not>((a\\<cdot>b) \\<lsq> \\<zero>)\"\n  "}

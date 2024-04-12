@@ -1,0 +1,1 @@
+{"text": "text\\<open>Taking negative preserves interior.\\<close>\n", "statement": "lemma (in topgroup) int_inv_inv_int: assumes \"A \\<subseteq> G\" \n  shows \"int(\\<sm>A) = \\<sm>(int(A))\"\n  "}

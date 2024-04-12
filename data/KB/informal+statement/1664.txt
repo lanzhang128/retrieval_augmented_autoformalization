@@ -1,0 +1,1 @@
+{"informal": " In the ring0 context, if zero is an element of a relation pR, then pR is a prime ring.", "statement": "lemma (in ring0) zero_prime_ideal_prime_ring:\n  assumes \"{\\<zero>}\\<triangleleft>\\<^sub>pR\"\n  shows \"[R,A,M]{is a prime ring}\"\n"}

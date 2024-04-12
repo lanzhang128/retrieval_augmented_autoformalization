@@ -1,0 +1,1 @@
+{"text": "text\\<open> We can cancel the right element on both sides of an equation. \\<close>\n"}

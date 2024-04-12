@@ -1,0 +1,1 @@
+{"text": "text\\<open>In fact, $T_2$-spaces are characterized by this property. For this proof we build\na filter containing the union of two filters.\\<close>\n"}

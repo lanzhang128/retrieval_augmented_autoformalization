@@ -1,0 +1,1 @@
+{"text": "text\\<open>If for every integer we can find one in $A$ that is greater or equal,\n  then $A$ is is not bounded above, hence infinite.\\<close>\n"}

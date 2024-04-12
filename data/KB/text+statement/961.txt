@@ -1,0 +1,1 @@
+{"text": "text\\<open>Right and left inverses have desired properties.\\<close>\n", "statement": "lemma (in loop0) lr_inv_props: assumes \"x\\<in>G\"\n  shows \n    \"LeftInv(G,A)`(x) \\<in> G\" \"(LeftInv(G,A)`(x))\\<cdot>x = \\<one>\" \n    \"RightInv(G,A)`(x) \\<in> G\" \"x\\<cdot>(RightInv(G,A)`(x)) = \\<one>\"\n"}

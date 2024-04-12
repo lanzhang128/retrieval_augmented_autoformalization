@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma rephrases \\<open> Int_ZF_2_3_L10\\<close> in the notation\n  used in \\<open>real1\\<close> context.\\<close>\n"}

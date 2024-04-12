@@ -1,0 +1,1 @@
+{"text": "text\\<open>Negative of zero is zero.\\<close>\n", "statement": "lemma (in int0) int_zero_one_are_intA: shows \"(\\<rm>\\<zero>) = \\<zero>\"\n  "}

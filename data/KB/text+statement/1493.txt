@@ -1,0 +1,1 @@
+{"text": "text\\<open>Subtracting real numbers correspods to adding the opposite slope.\\<close>\n", "statement": "lemma (in real1) Real_ZF_1_1_L4B: assumes A1: \"f \\<in> \\<S>\"  \"g \\<in> \\<S>\"\n  shows \"[f] \\<rs> [g] = [f\\<fp>(\\<fm>g)]\"\n"}

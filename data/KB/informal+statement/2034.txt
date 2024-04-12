@@ -1,0 +1,1 @@
+{"informal": " In the given topology, if function f is surjective for the union of a family T of sets onto the set Y, then the quotient topology on Y by f is a topology.", "statement": "theorem (in topology0) quotientTop_is_top:\n  assumes \"f\\<in>surj(\\<Union>T,Y)\"\n  shows \"({quotient topology in} Y {by} f) {is a topology}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a space can be \\<open>P(T)\\<and>Q(T)\\<close> only in case the underlying set is in the\nspectrum of \\<open>P\\<close>; then \\<open>Q(T)\\<longrightarrow>ANTI(P,T)\\<close> when \\<open>Q\\<close> is hereditary.\\<close>\n"}

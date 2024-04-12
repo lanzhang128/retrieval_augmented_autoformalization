@@ -1,0 +1,1 @@
+{"text": "text\\<open>The endomorphisms of an abelian group is in fact a ring with the previous\n  operations.\\<close>\n"}

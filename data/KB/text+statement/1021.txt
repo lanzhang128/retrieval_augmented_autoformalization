@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a sum of two elements is not zero, \n  then at least one has to be nonzero.\\<close>\n", "statement": "lemma (in monoid0) sum_nonzero_elmnt_nonzero: \n  assumes \"a \\<oplus> b \\<noteq> TheNeutralElement(G,f)\"\n  shows \"a \\<noteq> TheNeutralElement(G,f) \\<or> b \\<noteq> TheNeutralElement(G,f)\"\n  "}

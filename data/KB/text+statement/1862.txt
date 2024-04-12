@@ -1,0 +1,1 @@
+{"text": "text\\<open>The product of $T_1$ spaces is $T_1$.\\<close>\n", "statement": "theorem T1_product:\n  assumes \"T{is a topology}\"\"S{is a topology}\"\"T{is T\\<^sub>1}\"\"S{is T\\<^sub>1}\"\n  shows \"ProductTopology(T,S){is T\\<^sub>1}\"\n"}

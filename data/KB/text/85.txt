@@ -1,0 +1,1 @@
+{"text": "text\\<open>The property of the strict order on complex reals\n  that corresponds to completeness.\\<close>\n"}

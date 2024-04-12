@@ -1,0 +1,1 @@
+{"informal": " Assuming relation `r` on set `A`, ifreflexive relation `A` holds for all elements of `A` and set `C` is an element of the equivalence class of some element in `A` relative to `r`, then `C` is not the empty set.", "statement": "lemma EquivClass_1_L5: \n  assumes A1: \"refl(A,r)\" and A2: \"C \\<in> A//r\"\n  shows \"C\\<noteq>0\"\n"}

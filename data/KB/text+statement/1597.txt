@@ -1,0 +1,1 @@
+{"text": "text\\<open>We say that a relation $r$  \\<open>down-directs\\<close> a set $R$ if every two-element subset\n  of $R$ has a lower bound. The next lemma states that the natural order relation on real numbers\n  down-directs the set of positive reals. \\<close>\n", "statement": "lemma (in reals) rord_down_directs: shows \"ROrd {down-directs} \\<real>\\<^sub>+\" \n  "}

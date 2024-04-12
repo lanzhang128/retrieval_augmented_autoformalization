@@ -1,0 +1,1 @@
+{"text": "text\\<open>Right rays are infinite.\\<close>\n", "statement": "theorem dense_order_inf_rrays:\n  assumes \"IsLinOrder(X,r)\" \"RightRayX(X,r,b)\\<noteq>0\"\"b\\<in>X\"  \"X{is dense with respect to}r\"\n  shows \"\\<not>Finite(RightRayX(X,r,b))\"\n"}

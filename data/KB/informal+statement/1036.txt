@@ -1,0 +1,1 @@
+{"informal": " The statement \"nat \u2286 int\\_obj\" in natural language:\n\nNatural numbers are a subset of integer objects.", "statement": "lemma \"nat \\<subseteq> int_obj\" "}

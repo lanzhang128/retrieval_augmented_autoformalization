@@ -1,0 +1,1 @@
+{"text": "text\\<open>A square is nonnegative.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>This can be done by the auto method, but sometimes takes a long time. \\<close>\n", "statement": "lemma witness_exists: assumes \"x\\<in>X\" and \"\\<phi>(x)\" shows \"\\<exists>x\\<in>X. \\<phi>(x)\"\n  "}

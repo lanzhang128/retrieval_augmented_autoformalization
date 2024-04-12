@@ -1,0 +1,1 @@
+{"informal": " A binary relation r on a set X is a part ordering if and only if it is reflexive, antisymmetric, and transitive.", "statement": "definition\n  \"IsPartOrder(X,r) \\<equiv> refl(X,r) \\<and> antisym(r) \\<and> trans(r)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A dual base for closed sets is the collection of complements\nof sets of a base for the topology.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a difference between a set and a singleton is the set, \n  then the only element of the singleton is not in the set.\\<close>\n", "statement": "lemma singl_diff_eq: assumes A1: \"A - {x} = A\"\n  shows \"x \\<notin> A\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a difference between a set and a singleton is empty, then\n  the set is empty or it is equal to the singleton.\\<close>\n"}

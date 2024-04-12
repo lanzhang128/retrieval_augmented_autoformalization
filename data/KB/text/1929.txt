@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $U$ is open in $X^n$ and $V$ is open in $X$, then $U\\times V$ is open in $X^{n+1}$. \nThe next lemma is an analogue of this fact for the function space approach.\\<close>\n"}

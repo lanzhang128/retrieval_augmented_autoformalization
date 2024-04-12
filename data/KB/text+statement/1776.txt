@@ -1,0 +1,1 @@
+{"text": "text\\<open>Let's recall first that the sum of elements of a group is an element of the group.\\<close>\n", "statement": "lemma (in topgroup) sum_list_in_group:\n  assumes \"n \\<in> nat\" and \"x: succ(n)\\<rightarrow>G\"\n  shows \"(\\<Sum>x) \\<in> G\"\n"}

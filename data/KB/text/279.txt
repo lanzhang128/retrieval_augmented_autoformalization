@@ -1,0 +1,1 @@
+{"text": "text\\<open>The non-determinism is introduced by allowing\nthe transition function to return not just a state,\nbut more than one or even none.\\<close>\n"}

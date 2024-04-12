@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse of an element of \\<open>G\\<^sub>+\\<close> cannot be in \\<open>G\\<^sub>+\\<close>.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L20:\n  assumes A1: \"r {is total on} G\" and A2: \"a \\<in> G\\<^sub>+\" \n  shows \"a\\<inverse> \\<notin> G\\<^sub>+\"\n"}

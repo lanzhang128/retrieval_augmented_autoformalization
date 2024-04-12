@@ -1,0 +1,1 @@
+{"text": "text\\<open>The sum of a list of monoid elements is a monoid element.\\<close>\n", "statement": "lemma (in monoid1) sum_in_mono: assumes \"n\\<in>nat\" \"\\<forall>k\\<in>n. q(k)\\<in>G\"\n  shows \"(\\<Sum>{\\<langle>k,q(k)\\<rangle>. k\\<in>n}) \\<in> G\"\n"}

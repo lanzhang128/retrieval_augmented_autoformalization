@@ -1,0 +1,1 @@
+{"informal": " For all natural numbers n, if n is an element of the natural numbers, then the relation Le (less-than or equal) is a linear order on n.", "statement": "lemma natord_lin_on_each_nat: \n  assumes A1: \"n \\<in> nat\" shows \"IsLinOrder(n,Le)\"\n"}

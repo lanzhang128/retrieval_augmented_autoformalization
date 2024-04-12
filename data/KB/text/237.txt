@@ -1,0 +1,1 @@
+{"text": "text\\<open>Appending an element is the same as concatenating\n  with certain pair.\\<close>\n"}

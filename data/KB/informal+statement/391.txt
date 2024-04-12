@@ -1,0 +1,1 @@
+{"informal": " In the group0 theory, P-{<one>} equals the inverse of P with respect to the group G.", "statement": "theorem (in group0) group0_2_T3: shows \"P-``{\\<one>} = GroupInv(G,P)\"\n"}

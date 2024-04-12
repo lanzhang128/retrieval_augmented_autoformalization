@@ -1,0 +1,1 @@
+{"text": "text\\<open>Direct product of associative operations is associative.\\<close>\n", "statement": "lemma (in direct0) DirectProduct_ZF_2_L2:\n  assumes \"P {is associative on} G\" and \"Q {is associative on} H\"\n  shows \"R {is associative on} G\\<times>H\"\n"}

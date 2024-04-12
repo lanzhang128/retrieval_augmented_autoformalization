@@ -1,0 +1,1 @@
+{"informal": " Given a topology T, the neighborhood system of T is a neighborhood system on the union of all sets in T.", "statement": "theorem neigh_from_topology:\n  assumes \"T {is a topology}\"\n  shows \"({neighborhood system of} T) {is a neighborhood system on} (\\<Union>T)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A set comprehension form of the image of a set under the group inverse. \\<close>\n", "statement": "lemma (in group0) ginv_image: assumes \"V\\<subseteq>G\" \n  shows \"GroupInv(G,P)``(V) \\<subseteq> G\" and \"GroupInv(G,P)``(V) = {g\\<inverse>. g \\<in> V}\"  \n"}

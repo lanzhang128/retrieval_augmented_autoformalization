@@ -1,0 +1,1 @@
+{"text": "text\\<open>The sum of finitely supported functions is \n  finitely supported.\\<close>\n"}

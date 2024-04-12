@@ -1,0 +1,1 @@
+{"informal": " If H is a natural number, then the negation of its neighbor is also a neighbor of H in the set of natural numbers.", "statement": "lemma (in topgroup) neg_neigh_neigh: assumes \"H \\<in> \\<N>\\<^sub>0\"\n  shows \"(\\<sm>H) \\<in> \\<N>\\<^sub>0\"\n"}

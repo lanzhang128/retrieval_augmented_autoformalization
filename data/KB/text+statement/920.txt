@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another induction on integers. This rewrites Int\\_ZF\\_3\\_L7\n  substituting $-k$ for $k$ and $-i$ for $i$.\\<close>\n", "statement": "lemma (in int0) Int_ZF_3_L8: assumes A1: \"k\\<lsq>i\" and A2: \"P(i)\" \n  and A3: \"\\<forall>m. $-i\\<lsq>m \\<and> P($-m) \\<longrightarrow> P($-(m $+ ($# 1)))\"\n  shows \"P(k)\"\n"}

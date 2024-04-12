@@ -1,0 +1,1 @@
+{"text": "text\\<open>The negative of an integer embeds in slopes as a negative of the \n  orgiginal embedding.\\<close>\n"}

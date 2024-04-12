@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can use theorems proven in the \\<open>monoid0\\<close> context.\\<close>\n", "informal": " In the theory of finsupports, it is proved that a given pair (M, A) satisfies the monoid zero property.", "statement": "lemma (in finsupp) monoid0_valid: shows \"monoid0(M,A)\"\n  "}

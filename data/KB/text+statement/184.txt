@@ -1,0 +1,1 @@
+{"text": "text\\<open>Next is a restatement of the above lemma that \n  does not depend on the IntPr meta-function.\\<close>\n", "statement": "lemma Finite1_L5: \n  assumes A1: \"\\<forall>A B. ((A\\<in>T \\<and> B\\<in>T) \\<longrightarrow> A\\<inter>B\\<in>T)\" \n  and A2: \"N\\<noteq>0\" and A3: \"N\\<in>Fin(T)\"\n  shows \"\\<Inter>N \\<in> T\"\n"}

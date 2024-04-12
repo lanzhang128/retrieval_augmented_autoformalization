@@ -1,0 +1,1 @@
+{"informal": " If sets A and T are subsets of X, then the closure of A using the included set relationship with X and T is equal to A if and only if A and T have no intersection, otherwise it is equal to X.", "statement": "lemma closure_set_includedset:\n  assumes \"A\\<subseteq>X\" \"T\\<subseteq>X\"\n  shows \"Closure(A,IncludedSet(X,T)) = (if T\\<inter>A=0 then A else X)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Continuity in filter at every point of the domain implies global continuity.\\<close>\n"}

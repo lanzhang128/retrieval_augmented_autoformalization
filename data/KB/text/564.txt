@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can project the monoid of almost homomorphisms with composition\n  to the group of almost homomorphisms divided by the subgroup of finite\n  range functions. The class of the identity function is the neutral element\n  of the quotient (monoid).\\<close>\n"}

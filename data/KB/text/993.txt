@@ -1,0 +1,1 @@
+{"text": "text\\<open> The next lemma shows the definition of the pseudometric in the notation used in the \n  \\<open>metric_space\\<close> context.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma combines \\<open>OrderedGroup_ZF_7_L2\\<close> and \n  \\<open>OrderedGroup_ZF_7_L3\\<close> to show that if an image of a set \n  defined by separation by a function with infinite limits is bounded,\n  then the set itself i bounded.\\<close>\n"}

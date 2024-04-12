@@ -1,0 +1,1 @@
+{"text": "text\\<open>The definition a a minimum (the smaller of) two elements.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A family of uniform covers contain the trivial cover $\\{ X\\}$.\\<close>\n", "informal": " Assuming a set of uniform covers, X is an element of that set.", "statement": "lemma unicov_contains_triv: assumes \"\\<Theta> {are uniform covers of} X\" \n  shows \"{X} \\<in> \\<Theta>\"\n"}

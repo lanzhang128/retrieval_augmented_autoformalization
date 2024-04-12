@@ -1,0 +1,1 @@
+{"text": "text\\<open>Taking the floor function preserves the order.\\<close>\n", "statement": "lemma (in real1) Real_ZF_1_4_L9: assumes A1: \"a\\<lsq>b\"\n  shows \"\\<lfloor>a\\<rfloor> \\<zlq> \\<lfloor>b\\<rfloor>\"\n"}

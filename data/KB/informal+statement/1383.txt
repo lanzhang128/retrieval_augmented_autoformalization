@@ -1,0 +1,1 @@
+{"informal": " Assuming \"a < b\" in the ring1, a and b belong to the set R.", "statement": "lemma (in  ring1) OrdRing_ZF_1_L3: assumes \"a\\<lsq>b\"\n  shows \"a\\<in>R\"  \"b\\<in>R\"\n  "}

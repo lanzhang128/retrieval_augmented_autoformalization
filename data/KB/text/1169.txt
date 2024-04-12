@@ -1,0 +1,1 @@
+{"text": "text\\<open>Infimum is greater or equal than any upper bound. \\<close>\n"}

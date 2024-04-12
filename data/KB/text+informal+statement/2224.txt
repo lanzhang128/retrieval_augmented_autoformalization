@@ -1,0 +1,1 @@
+{"text": "text\\<open>Star of a larger set is larger.\\<close>\n", "informal": " If U is a subset of V, then the reflexive-transitive closure of U (denoted as Star(U,P)) is a subset of the reflexive-transitive closure of V (Star(V,P)).", "statement": "lemma star_mono: assumes \"U\\<subseteq>V\" shows \"Star(U,P) \\<subseteq> Star(V,P)\"\n  "}

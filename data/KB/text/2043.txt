@@ -1,0 +1,1 @@
+{"text": "text\\<open>The quotient by an equivalence relation is indeed a topology. \\<close>\n"}

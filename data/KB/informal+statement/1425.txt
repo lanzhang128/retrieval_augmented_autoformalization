@@ -1,0 +1,1 @@
+{"informal": " In the ring \"ring1\", if zero is not equal to one and m is less than one, then the set {mx. x is an element of R} is not a finite set.", "statement": "lemma (in ring1) OrdRing_ZF_3_L6: assumes A1: \"\\<zero>\\<noteq>\\<one>\" and A2: \"m \\<lsq> \\<rm>\\<one>\"\n  shows \"{m\\<cdot>x. x\\<in>R} \\<notin> Fin(R)\"\n"}

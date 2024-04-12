@@ -1,0 +1,1 @@
+{"text": "text\\<open>A technical lemma needed to make the \\<open>func1_1_L11\\<close> \n  proof more clear.\\<close>\n", "statement": "lemma func1_1_L10: \n  assumes A1: \"f \\<subseteq> X\\<times>Y\" and A2: \"\\<exists>!y. (y\\<in>Y \\<and> \\<langle>x,y\\<rangle> \\<in> f)\"\n  shows \"\\<exists>!y. \\<langle>x,y\\<rangle> \\<in> f\"\n"}

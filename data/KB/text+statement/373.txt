@@ -1,0 +1,1 @@
+{"text": "text\\<open>\\<open>zf_move\\<close> is a function that maps \\<open>big\\<close> to \\<open>newbig\\<close>.\\<close>\n", "statement": "lemma (in generalization) zf_move_fun: shows \"zf_move: big\\<rightarrow>zf_newbig\"\n  "}

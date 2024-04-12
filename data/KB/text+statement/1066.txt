@@ -1,0 +1,1 @@
+{"text": "text\\<open>For non-zero natural numbers $\\textrm{pred}(n) = n-1$.\\<close>\n", "statement": "lemma pred_minus_one: assumes \"n\\<in>nat\" \"n\\<noteq>0\" \n  shows \"n #- 1 = pred(n)\"\n"}

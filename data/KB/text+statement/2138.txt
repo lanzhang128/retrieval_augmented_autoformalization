@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a subset is compact of some cardinal for a topological space, it is compact of the same cardinal\nin the subspace topology.\\<close>\n", "statement": "lemma compact_imp_compact_subspace:\n  assumes \"A{is compact of cardinal}K{in}T\" \"A\\<subseteq>B\"\n  shows \"A{is compact of cardinal}K{in}(T{restricted to}B)\" unfolding IsCompactOfCard_def\n"}

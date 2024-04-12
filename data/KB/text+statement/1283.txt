@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $b\\in$\\<open>G\\<^sub>+\\<close>, then $a < a\\cdot b$. \n  Multiplying $a$ by a positive elemnt increases $a$.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L22:\n  assumes A1: \"a\\<in>G\"  \"b\\<in>G\\<^sub>+\"\n  shows \"a\\<lsq>a\\<cdot>b\"  \"a \\<noteq> a\\<cdot>b\"  \"a\\<cdot>b \\<in> G\"\n"}

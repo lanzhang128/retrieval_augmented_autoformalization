@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $\\Phi$ is a uniformity on $X$ then every element of $\\Phi$ is a subset of $X\\times X$ \n  whose domain is $X$. \\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " Given a function `f` from set `X` to `Y` and a subset `A` of `X`, it holds that the image of `X` under `f` minus the image of `A` is a subset of the image of `X` minus `A`.", "statement": "lemma diff_image_diff: assumes A1: \"f: X\\<rightarrow>Y\" and A2: \"A\\<subseteq>X\"\n  shows \"f``(X) - f``(A) \\<subseteq> f``(X-A)\"\n"}

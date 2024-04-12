@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group is closed under the group operation. Used all the time,\n  useful to have handy.\\<close>\n", "statement": "lemma (in group0) group_op_closed: assumes \"a\\<in>G\"  \"b\\<in>G\"\n  shows \"a\\<cdot>b \\<in> G\" "}

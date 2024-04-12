@@ -1,0 +1,1 @@
+{"text": "text\\<open>Lifting to subsets inherits associativity. \n  To show that \n  $F\\langle \\langle A,B\\rangle C\\rangle = F\\langle A,F\\langle B,C\\rangle\\rangle$ \n  we prove two inclusions and the proof of the second inclusion is very similar\n  to the proof of the first one.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The carrier of the base and topology are the same.\\<close>\n"}

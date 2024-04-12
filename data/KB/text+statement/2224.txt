@@ -1,0 +1,1 @@
+{"text": "text\\<open>Star of a larger set is larger.\\<close>\n", "statement": "lemma star_mono: assumes \"U\\<subseteq>V\" shows \"Star(U,P) \\<subseteq> Star(V,P)\"\n  "}

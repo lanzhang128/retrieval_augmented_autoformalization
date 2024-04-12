@@ -1,0 +1,1 @@
+{"text": "text\\<open>A space is connected iff there is no clopen set other that the empty set\nand the total set.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open> The quasigroup operation is closed on $G$. \\<close>\n"}

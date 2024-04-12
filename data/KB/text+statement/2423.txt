@@ -1,0 +1,1 @@
+{"text": "text\\<open>What is the value of a composition on an argument?\\<close>\n", "statement": "lemma func_ZF_5_L3: assumes \"f:X\\<rightarrow>X\" and \"g:X\\<rightarrow>X\" and \"x\\<in>X\"\n  shows \"(Composition(X)`\\<langle>f,g\\<rangle>)`(x) = f`(g`(x))\"\n  "}

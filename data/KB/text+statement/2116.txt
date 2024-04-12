@@ -1,0 +1,1 @@
+{"text": "text\\<open>The first result states that from any family of sets\nwe get a base using finite intersections of them.\nThe second one states that any family of sets is a subbase\nof some topology.\\<close>\n", "statement": "theorem subset_as_subbase:\n  shows \"{\\<Inter>A. A \\<in> FinPow(B)} {satisfies the base condition}\"\n"}

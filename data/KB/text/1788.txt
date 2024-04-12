@@ -1,0 +1,1 @@
+{"text": "text\\<open>Any subgroup with non-empty interior is open.\\<close>\n"}

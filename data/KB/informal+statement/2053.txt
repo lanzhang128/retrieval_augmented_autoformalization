@@ -1,0 +1,1 @@
+{"informal": " The set of homeomorphisms from a set X with respect to a relation T is equal to the set of all bijective functions from X to X, whose image of X minus T is identical to X minus T.", "statement": "theorem homeo_excluded:\n  shows \"HomeoG(ExcludedSet(X,T))={f\\<in>bij(X,X). f``(X-T)=(X-T)}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the cardinal is taken as \\<open> T=1 \\<close> then the topology is indiscrete.\\<close>\n"}

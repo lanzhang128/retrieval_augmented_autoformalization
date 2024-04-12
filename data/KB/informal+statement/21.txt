@@ -1,0 +1,1 @@
+{"informal": " Given that set i is non-empty, i is either 0, or there exists a j such that set j is non-empty and i is the successor of j, or i is a limit ordinal.", "statement": "lemma Card_cases_disj: \n  assumes \"Card(i)\" \n  shows \"i=0 | (\\<exists>j. Card(j) \\<and> i=csucc(j)) | LimitC(i)\"\n"}

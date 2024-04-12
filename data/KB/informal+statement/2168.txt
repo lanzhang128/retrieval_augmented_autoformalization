@@ -1,0 +1,1 @@
+{"informal": " The set of natural numbers with the successor relation (csucc) is a countable and hyperconnected set.", "statement": "lemma cocountable_in_csucc_nat_HConn:\n  shows \"(CoCountable csucc(nat)){is hyperconnected}\"\n"}

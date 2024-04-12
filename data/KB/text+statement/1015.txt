@@ -1,0 +1,1 @@
+{"text": "text\\<open>The range of the monoid operation is the whole monoid carrier.\\<close>\n", "statement": "lemma (in monoid0) group0_1_L3B: shows \"range(f) = G\"\n"}

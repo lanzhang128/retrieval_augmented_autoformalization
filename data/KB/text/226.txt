@@ -1,0 +1,1 @@
+{"text": "text\\<open>A reformulation of definition of \\<open>Init\\<close>.\\<close>\n"}

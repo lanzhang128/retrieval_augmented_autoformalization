@@ -1,0 +1,1 @@
+{"text": "text\\<open>The preimage of an ideal is an ideal, so it applies to the\nquotient map; but the preimage ideal contains the quotient ideal.\\<close>\n"}

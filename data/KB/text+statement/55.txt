@@ -1,0 +1,1 @@
+{"text": "text\\<open>A product of complex numbers is complex.\\<close>\n", "statement": "lemma (in complex0) axmulcl: assumes \"a \\<in> \\<complex>\"  \"b \\<in> \\<complex>\"\n  shows  \"a\\<cdot>b \\<in> \\<complex>\"\n  "}

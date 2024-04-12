@@ -1,0 +1,1 @@
+{"informal": " In the group3 theory, assuming elements a and b exist: a is the inverse of b.", "statement": "lemma (in group3) OrderedGroup_ZF_1_L5AC:\n  assumes A1: \"\\<one>\\<lsq>a\"  \"\\<one>\\<lsq>b\"\n  shows \"a\\<inverse> \\<lsq> b\"\n"}

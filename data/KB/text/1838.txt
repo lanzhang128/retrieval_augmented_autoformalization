@@ -1,0 +1,1 @@
+{"text": "text\\<open>Elements of base are open.\\<close>\n"}

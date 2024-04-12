@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another natural operation on words is concatenation,\nhence we can defined the concatenated language as\nthe set of concatenations of words of one language \nwith words of another.\\<close>\n"}

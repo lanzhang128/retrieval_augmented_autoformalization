@@ -1,0 +1,1 @@
+{"text": "text\\<open>The first operation on homomorphisms acts in a natural way on its \n  operands.\\<close>\n"}

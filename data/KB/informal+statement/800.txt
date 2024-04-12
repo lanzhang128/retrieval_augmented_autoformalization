@@ -1,0 +1,1 @@
+{"informal": " Assuming that both functions f and g belong to a set S, we have that the composition of f and g is equivalent to the composition of g and f.", "statement": "theorem (in int1) Arthan_Th_9: assumes A1: \"f\\<in>\\<S>\"  \"g\\<in>\\<S>\"\n  shows \"f\\<circ>g \\<sim> g\\<circ>f\"\n"}

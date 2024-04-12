@@ -1,0 +1,1 @@
+{"text": "text\\<open>First order version of the induction for the finite powerset.\\<close>\n", "statement": "lemma Finite1_L16B: assumes A1: \"P(0)\" and A2: \"B\\<in>Fin(X)\"\n  and A3: \"\\<forall>A\\<in>Fin(X).\\<forall>x\\<in>X. x\\<notin>A \\<and> P(A)\\<longrightarrow>P(A\\<union>{x})\"\n  shows \"P(B)\"\n"}

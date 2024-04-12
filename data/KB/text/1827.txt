@@ -1,0 +1,1 @@
+{"text": "text\\<open>A topology on $X$ is $T_0$ if for every pair of distinct points of $X$\n  there is an open set that contains only one of them.\\<close>\n"}

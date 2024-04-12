@@ -1,0 +1,1 @@
+{"text": "text\\<open>The negative of an integer embeds in slopes as a negative of the \n  orgiginal embedding.\\<close>\n", "statement": "lemma (in int1) Int_ZF_2_5_L3: assumes A1:  \"m \\<in> \\<int>\"\n  shows \"(\\<rm>m)\\<^sup>S = \\<fm>(m\\<^sup>S)\"\n"}

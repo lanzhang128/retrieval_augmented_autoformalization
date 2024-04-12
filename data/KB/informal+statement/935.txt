@@ -1,0 +1,1 @@
+{"informal": " \"Two sets A and B are disjoint if and only if their intersection is the empty set.\"", "statement": "definition \n  AreDisjoint (infix \"{is disjoint with}\" 90) where\n  \"A {is disjoint with} B \\<equiv> A \\<inter> B = 0\"\n"}

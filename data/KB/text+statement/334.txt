@@ -1,0 +1,1 @@
+{"text": "text\\<open>A property of the \\<open>Exactly_1_of_3_holds\\<close> predicate.\\<close>\n", "statement": "lemma Fol1_L8A: assumes A1: \"Exactly_1_of_3_holds(p,q,r)\"\n  shows \"p \\<longleftrightarrow> \\<not>(q \\<or> r)\"\n"}

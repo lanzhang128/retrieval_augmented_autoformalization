@@ -1,0 +1,1 @@
+{"text": "text\\<open>The product of $T_0$ spaces is $T_0$.\\<close>\n", "statement": "theorem T0_product:\n  assumes \"T{is a topology}\"\"S{is a topology}\"\"T{is T\\<^sub>0}\"\"S{is T\\<^sub>0}\"\n  shows \"ProductTopology(T,S){is T\\<^sub>0}\"\n"}

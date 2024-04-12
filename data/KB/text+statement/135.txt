@@ -1,0 +1,1 @@
+{"text": "text\\<open>Fields do not have zero divisors.\\<close>\n", "statement": "lemma (in field0) field_has_no_zero_divs: shows \"HasNoZeroDivs(K,A,M)\"\n"}

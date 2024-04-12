@@ -1,0 +1,1 @@
+{"text": "text\\<open>The topology is defined in the set $X$\\<close>\n", "statement": "lemma union_excludedset:\n  shows \"\\<Union>ExcludedSet(X,T) = X\"\n"}

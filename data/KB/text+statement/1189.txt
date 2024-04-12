@@ -1,0 +1,1 @@
+{"text": "text\\<open>If an antisymmetric relation is transitive, \n  then the strict version is also transitive.\\<close>\n", "statement": "lemma strict_of_transB: \n  assumes A1: \"trans(r)\" and A2: \"antisym(r)\"\n  shows \"trans(StrictVersion(r))\"\n"}

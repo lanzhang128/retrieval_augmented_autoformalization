@@ -1,0 +1,1 @@
+{"text": "text\\<open>Restriction of an inductive sequence to a finite domain\n  is the corresponding finite inductive sequence.\\<close>\n"}

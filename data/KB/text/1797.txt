@@ -1,0 +1,1 @@
+{"text": "text\\<open>A basic example of a topology: the powerset of any set is a topology.\\<close>\n"}

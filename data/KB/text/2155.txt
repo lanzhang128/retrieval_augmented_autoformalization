@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every open set that contains \\<open>\\<Union>T\\<close> is dense, when considering the order\ntopology in a densely ordered set with more than two points.\\<close>\n"}

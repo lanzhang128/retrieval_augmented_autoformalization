@@ -1,0 +1,1 @@
+{"text": "text\\<open>Metamath has some very complicated and general version of induction\n  on (complex) natural numbers that I can't even understand. As an exercise\n  I derived a more standard version that is imported to the \\<open>complex0\\<close> \n  context below.\\<close>\n"}

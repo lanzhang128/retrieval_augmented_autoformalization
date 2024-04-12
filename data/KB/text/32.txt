@@ -1,0 +1,1 @@
+{"text": "text\\<open>A choice axiom for greater cardinality implies one for \nsmaller cardinality\\<close>\n"}

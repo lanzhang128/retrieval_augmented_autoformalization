@@ -1,0 +1,1 @@
+{"informal": " A topology T is T1 if and only if the cofinal subsets of the union of T are included in T.", "statement": "lemma (in topology0)  T1_cocardinal_coarser:\n  shows \"(T {is T\\<^sub>1}) \\<longleftrightarrow> (CoFinite (\\<Union>T))\\<subseteq>T\"\n"}

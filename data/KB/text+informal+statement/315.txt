@@ -1,0 +1,1 @@
+{"text": "text\\<open>Union of two finite subsets is a finite subset.\\<close>\n", "informal": " If A and B are finite powersets of a set X, then their union is also a finite powerset of X.", "statement": "lemma union_finpow: assumes \"A \\<in> FinPow(X)\" and \"B \\<in> FinPow(X)\"\n  shows \"A \\<union> B \\<in> FinPow(X)\"\n  "}

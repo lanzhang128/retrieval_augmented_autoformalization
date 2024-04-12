@@ -1,0 +1,1 @@
+{"text": "text\\<open>in \\<open>generalization1\\<close> context we define \\<open>ret\\<close> \n  as the converse of \\<open>move\\<close>.\\<close>\n"}

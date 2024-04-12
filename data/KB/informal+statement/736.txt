@@ -1,0 +1,1 @@
+{"informal": " In the integer domain with addition and multiplication operations, there are no zero divisors.", "statement": "lemma (in int0) int_has_no_zero_divs: \n  shows \"HasNoZeroDivs(\\<int>,IntegerAddition,IntegerMultiplication)\"\n  "}

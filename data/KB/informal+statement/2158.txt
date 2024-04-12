@@ -1,0 +1,1 @@
+{"informal": " If A's power set B is compact, then B is finite.", "statement": "lemma pow_compact_imp_finite:\n  assumes \"B{is compact in}Pow(A)\"\n  shows \"Finite(B)\"\n"}

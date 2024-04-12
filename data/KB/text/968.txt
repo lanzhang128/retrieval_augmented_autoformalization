@@ -1,0 +1,1 @@
+{"text": "text\\<open>Natural number greater than $1$ has a predecessor.\\<close>\n"}

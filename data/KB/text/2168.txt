@@ -1,0 +1,1 @@
+{"text": "text\\<open>The cocountable topology on \\<open>csucc(nat)\\<close> is such a topology.\\<close>\ntext\\<open>The cocountable topology on $\\mathbb{N}^+$ is hyperconnected.\\<close>\n"}

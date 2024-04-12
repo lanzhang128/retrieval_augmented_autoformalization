@@ -1,0 +1,1 @@
+{"text": "text\\<open>Infimum is defined analogously.\\<close>\n", "statement": "definition\n  \"Infimum(r,A) \\<equiv> Maximum(r,\\<Inter>a\\<in>A. r-``{a})\"\n"}

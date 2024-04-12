@@ -1,0 +1,1 @@
+{"text": "text\\<open>Recall from \\<open>Group_ZF_2\\<close> that the function space \n  of $G$ valued functions is also a group.\\<close>\n", "statement": "lemma (in finsupp1) fungroup0_valid: shows\n  \"IsAgroup(X\\<rightarrow>M,\\<A>)\" and \"group0(X\\<rightarrow>M,\\<A>)\"\n  "}

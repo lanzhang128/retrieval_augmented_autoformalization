@@ -1,0 +1,1 @@
+{"text": "text\\<open>Next we define the notion of projecting a binary operation\n  to the quotient space. This is a very important concept that\n  allows to define quotient groups, among other things.\\<close>\n"}

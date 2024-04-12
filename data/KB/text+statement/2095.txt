@@ -1,0 +1,1 @@
+{"text": "text\\<open>The interior of a set is the union of all the sets of the base which are fully\n  contained by it.\\<close>\n", "statement": "lemma interior_set_base_topology:\n  assumes \"U {is a base for} T\" \"T{is a topology}\"\n  shows \"Interior(A,T) = \\<Union>{T\\<in>U. T\\<subseteq>A}\"\n"}

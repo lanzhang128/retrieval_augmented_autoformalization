@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a relation up-directs a set, then a larger one does as well.\\<close>\n"}

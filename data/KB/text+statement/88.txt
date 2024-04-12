@@ -1,0 +1,1 @@
+{"text": "text\\<open>And it has the intended value.\\<close>\n", "statement": "lemma (in direct0) DirectProduct_ZF_1_L2:\n  shows \"\\<forall>x\\<in>(G\\<times>H). \\<forall>y\\<in>(G\\<times>H). \n  R`\\<langle>x,y\\<rangle> = \\<langle>P`\\<langle>fst(x),fst(y)\\<rangle>,Q`\\<langle>snd(x),snd(y)\\<rangle>\\<rangle>\"\n  "}

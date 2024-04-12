@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we multiply two different numbers by a nonzero number, the results \n  will be different.\\<close>\n", "statement": "lemma (in field0) Field_ZF_2_L2: \n  assumes \"a\\<in>K\"  \"b\\<in>K\"  \"c\\<in>K\"  \"a\\<noteq>b\"  \"c\\<noteq>\\<zero>\"\n  shows \"a\\<cdot>c\\<inverse> \\<noteq> b\\<cdot>c\\<inverse>\"\n  "}

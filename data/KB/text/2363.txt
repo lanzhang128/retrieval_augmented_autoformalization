@@ -1,0 +1,1 @@
+{"text": "text\\<open>We define constant($=c$) functions on a set $X$ \n  in a natural way as ConstantFunction$(X,c)$.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A group element is equivalent to the neutral element iff it is in the\n  subgroup we divide the group by.\\<close>\n"}

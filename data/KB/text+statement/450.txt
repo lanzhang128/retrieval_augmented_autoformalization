@@ -1,0 +1,1 @@
+{"text": "text\\<open>The translation by neutral element is the identity on group.\\<close>\n", "statement": "lemma (in group0) trans_neutral: shows \n  \"RightTranslation(G,P,\\<one>) = id(G)\" and \"LeftTranslation(G,P,\\<one>) = id(G)\"\n"}

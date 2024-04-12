@@ -1,0 +1,1 @@
+{"informal": " Given a uniformity `Phi` on a set `X`, the uniform topology `UniformTopology(Phi, X)` is regular.", "statement": "theorem utopreg: \n  assumes \"\\<Phi> {is a uniformity on} X\"\n  shows \"UniformTopology(\\<Phi>,X) {is regular}\"\n"}

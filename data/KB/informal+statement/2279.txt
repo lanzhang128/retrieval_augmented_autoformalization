@@ -1,0 +1,1 @@
+{"informal": " The lemma `domain_range_sym` states that for any property `P`, the domain and range of the union of all pairs `(U, U)` with `U` in `P`, is equivalent to the union of properties `P`.", "statement": "lemma domain_range_sym: shows \"domain(\\<Union>{U\\<times>U. U\\<in>P}) = \\<Union>P\" and \"range(\\<Union>{U\\<times>U. U\\<in>P}) = \\<Union>P\" \n  by auto\n"}

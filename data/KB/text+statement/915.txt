@@ -1,0 +1,1 @@
+{"text": "text\\<open>An integer can be written a a sum of a smaller integer and a natural \n  number.\\<close>\n", "statement": "lemma (in int0) Int_ZF_3_L2: assumes A1: \"i \\<lsq> m\"\n  shows \"\\<exists>n\\<in>nat. m = i $+ $# n\"\n"}

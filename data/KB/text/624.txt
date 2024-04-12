@@ -1,0 +1,1 @@
+{"text": "text\\<open>Finally we can define the sequence given by a initial point $x$,\n  and a sequence $F$ of $n$ functions.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of bisections of a given set $A$ is a set of pairs of nonempty\n  subsets of $A$ that do not overlap and their union is equal to $A$.\\<close>\n", "statement": "definition\n  \"Bisections(X) = {p \\<in> Pow(X)\\<times>Pow(X). \n  fst(p)\\<noteq>0 \\<and> snd(p)\\<noteq>0 \\<and> fst(p)\\<inter>snd(p) = 0 \\<and> fst(p)\\<union>snd(p) = X}\"\n"}

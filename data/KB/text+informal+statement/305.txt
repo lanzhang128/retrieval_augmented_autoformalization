@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we subtract anything from a finite set, \n  the resulting set is finite.\\<close>\n", "informal": " Assuming A is an element in FinPow (X), the power set of finite X, then A-B is also an element in FinPow (X).", "statement": "lemma diff_finpow: \n  assumes \"A \\<in> FinPow(X)\" shows \"A-B \\<in> FinPow(X)\"\n  "}

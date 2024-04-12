@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can use theorems proven in \\<open>group0\\<close> and \\<open>group1\\<close>\n  contexts applied to the group of real numbers.\\<close>\n", "statement": "lemma Real_ZF_1_L2: shows\n  \"group0(RealNumbers,RealAddition)\"\n  \"RealAddition {is commutative on} RealNumbers\"\n  \"group1(RealNumbers,RealAddition)\"\n"}

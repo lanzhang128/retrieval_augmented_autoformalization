@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another theorem from \\<open>Semigroup_ZF\\<close> theory that is useful to have in the\n  additive notation.\\<close>\n"}

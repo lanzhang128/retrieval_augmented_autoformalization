@@ -1,0 +1,1 @@
+{"text": "text\\<open>Natural numbers are finite subsets of the set of natural numbers.\\<close>\n", "informal": " Assuming a natural number n, it belongs to the set of finite powers of natural numbers (denoted as FinPow(nat)).", "statement": "lemma nat_finpow_nat: assumes \"n \\<in> nat\" shows \"n \\<in> FinPow(nat)\"\n  "}

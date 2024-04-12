@@ -1,0 +1,1 @@
+{"text": "text\\<open>If an order topology is connected, then the order is dense.\\<close>\n", "statement": "theorem conn_imp_dense:\n  assumes \"IsLinOrder(X,r)\" \"\\<exists>x y. x\\<noteq>y\\<and>x\\<in>X\\<and>y\\<in>X\"\n     \"(OrdTopology X r){is connected}\"\n  shows \"X {is dense with respect to}r\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If m is an integer, then $m^S$ is a slope whose value\n  is $m\\cdot n$ for every integer.\\<close>\n"}

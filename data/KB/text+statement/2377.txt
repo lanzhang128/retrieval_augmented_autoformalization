@@ -1,0 +1,1 @@
+{"text": "text\\<open>For injections if a value at a point \n  belongs to the image of a set, then the point\n  belongs to the set.\\<close>\n", "statement": "lemma inj_point_of_image: \n  assumes A1: \"f \\<in> inj(A,B)\" and A2: \"C\\<subseteq>A\" and\n  A3: \"x\\<in>A\" and A4: \"f`(x) \\<in> f``(C)\"\n  shows \"x \\<in> C\"\n"}

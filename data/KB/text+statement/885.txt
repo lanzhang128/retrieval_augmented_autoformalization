@@ -1,0 +1,1 @@
+{"text": "text\\<open>Adding one increases integers.\\<close>\n", "statement": "lemma (in int0) Int_ZF_2_L12A: assumes A1: \"j\\<lsq>k\"\n  shows \"j \\<lsq> k $+ $#1\"  \"j \\<lsq> k\\<ra>\\<one>\"\n"}

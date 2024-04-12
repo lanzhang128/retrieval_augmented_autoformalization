@@ -1,0 +1,1 @@
+{"text": "text\\<open>The product of semigroup (actually, magma -- we don't\n   need associativity for this) elements is in the semigroup.\\<close>\n"}

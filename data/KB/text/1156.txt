@@ -1,0 +1,1 @@
+{"text": "text\\<open>Set that has a minimum is bounded below.\\<close>\n"}

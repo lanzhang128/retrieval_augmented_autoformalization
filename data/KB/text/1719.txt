@@ -1,0 +1,1 @@
+{"text": "text\\<open>Right and left uniformities are indeed uniformities. \\<close>\n"}

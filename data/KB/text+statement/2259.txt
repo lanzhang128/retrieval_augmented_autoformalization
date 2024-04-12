@@ -1,0 +1,1 @@
+{"text": "text\\<open>Most of the time, \\<open>auto\\<close> does this job, but there are strange \n  cases when the next lemma is needed.\\<close>\n", "statement": "lemma subset_with_property: assumes \"Y = {x\\<in>X. b(x)}\"\n  shows \"Y \\<subseteq> X\" \n  "}

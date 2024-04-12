@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $s$ is a slope, then $\\gamma (s,m,n)$ is uniformly bounded.\\<close>\n", "statement": "lemma (in int1) Int_ZF_2_1_L27: assumes A1: \"s\\<in>\\<S>\"\n  shows \"\\<exists>L\\<in>\\<int>. \\<forall>m\\<in>\\<int>.\\<forall>n\\<in>\\<int>. abs(\\<gamma>(s,m,n)) \\<lsq> L\"\n"}

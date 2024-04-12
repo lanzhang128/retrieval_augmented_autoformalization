@@ -1,0 +1,1 @@
+{"text": "text\\<open>Other basic properties involving two elements of a ring.\\<close>\n"}

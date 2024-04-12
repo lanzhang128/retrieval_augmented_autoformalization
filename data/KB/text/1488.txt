@@ -1,0 +1,1 @@
+{"text": "text\\<open>Let's recall a theorem from \\<open>Int_ZF_2.thy\\<close> that states that \n  if $f,g$ are slopes,\n  then $f\\circ g$ is equivalent to $g\\circ f$. \n  Here we conclude from that that\n  the classes of $f\\circ g$ and $g\\circ f$ are the same.\\<close>\n"}

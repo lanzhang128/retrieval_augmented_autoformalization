@@ -1,0 +1,1 @@
+{"text": "text\\<open> For given functions $f:A\\to B$ and $g:C\\to D$ and points $x\\in A$, $y\\in C$ the value of the \n  function \\<open>ProdFunction(f,g)\\<close> on $\\langle x,y \\rangle$ is $\\langle f(x),g(y) \\rangle$. \\<close>\n"}

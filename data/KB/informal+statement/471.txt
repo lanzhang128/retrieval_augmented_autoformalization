@@ -1,0 +1,1 @@
+{"informal": " In the group4 theory, if H is a subgroup of P, then H is its own inverse and H multiplied by itself equals H.", "statement": "lemma (in group4) subgroup_inv_sq: assumes \"IsAsubgroup(H,P)\" \n   shows \"H\\<sinv> = H\" and \"H\\<sdot>H = H\"\n"}

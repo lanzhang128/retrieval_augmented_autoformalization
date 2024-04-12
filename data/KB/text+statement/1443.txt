@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another lemma about bisecting a set with an added point.\\<close>\n", "statement": "lemma point_set_bisec: \n  assumes A1: \"x \\<notin> X\" and A2: \"\\<langle>{x}, A\\<rangle> \\<in> Bisections(X \\<union> {x})\"\n  shows \"A = X\" and \"X \\<noteq> 0\"\n"}

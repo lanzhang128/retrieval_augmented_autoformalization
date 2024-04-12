@@ -1,0 +1,1 @@
+{"text": "text\\<open>A filter converges to a point if and only if its net converges to the point.\\<close>\n", "statement": "theorem (in topology0) filter_conver_iff_net_of_filter_conver:\n  assumes \"\\<FF> {is a filter on}\\<Union>T\"\n  shows \"(\\<FF> \\<rightarrow>\\<^sub>F x) \\<longleftrightarrow> ((Net(\\<FF>)) \\<rightarrow>\\<^sub>N x)\"\n  "}

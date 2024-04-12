@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we increase the second component in a sum of three\n  integers, the whole sum inceases.\\<close>\n", "statement": "lemma (in int0) Int_ZF_2_L15C: \n  assumes A1: \"m\\<in>\\<int>\"  \"n\\<in>\\<int>\" and A2: \"k \\<lsq> L\"\n  shows \"m\\<ra>k\\<ra>n \\<lsq> m\\<ra>L\\<ra>n\"\n"}

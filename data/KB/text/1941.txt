@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every set of a filter contains a set from the filter's base.\\<close>\n"}

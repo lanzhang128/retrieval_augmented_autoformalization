@@ -1,0 +1,1 @@
+{"text": "text\\<open>If an order topology is connected, then the order is dense.\\<close>\n"}

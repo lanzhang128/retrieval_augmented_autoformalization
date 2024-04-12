@@ -1,0 +1,1 @@
+{"text": "text\\<open>Adding or subtracing one changes integers.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_L14: assumes A1: \"m\\<in>\\<int>\" \n  shows \n  \"m\\<ra>\\<one> \\<noteq> m\"\n  \"m\\<rs>\\<one> \\<noteq> m\"\n"}

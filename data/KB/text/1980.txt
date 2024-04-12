@@ -1,0 +1,1 @@
+{"text": "text\\<open>An open set $U$ covering a set $A$ is a set neighborhood of $A$. \\<close>\n"}

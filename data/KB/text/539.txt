@@ -1,0 +1,1 @@
+{"text": "text\\<open>Finite range functions valued in an abelian group form a normal \n  subgroup of almost homomorphisms.\\<close>\n"}

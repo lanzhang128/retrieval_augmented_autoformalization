@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse is in the group.\\<close>\n", "statement": "lemma (in group0) inverse_in_group: assumes A1: \"x\\<in>G\" shows \"x\\<inverse>\\<in>G\"\n"}

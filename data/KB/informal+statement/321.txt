@@ -1,0 +1,1 @@
+{"informal": " Given a total relation r on a finite set X, if transitive relation r exists and B is an element of Fin(X) (the finite subset of X), then B is empty or has a maximum in relation r.", "statement": "theorem Finite_ZF_1_1_T1A: \n  assumes A1: \"r {is total on} X\" and A2: \"trans(r)\"\n  and A3: \"B\\<in>Fin(X)\"\n  shows \"B=0 \\<or> HasAmaximum(r,B)\"\n"}

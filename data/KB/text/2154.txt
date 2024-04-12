@@ -1,0 +1,1 @@
+{"text": "text\\<open>The previous construction preserves anti-hyperconnectedness.\\<close>\n"}

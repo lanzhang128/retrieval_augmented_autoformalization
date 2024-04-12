@@ -1,0 +1,1 @@
+{"text": "text\\<open>An application of the triangle inequality with four\n  integers. Property of linearly ordered abelian groups.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_3_L22A: \n  assumes  \"a\\<in>\\<int>\"  \"b\\<in>\\<int>\"  \"c\\<in>\\<int>\"  \"d\\<in>\\<int>\"\n  shows \"abs(a\\<rs>c) \\<lsq> abs(a\\<ra>b) \\<ra> abs(c\\<ra>d) \\<ra> abs(b\\<rs>d)\"\n  "}

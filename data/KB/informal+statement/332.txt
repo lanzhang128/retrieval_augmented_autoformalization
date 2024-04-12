@@ -1,0 +1,1 @@
+{"informal": " With the given assumptions A1: \"q\" and A2: \"Exactly one of p, q, r holds\", we want to show the negation of r:\n\nIn natural language:\nGiven q and exactly one of p, q, r holds, it follows that r does not hold.", "statement": "lemma Fol1_L7:\n  assumes A1: \"q\" and A2: \"Exactly_1_of_3_holds(p,q,r)\"\n  shows \"\\<not>r\"\n"}

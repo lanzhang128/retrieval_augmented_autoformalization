@@ -1,0 +1,1 @@
+{"text": "text\\<open>The definition of the disk in the notation used in the \\<open>pmetric_space\\<close> context:\\<close>\n", "statement": "lemma (in pmetric_space) disk_definition: shows \"disk(c,R) = {x\\<in>X. d`\\<langle>c,x\\<rangle> \\<ls> R}\"\n"}

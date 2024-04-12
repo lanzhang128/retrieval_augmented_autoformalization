@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another property of this kind widely used is the Lindeloef property;\nit is the one on the successor of the natural numbers.\\<close>\n"}

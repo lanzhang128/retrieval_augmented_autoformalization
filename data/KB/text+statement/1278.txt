@@ -1,0 +1,1 @@
+{"text": "text\\<open>Elements from $G\\setminus G_+$ are not greater that the unit.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L17:\n  assumes A1: \"r {is total on} G\" and A2: \"a \\<in> G-G\\<^sub>+\"\n  shows \"a\\<lsq>\\<one>\"\n"}

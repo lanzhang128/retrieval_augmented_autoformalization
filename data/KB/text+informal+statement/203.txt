@@ -1,0 +1,1 @@
+{"text": "text\\<open>We define the set of lists with values in set $X$ as \\<open>Lists(X)\\<close>.\\<close>\n", "informal": " \"Lists over X is the set of all functions from natural numbers to X, where the domain may be finite or infinite.\"", "statement": "definition\n  \"Lists(X) \\<equiv> \\<Union>n\\<in>nat.(n\\<rightarrow>X)\"\n"}

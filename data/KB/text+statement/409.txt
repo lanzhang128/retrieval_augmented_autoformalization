@@ -1,0 +1,1 @@
+{"text": "text\\<open>If if the inverse of $b$ is different than $a$, then the\n  inverse of $a$ is different than $b$.\\<close>\n", "statement": "lemma (in group0) group0_2_L11B:\n  assumes A1: \"a\\<in>G\" and A2: \"b\\<inverse> \\<noteq> a\"\n  shows \"a\\<inverse> \\<noteq> b\"\n"}

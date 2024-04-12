@@ -1,0 +1,1 @@
+{"informal": " If there exists an element in set A, then the union of A is an element of A.", "statement": "corollary singleton_extract: assumes  \"\\<exists>! x. x\\<in>A\"\n  shows \"(\\<Union> A) \\<in> A\"\n"}

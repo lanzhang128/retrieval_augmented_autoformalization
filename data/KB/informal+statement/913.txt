@@ -1,0 +1,1 @@
+{"informal": " Assuming m is an integer, abs(m) is a non-negative integer with m as its absolute value.", "statement": "lemma (in int0) int_abs_nonneg: assumes A1: \"m\\<in>\\<int>\"\n  shows \"abs(m) \\<in> \\<int>\\<^sup>+\"  \"\\<zero> \\<lsq> abs(m)\" \n"}

@@ -1,0 +1,1 @@
+{"informal": " \"Excluded Set X with respect to relation Q is a topology.\"", "statement": "theorem excludedset_is_topology:\n  shows \"ExcludedSet(X,Q) {is a topology}\"\n"}

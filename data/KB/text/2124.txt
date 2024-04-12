@@ -1,0 +1,1 @@
+{"text": "text\\<open>If some set is compact for some cardinal, it is compact for any greater cardinal.\\<close>\n"}

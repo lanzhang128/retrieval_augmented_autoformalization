@@ -1,0 +1,1 @@
+{"text": "text\\<open>A nonzero natural number is of the form $n=m+1$ for some natural number $m$.\n  This is very similar to \\<open>Nat_ZF_1_L3\\<close> except that we use $n+1$ instead of \\<open>succ(n)\\<close>. \\<close>\n"}

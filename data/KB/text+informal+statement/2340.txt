@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse image of a set contained in domain under identity is the same set.\\<close>\n", "informal": " If A is a subset of X, then the identity function applied to the difference between X and the image of A under the identity function equals A itself.", "statement": "lemma vimage_id_same: assumes \"A\\<subseteq>X\" shows \"id(X)-``(A) = A\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The additive operation in a ring is distributive with respect to the\n  multiplicative operation.\\<close>\n", "statement": "lemma (in ring0) ring_oper_distr: assumes A1: \"a\\<in>R\"  \"b\\<in>R\"  \"c\\<in>R\"\n  shows \n  \"a\\<cdot>(b\\<ra>c) = a\\<cdot>b \\<ra> a\\<cdot>c\" \n  \"(b\\<ra>c)\\<cdot>a = b\\<cdot>a \\<ra> c\\<cdot>a\"\n  "}

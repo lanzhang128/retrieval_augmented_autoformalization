@@ -1,0 +1,1 @@
+{"text": "text\\<open>Secondly, let's show that the \\<open>CoCardinal X Q\\<close>\ntopologies for different sets $Q$ are all ordered\nas the partial order of sets. (The order is linear when considering only cardinals)\\<close>\n"}

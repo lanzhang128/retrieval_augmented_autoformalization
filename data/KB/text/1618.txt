@@ -1,0 +1,1 @@
+{"text": "text\\<open>In the \\<open>ring0\\<close> context we can use theorems proven in some \n  other contexts.\\<close>\n"}

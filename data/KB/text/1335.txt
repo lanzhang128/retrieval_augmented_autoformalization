@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set has a maximum and minimum, then the greater of the \n  absolute value of the maximum and minimum bounds absolute values of all \n  elements of the set.\\<close>\n"}

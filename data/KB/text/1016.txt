@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another way to state that the range of the monoid operation\n  is the whole monoid carrier.\\<close>\n"}

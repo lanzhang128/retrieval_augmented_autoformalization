@@ -1,0 +1,1 @@
+{"informal": " In the monoid1 context, there exists an element zero in the set G and a function f: G x G -> G such that zero is an identity element for the operation in G.", "statement": "lemma (in monoid1) zero_monoid_oper: shows \"\\<zero>\\<in>G\" and \"f:G\\<times>G \\<rightarrow> G\"\n  "}

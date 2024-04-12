@@ -1,0 +1,1 @@
+{"informal": " Given a function f belonging to FinRangeFunctions from set X to set Y, the image of X under this function is a finite subset of Y.", "statement": "lemma Finite1_L18: assumes \"f \\<in> FinRangeFunctions(X,Y)\"\n  shows \"{f`(x). x\\<in>X} \\<in> Fin(Y)\"\n  "}

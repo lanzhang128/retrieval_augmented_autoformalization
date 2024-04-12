@@ -1,0 +1,1 @@
+{"informal": " For all natural numbers i less than n, the successor of i is less than the successor of n.", "statement": "lemma succ_ineq: assumes A1: \"n \\<in> nat\"\n  shows \"\\<forall>i \\<in> n. succ(i) \\<in> succ(n)\"\n"}

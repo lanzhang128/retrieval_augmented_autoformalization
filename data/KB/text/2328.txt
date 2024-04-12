@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse image of a set does not change when we intersect\n  the set with the image of the domain.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Associativity of addition and multiplication.\\<close>\n", "statement": "lemma (in ring0) Ring_ZF_1_L11: \n  assumes \"a\\<in>R\"  \"b\\<in>R\"  \"c\\<in>R\"\n  shows \n  \"a\\<ra>b\\<ra>c = a\\<ra>(b\\<ra>c)\"\n  \"a\\<cdot>b\\<cdot>c = a\\<cdot>(b\\<cdot>c)\"\n  "}

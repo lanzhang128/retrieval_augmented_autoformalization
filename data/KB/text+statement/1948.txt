@@ -1,0 +1,1 @@
+{"text": "text\\<open>The neighborhoods of a point form a filter that converges to that point.\\<close>\n", "statement": "lemma (in topology0) neigh_filter:\n  assumes \"x\\<in>\\<Union>T\"\n  defines \"Neigh\\<equiv>{U\\<in>Pow(\\<Union>T). x\\<in>int(U)}\"\n  shows \"Neigh {is a filter on}\\<Union>T\" and \"Neigh \\<rightarrow>\\<^sub>F x\"\n"}

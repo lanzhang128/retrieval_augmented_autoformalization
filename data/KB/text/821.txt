@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $f$ is a positive slope, then for every positive integer $p$ \n  the set $\\{n\\in Z_+: p\\leq f(n)\\}$ is a nonempty subset of positive integers.\n  Recall that $f^{-1}(p)$ is the notation for the smallest element of this set.\\<close>\n"}

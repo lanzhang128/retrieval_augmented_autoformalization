@@ -1,0 +1,1 @@
+{"informal": " In the INT0 theory of Isabelle/ZF, it is proven that the set of integers is closed under the multiplication operation.", "statement": "lemma (in int0) Int_ZF_1_3_L2A: shows \n  \"\\<int>\\<^sup>+ {is closed under} IntegerMultiplication\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Sum of slopes is a slope.\\<close>\n", "informal": " If elements s and r belong to set S, then the result of applying function fp to s and r also belongs to set S.", "statement": "lemma (in int1) Int_ZF_2_1_L12C: assumes \"s\\<in>\\<S>\"  \"r\\<in>\\<S>\"\n  shows \"s\\<fp>r \\<in> \\<S>\"\n  "}

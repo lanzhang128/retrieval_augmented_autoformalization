@@ -1,0 +1,1 @@
+{"informal": " In the ring0 context, if an element a is in the ring and its square is not zero, then a is not zero.", "statement": "lemma (in ring0) Ring_ZF_1_L13:\n  assumes \"a\\<in>R\"  and \"a\\<^sup>2 \\<noteq> \\<zero>\"\n  shows \"a\\<noteq>\\<zero>\"\n  "}

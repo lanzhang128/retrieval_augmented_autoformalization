@@ -1,0 +1,1 @@
+{"text": "text\\<open>Even weirder than \\<open>empty_ord_iso\\<close>\n  The order automorphism of the empty set is unique.\\<close>\n"}

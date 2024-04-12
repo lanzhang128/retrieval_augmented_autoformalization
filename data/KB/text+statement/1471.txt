@@ -1,0 +1,1 @@
+{"text": "text\\<open>In \\<open>real0\\<close> context all theorems proven in the \\<open>ring0\\<close>,\n  context are valid.\\<close>\n", "statement": "lemma (in real0) Real_ZF_1_L3: shows \n  \"ring0(\\<real>,RealAddition,RealMultiplication)\"\n  "}

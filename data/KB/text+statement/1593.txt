@@ -1,0 +1,1 @@
+{"text": "text\\<open> The assumptions of the  \\<open>pmetric_space\\<close> locale hold in the \\<open>reals\\<close> locale. \\<close>\n", "statement": "lemma (in reals) pmetric_space_valid: shows \"pmetric_space(\\<real>,Add, ROrd,dist,\\<real>)\" \n  unfolding pmetric_space_def pmetric_space_axioms_def loop1_def\n  "}

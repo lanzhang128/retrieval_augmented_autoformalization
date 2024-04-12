@@ -1,0 +1,1 @@
+{"informal": " The lemma \"Int_ZF_2_L11\" in Isabelle/ZF theory \"int0\" asserts that for natural numbers i and n, the expression i plus the sum of n and one is equal to i plus the successor of n.", "statement": "lemma (in int0) Int_ZF_2_L11: \n  shows \"i $+ $# n $+ ($# 1)  =  i $+ $# succ(n)\"\n"}

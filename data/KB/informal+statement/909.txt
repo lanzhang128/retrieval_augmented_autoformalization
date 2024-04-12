@@ -1,0 +1,1 @@
+{"informal": " Assuming `m` is an integer and the properties Q holds for 0, and Q is closed under addition for all integers `n`. Therefore, Q(m) holds.", "statement": "lemma (in int0) Int_ZF_2_L19B: \n  assumes \"m\\<in>\\<int>\" and \"Q(\\<zero>)\" and \"\\<forall>n\\<in>\\<int>\\<^sub>+. Q(n)\" and \"\\<forall>n\\<in>\\<int>\\<^sub>+. Q(\\<rm>n)\"\n  shows \"Q(m)\"\n"}

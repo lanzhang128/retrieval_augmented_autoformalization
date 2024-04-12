@@ -1,0 +1,1 @@
+{"text": "text\\<open>An open set $U$ covering a set $A$ is a set neighborhood of $A$. \\<close>\n", "statement": "lemma open_superset_nei: assumes \"V\\<in>T\" \"A\\<subseteq>V\"\n  shows \"V \\<in> ({set neighborhood system of} T)`(A)\"\n"}

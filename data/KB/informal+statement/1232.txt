@@ -1,0 +1,1 @@
+{"informal": " If element a is in the additive monoid G plus G, and element b is less than a, then element b is also in the additive monoid G plus G.", "statement": "lemma (in group3) OrderedGroup_ZF_1_L4D:\n  assumes A1: \"a\\<in>G-G\\<^sup>+\" and A2: \"b\\<lsq>a\"\n  shows \"b\\<in>G-G\\<^sup>+\"\n"}

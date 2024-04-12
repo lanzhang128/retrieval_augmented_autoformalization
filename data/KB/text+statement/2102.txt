@@ -1,0 +1,1 @@
+{"text": "text\\<open>A restriction of a partition is a partition. If the empty set appears\nit has to be removed.\\<close>\n", "statement": "lemma restriction_partition:\n  assumes \"U {is a partition of}X\"\n  shows \"((U {restricted to} Y)-{0}) {is a partition of} (X\\<inter>Y)\"\n  "}

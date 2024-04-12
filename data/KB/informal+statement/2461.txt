@@ -1,0 +1,1 @@
+{"informal": " If function `f` is an order isomorphism between sets `A` and `B` with relation `R`, and `R` is a subset of `A` times `A`, then `A` with the relation `R` is a lined order.", "statement": "lemma ord_iso_pres_lin: assumes \"f \\<in> ord_iso(A,r,B,R)\" and \n  \"r \\<subseteq> A\\<times>A\" and \"IsLinOrder(B,R)\"\n  shows \"IsLinOrder(A,r)\"\n  "}

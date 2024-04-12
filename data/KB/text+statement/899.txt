@@ -1,0 +1,1 @@
+{"text": "text\\<open>$1\\leq 2$.\\<close>\n", "statement": "lemma (in int0) Int_ZF_2_L16B: shows \"\\<one>\\<lsq>\\<two>\"\n"}

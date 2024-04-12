@@ -1,0 +1,1 @@
+{"text": "text\\<open>Triangle inequality with three integers. We could use\n  \\<open>OrdGroup_triangle_ineq3\\<close>, but since simp cannot translate\n  the notation directly, it is simpler to reprove it for integers.\\<close>\n"}

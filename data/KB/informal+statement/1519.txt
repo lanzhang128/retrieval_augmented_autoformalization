@@ -1,0 +1,1 @@
+{"informal": " Given real numbers a < a b and a positive real number c, then c * a is less than or equal to c * b.", "statement": "lemma (in real1) Real_ZF_1_2_L14A:\n  assumes A1: \"a\\<lsq>b\" and A2: \"c\\<in>\\<real>\\<^sub>+\"\n  shows \"c\\<cdot>a \\<lsq> c\\<cdot>b\"\n  "}

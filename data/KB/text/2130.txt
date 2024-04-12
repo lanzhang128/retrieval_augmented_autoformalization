@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next theorem resolves that the axiom of \\<open>Q\\<close> choice for subsets\nof \\<open>\\<Union>T\\<close> is necessary for second type spaces to be separable of the same cardinal\n\\<open>csucc(Q)\\<close>.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The transition relation of the deterministic\nautomata we will construct\\<close>\n"}

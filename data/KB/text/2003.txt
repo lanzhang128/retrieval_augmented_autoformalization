@@ -1,0 +1,1 @@
+{"text": "text\\<open>A first, very simple, but very useful result is the following: when the properties\nare related and the spectra are equal, then the anti-properties are related in the oposite direction.\\<close>\n"}

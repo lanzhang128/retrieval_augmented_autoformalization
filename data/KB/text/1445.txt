@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a pair of sets bisects a finite set, then both \n  elements of the pair are finite.\\<close>\n"}

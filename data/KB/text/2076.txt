@@ -1,0 +1,1 @@
+{"text": "text\\<open>The interior of a set is itself if it is \\<open>X\\<close> or the difference with the set \\<open>T\\<close>\\<close>\n"}

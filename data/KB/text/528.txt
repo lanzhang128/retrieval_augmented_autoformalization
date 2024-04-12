@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse of an almost homomorphism is an almost homomorphism.\\<close>\n"}

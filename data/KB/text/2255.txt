@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma about inclusion in cartesian products. Included here to remember\n  that we need the $U\\times V \\neq \\emptyset$ assumption.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The union af all values of a constant meta-function belongs to \nthe same set as the constant.\\<close>\n"}

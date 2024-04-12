@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a relation is defined on a set, then intervals are subsets of that\n  set.\\<close>\n"}

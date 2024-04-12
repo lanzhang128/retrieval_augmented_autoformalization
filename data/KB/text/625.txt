@@ -1,0 +1,1 @@
+{"text": "text\\<open>The state transformation function (\\<open>StateTransfFunN\\<close> is \n  a function that transforms $X\\times n$ into itself.\\<close>\n"}

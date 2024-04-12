@@ -1,0 +1,1 @@
+{"text": "text\\<open>For natural numbers greater numbers can be obtained by adding a natural number.\\<close>\n", "statement": "lemma (in MMIsar0) nat_ge_repr: assumes A1: \"n \\<in> \\<nat>\"  \"m \\<in> \\<nat>\"\n  shows \"m\\<ls>n \\<longrightarrow> (\\<exists>j\\<in>\\<nat>. n = m \\<ca> j)\"\n"}

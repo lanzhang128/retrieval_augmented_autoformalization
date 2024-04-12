@@ -1,0 +1,1 @@
+{"informal": " If set A is bounded below by some real number r, and set B is a subset of A, then set B is also bounded below by r.", "statement": "lemma Order_ZF_3_L12: assumes A1: \"IsBoundedBelow(A,r)\" and A2: \"B\\<subseteq>A\"\n  shows \"IsBoundedBelow(B,r)\"\n"}

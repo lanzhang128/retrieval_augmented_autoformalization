@@ -1,0 +1,1 @@
+{"text": "text\\<open>There are more separation axioms that just $T_0$, $T_1$ or $T_2$\\<close>\n", "informal": " A set T is defined as T3 if and only if it is T1 and regular.", "statement": "definition\n  isT3 (\"_{is T\\<^sub>3}\" 90)\n  where \"T{is T\\<^sub>3} \\<equiv> (T{is T\\<^sub>1}) \\<and> (T{is regular})\"\n"}

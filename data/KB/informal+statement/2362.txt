@@ -1,0 +1,1 @@
+{"informal": " The lemma \"right_comp_id_any\" asserts that the composition of relation \"r\" with the identity relation on set \"C\" is equivalent to the restriction of \"r\" to set \"C\".", "statement": "lemma right_comp_id_any: shows \"r O id(C) = restrict(r,C)\"\n  unfolding restrict_def by auto\n"}

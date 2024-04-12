@@ -1,0 +1,1 @@
+{"text": "text\\<open>The order on integers is transitive.\\<close>\n", "informal": " In ZF set theory, we have the relation \"IntegerOrder\" defined as a transitive relation.", "statement": "lemma Int_ZF_2_L6: shows \"trans(IntegerOrder)\"\n"}

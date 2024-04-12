@@ -1,0 +1,1 @@
+{"text": "text\\<open>Any linear order is a directed set; in particular $(\\mathbb{N},\\leq)$.\\<close>\n"}

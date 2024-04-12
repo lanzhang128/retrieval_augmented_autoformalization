@@ -1,0 +1,1 @@
+{"text": "text\\<open>The definition of supremum for a (strict) linear order.\\<close>\n", "statement": "definition\n  \"Sup(B,A,R) \\<equiv> \n  \\<Union> {x \\<in> A. (\\<forall>y\\<in>B. \\<langle>x,y\\<rangle> \\<notin> R) \\<and> \n  (\\<forall>y\\<in>A. \\<langle>y,x\\<rangle> \\<in> R \\<longrightarrow> (\\<exists>z\\<in>B. \\<langle>y,z\\<rangle> \\<in> R))}\"\n"}

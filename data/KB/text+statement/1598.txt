@@ -1,0 +1,1 @@
+{"text": "text\\<open> We define the topology on reals as one consisting of the unions of open disks. \\<close>\n", "statement": "definition (in reals) RealTopology (\"\\<tau>\\<^sub>\\<real>\") \n  where \"\\<tau>\\<^sub>\\<real> \\<equiv> {\\<Union>A. A \\<in> Pow(\\<Union>c\\<in>\\<real>.{disk(c,r). r \\<in> \\<real>\\<^sub>+})}\"\n"}

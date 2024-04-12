@@ -1,0 +1,1 @@
+{"text": "text\\<open> Right translations are uniformly continuous with respect to the right uniformity. \\<close>\n", "statement": "lemma (in topgroup) right_mult_uniformity: assumes \"x\\<in>G\"\n  shows \n    \"RightTranslation(G,f,x) {is uniformly continuous between} rightUniformity {and} rightUniformity\" \n"}

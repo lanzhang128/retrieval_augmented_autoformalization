@@ -1,0 +1,1 @@
+{"text": "text\\<open>We define the closed sets as V-sets\\<close>\n", "statement": "definition (in ring0) closeBasic (\"V\") where\n\"S \\<subseteq> R \\<Longrightarrow> V(S) = {K\\<in>Spec. S\\<subseteq>K}\"\n"}

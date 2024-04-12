@@ -1,0 +1,1 @@
+{"text": "text\\<open>In particular, star of a set is larger than star of any singleton in that set.\\<close>\n"}

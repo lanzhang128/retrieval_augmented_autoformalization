@@ -1,0 +1,1 @@
+{"informal": " if natural numbers n and m are in the set of natural numbers, and n is a subset of m with one element less, then n is a subset of m.", "statement": "lemma (in MMIsar0) nat_ls_plus_one_imp_lsq:\n  assumes A1: \"n \\<in> \\<nat>\"  \"m \\<in> \\<nat>\" and A2: \"n \\<ls> m\\<ca>\\<one>\" \n  shows \"n \\<lsq> m\"\n"}

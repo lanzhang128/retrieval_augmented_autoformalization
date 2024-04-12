@@ -1,0 +1,1 @@
+{"informal": " Assuming that \"m\" is an integer, it is a real number.", "statement": "lemma (in real1) real_int_is_real: assumes \"m \\<in> int\"\n  shows \"m\\<^sup>R \\<in> \\<real>\"\n  "}

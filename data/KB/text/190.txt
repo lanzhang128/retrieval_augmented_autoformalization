@@ -1,0 +1,1 @@
+{"text": "text\\<open>We define the characterisic meta-function that is the identity\n  on a set and assigns a default value everywhere else.\\<close>\n"}

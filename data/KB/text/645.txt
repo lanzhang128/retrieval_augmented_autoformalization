@@ -1,0 +1,1 @@
+{"text": "text\\<open>A version \\<open>binom_prop\\<close> where we write $k+1$ instead of $k$.\\<close>\n"}

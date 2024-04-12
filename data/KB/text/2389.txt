@@ -1,0 +1,1 @@
+{"text": "text\\<open>For a surjection the union if images of singletons\n  is the whole range.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $b\\in$\\<open>G\\<^sub>+\\<close>, then $a < a\\cdot b$. \n  Multiplying $a$ by a positive elemnt increases $a$.\\<close>\n"}

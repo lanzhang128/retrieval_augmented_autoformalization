@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set $S$ has a smallest element, then the infimum of $S$ belongs\n  to it.\\<close>\n"}

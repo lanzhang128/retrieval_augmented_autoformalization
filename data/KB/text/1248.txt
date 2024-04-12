@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can put an element on the other side of an inequality\n  changing its sign, version with the inverse.\\<close>\n"}

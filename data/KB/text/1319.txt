@@ -1,0 +1,1 @@
+{"text": "text\\<open>Triangle inequality with three integers.\\<close>\n"}

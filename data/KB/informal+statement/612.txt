@@ -1,0 +1,1 @@
+{"informal": " Given nat numbers n, and a function f from X to X with input x in X, the inductive sequence InductiveSequenceN(x, f, succ(n)) has the same tail as InductiveSequenceN(f(x), f, n).", "statement": "lemma indseq_tail: assumes \"n \\<in> nat\" \"f: X\\<rightarrow>X\" \"x\\<in>X\" \n  shows \"Tail(InductiveSequenceN(x,f,succ(n))) = InductiveSequenceN(f`(x),f,n)\"\n"}

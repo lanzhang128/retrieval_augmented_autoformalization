@@ -1,0 +1,1 @@
+{"text": "text\\<open>When the index set is finite, the definition of \\<open>ProductTopBase(I,T)\\<close> \ncan be simplifed.\\<close>\n"}

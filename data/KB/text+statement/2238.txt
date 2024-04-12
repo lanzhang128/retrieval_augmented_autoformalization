@@ -1,0 +1,1 @@
+{"text": "text\\<open>A somewhat technical identity about the square of a symmetric relation: \\<close>\n", "statement": "lemma rel_sq_image: \n  assumes \"W = converse(W)\"  \"domain(W) \\<subseteq> X\" \n  shows \"Star({x},{W``{t}. t\\<in>X}) = (W O W)``{x}\"\n"}

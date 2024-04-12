@@ -1,0 +1,1 @@
+{"text": "text\\<open>Each integer has an inverse (in the addition sense).\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_L9: assumes A1: \"g \\<in> \\<int>\"\n  shows \"\\<exists> b\\<in>\\<int>. g\\<ra>b = \\<zero>\"\n"}

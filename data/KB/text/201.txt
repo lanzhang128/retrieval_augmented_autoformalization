@@ -1,0 +1,1 @@
+{"text": "text\\<open>A composition of a finite range function with another function is \n  a finite range function.\\<close>\n"}

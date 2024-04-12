@@ -1,0 +1,1 @@
+{"text": "text\\<open>A space is called perfect if it has no isolated points.\nThis definition may vary in the literature to similar, but not equivalent definitions.\\<close>\n", "statement": "definition\n  IsPerf (\"_ {is perfect}\") where\n  \"T{is perfect} \\<equiv> \\<forall>x\\<in>\\<Union>T. {x}\\<notin>T\"\n"}

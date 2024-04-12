@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $c$ is not an element of $A$  then the inverse image of $A$ by the constant \n  function $x\\mapsto c$ is empty. \\<close>\n", "informal": " assume c is not an element of A.\nshow ConstantFunction(X, c) applied to A equals 0.", "statement": "lemma const_vimage_empty: assumes \"c\\<notin>A\"\n  shows \"ConstantFunction(X,c)-``(A) = 0\"\n"}

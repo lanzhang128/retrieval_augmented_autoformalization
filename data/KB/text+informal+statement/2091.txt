@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the set which is included is not a subset of \\<open>X\\<close>,\nthen the topology is trivial.\\<close>\n", "informal": " If T is not a subset of X in the ZF set theory, then the included set of X in T is an empty set.", "statement": "lemma empty_includedset:\n  assumes \"~(T\\<subseteq>X)\"\n  shows \"IncludedSet(X,T) = {0}\"\n"}

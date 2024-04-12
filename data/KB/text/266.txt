@@ -1,0 +1,1 @@
+{"text": "text\\<open>The states are the previous 4 states.\nThey are encoded as natural numbers to make\nit easier to reason about them, and as human\nreadable variable names to make it easier to\nunderstand.\\<close>\n"}

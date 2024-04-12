@@ -1,0 +1,1 @@
+{"text": "text\\<open> The order in an ordered loop is antisymmeric. \\<close>\n", "statement": "lemma (in loop1) loop_ord_antisym: assumes \"x\\<lsq>y\" and \"y\\<lsq>x\"\n  shows \"x=y\"\n"}

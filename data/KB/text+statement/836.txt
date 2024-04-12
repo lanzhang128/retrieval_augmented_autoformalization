@@ -1,0 +1,1 @@
+{"text": "text\\<open>The sum of embeddings is the embeding of the sum.\\<close>\n", "statement": "lemma (in int1) Int_ZF_2_5_L3A: assumes A1: \"m\\<in>\\<int>\"  \"k\\<in>\\<int>\"\n  shows \"(m\\<^sup>S) \\<fp> (k\\<^sup>S) = ((m\\<ra>k)\\<^sup>S)\"\n"}

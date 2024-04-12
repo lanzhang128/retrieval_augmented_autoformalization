@@ -1,0 +1,1 @@
+{"text": "text\\<open>Some properties of singletons.\\<close>\n", "statement": "lemma ZF1_1_L9: assumes A1: \"\\<exists>! x. x\\<in>A \\<and> \\<phi>(x)\"\n  shows \n  \"\\<exists>a. {x\\<in>A. \\<phi>(x)} = {a}\"\n  \"\\<Union> {x\\<in>A. \\<phi>(x)} \\<in> A\"\n  \"\\<phi>(\\<Union> {x\\<in>A. \\<phi>(x)})\"\n"}

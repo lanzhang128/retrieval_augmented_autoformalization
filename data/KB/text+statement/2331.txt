@@ -1,0 +1,1 @@
+{"text": "text\\<open>What is the inverse image of a singleton?\\<close>\n", "statement": "lemma func1_1_L14: assumes \"f\\<in>X\\<rightarrow>Y\" \n  shows \"f-``({y}) = {x\\<in>X. f`(x) = y}\" \n  "}

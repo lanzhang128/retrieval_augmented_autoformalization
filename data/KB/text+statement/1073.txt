@@ -1,0 +1,1 @@
+{"text": "text\\<open>A simplification rule for natural numbers: if $k<n$ then $n-(k+1)+1 = n-k$: \\<close>\n", "statement": "lemma nat_subtr_simpl0: assumes \"n\\<in>nat\" \"k\\<in>n\" \n  shows \"n #- (k #+ 1) #+ 1 = n #- k\"\n"}

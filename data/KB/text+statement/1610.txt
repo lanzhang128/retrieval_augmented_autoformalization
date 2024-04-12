@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $n,k$ are natural numbers and $x,y$ are ring elements then the binomial term is \n  an element of the ring. \\<close>\n", "statement": "lemma (in ring3) bt_type: assumes \"n\\<in>nat\" \"k\\<in>nat\" \"x\\<in>R\" \"y\\<in>R\" \n  shows \"BT(n,k,x,y) \\<in> R\"\n  "}

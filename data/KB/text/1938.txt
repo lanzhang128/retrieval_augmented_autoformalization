@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma splits the the definition of a filter into four conditions\n to make it easier to reference each one separately in proofs.\\<close>\n"}

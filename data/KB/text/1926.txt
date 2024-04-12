@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special corner case of \\<open>finite_top_prod_homeo\\<close>: a space $X$ \n  is homeomorphic to the space of one element lists of $X$.\\<close>\n"}

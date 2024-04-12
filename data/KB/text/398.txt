@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a product of two elements of a group is equal to the neutral\nelement then they are inverses of each other.\\<close>\n"}

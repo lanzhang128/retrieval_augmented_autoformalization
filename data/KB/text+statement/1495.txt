@@ -1,0 +1,1 @@
+{"text": "text\\<open>Multiplication is commutative on reals.\\<close>\n", "statement": "lemma real_mult_commutative: shows\n  \"RealMultiplication {is commutative on} RealNumbers\"\n  "}

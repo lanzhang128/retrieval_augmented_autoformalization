@@ -1,0 +1,1 @@
+{"text": "text\\<open>The collection of sets defined as above is indeed a topology. \\<close>\n"}

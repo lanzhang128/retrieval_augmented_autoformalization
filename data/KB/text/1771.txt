@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $A$ is a subset of $B$ translated by $-x$ then its translation by $x$ is a subset of $B$.\\<close>\n"}

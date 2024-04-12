@@ -1,0 +1,1 @@
+{"informal": " Assuming that a set A is a subset of the union of a collection T in the construct defined as topology0, then A is also a subset of the closure (cl) of set A.", "statement": "lemma (in topology0) cl_contains_set: assumes \"A \\<subseteq> \\<Union>T\" shows \"A \\<subseteq> cl(A)\"\n  "}

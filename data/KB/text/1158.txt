@@ -1,0 +1,1 @@
+{"text": "text\\<open>For total and transitive relations if we add an element to a set \n  that has a minimum, the set still has a minimum.\\<close>\n"}

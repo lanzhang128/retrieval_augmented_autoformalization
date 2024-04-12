@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can add the sides of two inequalities,\n  the second of them strict and we get a strict inequality. \n  Property of ordered groups.\\<close>\n"}

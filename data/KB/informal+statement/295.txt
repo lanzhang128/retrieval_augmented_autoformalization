@@ -1,0 +1,1 @@
+{"informal": " Assume \"A has size approximately n, where n is a natural number.\" Then, \"The size of A is equal to n.\"", "statement": "lemma card_card: assumes \"A \\<approx> n\" and \"n \\<in> nat\"\n  shows \"|A| = n\"\n  "}

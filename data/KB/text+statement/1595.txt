@@ -1,0 +1,1 @@
+{"text": "text\\<open>Some properties of the order relation on reals: \\<close>\n", "statement": "lemma (in reals) pos_is_lattice: shows \n  \"IsLinOrder(\\<real>,ROrd)\"\n  \"IsLinOrder(\\<real>\\<^sub>+,ROrd \\<inter> \\<real>\\<^sub>+\\<times>\\<real>\\<^sub>+)\"\n  \"(ROrd \\<inter> \\<real>\\<^sub>+\\<times>\\<real>\\<^sub>+) {is a lattice on} \\<real>\\<^sub>+\"\n"}

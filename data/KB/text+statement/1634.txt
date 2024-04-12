@@ -1,0 +1,1 @@
+{"text": "text\\<open>In rings with no zero divisors we can cancel nonzero factors.\\<close>\n", "statement": "lemma (in ring0) Ring_ZF_1_L12A: \n  assumes A1: \"HasNoZeroDivs(R,A,M)\" and A2: \"a\\<in>R\"  \"b\\<in>R\"  \"c\\<in>R\"\n  and A3: \"a\\<cdot>c = b\\<cdot>c\" and A4: \"c\\<noteq>\\<zero>\" \n  shows \"a=b\"\n"}

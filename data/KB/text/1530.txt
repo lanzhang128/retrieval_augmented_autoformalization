@@ -1,0 +1,1 @@
+{"text": "text\\<open>Properties of the maximum of three real numbers.\\<close>\n"}

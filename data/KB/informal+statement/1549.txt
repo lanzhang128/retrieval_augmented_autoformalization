@@ -1,0 +1,1 @@
+{"informal": " Given an integer m, the set of real numbers raised to the power of m is equal to the set of real numbers obtained by raising each real number to the power of m.", "statement": "lemma (in real1) Real_ZF_1_4_L1: assumes \"m \\<in> int\"\n  shows \"(\\<zm>m)\\<^sup>R = \\<rm>(m\\<^sup>R)\"\n  "}

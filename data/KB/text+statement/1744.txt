@@ -1,0 +1,1 @@
+{"text": "text\\<open>Different ways of looking at adding sets.\\<close>\n", "statement": "lemma (in topgroup) interval_add: assumes \"A\\<subseteq>G\" \"B\\<subseteq>G\" shows\n  \"A\\<sad>B \\<subseteq> G\" \n  \"A\\<sad>B = f``(A\\<times>B)\"  \n  \"A\\<sad>B = (\\<Union>x\\<in>A. x\\<ltr>B)\"\n  \"A\\<sad>B = {x\\<ra>y. \\<langle>x,y\\<rangle> \\<in> A\\<times>B}\" \n"}

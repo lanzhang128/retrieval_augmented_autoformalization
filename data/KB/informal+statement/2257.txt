@@ -1,0 +1,1 @@
+{"informal": " Given that for all x in X, a(x) is equal to b(x), then the sets {a(x). x \u2208 X} and {b(x). x \u2208 X} are equal.", "statement": "lemma ZF1_1_L4B: assumes \"\\<forall>x\\<in>X. a(x) = b(x)\"\n  shows \"{a(x). x\\<in>X} = {b(x). x\\<in>X}\"\n  "}

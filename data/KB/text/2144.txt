@@ -1,0 +1,1 @@
+{"text": "text\\<open>Given a topological space, we can always add one point to the space and get a new compact topology; as we\nwill check in this section.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every ultraconnected space is connected.\\<close>\n", "statement": "lemma UConn_imp_Conn:\n  assumes \"T{is ultraconnected}\"\n  shows \"T{is connected}\"\n"}

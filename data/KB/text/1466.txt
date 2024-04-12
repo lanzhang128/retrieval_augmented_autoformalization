@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of real numbers is the set of equivalence classes of\n  slopes.\\<close>\n"}

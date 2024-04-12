@@ -1,0 +1,1 @@
+{"text": "text\\<open>In linearly ordered groups if $A\\cap G_+$ is finite, \n  then $A$ is bounded above.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_2_L4:\n  assumes A1: \"r {is total on} G\" and A2: \"A\\<subseteq>G\" \n  and A3: \"A \\<inter> G\\<^sub>+ \\<in> Fin(G)\"\n  shows \"IsBoundedAbove(A,r)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse map is uniformly continuous in the Roelcke uniformity\\<close>\n", "statement": "theorem (in topgroup) inv_uniform_roelcke:\n  shows \n    \"GroupInv(G,f) {is uniformly continuous between} roelckeUniformity {and} roelckeUniformity\" \n"}

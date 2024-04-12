@@ -1,0 +1,1 @@
+{"text": "text\\<open>For injections the inverse image of an image is the same set.\\<close>\n", "statement": "lemma inj_vimage_image: assumes \"f \\<in> inj(X,Y)\" and \"A\\<subseteq>X\"\n  shows \"f-``(f``(A)) = A\"\n"}

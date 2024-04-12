@@ -1,0 +1,1 @@
+{"text": "text\\<open>A big rearrangement with five integers.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_2_L13: \n  assumes A1: \"a\\<in>\\<int>\"  \"b\\<in>\\<int>\"  \"c\\<in>\\<int>\" \"d\\<in>\\<int>\"  \"x\\<in>\\<int>\"\n  shows \"(x\\<ra>(a\\<cdot>x\\<ra>b)\\<ra>c)\\<cdot>d = d\\<cdot>(a\\<ra>\\<one>)\\<cdot>x \\<ra> (b\\<cdot>d\\<ra>c\\<cdot>d)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A cover is a barycentric refinement of the collection of stars of the singletons\n  $\\{x \\}$ as $x$ ranges over $X$.\\<close>\n", "statement": "lemma singl_star_bary: \n  assumes \"P \\<in> Covers(X)\" shows \"P <\\<^sup>B {Star({x},P). x\\<in>X}\"\n  "}

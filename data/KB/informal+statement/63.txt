@@ -1,0 +1,1 @@
+{"informal": " In the theory `complex0`, there is a lemma named `axicn` stating that a symbol `<i>` is an element of a complex number `<complex>`.", "statement": "lemma (in complex0) axicn: shows \"\\<i> \\<in> \\<complex>\"\n  "}

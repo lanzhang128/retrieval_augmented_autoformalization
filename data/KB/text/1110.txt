@@ -1,0 +1,1 @@
+{"text": "text\\<open>A linear relation is linear on any subset and we can restrict it to any subset.\\<close>\n"}

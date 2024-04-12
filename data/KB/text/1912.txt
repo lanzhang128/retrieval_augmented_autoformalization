@@ -1,0 +1,1 @@
+{"text": "text\\<open>Closure of an image of a singleton by a relation in $X\\times Y$ is contained in the \n  image of this singleton by the closure of the relation (in the product topology).\n  Compare the proof of Metamath's theorem with the same name.\\<close>\n"}

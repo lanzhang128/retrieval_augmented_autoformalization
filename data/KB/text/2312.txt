@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse image of the image of the domain is the domain.\\<close>\n"}

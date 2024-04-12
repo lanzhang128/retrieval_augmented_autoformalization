@@ -1,0 +1,1 @@
+{"text": "text\\<open>The closure of a set of states can then be\nviewed as all the states reachable from that set\nwith a transition of type @{term \\<Sigma>}.\\<close>\n"}

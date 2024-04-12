@@ -1,0 +1,1 @@
+{"text": "text\\<open> A partially ordered $(L,r)$ set is a lattice if it is both join and meet-semilattice, i.e. if \n  every two element set has a supremum (least upper bound) and infimum (greatest lower bound). \\<close>\n"}

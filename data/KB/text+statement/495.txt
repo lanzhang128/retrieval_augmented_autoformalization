@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group inverse (in the projected group) of a class is the class\n  of the inverse.\\<close>\n", "statement": "lemma (in group0) Group_ZF_2_2_L4:\n  assumes A1: \"equiv(G,r)\" and \n  A2: \"Congruent2(r,P)\" and \n  A3: \"F = ProjFun2(G,r,P)\" and\n  A4: \"a\\<in>G\"\n  shows \"r``{a\\<inverse>} = GroupInv(G//r,F)`(r``{a})\"\n"}

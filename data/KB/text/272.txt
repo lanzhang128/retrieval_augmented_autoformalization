@@ -1,0 +1,1 @@
+{"text": "text\\<open>We define the languages determined by a deterministic\nfinite state automaton as \\textbf{regular}.\\<close>\n"}

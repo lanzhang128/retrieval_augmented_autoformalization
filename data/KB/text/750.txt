@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another way of expressing the fact that odd extensions are odd.\\<close>\n"}

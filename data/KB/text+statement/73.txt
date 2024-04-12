@@ -1,0 +1,1 @@
+{"text": "text\\<open>The \\<open>CplxROrder\\<close> thing is a relation on the complex reals.\n\\<close>\n", "statement": "lemma (in complex0) cplx_ord_on_cplx_reals:\n  shows \"CplxROrder(R,A,r) \\<subseteq> \\<real>\\<times>\\<real>\"\n  "}

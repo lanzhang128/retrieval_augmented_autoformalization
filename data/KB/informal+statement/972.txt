@@ -1,0 +1,1 @@
+{"informal": " In the context of the MMISar0 theory, if A and B are natural numbers, then A is less than B if and only if A is strictly less than B, or A and B differ by exactly one.", "statement": "lemma (in MMIsar0) MMI_nnleltp1t: \n  shows \"A \\<in> \\<nat> \\<and> B \\<in> \\<nat> \\<longrightarrow> A \\<lsq> B \\<longleftrightarrow> A \\<ls> B \\<ca> \\<one>\"\n"}

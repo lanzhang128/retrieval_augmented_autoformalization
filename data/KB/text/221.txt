@@ -1,0 +1,1 @@
+{"text": "text\\<open>\\<open>Tail\\<close> commutes with \\<open>Append\\<close>.\\<close>\n"}

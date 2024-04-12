@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of positive reals is closed under addition and multiplication.\n  Zero (the neutral element of addition) is not a positive number.\\<close>\n"}

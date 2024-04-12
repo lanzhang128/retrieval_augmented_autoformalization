@@ -1,0 +1,1 @@
+{"text": "text\\<open>A single pair is a function on a singleton. This is\n  similar to \\<open>singleton_fun\\<close> from standard Isabelle/ZF.\\<close>\n"}

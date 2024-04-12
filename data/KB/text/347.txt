@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next theorem tells us what happens to the fold of a sequence\n  when we add one more element to it.\\<close>\n"}

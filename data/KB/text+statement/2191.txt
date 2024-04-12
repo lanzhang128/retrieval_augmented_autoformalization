@@ -1,0 +1,1 @@
+{"text": "text\\<open>Firstly, we need to compute the spectrum of\nthe being perfect.\\<close>\n", "statement": "lemma spectrum_perfect:\n  shows \"(A{is in the spectrum of}IsPerf) \\<longleftrightarrow> A=0\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " In the ring1 context, it is proven that R with addition A, multiplication M, and order relation r, forms an ordered ring.", "statement": "lemma (in ring1) OrdRing_ZF_1_L1: shows \"IsAnOrdRing(R,A,M,r)\"\n  "}

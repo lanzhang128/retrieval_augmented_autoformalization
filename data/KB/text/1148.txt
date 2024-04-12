@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set has a supremum then it cannot be empty. We are probably using the fact that \n  $\\bigcap  \\emptyset = \\emptyset $, which makes me a bit anxious \n  as this I think is just a convention. \\<close>\n"}

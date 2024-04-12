@@ -1,0 +1,1 @@
+{"text": "text\\<open>The intersection of two regular languages\nis a regular language.\\<close>\n", "statement": "theorem regular_intersect:\n  assumes \"Finite(\\<Sigma>)\"\n  and \"L1{is a regular language on}\\<Sigma>\"\n  and \"L2{is a regular language on}\\<Sigma>\"\nshows \"(L1\\<inter>L2) {is a regular language on}\\<Sigma>\"\n"}

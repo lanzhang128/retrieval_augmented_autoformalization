@@ -1,0 +1,1 @@
+{"text": "text\\<open>A cover of a nonempty set must have a nonempty member.\\<close>\n", "statement": "lemma cover_nonempty: assumes \"X\\<noteq>0\" \"P \\<in> Covers(X)\"\n  shows \"\\<exists>U\\<in>P. U\\<noteq>0\"\n  "}

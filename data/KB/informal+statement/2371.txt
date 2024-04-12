@@ -1,0 +1,1 @@
+{"informal": " Given that function f is surjective from set A to set B, the image of set A under function f must equal set B.", "statement": "lemma surj_range_image_domain: assumes A1: \"f \\<in> surj(A,B)\"\n  shows \"f``(A) = B\"\n"}

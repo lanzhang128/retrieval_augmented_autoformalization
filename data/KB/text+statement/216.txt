@@ -1,0 +1,1 @@
+{"text": "text\\<open>Concatenation is associative.\\<close>\n", "statement": "theorem concat_assoc: \n  assumes A1: \"n \\<in> nat\"  \"k \\<in> nat\"  \"m \\<in> nat\" and\n  A2: \"a:n\\<rightarrow>X\"   \"b:k\\<rightarrow>X\"   \"c:m\\<rightarrow>X\"\n  shows \"Concat(Concat(a,b),c) =  Concat(a, Concat(b,c))\"\n"}

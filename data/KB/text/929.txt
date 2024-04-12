@@ -1,0 +1,1 @@
+{"text": "text\\<open>Integer intervals are finite - induction step.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Star refinement implies barycentric refinement. \\<close>\n", "statement": "lemma star_is_bary: assumes \"Q\\<in>Covers(X)\" and \"Q <\\<^sup>* P\"\n  shows \"Q <\\<^sup>B P\"\n"}

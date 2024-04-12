@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $U$ is a set from the base of $X^n$ and $V$ is open in $X$, then $U\\times V$\nis in the base of $X^{n+1}$. The next lemma is an analogue of this fact for the \nfunction space approach.\\<close>\n"}

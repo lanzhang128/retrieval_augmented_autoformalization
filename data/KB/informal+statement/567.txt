@@ -1,0 +1,1 @@
+{"informal": " If H is a subset of group G and g is an element of G, then the conjugate set {h. h = g ^-1 * h * g} of g is equal to the subset H.", "statement": "theorem (in group0) conj_set_is_eqpoll:\n  assumes \"H\\<subseteq>G\" \"g\\<in>G\"\n  shows \"H\\<approx>{g\\<cdot>(h\\<cdot>g\\<inverse>). h\\<in>H}\"\n"}

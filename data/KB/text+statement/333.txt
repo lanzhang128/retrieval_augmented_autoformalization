@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma demonstrates an elegant form of the \n  \\<open>Exactly_1_of_3_holds(p,q,r)\\<close> predicate.\\<close>\n", "statement": "lemma Fol1_L8: \n  shows \"Exactly_1_of_3_holds(p,q,r) \\<longleftrightarrow> (p\\<longleftrightarrow>q\\<longleftrightarrow>r) \\<and> \\<not>(p\\<and>q\\<and>r)\"\n"}

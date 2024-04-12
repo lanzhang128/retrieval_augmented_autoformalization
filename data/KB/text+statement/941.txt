@@ -1,0 +1,1 @@
+{"text": "text\\<open>Linear order is a lattice.\\<close>\n", "statement": "lemma lin_is_latt: assumes \"r\\<subseteq>L\\<times>L\" and \"IsLinOrder(L,r)\"\n  shows \"r {is a lattice on} L\"\n"}

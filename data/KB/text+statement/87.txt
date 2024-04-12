@@ -1,0 +1,1 @@
+{"text": "text\\<open>The direct product of binary operations is a binary operation.\\<close>\n", "statement": "lemma (in direct0) DirectProduct_ZF_1_L1:\n  shows \"R : (G\\<times>H)\\<times>(G\\<times>H)\\<rightarrow>G\\<times>H\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open> $a\\leq b$ iff $a-b\\leq 0$. This is a fact from \n  \\<open>OrderedGroup.thy\\<close>, where it is stated in multiplicative notation.\\<close>\n"}

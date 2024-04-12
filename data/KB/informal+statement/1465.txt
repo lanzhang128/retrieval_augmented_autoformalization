@@ -1,0 +1,1 @@
+{"informal": " \"SlopeEquivalenceRel is the equivalence relation defined as the quotient group relation on Slopes, using the slope addition operation SlopeOp1, and with domain bounded integer maps.\"", "statement": "definition\n  \"SlopeEquivalenceRel \\<equiv> QuotientGroupRel(Slopes,SlopeOp1,BoundedIntMaps)\"\n"}

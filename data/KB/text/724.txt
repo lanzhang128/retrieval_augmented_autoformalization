@@ -1,0 +1,1 @@
+{"text": "text\\<open>A three element set has a maximume and minimum.\\<close>\n"}

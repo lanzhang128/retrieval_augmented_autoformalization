@@ -1,0 +1,1 @@
+{"text": "text\\<open>Strict order is preserved by translations.\\<close>\n", "statement": "lemma (in ring1) ring_strict_ord_trans_inv: \n  assumes \"a\\<ls>b\" and \"c\\<in>R\"\n  shows  \n  \"a\\<ra>c \\<ls> b\\<ra>c\"\n  \"c\\<ra>a \\<ls> c\\<ra>b\"\n  "}

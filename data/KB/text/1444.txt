@@ -1,0 +1,1 @@
+{"text": "text\\<open>Yet another lemma about bisecting a set with an added point,\n  very similar to \\<open> point_set_bisec\\<close> with almost the same proof.\\<close>\n"}

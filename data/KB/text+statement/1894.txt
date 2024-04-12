@@ -1,0 +1,1 @@
+{"text": "text\\<open>Homeomorphism is a bijection that preserves open sets.\\<close>\n", "statement": "definition \"IsAhomeomorphism(T,S,f) \\<equiv>\n         f \\<in> bij(\\<Union>T,\\<Union>S) \\<and> IsContinuous(T,S,f) \\<and> IsContinuous(S,T,converse(f))\"\n"}

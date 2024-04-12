@@ -1,0 +1,1 @@
+{"text": "text\\<open>Fixing the second variable commutes with restrictig the domain.\\<close>\n", "statement": "lemma fix_2nd_var_restr_comm: \n  assumes A1: \"f : X\\<times>Y \\<rightarrow> Z\" and A2: \"y\\<in>Y\" and A3: \"X\\<^sub>1 \\<subseteq> X\"\n  shows \"Fix2ndVar(restrict(f,X\\<^sub>1\\<times>Y),y) = restrict(Fix2ndVar(f,y),X\\<^sub>1)\"\n"}

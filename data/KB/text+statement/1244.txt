@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can replace factors on one side of an inequality \n  with greater ones.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L5E: \n  assumes A1: \"a \\<lsq> b\\<cdot>c\" and A2: \"b\\<lsq>b\\<^sub>1\"  \"c\\<lsq>c\\<^sub>1\"  \n  shows \"a \\<lsq> b\\<^sub>1\\<cdot>c\\<^sub>1\"\n"}

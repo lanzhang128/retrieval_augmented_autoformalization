@@ -1,0 +1,1 @@
+{"informal": " A set M is related to another set X by \"restricted to\" if and only if X intersects A and every element in A is an element of M.", "statement": "definition\n  RestrictedTo (infixl \"{restricted to}\" 70) where\n  \"M {restricted to} X \\<equiv> {X \\<inter> A . A \\<in> M}\"\n"}

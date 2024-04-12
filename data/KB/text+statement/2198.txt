@@ -1,0 +1,1 @@
+{"text": "text\\<open>The filter part of the definition of uniformity for easier reference:\\<close>\n", "statement": "lemma unif_filter: assumes \"\\<Phi> {is a uniformity on} X\"\n  shows \"\\<Phi> {is a filter on} (X\\<times>X)\"\n  "}

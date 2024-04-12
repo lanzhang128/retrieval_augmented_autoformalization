@@ -1,0 +1,1 @@
+{"informal": " If commutative relations P on G and Q on H hold, then the relation R on the Cartesian product G x H is commutative.", "statement": "lemma (in direct0) DirectProduct_ZF_2_L1:\n  assumes \"P {is commutative on} G\" and \"Q {is commutative on} H\"\n  shows \"R {is commutative on} G\\<times>H\"\n"}

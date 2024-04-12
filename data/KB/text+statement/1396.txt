@@ -1,0 +1,1 @@
+{"text": "text\\<open>A square is nonnegative.\\<close>\n", "statement": "lemma (in ring1) OrdRing_ZF_1_L10:\n  assumes A1: \"a\\<in>R\" shows \"\\<zero>\\<lsq>(a\\<^sup>2)\"\n"}

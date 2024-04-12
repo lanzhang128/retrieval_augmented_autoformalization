@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the relation is reflexive, the endpoints belong to the interval.\\<close>\n"}

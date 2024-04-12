@@ -1,0 +1,1 @@
+{"text": "text\\<open>The strict version of the complex relation is a \n  relation on complex reals.\\<close>\n", "statement": "lemma (in complex0) cplx_strict_ord_on_cplx_reals:\n  shows \"StrictVersion(CplxROrder(R,A,r)) \\<subseteq> \\<real>\\<times>\\<real>\"\n  "}

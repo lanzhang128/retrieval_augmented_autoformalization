@@ -1,0 +1,1 @@
+{"informal": " In the context of the finite support domain (finsupp), the constant zero mapping belongs to the domain (M). \n\nOr more simply:\n\nThe constant zero mapping is an element of M in finsupp.", "statement": "lemma (in finsupp) const_zero_fin_supp:\n  shows \"TheNeutralElement(X\\<rightarrow>M, \\<A>) \\<in> \\<M>\"\n  "}

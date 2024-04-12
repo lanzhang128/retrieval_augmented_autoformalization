@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group inverse (in the quotient group) of a class (coset) is the class\n  of the inverse.\\<close>\n", "statement": "lemma (in group0) Group_ZF_2_4_L7: \n  assumes \"IsAnormalSubgroup(G,P,H)\" \n  and \"a\\<in>G\" and \"r = QuotientGroupRel(G,P,H)\" \n  and \"F = QuotientGroupOp(G,P,H)\"\n  shows \"r``{a\\<inverse>} = GroupInv(G//r,F)`(r``{a})\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can use \\<open>topology0\\<close>  when discussing excluded set topology. \\<close>\n", "statement": "theorem topology0_excludedset:\n  shows \"topology0(ExcludedSet(X,T))\"\n  "}

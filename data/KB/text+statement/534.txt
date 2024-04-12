@@ -1,0 +1,1 @@
+{"text": "text\\<open>What is the group inverse in the group of almost homomorphisms?\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_2_L13: \n  assumes A1: \"s\\<in>AH\"\n  shows \n  \"GroupInv(AH,Op1)`(s) = GroupInv(G,P) O s\"\n  \"GroupInv(AH,Op1)`(s) \\<in> AH\"\n  \"GroupInv(G,P) O s \\<in> AH\"\n"}

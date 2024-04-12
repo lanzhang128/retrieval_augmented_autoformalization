@@ -1,0 +1,1 @@
+{"text": "text\\<open>A nonnegative number is does not decrease when multiplied by \n  a number greater or equal $1$.\\<close>\n"}

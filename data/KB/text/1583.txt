@@ -1,0 +1,1 @@
+{"text": "text\\<open>A technical lemma aimed used in the proof the candidate for supremum of \n  $S$ is less or equal than any upper bound for $S$.\\<close>\n"}

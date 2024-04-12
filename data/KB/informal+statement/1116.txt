@@ -1,0 +1,1 @@
+{"informal": " If `X` is a non-empty set, `r` is a reflexive relation on `X`, `a` and `b` are in `X`, and `(a, b)` is an element of `r`, then the interval `[a, b]_r` defined by `r` is non-empty.", "statement": "lemma Order_ZF_2_L2A: assumes \"refl(X,r)\" \n  and \"a\\<in>X\"  \"b\\<in>X\" and \"\\<langle> a,b\\<rangle> \\<in> r\"\n  shows \"Interval(r,a,b) \\<noteq> 0\"\n"}

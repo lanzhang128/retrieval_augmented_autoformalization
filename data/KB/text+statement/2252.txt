@@ -1,0 +1,1 @@
+{"text": "text\\<open>The union af all values of a constant meta-function belongs to \nthe same set as the constant.\\<close>\n", "statement": "lemma ZF1_1_L2: assumes A1:\"C\\<noteq>0\" and A2: \"\\<forall>x\\<in>C. b(x) \\<in> A\" \n  and A3: \"\\<forall>x y. x\\<in>C \\<and> y\\<in>C \\<longrightarrow> b(x) = b(y)\"\n  shows \"(\\<Union>x\\<in>C. b(x))\\<in>A\"\n"}

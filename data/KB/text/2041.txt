@@ -1,0 +1,1 @@
+{"text": "text\\<open>Now we define what a quotient topology from an equivalence relation is:\\<close>\n"}

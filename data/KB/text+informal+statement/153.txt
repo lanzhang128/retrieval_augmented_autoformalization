@@ -1,0 +1,1 @@
+{"text": "text\\<open>The empty set is the only order automorphism of itself.\\<close>\n", "informal": " The lemma \"empty_ord_iso_empty\" states that the relation `ord_iso(0, r, 0, R)` is equal to the set containing only the element `0`.", "statement": "lemma empty_ord_iso_empty: shows \"ord_iso(0,r,0,R) = {0}\"\n"}

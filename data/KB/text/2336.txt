@@ -1,0 +1,1 @@
+{"text": "text\\<open>The value of a pair on the first element is the second one.\\<close>\n"}

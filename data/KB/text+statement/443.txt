@@ -1,0 +1,1 @@
+{"text": "text\\<open>For groups the left and right inverse are the same as the group inverse. \\<close>\n", "statement": "lemma (in group0) lr_inv_gr_inv: \n  shows \"LeftInv(G,P) = GroupInv(G,P)\" and \"RightInv(G,P) = GroupInv(G,P)\"\n"}

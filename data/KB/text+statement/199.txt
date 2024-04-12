@@ -1,0 +1,1 @@
+{"text": "text\\<open>Finite range functions have finite range.\\<close>\n", "statement": "lemma Finite1_L18: assumes \"f \\<in> FinRangeFunctions(X,Y)\"\n  shows \"{f`(x). x\\<in>X} \\<in> Fin(Y)\"\n  "}

@@ -1,0 +1,1 @@
+{"informal": " If relations P on G and Q on H are associative, then the cartesian product R on G x H is associative.", "statement": "lemma (in direct0) DirectProduct_ZF_2_L2:\n  assumes \"P {is associative on} G\" and \"Q {is associative on} H\"\n  shows \"R {is associative on} G\\<times>H\"\n"}

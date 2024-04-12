@@ -1,0 +1,1 @@
+{"text": "text\\<open>Extending an integer interval by one is the same as adding the new \n  endpoint.\\<close>\n", "informal": " given m < k, we have m from k to (k + 1) is equal to the union of m from k to k and {k + 1} (the set containing k + 1).", "statement": "lemma (in int0) Int_ZF_4_L3: assumes A1: \"m\\<lsq> k\"\n  shows \"m..(k $+ $#1) = m..k \\<union> {k $+ $#1}\"\n"}

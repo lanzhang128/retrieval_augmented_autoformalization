@@ -1,0 +1,1 @@
+{"text": "text\\<open>The topology is defined on the set $X$\\<close>\n", "statement": "lemma union_lordtopology_rordtopology:\n  assumes \"IsLinOrder(X,r)\"\n  shows \"\\<Union>(LOrdTopology X r)=X\" and \"\\<Union>(ROrdTopology X r)=X\" \n  "}

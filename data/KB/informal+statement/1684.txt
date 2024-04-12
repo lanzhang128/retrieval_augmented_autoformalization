@@ -1,0 +1,1 @@
+{"informal": " In the ring0 context, the empty set of the discrete algebra D, which consists of all subsets, equals the natural number zero.", "statement": "lemma (in ring0) openBasic_empty:\n  shows \"D({\\<zero>}) = 0\"\n"}

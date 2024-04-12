@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of positive integers is closed under multiplication.\n  The unfolded form.\\<close>\n", "statement": "lemma (in int0) pos_int_closed_mul_unfold: \n  assumes \"a\\<in>\\<int>\\<^sub>+\"  \"b\\<in>\\<int>\\<^sub>+\"\n  shows \"a\\<cdot>b \\<in> \\<int>\\<^sub>+\"\n  "}

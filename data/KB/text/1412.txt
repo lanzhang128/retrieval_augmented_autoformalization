@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma states that \n  $|a\\cdot (-b)| = |(-a)\\cdot b| = |(-a)\\cdot (-b)| = |a\\cdot b|$.\\<close>\n"}

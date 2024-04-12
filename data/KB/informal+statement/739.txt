@@ -1,0 +1,1 @@
+{"informal": " The lemma \"int_one_two_are_pos\" in Isabelle/ZF states that 1 and 2 are natural numbers.", "statement": "lemma (in int0) int_one_two_are_pos: shows \"\\<one> \\<in> \\<int>\\<^sub>+\"  \"\\<two> \\<in> \\<int>\\<^sub>+\"\n  "}

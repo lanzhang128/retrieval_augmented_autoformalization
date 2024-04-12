@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma states that if $s,r$ are almost homomorphisms, then\n  $s\\cdot r^{-1}$ is also an almost homomorphism.\\<close>\n"}

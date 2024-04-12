@@ -1,0 +1,1 @@
+{"text": "text\\<open>The discrete and the indiscrete topologies appear as special\ncases of this partition topologies.\\<close>\n"}

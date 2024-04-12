@@ -1,0 +1,1 @@
+{"informal": " In the loop1 theory, Lplus is a subset of L. (Here, Lplus represents the set of all elements obtained by adding two elements in L.)", "statement": "lemma (in loop1) nonneg_subset: shows \"L\\<^sup>+ \\<subseteq> L\"\n  "}

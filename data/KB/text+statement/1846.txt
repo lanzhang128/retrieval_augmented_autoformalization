@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $B$ is a base for $T$, then $T$ is the smallest topology containing $B$.\n\\<close>\n", "statement": "lemma base_smallest_top: \n  assumes A1: \"B {is a base for} T\" and  A2: \"S {is a topology}\" and A3: \"B\\<subseteq>S\"\n  shows \"T\\<subseteq>S\"\n"}

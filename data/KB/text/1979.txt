@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $N$ is a (set) neighborhood of $A$ in $T$, then exist an open set $U$ such that\n  $N$ contains $U$ which contains $A$. This is similar to the Metamath's theorem\n  with the same name, except that here we do not need assume that $T$ is a topology\n  (which is a bit worrying).\\<close>\n"}

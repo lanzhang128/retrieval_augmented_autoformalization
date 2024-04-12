@@ -1,0 +1,1 @@
+{"text": "text\\<open>What happens to the product of a list when we append an element \n  to the list?\\<close>\n"}

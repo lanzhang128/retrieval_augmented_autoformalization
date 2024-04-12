@@ -1,0 +1,1 @@
+{"text": "text\\<open>A technical lemma that states that from a function defined on \n  \\<open>G\\<^sub>+\\<close> with values in $G$ we have $(f(a^{-1}))^{-1}\\in G$.\\<close>\n"}

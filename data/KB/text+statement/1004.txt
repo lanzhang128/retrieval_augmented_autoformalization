@@ -1,0 +1,1 @@
+{"text": "text\\<open>It is convenient to have the collection of all open balls in given (p) metrics defined\n  as a separate notion.\\<close>\n", "statement": "definition (in pmetric_space1) Open_Balls\n  where \"Open_Balls \\<equiv> \\<Union>c\\<in>X. {ball(c,r). r \\<in> \\<real>\\<^sub>+}\"\n"}

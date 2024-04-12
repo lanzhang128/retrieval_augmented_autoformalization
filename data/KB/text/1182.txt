@@ -1,0 +1,1 @@
+{"text": "text\\<open>A reformulation of the definition of a strict version of an order.\n\\<close>\n"}

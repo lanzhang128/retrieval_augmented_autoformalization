@@ -1,0 +1,1 @@
+{"text": "text \\<open>An example of defining an operation on the generalization set.\\<close>\n", "statement": "definition add where\n  \"add(x,y) \\<equiv> int_interpr.zf_move`(int_interpr.ret`x $+ int_interpr.ret`y)\"\n"}

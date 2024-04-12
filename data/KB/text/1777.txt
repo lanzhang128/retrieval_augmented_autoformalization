@@ -1,0 +1,1 @@
+{"text": "text\\<open>In this context \\<open>x\\<ra>y\\<close> is the same as the value of the group operation\n  on the elements $x$ and $y$. Normally we shouldn't need to state this a s separate lemma.\\<close>\n"}

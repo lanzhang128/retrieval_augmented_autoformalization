@@ -1,0 +1,1 @@
+{"text": "text\\<open>The final state is @{term starts0}\\<close>\n", "informal": " The set of final states is equivalent to the set of starting states (in Isabelle/ZF syntax: {starts0}).", "statement": "definition finalStates where\n\"finalStates \\<equiv> {starts0}\"\n"}

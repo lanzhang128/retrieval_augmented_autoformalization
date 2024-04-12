@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the unit is in a set then it is in the inverse of that set.\\<close>\n", "statement": "lemma (in group0) neut_inv_neut: assumes \"A\\<subseteq>G\" and \"\\<one>\\<in>A\"\n  shows \"\\<one> \\<in> GroupInv(G,P)``(A)\"\n"}

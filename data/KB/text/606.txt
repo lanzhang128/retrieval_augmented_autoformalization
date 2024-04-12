@@ -1,0 +1,1 @@
+{"text": "text\\<open>We are now ready to prove the main theorem about finite inductive sequences.\\<close>\n"}

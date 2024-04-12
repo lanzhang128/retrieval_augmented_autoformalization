@@ -1,0 +1,1 @@
+{"text": "text\\<open>The definition a a minimum (the smaller of) two elements.\\<close>\n", "statement": "definition\n  \"SmallerOf(r,a,b) \\<equiv> (if \\<langle> a,b\\<rangle> \\<in> r then a else b)\"\n"}

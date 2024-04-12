@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group operation lifted to the function space over $G$ preserves\n  almost homomorphisms.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Groups can be lifted to the function space.\\<close>\n", "informal": " In the group0 theory, if F is the function space over X, then X -> G is a group with respect to Functioneq (equality of functions).", "statement": "theorem (in group0) Group_ZF_2_1_T2:\n  assumes A1: \"F = P {lifted to function space over} X\"\n  shows \"IsAgroup(X\\<rightarrow>G,F)\"\n"}

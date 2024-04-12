@@ -1,0 +1,1 @@
+{"informal": " In the context of `field1`, it is proven that `R` is an order relation on `A`, `M` is a monoid under `r`, and `(A, R, M, r)` is an ordered field.", "statement": "lemma (in field1) OrdField_ZF_1_L1: shows \"IsAnOrdField(R,A,M,r)\"\n  "}

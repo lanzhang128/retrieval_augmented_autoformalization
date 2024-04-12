@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can decompose the finite powerset into collection of\n  sets of the same natural cardinalities.\\<close>\n"}

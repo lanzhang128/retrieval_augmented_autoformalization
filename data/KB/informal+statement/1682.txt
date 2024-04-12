@@ -1,0 +1,1 @@
+{"informal": " In the ring0 context, the collection of sets {D(J) | J \u2208 I} forms a topology.", "statement": "corollary (in ring0) zariski_top:\n  shows \"{D(J). J\\<in>\\<I>}{is a topology}\" unfolding IsATopology_def\n"}

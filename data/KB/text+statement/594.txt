@@ -1,0 +1,1 @@
+{"text": "text\\<open>The endomorphisms of an abelian group is in fact a ring with the previous\n  operations.\\<close>\n", "statement": "theorem (in abelian_group) end_is_ring:\n  assumes \"F = P {lifted to function space over} G\"\n  shows \n    \"IsAring(End(G,P),InEnd(F,G,P),InEnd(Composition(G),G,P))\"\n  "}

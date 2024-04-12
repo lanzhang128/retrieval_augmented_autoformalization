@@ -1,0 +1,1 @@
+{"informal": " Assuming `a` is an element in the group `G` and `a` has an inverse equal to the identity element, then `a` is equal to the identity element itself.", "statement": "lemma (in group0) group0_2_L8A:  \n  assumes A1: \"a\\<in>G\" and A2: \"a\\<inverse> = \\<one>\"\n  shows \"a = \\<one>\"\n"}

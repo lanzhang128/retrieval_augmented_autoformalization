@@ -1,0 +1,1 @@
+{"informal": " If function `f` is a homeomorphism from set `T` to set `S`, then the inverse function `converse(f)` is a homeomorphism from set `S` to set `T`.", "statement": "lemma homeo_inv: assumes \"IsAhomeomorphism(T,S,f)\"\n  shows \"IsAhomeomorphism(S,T,converse(f))\"\n  "}

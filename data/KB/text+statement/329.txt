@@ -1,0 +1,1 @@
+{"text": "text\\<open>There is a problem with application of the definition of asymetry for\n  relations. The next lemma is a workaround.\\<close>\n", "statement": "lemma Fol1_L4: \n  assumes A1: \"antisym(r)\" and A2: \"\\<langle> a,b\\<rangle> \\<in> r\"   \"\\<langle> b,a\\<rangle> \\<in> r\"  \n  shows \"a=b\"\n"}

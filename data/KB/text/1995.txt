@@ -1,0 +1,1 @@
+{"text": "text\\<open>A topological property is hereditary if whenever a space has it, \nevery subspace also has it.\\<close>\n"}

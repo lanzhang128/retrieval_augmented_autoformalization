@@ -1,0 +1,1 @@
+{"text": "text\\<open>We say that a relation $r$ up-directs a set\n  if every two-element subset of $X$ has an upper bound. \\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Adding natural numbers does not decrease what we add to.\\<close>\n", "statement": "lemma add_nat_le: assumes A1: \"n \\<in> nat\"  and A2: \"k \\<in> nat\"\n  shows \n  \"n \\<le> n #+ k\"\n  \"n \\<subseteq> n #+ k\"\n  \"n \\<subseteq> k #+ n\"\n"}

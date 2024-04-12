@@ -1,0 +1,1 @@
+{"text": "text\\<open>Intersection of a finite nonempty collection of open sets is open.\\<close>\n"}

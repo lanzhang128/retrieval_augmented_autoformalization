@@ -1,0 +1,1 @@
+{"text": "text\\<open>Since every subgroup is normal in abelian\ngroups, it follows that commutative simple groups\ndo not have subgroups.\\<close>\n"}

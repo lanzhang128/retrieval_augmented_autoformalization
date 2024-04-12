@@ -1,0 +1,1 @@
+{"informal": " The set Supp(f, G, A) is defined as the set of x in the domain of f such that the image of x under f is not the neutral element of group G with respect to operation A.", "statement": "definition\n  \"Supp(f,G,A) \\<equiv> {x \\<in> domain(f). f`(x) \\<noteq> TheNeutralElement(G,A)}\"\n"}

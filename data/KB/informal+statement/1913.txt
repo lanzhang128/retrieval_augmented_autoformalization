@@ -1,0 +1,1 @@
+{"informal": " If A is a subset of X1 and the restriction of function f to A is continuous, then A belongs to the topology tau1.", "statement": "lemma (in two_top_spaces0) restriction_continuous1:\n  assumes A1: \"A \\<subseteq> X\\<^sub>1\" and A2: \"restrict(f,A) {is continuous}\"\n  shows \"A \\<in> \\<tau>\\<^sub>1\"\n"}

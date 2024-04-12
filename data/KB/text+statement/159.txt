@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every two finite linearly ordered sets are order \n  isomorphic.\\<close>\n", "statement": "lemma fin_ord_iso_ex: \n  assumes A1: \"IsLinOrder(X,r)\"  \"IsLinOrder(Y,R)\" and\n  A2: \"A \\<in> FinPow(X)\" \"B \\<in> FinPow(Y)\" and A3: \"B \\<approx> A\"\n  shows \"ord_iso(A,r,B,R) \\<noteq> 0\"\n"}

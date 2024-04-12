@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another version of transitivity for the strict order: \n  if $a\\leq b$ and $b<c$, then $a<c$. Property of ordered groups.\\<close>\n"}

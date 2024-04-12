@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $|m| \\leq n$, then $m \\in -n..n$.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_3_L19: \n  assumes A1: \"m\\<in>\\<int>\" and A2: \"abs(m) \\<lsq> n\"\n  shows \n  \"(\\<rm>n) \\<lsq> m\"  \"m \\<lsq> n\"\n  \"m \\<in> (\\<rm>n)..n\"\n  \"\\<zero> \\<lsq> n\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A technical lemma about extending a function both by defining\n  on a set disjoint with the domain and on a point that does not belong\n  to any of those sets.\\<close>\n"}

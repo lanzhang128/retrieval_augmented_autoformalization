@@ -1,0 +1,1 @@
+{"text": "text\\<open>First a lemma. In a complete ordered set, every non-empty set bounded from below has\na maximum lower bound.\\<close>\n"}

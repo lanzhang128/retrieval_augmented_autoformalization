@@ -1,0 +1,1 @@
+{"text": "text\\<open>\\<open>Tail\\<close> commutes with \\<open>Append\\<close>.\\<close>\n", "statement": "theorem tail_append_commute: \n  assumes A1: \"n \\<in> nat\" and A2: \"a: succ(n) \\<rightarrow> X\" and A3: \"x\\<in>X\"\n  shows \"Append(Tail(a),x) = Tail(Append(a,x))\"\n"}

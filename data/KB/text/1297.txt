@@ -1,0 +1,1 @@
+{"text": "text\\<open>A property of nonempty subsets of linearly ordered groups that don't\n  have a maximum: for any element in such subset we can find one that\n  is strictly greater.\\<close>\n"}

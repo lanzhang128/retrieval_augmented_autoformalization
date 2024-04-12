@@ -1,0 +1,1 @@
+{"informal": " \"The minimum element in set A, with respect to relation r, is an element that belongs to A and makes a pair with every other element in A a member of r.\"", "statement": "definition\n  \"Minimum(r,A) \\<equiv> THE m. m\\<in>A \\<and> (\\<forall>x\\<in>A. \\<langle>m,x\\<rangle> \\<in> r)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Complex addition is commutative.\\<close>\n", "informal": " Assuming that that \"a\" and \"b\" are elements of the complex number domain, show that \"a conjugate b\" equals \"b conjugate a\".", "statement": "lemma (in complex0) axaddcom: assumes \"a \\<in> \\<complex>\"  \"b \\<in> \\<complex>\"\n  shows \"a\\<ca>b = b\\<ca>a\"\n  "}

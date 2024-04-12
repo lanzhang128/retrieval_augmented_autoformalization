@@ -1,0 +1,1 @@
+{"text": "text\\<open>Anti-compactness ereases the differences between several properties.\\<close>\n", "statement": "lemma (in topology0) anticompact_KC_equiv_T1:\n  assumes \"T{is anti-compact}\"\n  shows \"T{is KC}\\<longleftrightarrow>T{is T\\<^sub>1}\"\n"}

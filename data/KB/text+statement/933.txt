@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image of an interval by any integer function is\n  finite, hence bounded.\\<close>\n", "statement": "lemma (in int0) Int_ZF_4_L8: \n  assumes A1: \"i\\<in>\\<int>\"  \"k\\<in>\\<int>\" and A2: \"f:\\<int>\\<rightarrow>\\<int>\"\n  shows \n  \"f``(i..k) \\<in> Fin(\\<int>)\"\n  \"IsBounded(f``(i..k),IntegerOrder)\"\n  "}

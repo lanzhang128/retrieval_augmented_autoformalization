@@ -1,0 +1,1 @@
+{"text": "text\\<open>A trichotomy law for the strict version of a total \n  and antisymmetric\n  relation. It is kind of interesting that one does not need\n  the full linear order for this.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The closure of a set $A$ is defined as the intersection of the collection\n  of closed sets that contain $A$.\\<close>\n", "statement": "definition\n  \"Closure(A,T) \\<equiv> \\<Inter> ClosedCovers(A,T)\"\n"}

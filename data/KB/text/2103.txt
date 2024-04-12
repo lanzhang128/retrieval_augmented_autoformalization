@@ -1,0 +1,1 @@
+{"text": "text\\<open>A partition satisfies the base condition.\\<close>\n"}

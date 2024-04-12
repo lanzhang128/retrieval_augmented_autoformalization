@@ -1,0 +1,1 @@
+{"text": "text\\<open>Useful identities proven in the \\<open>Group_ZF\\<close> theory, rewritten here in additive notation.\n  Note since the group operation notation is left associative we don't really need the first set\n  of parentheses in some cases.\\<close>\n"}

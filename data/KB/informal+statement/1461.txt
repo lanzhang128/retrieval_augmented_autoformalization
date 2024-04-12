@@ -1,0 +1,1 @@
+{"informal": " Definition: Slopes are equivalent to almost homomorphisms from integers to Integer Addition.", "statement": "definition\n  \"Slopes \\<equiv> AlmostHoms(int,IntegerAddition)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A composition of three continuous functions is continuous.\\<close>\n"}

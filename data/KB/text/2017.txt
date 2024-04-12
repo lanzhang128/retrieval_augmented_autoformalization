@@ -1,0 +1,1 @@
+{"text": "text\\<open>A first example of an hyperconnected space but not indiscrete, is the cofinite topology on \nthe natural numbers.\\<close>\n"}

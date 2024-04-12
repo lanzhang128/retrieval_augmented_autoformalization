@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition of a fold.\\<close>\n", "statement": "definition\n  \"Fold(f,x,a) \\<equiv> Last(FoldSeq(f,x,a))\"\n"}

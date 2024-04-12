@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every sober space is $T_0$.\\<close>\n", "statement": "lemma (in topology0) sober_imp_T0:\n  assumes \"T{is sober}\"\n  shows \"T{is T\\<^sub>0}\"\n"}

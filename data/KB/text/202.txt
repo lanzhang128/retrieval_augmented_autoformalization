@@ -1,0 +1,1 @@
+{"text": "text\\<open>Image of any subset of the domain of a finite range function is finite.\\<close>\n"}

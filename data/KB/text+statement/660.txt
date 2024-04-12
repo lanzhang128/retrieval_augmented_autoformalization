@@ -1,0 +1,1 @@
+{"text": "text\\<open>Associativity of addition and multiplication.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_1_L7: assumes \"a\\<in>\\<int>\" \"b\\<in>\\<int>\" \"c\\<in>\\<int>\"\n  shows \n  \"a\\<ra>b\\<ra>c = a\\<ra>(b\\<ra>c)\"\n  \"a\\<cdot>b\\<cdot>c = a\\<cdot>(b\\<cdot>c)\"\n  "}

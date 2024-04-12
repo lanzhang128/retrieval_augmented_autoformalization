@@ -1,0 +1,1 @@
+{"text": "text\\<open>Here is the actual criterion.\\<close>\n"}

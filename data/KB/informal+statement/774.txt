@@ -1,0 +1,1 @@
+{"informal": " Assuming an element s is in a set S, we have that s is also a member of set S.", "statement": "lemma (in int1) Int_ZF_2_1_L12: assumes \"s\\<in>\\<S>\" shows \"\\<fm>s \\<in> \\<S>\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>In this context $a \\leq b$ implies that both $a$ and $b$ belong \n  to $G$.\\<close>\n", "informal": " If a is less than b, then both a and b belong to the group G.", "statement": "lemma (in group3) OrderedGroup_ZF_1_L4: \n  assumes \"a\\<lsq>b\" shows \"a\\<in>G\" \"b\\<in>G\"\n  "}

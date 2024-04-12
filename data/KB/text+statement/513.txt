@@ -1,0 +1,1 @@
+{"text": "text\\<open>A composition of a finite range function with the group inverse is\n  a finite range function.\\<close>\n", "statement": "lemma (in group0) Group_ZF_3_1_L3: \n  assumes A1: \"s \\<in> FinRangeFunctions(X,G)\"\n  shows \"GroupInv(G,P) O s \\<in> FinRangeFunctions(X,G)\"\n  "}

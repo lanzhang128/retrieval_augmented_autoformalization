@@ -1,0 +1,1 @@
+{"text": "text\\<open> Every uniform cover has a star refinement. \\<close>\n"}

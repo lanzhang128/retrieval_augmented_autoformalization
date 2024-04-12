@@ -1,0 +1,1 @@
+{"text": "text\\<open>An infinite inductive sequence satisfies the \n  inductive relation that defines it.\\<close>\n", "statement": "theorem indseq_vals: \n  assumes A1: \"f: X\\<rightarrow>X\" and A2: \"x\\<in>X\"  and A3: \"n \\<in> nat\"\n  shows \n  \"InductiveSequence(x,f)`(succ(n)) = f`(InductiveSequence(x,f)`(n))\"\n"}

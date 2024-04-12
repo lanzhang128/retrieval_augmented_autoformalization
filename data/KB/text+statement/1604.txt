@@ -1,0 +1,1 @@
+{"text": "text\\<open>Associativity for the multiplication by natural number and the ring multiplication\n  extended to three elements of the ring:\\<close>\n", "statement": "lemma (in ring3) nat_mult_assoc1: assumes \"n\\<in>nat\" \"x\\<in>R\" \"y\\<in>R\" \"z\\<in>R\" \n  shows \"n\\<nm>x\\<cdot>y\\<cdot>z = n\\<nm>(x\\<cdot>y\\<cdot>z)\"\n  "}

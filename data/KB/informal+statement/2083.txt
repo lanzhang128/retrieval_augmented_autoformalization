@@ -1,0 +1,1 @@
+{"informal": " Theset X with relation Q is a topology (in the sense of Included Set).", "statement": "theorem includedset_is_topology:\n  shows \"IncludedSet(X,Q) {is a topology}\"\n"}

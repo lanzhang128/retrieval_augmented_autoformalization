@@ -1,0 +1,1 @@
+{"text": "text\\<open>The spectrum of a property gives us the list of sets for which the property doesn't give\nany topological information. Being in the spectrum of a topological property is an invariant\nin the category of sets and function; mening that equipollent sets are in the same\nspectra.\\<close>\n"}

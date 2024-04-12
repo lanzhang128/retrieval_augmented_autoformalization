@@ -1,0 +1,1 @@
+{"text": "text\\<open>Two ways of saying that there are no natural numbers between $n$ and $n+1$.\\<close>\n", "statement": "lemma (in complex0) no_nats_between: \n  assumes A1: \"n \\<in> \\<nat>\"  \"k \\<in> \\<nat>\"\n  shows \n  \"n\\<lsq>k \\<longleftrightarrow> n \\<ls> k\\<ca>\\<one>\"\n  \"n \\<ls> k \\<longleftrightarrow> n \\<ca> \\<one> \\<lsq> k\" \n"}

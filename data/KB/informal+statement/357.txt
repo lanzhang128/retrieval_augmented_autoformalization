@@ -1,0 +1,1 @@
+{"informal": " The statement in natural language would be:\n\nThe embedded function is a bijection between two sets of small elements.", "statement": "theorem (in generalization) embed_bij: shows \"embed \\<in> bij(small, small2)\"\n  "}

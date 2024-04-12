@@ -1,0 +1,1 @@
+{"text": "text\\<open>Sets that are bounded above are contained in the domain of \n  the relation.\\<close>\n", "statement": "lemma Order_ZF_3_L1A: assumes \"r \\<subseteq> X\\<times>X\" \n  and \"IsBoundedAbove(A,r)\"\n  shows \"A\\<subseteq>X\" "}

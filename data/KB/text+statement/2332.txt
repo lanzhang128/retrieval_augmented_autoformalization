@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma that can be used instead \\<open>fun_extension_iff\\<close>\n  to show that two functions are equal\\<close>\n", "statement": "lemma func_eq: \n  assumes \"f: X\\<rightarrow>Y\"  \"g: X\\<rightarrow>Z\"and  \"\\<forall>x\\<in>X. f`(x) = g`(x)\"\n  shows \"f = g\" "}

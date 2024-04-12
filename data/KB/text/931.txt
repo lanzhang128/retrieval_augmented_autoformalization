@@ -1,0 +1,1 @@
+{"text": "text\\<open>Bounded integer sets are finite.\\<close>\n"}

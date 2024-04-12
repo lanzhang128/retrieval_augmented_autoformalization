@@ -1,0 +1,1 @@
+{"text": "text\\<open>The second part of the definition of uniformity for easy reference:\\<close>\n", "statement": "lemma entourage_props: \n  assumes \"\\<Phi> {is a uniformity on} X\" and \"A\\<in>\\<Phi>\"\n  shows\n    \"A \\<subseteq> X\\<times>X\"\n    \"id(X) \\<subseteq> A\"\n    \"\\<exists>V\\<in>\\<Phi>. V O V \\<subseteq> A\"\n    \"converse(A) \\<in> \\<Phi>\"\n"}

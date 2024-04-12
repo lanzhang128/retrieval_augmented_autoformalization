@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group of homeomorphism of the excluded set is a direct product of the bijections on $X\\setminus T$\n  and the bijections on $X\\cap T$.\\<close>\n", "statement": "theorem homeo_excluded:\n  shows \"HomeoG(ExcludedSet(X,T))={f\\<in>bij(X,X). f``(X-T)=(X-T)}\"\n"}

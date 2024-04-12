@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma about extending an injection by one point. \n  Essentially the same as standard Isabelle's \\<open>inj_extend\\<close>.\n\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " The relation AlEqRel is a subset of the cartesian product S x S, denoted as AlEqRel \u2286 S x S. This inclusion is equivalent to the relation AlEqRel being identical to the cartesian product S x S.", "statement": "lemma (in int1) Int_ZF_2_1_L9B: shows\n  \"AlEqRel \\<subseteq> \\<S>\\<times>\\<S>\"\n  \"equiv(\\<S>,AlEqRel)\"\n  "}

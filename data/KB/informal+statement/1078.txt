@@ -1,0 +1,1 @@
+{"informal": " A binary relation r is total on a set X if and only if for all a and b in X, either the pair <a,b> or the pair <b,a> is in r.", "statement": "definition\n  IsTotal (infixl \"{is total on}\" 65) where\n  \"r {is total on} X \\<equiv> (\\<forall>a\\<in>X.\\<forall>b\\<in>X. \\<langle> a,b\\<rangle> \\<in> r \\<or> \\<langle> b,a\\<rangle> \\<in> r)\"\n"}

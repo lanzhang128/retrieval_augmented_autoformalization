@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can use theorems proven in the \\<open>field0\\<close> context whenever we\n  talk about a field.\\<close>\n", "statement": "lemma field_field0: assumes \"IsAfield(K,A,M)\"\n  shows \"field0(K,A,M)\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The singleton containing the empty set is a natural number.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>In rings with no zero divisors multiplying a nonzero element \n  by a nonone element changes the value.\\<close>\n", "statement": "lemma (in ring0) Ring_ZF_1_L12C:\n  assumes A1: \"HasNoZeroDivs(R,A,M)\" and \n  A2: \"a\\<in>R\"  \"b\\<in>R\" and A3: \"\\<zero>\\<noteq>a\"  \"\\<one>\\<noteq>b\"\n  shows \"a \\<noteq> a\\<cdot>b\"\n"}

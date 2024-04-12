@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $c\\in A$ then the inverse image of $A$ by the constant function $x\\mapsto c$ \n  is the whole domain. \\<close>\n", "statement": "lemma const_vimage_domain: assumes \"c\\<in>A\" \n  shows \"ConstantFunction(X,c)-``(A) = X\"\n"}

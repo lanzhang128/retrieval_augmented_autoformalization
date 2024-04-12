@@ -1,0 +1,1 @@
+{"text": "text\\<open>Some lemmas from \\<open>Group_ZF_1\\<close> about images of set by translations \n  written in additive notation\\<close>\n", "statement": "lemma (in topgroup) lrtrans_image: assumes \"V\\<subseteq>G\" \"x\\<in>G\"\n  shows \n    \"x\\<ltr>V = {x\\<ra>v. v\\<in>V}\" \n    \"V\\<rtr>x = {v\\<ra>x. v\\<in>V}\"\n  "}

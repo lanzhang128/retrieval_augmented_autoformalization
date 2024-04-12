@@ -1,0 +1,1 @@
+{"text": "text\\<open>Natural multiple and power of a ring element is a ring element.\\<close>\n", "statement": "lemma (in ring3) mult_pow_type: assumes \"n\\<in>nat\" \"x\\<in>R\"\n  shows \"n\\<nm>x \\<in> R\" and \"pow(n,x) \\<in> R\"\n  "}

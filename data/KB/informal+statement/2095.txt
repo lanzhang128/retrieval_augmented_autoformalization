@@ -1,0 +1,1 @@
+{"informal": " If U is a base for a topology T, then the interior of a set A with respect to T is equal to the union of all sets in U that are subset of A.", "statement": "lemma interior_set_base_topology:\n  assumes \"U {is a base for} T\" \"T{is a topology}\"\n  shows \"Interior(A,T) = \\<Union>{T\\<in>U. T\\<subseteq>A}\"\n"}

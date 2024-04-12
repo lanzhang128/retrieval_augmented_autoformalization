@@ -1,0 +1,1 @@
+{"text": "text\\<open>The negative of a function with a finite support\n  is a function with a finite support.\\<close>\n"}

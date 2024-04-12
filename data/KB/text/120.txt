@@ -1,0 +1,1 @@
+{"text": "text\\<open>The projection of an associative operation is associative on the\n  quotient.\\<close>\n"}

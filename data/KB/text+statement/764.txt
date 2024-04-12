@@ -1,0 +1,1 @@
+{"text": "text\\<open>The homomorphism difference of any integer function is integer.\\<close>\n", "statement": "lemma (in int1) Int_ZF_2_1_L3B: \n  assumes \"f:\\<int>\\<rightarrow>\\<int>\" and \"m\\<in>\\<int>\"  \"n\\<in>\\<int>\"\n  shows \"\\<delta>(f,m,n) \\<in> \\<int>\"\n  "}

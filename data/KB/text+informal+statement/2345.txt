@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the domain of a function is nonempty, then the codomain is as well.\\<close>\n", "informal": " If function `f` from non-empty set `X` to set `Y` is defined, then `Y` is also non-empty.", "statement": "lemma codomain_nonempty: assumes \"f:X\\<rightarrow>Y\" \"X\\<noteq>0\" shows \"Y\\<noteq>0\"\n  "}

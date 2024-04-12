@@ -1,0 +1,1 @@
+{"text": "text\\<open>\\<open>embed\\<close> is a restriciton of \\<open>ret\\<close> to \\<open>small\\<close>.\\<close>\n", "informal": " In the generalization1 lemma, it is shown that the embedding function embed is equal to the restricion of the ret function to the small set.", "statement": "lemma (in generalization1) ret_restrict: shows \"embed = restrict(ret, small)\"\n"}

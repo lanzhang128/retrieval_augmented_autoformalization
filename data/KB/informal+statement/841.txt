@@ -1,0 +1,1 @@
+{"informal": " \"IntegerAddition is defined as the equivalence relation where (x, c) in int \u00d7 int if and only if x's first component plus x's second component equals c.\"", "statement": "definition\n  \"IntegerAddition \\<equiv> { \\<langle> x,c\\<rangle> \\<in> (int\\<times>int)\\<times>int. fst(x) $+ snd(x) = c}\"\n"}

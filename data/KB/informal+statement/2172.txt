@@ -1,0 +1,1 @@
+{"informal": " The set of natural numbers with the successor operation applied to each element (csucc(nat)) is a countable yet non-compact set.", "statement": "theorem cocountable_in_csucc_nat_antiCompact:\n  shows \"(CoCountable csucc(nat)){is anti-compact}\"\n"}

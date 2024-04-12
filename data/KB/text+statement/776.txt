@@ -1,0 +1,1 @@
+{"text": "text\\<open>A simple but useful identity.\\<close>\n", "statement": "lemma (in int1) Int_ZF_2_1_L13: \n  assumes \"s\\<in>\\<S>\" and \"n\\<in>\\<int>\"  \"m\\<in>\\<int>\"\n  shows \"s`(n\\<cdot>m) \\<ra> (s`(m) \\<ra> \\<delta>(s,n\\<cdot>m,m)) = s`((n\\<ra>\\<one>)\\<cdot>m)\"\n  "}

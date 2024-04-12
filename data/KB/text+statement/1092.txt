@@ -1,0 +1,1 @@
+{"text": "text\\<open>We say that a set has a maximum if it has an element that is \n  not smaller that any other one. We show that\n  under some conditions this element of the set is unique (if exists).\\<close>\n", "statement": "definition\n  \"HasAmaximum(r,A) \\<equiv> \\<exists>M\\<in>A.\\<forall>x\\<in>A. \\<langle>x,M\\<rangle> \\<in> r\"\n"}

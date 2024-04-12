@@ -1,0 +1,1 @@
+{"text": "text\\<open>Some properties of positive natural numbers.\\<close>\n", "statement": "lemma succ_plus: assumes \"n \\<in> nat\"  \"k \\<in> nat\"\n  shows \n  \"succ(n #+ j) \\<in> nat\" \n  \"succ(n) #+ succ(j) = succ(succ(n #+ j))\"\n  "}

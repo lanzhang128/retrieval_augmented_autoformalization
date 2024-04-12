@@ -1,0 +1,1 @@
+{"text": "text\\<open>Intersections of intervals and rays.\\<close>\n"}

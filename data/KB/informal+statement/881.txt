@@ -1,0 +1,1 @@
+{"informal": " Assuming k is positive, zero is less than k.", "statement": "lemma (in int0) Int_ZF_2_L10A: assumes \"k \\<lsq> \\<zero>\"\n  shows \"\\<zero>\\<lsq>(\\<rm>k)\"\n  "}

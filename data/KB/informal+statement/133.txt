@@ -1,0 +1,1 @@
+{"informal": " If K is a field with carrier set A and multiplication operation M, then the multiplicative identity (or field zero) belongs to A.", "statement": "lemma field_field0: assumes \"IsAfield(K,A,M)\"\n  shows \"field0(K,A,M)\"\n  "}

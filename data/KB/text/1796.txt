@@ -1,0 +1,1 @@
+{"text": "text\\<open>A set $K$ is compact if for every collection of open \n  sets that covers $K$ we can choose a finite one that still covers the set. \n  Recall that \\<open>FinPow(M)\\<close> is the collection of finite subsets of $M$ \n  (finite powerset of $M$), defined in IsarMathLib's \\<open>Finite_ZF\\<close>\n  theory.\\<close>\n"}

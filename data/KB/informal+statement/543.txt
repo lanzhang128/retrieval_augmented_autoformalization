@@ -1,0 +1,1 @@
+{"informal": " In the group1 theory, we have the following lemma:\n\nThe Quotient Group Relation for group (AH, Op1) with respect to finite set F is congruent with respect to the given binary operation Op1.", "statement": "lemma (in group1) Group_ZF_3_3_L4: \n  shows \"Congruent2(QuotientGroupRel(AH,Op1,FR),Op1)\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>We prove the equivalence between $T_0$ and $T_1$ first.\\<close>\n"}

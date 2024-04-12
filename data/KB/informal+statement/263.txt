@@ -1,0 +1,1 @@
+{"informal": " \"The set 'ends0' is defined to be equal to the successor of the number 2.\"", "statement": "definition ends0 where\n  \"ends0 \\<equiv> succ(2)\"\n"}

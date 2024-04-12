@@ -1,0 +1,1 @@
+{"text": "text\\<open>A rearrangement with two elements and canceelling,\n  special case of \\<open>group0_4_L6D\\<close> when $c=b^{-1}$.\\<close>\n"}

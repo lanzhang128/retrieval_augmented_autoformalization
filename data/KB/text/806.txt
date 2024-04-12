@@ -1,0 +1,1 @@
+{"text": "text\\<open>A slope that is bounded on \\<open>\\<int>\\<^sub>+\\<close> is bounded everywhere.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition of a minimum of a set.\\<close>\n", "statement": "definition\n  \"Minimum(r,A) \\<equiv> THE m. m\\<in>A \\<and> (\\<forall>x\\<in>A. \\<langle>m,x\\<rangle> \\<in> r)\"\n"}

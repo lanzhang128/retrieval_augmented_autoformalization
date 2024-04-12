@@ -1,0 +1,1 @@
+{"text": "text\\<open> Meet is idempotent. \\<close>\n", "statement": "lemma (in meet_semilatt) meet_idempotent: assumes \"x\\<in>L\" shows \"x\\<sqinter>x = x\" \n  "}

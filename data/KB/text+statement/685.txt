@@ -1,0 +1,1 @@
+{"text": "text\\<open>Absolute value of a product is the product of absolute values.\n  Property of ordered rings.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_3_L5:\n  assumes A1: \"a\\<in>\\<int>\"  \"b\\<in>\\<int>\"\n  shows \"abs(a\\<cdot>b) = abs(a)\\<cdot>abs(b)\"\n  "}

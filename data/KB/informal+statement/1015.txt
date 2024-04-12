@@ -1,0 +1,1 @@
+{"informal": " In the monoid0 theory, it is shown that the range of function f is equal to the group G.", "statement": "lemma (in monoid0) group0_1_L3B: shows \"range(f) = G\"\n"}

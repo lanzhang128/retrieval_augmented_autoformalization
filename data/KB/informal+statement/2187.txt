@@ -1,0 +1,1 @@
+{"informal": " A subset A of a set T is nowhere dense in T if and only if A is a subset of the union of T and its closure in T, and the interior of A in T is empty.", "statement": "definition\n  IsNowhereDense (\"_ {is nowhere dense in} _\") where\n  \"A{is nowhere dense in}T \\<equiv> A\\<subseteq>\\<Union>T \\<and> Interior(Closure(A,T),T)=0\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Any neighborhood of an element of the closure of a subset intersects the subset.\n  This is practically the same as \\<open>neigh_inter_nempty\\<close>, just formulated in terms \n  of set neighborhoods of singletons. \n  Compare with Metamath's theorem with the same name.\\<close>\n"}

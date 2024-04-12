@@ -1,0 +1,1 @@
+{"informal": " In the group0 theory, prove that group G has left and right divisibility by subset P.", "statement": "lemma (in group0) gr_has_lr_div: shows \"HasLeftDiv(G,P)\" and \"HasRightDiv(G,P)\"\n"}

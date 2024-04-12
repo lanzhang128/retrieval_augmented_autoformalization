@@ -1,0 +1,1 @@
+{"text": "text\\<open>Composing \\<open>move\\<close> with \\<open>embed\\<close> takes elements of \n  \\<open>small\\<close> to themselves.\\<close>\n"}

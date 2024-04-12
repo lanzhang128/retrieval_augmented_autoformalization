@@ -1,0 +1,1 @@
+{"text": "text\\<open>Given a totally ordered set, several topologies can be defined\nusing the order relation. First we define an open interval, notice that\nthe set defined as \\<open>Interval\\<close> is a closed interval; and open rays.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The arguments belongs to the domain and values to the range.\\<close>\n"}

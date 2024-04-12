@@ -1,0 +1,1 @@
+{"text": "text\\<open>First we prove a lemma that in a $T_2$ space two points \n  can be separated by the closure of an open set.\\<close>\n", "statement": "lemma (in topology0) T2_cl_open_sep:\n  assumes \"T {is T\\<^sub>2}\"  and \"x \\<in> \\<Union>T\"  \"y \\<in> \\<Union>T\"   \"x\\<noteq>y\"\n  shows \"\\<exists>U\\<in>T. (x\\<in>U \\<and> y \\<notin> cl(U))\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Let's recall that the relation of almost equality is an equivalence relation\n  on the set of slopes.\\<close>\n", "statement": "lemma (in int1) Int_ZF_2_1_L9B: shows\n  \"AlEqRel \\<subseteq> \\<S>\\<times>\\<S>\"\n  \"equiv(\\<S>,AlEqRel)\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open> In the next lemma we show that the collection defined in lemma \\<open>neigh_filt_fun\\<close> is a filter on $X$.\n   The proof is kind of long, but it just checks that all filter conditions hold.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Purely technical lemma used in \\<open>Topology_ZF_1\\<close> to show \n  that if a topology is $T_2$, then it is $T_1$.\\<close>\n", "statement": "lemma Finite1_L2: \n  assumes A:\"\\<exists>U V. (U\\<in>T \\<and> V\\<in>T \\<and> x\\<in>U \\<and> y\\<in>V \\<and> U\\<inter>V=0)\"\n  shows \"\\<exists>U\\<in>T. (x\\<in>U \\<and> y\\<notin>U)\"\n"}

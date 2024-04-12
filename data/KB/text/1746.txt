@@ -1,0 +1,1 @@
+{"text": "text\\<open>Some lemmas from \\<open>Group_ZF_1\\<close> about images of set by translations \n  written in additive notation\\<close>\n"}

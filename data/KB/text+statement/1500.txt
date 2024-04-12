@@ -1,0 +1,1 @@
+{"text": "text\\<open>Identity function on integers is a slope. \n  This is proven in \\<open>Real_ZF_1_L13\\<close>, here we just \n  rewrite it in the notation used in the \\<open>real1\\<close> context.\\<close>\n", "statement": "lemma (in real1) id_on_int_is_slope: shows \"id(int) \\<in> \\<S>\"\n  "}

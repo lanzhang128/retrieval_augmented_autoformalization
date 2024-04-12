@@ -1,0 +1,1 @@
+{"text": "text\\<open>The graph of a continuous function into a Hausdorff topological space is closed\n  in the product topology. Recall that in ZF a function is the same as its graph.\\<close>\n"}

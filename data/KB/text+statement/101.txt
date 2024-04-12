@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image of a subset of $X$ under projection is a subset\n  of $A/r$.\\<close>\n", "statement": "lemma EquivClass_1_L1A: \n  assumes \"A\\<subseteq>X\" shows \"{r``{x}. x\\<in>A} \\<subseteq> X//r\"\n  "}

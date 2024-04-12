@@ -1,0 +1,1 @@
+{"informal": " Assuming ring R has no zero divisors, if a, b, and c are distinct elements of R that are non-zero, then a * c is not equal to b * c.", "statement": "lemma (in ring0) Ring_ZF_1_L12B: \n  assumes A1: \"HasNoZeroDivs(R,A,M)\"  \n  \"a\\<in>R\"   \"b\\<in>R\"   \"c\\<in>R\"   \"a\\<noteq>b\"   \"c\\<noteq>\\<zero>\" \n  shows  \"a\\<cdot>c \\<noteq> b\\<cdot>c\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The translation by neutral element is the identity on group.\\<close>\n"}

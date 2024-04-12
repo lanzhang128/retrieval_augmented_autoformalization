@@ -1,0 +1,1 @@
+{"text": "text\\<open>An upper bound $f(f^{-1}(m) -1)$ for positive slopes.\\<close>\n"}

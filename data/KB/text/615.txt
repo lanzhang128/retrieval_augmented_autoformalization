@@ -1,0 +1,1 @@
+{"text": "text\\<open>An infinite inductive sequence satisfies the \n  inductive relation that defines it.\\<close>\n"}

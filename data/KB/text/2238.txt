@@ -1,0 +1,1 @@
+{"text": "text\\<open>A somewhat technical identity about the square of a symmetric relation: \\<close>\n"}

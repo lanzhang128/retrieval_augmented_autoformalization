@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $s$ is a slope, then $s(m) \\leq s(m-1) + M$, where $L$ does not depend\n  on $m$.\\<close>\n", "statement": "lemma (in int1) Int_ZF_2_1_L28: assumes A1: \"s\\<in>\\<S>\"\n  shows \"\\<exists>M\\<in>\\<int>. \\<forall>m\\<in>\\<int>. s`(m) \\<lsq> s`(m\\<rs>\\<one>) \\<ra> M\"\n"}

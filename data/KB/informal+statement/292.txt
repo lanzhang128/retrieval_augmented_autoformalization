@@ -1,0 +1,1 @@
+{"informal": " \"FinPow(X) is defined as the subset of the power set of X where each element is finite.\"", "statement": "definition\n  \"FinPow(X) \\<equiv> {A \\<in> Pow(X). Finite(A)}\"\n"}

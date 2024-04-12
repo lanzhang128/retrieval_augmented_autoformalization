@@ -1,0 +1,1 @@
+{"text": "text\\<open>If two meta-functions are the same on a set, then they define the same\n  set by separation.\\<close>\n", "statement": "lemma ZF1_1_L4B: assumes \"\\<forall>x\\<in>X. a(x) = b(x)\"\n  shows \"{a(x). x\\<in>X} = {b(x). x\\<in>X}\"\n  "}

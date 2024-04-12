@@ -1,0 +1,1 @@
+{"text": "text\\<open>A technical lemma used in the proof that all elements\n  of $S$ are less or equal than the candidate for supremum of $S$.\\<close>\n"}

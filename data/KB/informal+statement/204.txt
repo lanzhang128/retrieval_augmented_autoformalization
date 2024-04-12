@@ -1,0 +1,1 @@
+{"informal": " A list of natural numbers X is equivalent to the union of all non-empty lists whose lengths are natural numbers, with each such list containing an element strictly greater than the length of the list itself.", "statement": "definition\n  \"NELists(X) \\<equiv> \\<Union>n\\<in>nat.(succ(n)\\<rightarrow>X)\"\n"}

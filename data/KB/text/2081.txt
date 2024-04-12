@@ -1,0 +1,1 @@
+{"text": "text\\<open>The topological subspaces of the \\<open>ExcludedSet X T\\<close> topology\nare also ExcludedSet topologies.\\<close>\n"}

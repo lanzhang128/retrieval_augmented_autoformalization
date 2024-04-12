@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another property with two integers.\\<close>\n"}

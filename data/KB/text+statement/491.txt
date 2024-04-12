@@ -1,0 +1,1 @@
+{"text": "text\\<open>The projected structure is a monoid.\\<close>\n", "statement": "theorem (in monoid0) Group_ZF_2_2_T1:\n  assumes A1: \"equiv(G,r)\" and A2: \"Congruent2(r,f)\"\n  and A3: \"F = ProjFun2(G,r,f)\"\n  shows \"IsAmonoid(G//r,F)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The strict order on complex reals is preserved by translations.\\<close>\n", "statement": "lemma (in complex0) pre_axltadd: \n  assumes A1: \"a \\<lsr> b\" and A2: \"c \\<in> \\<real>\"\n  shows \"c\\<ca>a \\<lsr> c\\<ca>b\"\n"}

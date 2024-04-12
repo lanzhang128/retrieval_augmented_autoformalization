@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $T$ is a topology, then every subset of its carrier (i.e. $\\bigcup T$) \n  is a (set) neighborhood of the empty set. \\<close>\n", "statement": "lemma nei_empty: assumes \"T {is a topology}\" \"N \\<subseteq> \\<Union>T\"\n  shows \"N \\<in> ({set neighborhood system of} T)`(0)\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A consistency condition: if we make the sequence of \n  generating functions shorter, then we get a shorter inductive \n  sequence with the same values as in the original sequence.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Now we can prove that every nonempty subset of reals that is bounded\n  above has a supremum. Proof by considering two cases: when the set has a\n  maximum and when it does not.\\<close>\n"}

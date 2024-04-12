@@ -1,0 +1,1 @@
+{"text": "text\\<open>The order on natural numbers is linear on every natural number.\n  Recall that each natural number is a subset of the set of \n  all natural numbers (as well as a member).\\<close>\n"}

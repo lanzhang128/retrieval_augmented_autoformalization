@@ -1,0 +1,1 @@
+{"text": "text\\<open>What is product over a singleton?\\<close>\n", "statement": "lemma (in semigr1) gen_prod_singleton: \n  assumes A1: \"x \\<in> X\"\n  shows  \"\\<pr>({x},a) = a`(x)\"\n"}

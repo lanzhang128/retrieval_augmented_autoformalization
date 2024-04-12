@@ -1,0 +1,1 @@
+{"text": "text\\<open>A dual of \\<open> Top_ZF_2_1_L5\\<close>: a function that maps base sets to open sets\n  is open.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Singleton is in the finite powerset.\\<close>\n"}

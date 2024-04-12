@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the difference of two element is zero, then those elements\n  are equal.\\<close>\n", "statement": "lemma (in ring0) Ring_ZF_1_L9A: \n  assumes A1: \"a\\<in>R\"  \"b\\<in>R\" and A2: \"a\\<rs>b = \\<zero>\"\n  shows \"a=b\" "}

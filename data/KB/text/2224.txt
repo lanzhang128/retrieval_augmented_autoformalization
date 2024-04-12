@@ -1,0 +1,1 @@
+{"text": "text\\<open>Star of a larger set is larger.\\<close>\n"}

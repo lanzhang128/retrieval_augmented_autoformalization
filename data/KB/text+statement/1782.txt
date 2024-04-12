@@ -1,0 +1,1 @@
+{"text": "text\\<open>As it is written in the previous section, every topological group is regular.\\<close>\n", "statement": "theorem (in topgroup) topgroup_reg:\n  shows \"T{is regular}\"\n"}

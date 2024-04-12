@@ -1,0 +1,1 @@
+{"text": "text\\<open>A combination of \\<open>restr_cont\\<close> and \\<open>restr_image_cont\\<close>.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition of multiplication of integers as a binary operation \n  on \\<open>int\\<close>. In standard Isabelle/ZF product of integers is denoted by\n  prepending the dollar sign to \\<open>*\\<close>.  \n\\<close>\n"}

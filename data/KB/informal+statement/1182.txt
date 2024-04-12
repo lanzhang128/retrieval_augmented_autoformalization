@@ -1,0 +1,1 @@
+{"informal": " A relation `r` strictly contains a pair `<x, y>` if and only if `<x, y>` is in `r` and `x` is not equal to `y`.", "statement": "lemma def_of_strict_ver: shows \n  \"\\<langle>x,y\\<rangle> \\<in> StrictVersion(r) \\<longleftrightarrow> \\<langle>x,y\\<rangle> \\<in> r \\<and> x\\<noteq>y\"\n  "}

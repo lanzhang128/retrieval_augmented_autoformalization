@@ -1,0 +1,1 @@
+{"informal": " In the ring1 context, if a and b are both zero, then a * b equals a * b. (Or, the product of zero and any element is equal to zero.)", "statement": "lemma (in ring1) OrdRing_ZF_2_L1: \n  assumes \"\\<zero>\\<lsq>a\" \"\\<zero>\\<lsq>b\"\n  shows \"\\<bar>a\\<cdot>b\\<bar> = \\<bar>a\\<bar>\\<cdot>\\<bar>b\\<bar>\"\n  "}

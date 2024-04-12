@@ -1,0 +1,1 @@
+{"informal": " Assuming m is an integer, for all natural numbers n, (m+1)^n equals m multiplied by n, and (m+1) is also an integer.", "statement": "lemma (in int1) Int_ZF_2_5_L1: assumes A1: \"m \\<in> \\<int>\"\n  shows \n  \"\\<forall>n \\<in> \\<int>. (m\\<^sup>S)`(n) = m\\<cdot>n\"\n  \"m\\<^sup>S \\<in> \\<S>\"\n"}

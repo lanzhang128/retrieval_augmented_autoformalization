@@ -1,0 +1,1 @@
+{"text": "text\\<open>An SI-space is an anti-resolvable perfect space.\\<close>\n", "statement": "definition\n  IsAntiRes (\"_{is anti-resolvable}\") where\n  \"T{is anti-resolvable} \\<equiv> T{is anti-}IsRes\"\n"}

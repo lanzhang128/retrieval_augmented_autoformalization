@@ -1,0 +1,1 @@
+{"text": "text\\<open>A sufficient condition for an odd slope to be almost equal to identity:\n  If for all positive integers the value of the slope at $m$ is between $m$ and\n  $m$ plus some constant independent of $m$, then the slope is almost identity.\\<close>\n"}

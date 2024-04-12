@@ -1,0 +1,1 @@
+{"text": "text\\<open>Inverse (converse) of a homeomorphism is a homeomorphism.\\<close>\n"}

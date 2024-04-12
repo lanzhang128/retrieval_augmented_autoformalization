@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the topological properties are related, then so are the spectra.\\<close>\n"}

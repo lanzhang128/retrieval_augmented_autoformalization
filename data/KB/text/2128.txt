@@ -1,0 +1,1 @@
+{"text": "text\\<open>A set is dense iff it intersects all non-empty, open sets of the topology.\\<close>\n"}

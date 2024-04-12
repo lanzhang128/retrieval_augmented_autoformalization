@@ -1,0 +1,1 @@
+{"text": "text\\<open>Distance of different points is greater than zero. \\<close>\n"}

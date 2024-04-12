@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a function is continuous, then it is continuous when we restrict\n  the topology on the range to the image of the domain.\\<close>\n"}

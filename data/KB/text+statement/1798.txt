@@ -1,0 +1,1 @@
+{"text": "text\\<open>Empty set is open.\\<close>\n", "statement": "lemma empty_open: \n  assumes \"T {is a topology}\" shows \"0 \\<in> T\"\n"}

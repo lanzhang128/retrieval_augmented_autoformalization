@@ -1,0 +1,1 @@
+{"informal": " In the group3 theory, if r is a total function on G and a is an element in the positive part of G, then the inverse of a is not in the negative part of G.", "statement": "lemma (in group3) OrderedGroup_ZF_1_L20:\n  assumes A1: \"r {is total on} G\" and A2: \"a \\<in> G\\<^sub>+\" \n  shows \"a\\<inverse> \\<notin> G\\<^sub>+\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Standard Isabelle defines a \\<open>function(f)\\<close> predicate.\n  The next lemma shows that our functions satisfy that predicate. \n  It is a special version of Isabelle's \\<open>fun_is_function\\<close>.\\<close>\n"}

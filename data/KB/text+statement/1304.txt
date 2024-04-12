@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a\\in G\\setminus G^+$, then $|a| = a^{-1}$.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_3_L3:\n   assumes A1: \"a \\<in> G-G\\<^sup>+\" shows \"\\<bar>a\\<bar> = a\\<inverse>\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The product of regular spaces is regular.\\<close>\n", "statement": "theorem regular_product:\n  assumes \"T{is a topology}\" \"S{is a topology}\" \"T{is regular}\" \"S{is regular}\"\n  shows \"ProductTopology(T,S){is regular}\"\n"}

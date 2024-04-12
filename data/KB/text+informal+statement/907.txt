@@ -1,0 +1,1 @@
+{"text": "text\\<open>If one integer is greater or equal and not equal to another,\n  then it is not smaller or equal.\\<close>\n", "informal": " If m is less than n and m is not equal to n, then n is not less than m.", "statement": "lemma (in int0) Int_ZF_2_L19AA: assumes A1: \"m\\<lsq>n\" and A2: \"m\\<noteq>n\"\n  shows \"\\<not>(n\\<lsq>m)\"\n"}

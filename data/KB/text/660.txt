@@ -1,0 +1,1 @@
+{"text": "text\\<open>Associativity of addition and multiplication.\\<close>\n"}

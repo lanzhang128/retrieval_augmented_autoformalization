@@ -1,0 +1,1 @@
+{"text": "text\\<open>A basic example of a topology: the powerset of any set is a topology.\\<close>\n", "statement": "lemma Pow_is_top: shows \"Pow(X) {is a topology}\"\n"}

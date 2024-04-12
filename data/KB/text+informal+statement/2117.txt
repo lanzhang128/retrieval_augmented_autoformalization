@@ -1,0 +1,1 @@
+{"text": "text\\<open>A subbase defines a unique topology.\\<close>\n", "informal": " If B is a subbase for both topologies T and S, then T and S are equal.", "statement": "theorem same_subbase_same_top:\n  assumes \"B {is a subbase for} T\" and \"B {is a subbase for} S\" \n  shows \"T = S\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Some inequalities about the product of two elements of a linearly \n  ordered group and its absolute value.\\<close>\n"}

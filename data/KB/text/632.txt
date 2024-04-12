@@ -1,0 +1,1 @@
+{"text": "text\\<open>Next we define a function that takes a row in a Pascal's triangle and returns the next row. \\<close>\n"}

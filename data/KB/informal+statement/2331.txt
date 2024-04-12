@@ -1,0 +1,1 @@
+{"informal": " If `f` is a function from `X` to `Y`, then the inverse image of `{y}` under `f` equals the set of `x` in `X` such that `f(x)` is equal to `y`.", "statement": "lemma func1_1_L14: assumes \"f\\<in>X\\<rightarrow>Y\" \n  shows \"f-``({y}) = {x\\<in>X. f`(x) = y}\" \n  "}

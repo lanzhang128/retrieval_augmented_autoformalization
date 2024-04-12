@@ -1,0 +1,1 @@
+{"informal": " Assuming relation `r` is total on set `X`, then `refl(X,r)` holds. In natural language, if every element of `X` is related to itself by `r`, then `refl(X,r)` is true.", "statement": "lemma total_is_refl:\n  assumes \"r {is total on} X\"\n  shows \"refl(X,r)\" "}

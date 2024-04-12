@@ -1,0 +1,1 @@
+{"text": "text\\<open>Cardinality of a nonempty finite set is a successsor\n  of some natural number.\\<close>\n"}

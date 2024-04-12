@@ -1,0 +1,1 @@
+{"text": "text\\<open>The closed sets are those which are disjoint with \\<open>T\\<close>\n and \\<open>X\\<close>.\\<close>\n"}

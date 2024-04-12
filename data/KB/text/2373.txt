@@ -1,0 +1,1 @@
+{"text": "text\\<open>For surjections the image of an inverse image is the same set.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " The lemma \"ZF1_1_L8\" asserts that the union of a single set equals the set itself.", "statement": "lemma ZF1_1_L8: shows \"\\<Union> {x} = x\" by auto\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Classes of slopes are real numbers.\\<close>\n"}

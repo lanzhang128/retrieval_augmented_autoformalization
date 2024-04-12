@@ -1,0 +1,1 @@
+{"text": "text\\<open>A \\<open>ring3\\<close> version of \\<open>seq_sum_pull_one_elem\\<close> from \\<open>Monoid_ZF_1\\<close>: \\<close>\n"}

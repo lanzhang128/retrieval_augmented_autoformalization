@@ -1,0 +1,1 @@
+{"text": "text\\<open>For a function of two variables defined on $X\\times Y$, if we fix an \n  $x\\in X$ we obtain a function on $Y$.\n  Note that if \\<open>domain(f)\\<close> is $X\\times Y$, \\<open>range(domain(f))\\<close> \n  extracts $Y$ from $X\\times Y$.\\<close>\n"}

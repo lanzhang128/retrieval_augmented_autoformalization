@@ -1,0 +1,1 @@
+{"text": "text\\<open>A sum of nonnegative elements is nonnegative.\\<close>\n"}

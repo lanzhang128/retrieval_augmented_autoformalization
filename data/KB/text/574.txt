@@ -1,0 +1,1 @@
+{"text": "text\\<open>From the definition follows that if a group has no subgroups,\nthen it is simple.\\<close>\n"}

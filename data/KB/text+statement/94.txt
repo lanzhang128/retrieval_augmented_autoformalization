@@ -1,0 +1,1 @@
+{"text": "text\\<open>An enumeration is an order isomorhism, a bijection, and a list.\\<close>\n", "statement": "lemma (in enums) enum_props: assumes \"A \\<in> FinPow(X)\"\n  shows \n  \"\\<sigma>(A) \\<in> ord_iso(|A|,Le, A,r)\"\n  \"\\<sigma>(A) \\<in> bij(|A|,A)\"\n  \"\\<sigma>(A) : |A| \\<rightarrow> A\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>For $n>0$ the Pascal's triangle values at $(n,k)$ are given by the \\<open>BinomElem\\<close> expression. \\<close>\n", "statement": "lemma pascal_row_val: assumes \"n\\<in>nat\" \"k\\<in>succ(succ(n))\"\n  shows \"(PascalTriangle`(succ(n)))`(k) = BinomElem(PascalTriangle`(n),k)\"\n"}

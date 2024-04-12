@@ -1,0 +1,1 @@
+{"informal": " Assuming that m is less than n and vice versa, it is implied that m equals n.", "statement": "lemma (in int0) Int_ZF_2_L3: \n  assumes A1: \"m \\<lsq> n\"  \"n \\<lsq> m\"  \n  shows \"m=n\"\n"}

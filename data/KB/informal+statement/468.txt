@@ -1,0 +1,1 @@
+{"informal": " If A and B are subsets of a group G, then their intersection A \\* B is also a subset of G.", "statement": "lemma (in group4) interval_prod_closed: assumes \"A\\<subseteq>G\" \"B\\<subseteq>G\"\n  shows \"A\\<sdot>B \\<subseteq> G\"\n"}

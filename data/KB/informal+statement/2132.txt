@@ -1,0 +1,1 @@
+{"informal": " Given a set B that is a base for a set T and is strictly included in another set Q, there exists a base N for T with indexed in Q.", "statement": "lemma base_to_indexed_base:\n  assumes \"B \\<lesssim>Q\" \"B {is a base for}T\"\n  shows \"\\<exists>N. {N`i. i\\<in>Q}{is a base for}T\"\n"}

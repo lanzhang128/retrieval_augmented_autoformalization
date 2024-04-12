@@ -1,0 +1,1 @@
+{"informal": " The lemma \"Order_ZF_3_L15\" states that the set of pairs {<xy> | x is in A and <xy> is in r} is bounded above by the relation r itself.", "statement": "lemma Order_ZF_3_L15: shows \"IsBoundedAbove({x\\<in>A. \\<langle>x,a\\<rangle> \\<in> r},r)\"\n  "}

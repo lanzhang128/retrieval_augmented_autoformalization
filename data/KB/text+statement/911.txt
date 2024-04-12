@@ -1,0 +1,1 @@
+{"text": "text\\<open>$|m-n| = |n-m|$.\\<close>\n", "statement": "lemma (in int0) Int_ZF_2_L20: assumes \"m\\<in>\\<int>\"  \"n\\<in>\\<int>\"\n  shows \"abs(m\\<rs>n) = abs(n\\<rs>m)\"\n  "}

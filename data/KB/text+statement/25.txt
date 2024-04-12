@@ -1,0 +1,1 @@
+{"text": "text\\<open>A set is injective and not bijective to the successor of a cardinal\nif and only if it is injective and possibly bijective to the cardinal.\\<close>\n", "statement": "lemma Card_less_csucc_eq_le: \n  assumes \"Card(m)\"\n  shows \"A \\<prec> csucc(m) \\<longleftrightarrow> A \\<lesssim> m\"\n"}

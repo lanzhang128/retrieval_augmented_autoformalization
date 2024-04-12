@@ -1,0 +1,1 @@
+{"text": "text\\<open>A base for a filter determines a filter up to the underlying set.\\<close>\n"}

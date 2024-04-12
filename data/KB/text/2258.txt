@@ -1,0 +1,1 @@
+{"text": "text\\<open>A set defined by a constant meta-function is a singleton.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If an intersection of a collection is not empty, then the collection is\n  not empty. We are (ab)using the fact the the intersection of empty collection \n  is defined to be empty.\\<close>\n", "statement": "lemma inter_nempty_nempty: assumes \"\\<Inter>A \\<noteq> 0\" shows \"A\\<noteq>0\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Integer functions attain maxima and minima over intervals.\\<close>\n"}

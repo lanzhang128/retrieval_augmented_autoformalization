@@ -1,0 +1,1 @@
+{"text": "text\\<open>The main theorem about odd extensions. It basically says that the odd \n  extension of a function is what we want to to be.\\<close>\n"}

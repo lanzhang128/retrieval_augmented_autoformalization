@@ -1,0 +1,1 @@
+{"text": "text\\<open>A more readable version of standard Isabelle/ZF \\<open>Ord_linear_lt\\<close>\\<close>\n", "informal": " Given that i and j are ordinal numbers, i is less than j, i is equal to j, or j is less than i.", "statement": "lemma Ord_linear_lt_IML: assumes \"Ord(i)\" \"Ord(j)\"\n  shows \"i<j \\<or> i=j \\<or> j<i\"\n  "}

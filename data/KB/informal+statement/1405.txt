@@ -1,0 +1,1 @@
+{"informal": " Assuming `a` is less than `zero`, `a` is less than `b`, and `one` is less than `c`, we have `a` is less than `b` multiplied by `c`.", "statement": "lemma (in ring1) OrdRing_ZF_1_L17: \n  assumes A1: \"\\<zero>\\<lsq>a\" and A2: \"a\\<lsq>b\" and A3: \"\\<one>\\<lsq>c\"\n  shows \"a\\<lsq>b\\<cdot>c\"\n"}

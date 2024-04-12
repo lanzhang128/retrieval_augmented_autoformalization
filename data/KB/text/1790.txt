@@ -1,0 +1,1 @@
+{"text": "text\\<open>Topology is a collection of sets that is closed under arbitrary unions and intersections \n  of two sets.\\<close>\n"}

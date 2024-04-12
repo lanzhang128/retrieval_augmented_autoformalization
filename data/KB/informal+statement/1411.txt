@@ -1,0 +1,1 @@
+{"informal": " Assuming `a` is an element in a ring `R`, it holds that `a` is equal to its additive inverse.", "statement": "lemma (in ring1) OrdRing_ZF_2_L2: assumes \"a\\<in>R\"\n  shows \"\\<bar>\\<rm>a\\<bar> = \\<bar>a\\<bar>\"\n  "}

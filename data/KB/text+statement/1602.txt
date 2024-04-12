@@ -1,0 +1,1 @@
+{"text": "text\\<open>Associativity for the multiplication by natural number and the ring multiplication:\\<close>\n", "statement": "lemma (in ring3) nat_mult_assoc: assumes \"n\\<in>nat\" \"x\\<in>R\" \"y\\<in>R\"\n  shows \"n\\<nm>x\\<cdot>y = n\\<nm>(x\\<cdot>y)\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " \"Fold1 is defined as equal to Fold, where Fold1 applies function f to an initial element a and the rest of the list Tail(a), and Fold applies function f to an initial accumulator a(0) and the remainder of the list Tail(a).\"", "statement": "definition\n  \"Fold1(f,a) \\<equiv> Fold(f,a`(0),Tail(a))\"\n"}

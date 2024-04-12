@@ -1,0 +1,1 @@
+{"text": "text\\<open>The binomial term is $x^n$ when $k=0$. \\<close>\n"}

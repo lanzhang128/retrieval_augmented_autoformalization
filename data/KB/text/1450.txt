@@ -1,0 +1,1 @@
+{"text": "text\\<open> An operation $A$ has the right inverse if for all elements $a,b \\in G$ the equation $x\\cdot a=b$ \n  has a unique solution. \\<close>\n"}

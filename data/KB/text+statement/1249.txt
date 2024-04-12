@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can put an element on the other side of an inequality\n  changing its sign, version with the inverse.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L5JA:\n  assumes A1: \"a\\<in>G\"  \"b\\<in>G\" and A2: \"c \\<lsq> a\\<inverse>\\<cdot>b\"\n  shows \"a\\<cdot>c\\<lsq> b\"\n"}

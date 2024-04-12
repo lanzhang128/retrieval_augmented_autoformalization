@@ -1,0 +1,1 @@
+{"text": "text\\<open>Bounded integer maps form a normal subgroup of slopes.\n  The equivalence relation on slopes is the (group) quotient \n  relation defined by this subgroup.\n\\<close>\n"}

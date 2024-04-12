@@ -1,0 +1,1 @@
+{"informal": " Given that both `a` and `b` are non-negative integers. (in complex0 theorem `pre_axmulgt0`)\nIt is proved: their product is also a non-negative integer.", "statement": "lemma (in complex0) pre_axmulgt0: assumes A1: \"\\<zero> \\<lsr> a\"   \"\\<zero> \\<lsr> b\"\n  shows \"\\<zero> \\<lsr> a\\<cdot>b\"\n"}

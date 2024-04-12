@@ -1,0 +1,1 @@
+{"text": "text\\<open>If one natural number is less than another then their successors\n  are in the same relation.\\<close>\n", "statement": "lemma succ_ineq: assumes A1: \"n \\<in> nat\"\n  shows \"\\<forall>i \\<in> n. succ(i) \\<in> succ(n)\"\n"}

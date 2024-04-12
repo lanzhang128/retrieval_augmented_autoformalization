@@ -1,0 +1,1 @@
+{"text": "text\\<open>The intersection of to D-sets is the D-set on the \nproduct of ideals\\<close>\n", "statement": "lemma (in ring0) intersection_open_basic:\n  assumes \"I\\<triangleleft>R\" \"J\\<triangleleft>R\"\n  shows \"D(I)\\<inter>D(J) = D(I\\<cdot>\\<^sub>IJ)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The lemma: a collection closed with respect to taking a union of two sets \n  is closed under taking finite unions.\\<close>\n", "statement": "lemma Finite1_L3:\n  assumes A1: \"0 \\<in> C\" and A2: \"\\<forall>A B. ((A\\<in>C \\<and> B\\<in>C) \\<longrightarrow> A\\<union>B\\<in>C)\" and \n  A3: \"N\\<in> Fin(C)\"\n  shows \"\\<Union>N\\<in>C\"\n"}

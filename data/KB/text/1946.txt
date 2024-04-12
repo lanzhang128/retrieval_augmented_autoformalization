@@ -1,0 +1,1 @@
+{"text": "text\\<open>A simple corollary from the previous lemma.\\<close>\n"}

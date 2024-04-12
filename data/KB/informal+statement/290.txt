@@ -1,0 +1,1 @@
+{"informal": " In the theory NonDetFinStateAuto, it is proven that the language of a DFSM (Deterministic Finite State Machine) calculated using DFSA.LanguageDFSA is equal to the language of an NFSA (Nondeterministic Finite State Automaton).", "statement": "theorem (in NonDetFinStateAuto) language_nfsa:\n  shows \"dfsa.LanguageDFSA = LanguageNFSA\"\n"}

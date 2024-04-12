@@ -1,0 +1,1 @@
+{"text": "text\\<open>For reflexive relations singletons have a minimum and maximum.\\<close>\n"}

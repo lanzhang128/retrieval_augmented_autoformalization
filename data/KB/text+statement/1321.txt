@@ -1,0 +1,1 @@
+{"text": "text\\<open>Some more variants of the triangle inequality.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_3_L7E:\n  assumes A1: \"P {is commutative on} G\" \n  and A2: \"r {is total on} G\" and A3: \"a\\<in>G\"  \"b\\<in>G\"\n  and A4: \"\\<bar>a\\<cdot>b\\<inverse>\\<bar> \\<lsq> c\"\n  shows \"b\\<cdot>c\\<inverse> \\<lsq> a\"\n"}

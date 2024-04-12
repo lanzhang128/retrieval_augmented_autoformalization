@@ -1,0 +1,1 @@
+{"text": "text\\<open>Next we define a function that takes a row in a Pascal's triangle and returns the next row. \\<close>\n", "statement": "definition \n  \"GenBinom \\<equiv> {\\<langle>r,{\\<langle>k,BinomElem(r,k)\\<rangle>. k\\<in>succ(domain(r))}\\<rangle>. r\\<in>NELists(nat)}\"\n"}

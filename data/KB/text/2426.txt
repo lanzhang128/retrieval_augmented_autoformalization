@@ -1,0 +1,1 @@
+{"text": "text\\<open>A function that maps every point to itself is the identity on its domain.\\<close>\n"}

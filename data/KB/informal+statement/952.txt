@@ -1,0 +1,1 @@
+{"informal": " In the meet semilattice, if an element belongs to the lattice, then it is idempotent with respect to the meet operation, meaning that meeting it with itself results in the same element.", "statement": "lemma (in meet_semilatt) meet_idempotent: assumes \"x\\<in>L\" shows \"x\\<sqinter>x = x\" \n  "}

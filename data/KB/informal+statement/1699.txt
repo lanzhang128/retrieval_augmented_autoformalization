@@ -1,0 +1,1 @@
+{"informal": " Given a function `a` from the one-element type to a group `G`, the product of `a` over the empty set is equal to `a` applied to the unique element of the one-element type, i.e. `a(0)`.", "statement": "lemma (in semigr0) prod_of_1elem: assumes A1: \"a: 1 \\<rightarrow> G\"\n  shows \"(\\<Prod> a) = a`(0)\"\n"}

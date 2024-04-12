@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma about splitting (not really, there is some overlap) \n  the \\<open>\\<int>\\<times>\\<int>\\<close> into six subsets (cases). The subsets are as follows:\n  first and third qaudrant, and second and fourth quadrant farther split\n  by the $b =-a$ line.\\<close>\n"}

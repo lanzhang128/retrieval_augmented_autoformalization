@@ -1,0 +1,1 @@
+{"informal": " Assuming that \"f\" is an element of a given set \"S\" in the real number domain of ZF set theory, it follows that \"[f]\" is also an element of the real numbers domain.", "statement": "lemma (in real1) Real_ZF_1_1_L3: assumes A1: \"f \\<in> \\<S>\"\n  shows \"[f] \\<in> \\<real>\"\n"}

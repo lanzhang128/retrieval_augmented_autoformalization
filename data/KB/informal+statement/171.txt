@@ -1,0 +1,1 @@
+{"informal": " In the context of \"finsupp1\" theory, it is proven that for any relation X going to a set M and any set A, X is a group under the operation A if X is a group according to ZF set theory axioms.", "statement": "lemma (in finsupp1) fungroup0_valid: shows\n  \"IsAgroup(X\\<rightarrow>M,\\<A>)\" and \"group0(X\\<rightarrow>M,\\<A>)\"\n  "}

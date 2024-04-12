@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group of almost homomorphisms divided by the subgroup of finite\n  range functions is an abelian group.\\<close>\n"}

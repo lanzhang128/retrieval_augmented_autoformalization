@@ -1,0 +1,1 @@
+{"text": "text\\<open>Properties of supremum of a set for complete relations.\\<close>\n"}

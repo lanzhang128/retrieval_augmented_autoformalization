@@ -1,0 +1,1 @@
+{"text": "text\\<open>The positive set is closed under the group operation.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L13: shows \"G\\<^sub>+ {is closed under} P\"\n"}

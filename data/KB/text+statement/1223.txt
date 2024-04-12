@@ -1,0 +1,1 @@
+{"text": "text\\<open>It is good to have transitivity handy.\\<close>\n", "statement": "lemma (in group3) Group_order_transitive:\n  assumes A1: \"a\\<lsq>b\"  \"b\\<lsq>c\" shows \"a\\<lsq>c\"\n"}

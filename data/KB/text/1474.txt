@@ -1,0 +1,1 @@
+{"text": "text\\<open>The lemma below lists some properties that\n  require two real numbers to state.\\<close>\n"}

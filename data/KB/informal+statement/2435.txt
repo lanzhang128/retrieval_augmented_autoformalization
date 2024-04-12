@@ -1,0 +1,1 @@
+{"informal": " If function f is associative on set X, and F is the subset operation lifted from f on X, then F is associative on the power set of X.", "statement": "lemma lift_subset_assoc:  assumes  \n  A1: \"f {is associative on} X\" and A2: \"F = f {lifted to subsets of} X\"\n  shows \"F {is associative on} Pow(X)\"\n"}

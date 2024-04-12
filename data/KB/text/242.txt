@@ -1,0 +1,1 @@
+{"text": "text\\<open>A version of \\<open>set_list_append\\<close> using $n+1$ instead of \\<open>succ(n)\\<close>. \\<close>\n"}

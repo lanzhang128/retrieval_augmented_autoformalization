@@ -1,0 +1,1 @@
+{"informal": " In the ring0 context, if a and b are elements of R, and a is equivalent to b with respect to the ring addition operation, then b equals the additive identity (zero).", "statement": "lemma (in ring0) ring_cancel_add: \n  assumes A1: \"a\\<in>R\" \"b\\<in>R\" and A2: \"a \\<ra> b = a\"\n  shows \"b = \\<zero>\"\n  "}

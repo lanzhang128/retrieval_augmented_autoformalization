@@ -1,0 +1,1 @@
+{"informal": " In the group3 theory, if A is a subset of the group G and A is bounded above by some element r, then A is also bounded below by r.", "statement": "lemma (in group3) OrderedGroup_ZF_2_L5:\n  assumes A1: \"A\\<subseteq>G\" and A2: \"IsBoundedAbove(\\<sm>A,r)\"\n  shows \"IsBoundedBelow(A,r)\"\n"}

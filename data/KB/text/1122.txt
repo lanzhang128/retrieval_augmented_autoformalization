@@ -1,0 +1,1 @@
+{"text": "text\\<open>For a total relation, the greater of two elements, \n  as defined above, is indeed greater of any of the two.\\<close>\n"}

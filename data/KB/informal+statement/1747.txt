@@ -1,0 +1,1 @@
+{"informal": " If an element x belongs to a group G, then the left and right translates of x, i.e., the sets {y : y = x \\* z for some z \\in G} and {y : y = z \\* x for some z \\in G}, are subsets of G.", "statement": "lemma (in topgroup) lrtrans_in_group_add: assumes \"x\\<in>G\" \n  shows  \"x\\<ltr>V \\<subseteq> G\" and \"V\\<rtr>x \\<subseteq>G\"\n  "}

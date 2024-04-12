@@ -1,0 +1,1 @@
+{"text": "text\\<open>Projection of a section of an open set is open.\\<close>\n", "statement": "lemma prod_sec_open1: assumes A1: \"T {is a topology}\"  \"S {is a topology}\" and\n  A2: \"V \\<in> ProductTopology(T,S)\" and A3: \"x \\<in> \\<Union>T\"\n  shows \"{y \\<in> \\<Union>S. \\<langle>x,y\\<rangle> \\<in> V} \\<in> S\"\n"}

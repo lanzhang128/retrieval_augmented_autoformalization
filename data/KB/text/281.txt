@@ -1,0 +1,1 @@
+{"text": "text\\<open>An extra generalization can be consider\nif we allow the transition relation to go forward\nwithout consuming elements from the word. This\nis implemented as allowing @{term \\<Sigma>} to symbolize\nan step without the word being touched. We might\ncall it a @{term \\<Sigma>} transition or a $\\varepsilon$-transition.\\<close>\n"}

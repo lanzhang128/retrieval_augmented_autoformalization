@@ -1,0 +1,1 @@
+{"informal": " If relation `r` defines the equivalence relation `A`, and `y` is an element of `A`, and `x` is related to `y` through `r`, then `<xy>` is an element of `r`.", "statement": "lemma EquivClass_1_L2B: \n  assumes A1: \"equiv(A,r)\" and A2: \"y\\<in>A\" and A3: \"x \\<in> r``{y}\"\n  shows \"\\<langle>x,y\\<rangle> \\<in> r\"\n"}

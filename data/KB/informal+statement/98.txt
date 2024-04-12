@@ -1,0 +1,1 @@
+{"informal": " Assuming x is an element of a set X, there exists a singleton map s: 1 \u2192 X such that s(0) = x.", "statement": "lemma (in enums) enum_singleton: \n  assumes A1: \"x\\<in>X\" shows \"\\<sigma>({x}): 1 \\<rightarrow> X\" and \"\\<sigma>({x})`(0) = x\"\n  "}

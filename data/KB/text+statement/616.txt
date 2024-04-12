@@ -1,0 +1,1 @@
+{"text": "text\\<open>The basic properties of orbits.\\<close>\n", "statement": "theorem ind_seq_image: assumes A1: \"f: X\\<rightarrow>X\" and A2: \"x\\<in>X\"  and \n  A3: \"A = InductiveSequence(x,f)``(nat)\"\n  shows \"x\\<in>A\" and \"\\<forall>y\\<in>A. f`(y) \\<in> A\" \n"}

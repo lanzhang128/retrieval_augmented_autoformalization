@@ -1,0 +1,1 @@
+{"text": "text\\<open>Lifting to subsets inherits commutativity.\\<close>\n"}

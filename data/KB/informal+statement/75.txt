@@ -1,0 +1,1 @@
+{"informal": " Given that a complex number a is larger than another complex number b, we can conclude that both a and b are real numbers.", "statement": "lemma (in complex0) strict_cplx_ord_type: assumes \"a \\<lsr> b\"\n  shows \"a\\<in>\\<real>\"  \"b\\<in>\\<real>\"\n  "}

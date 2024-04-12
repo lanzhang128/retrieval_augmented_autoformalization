@@ -1,0 +1,1 @@
+{"informal": " In the ring0 context, Spec is defined as the proposition equivalent to the following condition: for all I, I is related to pR (preorder relation) via the transitive and reflexive (reflexive relation expressed as triangular inequality) properties.", "statement": "definition (in ring0) Spec where\n\"Spec \\<equiv> {I\\<in>\\<I>. I\\<triangleleft>\\<^sub>pR}\"\n"}

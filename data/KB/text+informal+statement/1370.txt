@@ -1,0 +1,1 @@
+{"text": "text\\<open> The loop order is transitive. \\<close>\n", "informal": " Given x is less than y, and y is less than z, therefore x is less than z.", "statement": "lemma (in loop1) loop_ord_trans: assumes \"x\\<lsq>y\" and \"y\\<lsq>z\" shows \"x\\<lsq>z\"\n"}

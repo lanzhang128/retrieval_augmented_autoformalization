@@ -1,0 +1,1 @@
+{"informal": " If A is finite and A is a subset of X, then the inclusion relation between X and A has the locally finite property, i.e., for every subset B of A, the subset B is finite.", "statement": "lemma included_finite_locally_finite:\n  assumes \"Finite(A)\" and \"A\\<subseteq>X\"\n  shows \"(IncludedSet(X,A)){is locally}(\\<lambda>A.(\\<lambda>B. Finite(A)))\"\n"}

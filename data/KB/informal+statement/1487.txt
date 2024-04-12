@@ -1,0 +1,1 @@
+{"informal": " \"OrderOnReals is defined as the order relation on the Real Numbers, using the Positive Reals as the positive set, with RealAddition as the addition operation.\"", "statement": "definition\n  \"OrderOnReals \\<equiv> OrderFromPosSet(RealNumbers,RealAddition,PositiveReals)\"\n"}

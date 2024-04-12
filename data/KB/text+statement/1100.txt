@@ -1,0 +1,1 @@
+{"text": "text\\<open>We define a relation to be complete if every nonempty bounded\n  above set has a supremum.\\<close>\n", "statement": "definition\n  IsComplete (\"_ {is complete}\") where\n  \"r {is complete} \\<equiv> \n  \\<forall>A. IsBoundedAbove(A,r) \\<and> A\\<noteq>0 \\<longrightarrow> HasAminimum(r,\\<Inter>a\\<in>A. r``{a})\"\n"}

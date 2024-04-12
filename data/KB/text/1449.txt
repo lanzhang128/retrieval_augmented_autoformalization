@@ -1,0 +1,1 @@
+{"text": "text\\<open> A quasigroup operation does not  have to have the neutral element. The left division is defined \n  as the only solution to the equation $a\\cdot x=b$ (using multiplicative notation). \n  The next definition specifies\n  what does it mean that an operation $A$ has a left division on a set $G$. \\<close>\n"}

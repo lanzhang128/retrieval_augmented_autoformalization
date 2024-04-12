@@ -1,0 +1,1 @@
+{"text": "text\\<open>Union of a finite indexed family of finite sets is finite.\\<close>\n", "statement": "lemma union_fin_list_fin: \n  assumes A1: \"n \\<in> nat\" and A2: \"\\<forall>k \\<in> n. N(k) \\<in> FinPow(X)\"\n  shows \n  \"{N(k). k \\<in> n} \\<in>  FinPow(FinPow(X))\" and \"(\\<Union>k \\<in> n. N(k)) \\<in> FinPow(X)\"\n"}

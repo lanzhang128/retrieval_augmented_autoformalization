@@ -1,0 +1,1 @@
+{"text": "text\\<open>Absolute value is nonnegative.\\<close>\n", "statement": "lemma (in int0) int_abs_nonneg: assumes A1: \"m\\<in>\\<int>\"\n  shows \"abs(m) \\<in> \\<int>\\<^sup>+\"  \"\\<zero> \\<lsq> abs(m)\" \n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A dual base for closed sets is the collection of complements\nof sets of a base for the topology.\\<close>\n", "statement": "definition\n  DualBase (\"DualBase _ _\" 80) where\n  \"B{is a base for}T \\<Longrightarrow> DualBase B T\\<equiv>{\\<Union>T-U. U\\<in>B}\\<union>{\\<Union>T}\"\n"}

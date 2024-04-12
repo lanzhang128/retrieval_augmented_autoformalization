@@ -1,0 +1,1 @@
+{"text": "text\\<open>Now a lemma about the definition:\\<close>\n", "statement": "lemma homomor_eq:\n  assumes \"IsAgroup(G,P)\" \"IsAgroup(H,F)\" \"Homomor(f,G,P,H,F)\" \"g\\<^sub>1\\<in>G\" \"g\\<^sub>2\\<in>G\"\n  shows \"f`(P`\\<langle>g\\<^sub>1,g\\<^sub>2\\<rangle>)=F`\\<langle>f`(g\\<^sub>1),f`(g\\<^sub>2)\\<rangle>\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of almost homomorphisms is closed under the \n  lifted group operation.\\<close>\n"}

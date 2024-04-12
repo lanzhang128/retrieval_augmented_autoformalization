@@ -1,0 +1,1 @@
+{"text": "text\\<open>Elements that belong to the same equivalence class are equivalent.\\<close>\n"}

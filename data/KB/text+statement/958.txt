@@ -1,0 +1,1 @@
+{"text": "text\\<open> The neutral element as defined in the \\<open>loop0\\<close> locale is indeed neutral. \\<close>\n", "statement": "lemma (in loop0) neut_props_loop: shows \"\\<one>\\<in>G\" and \"\\<forall>x\\<in>G. \\<one>\\<cdot>x =x \\<and> x\\<cdot>\\<one> = x\"\n"}

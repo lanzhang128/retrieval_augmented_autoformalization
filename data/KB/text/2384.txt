@@ -1,0 +1,1 @@
+{"text": "text\\<open>A quite general form of the $a^{-1}b = 1$ \n  implies $a=b$ law.\\<close>\n"}

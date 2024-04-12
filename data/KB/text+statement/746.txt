@@ -1,0 +1,1 @@
+{"text": "text\\<open>On \\<open>\\<int>\\<^sub>+\\<close>, the odd extension of $f$ is the same as $f$.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_5_L11: assumes \"f : \\<int>\\<^sub>+\\<rightarrow>\\<int>\" and \"a \\<in> \\<int>\\<^sub>+\" and\n  \"g = OddExtension(\\<int>,IntegerAddition,IntegerOrder,f)\"\n  shows \"g`(a) = f`(a)\"\n  "}

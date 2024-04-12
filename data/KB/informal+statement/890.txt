@@ -1,0 +1,1 @@
+{"informal": " If b is less than a, c is less than a, and a is between b and c, then a is between b-1 and c-1.", "statement": "lemma (in int0) Int_ZF_2_L15: \n  assumes \"b\\<lsq>b\\<^sub>1\" \"c\\<lsq>c\\<^sub>1\" and \"a\\<lsq>b\\<ra>c\"\n  shows \"a\\<lsq>b\\<^sub>1\\<ra>c\\<^sub>1\"\n"}

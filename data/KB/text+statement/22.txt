@@ -1,0 +1,1 @@
+{"text": "text\\<open>Given an ordinal bounded by a cardinal in ordinal order, we can change\nto the order of sets.\\<close>\n", "statement": "lemma le_imp_lesspoll:\n  assumes \"Card(Q)\"\n  shows \"A \\<le> Q \\<Longrightarrow> A \\<lesssim> Q\"\n"}

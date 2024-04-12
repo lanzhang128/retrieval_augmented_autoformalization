@@ -1,0 +1,1 @@
+{"text": "text\\<open>Suppose we have an integer expression (a meta-function)$F$ such that \n  $F(p)|p|$ is bounded by a linear function of $|p|$, that is for some integers\n  $A,B$ we have $F(p)|p|\\leq A|p|+B.$ We show that $F$ is then bounded. \n  The proof is easy, we just divide both sides by $|p|$ \n  and take the limit (just kidding).\\<close>\n"}

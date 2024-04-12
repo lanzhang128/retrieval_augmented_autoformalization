@@ -1,0 +1,1 @@
+{"text": "text\\<open>The closure of a set is itself if it is closed or the whole space if it is not.\\<close>\n", "statement": "lemma closure_set_includedset:\n  assumes \"A\\<subseteq>X\" \"T\\<subseteq>X\"\n  shows \"Closure(A,IncludedSet(X,T)) = (if T\\<inter>A=0 then A else X)\"\n"}

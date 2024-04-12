@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $B$ is a base for $T$ and $B$ is a topology, then $B=T$.\\<close>\n", "statement": "lemma base_topology: assumes \"B {is a topology}\" and \"B {is a base for} T\"\n  shows \"B=T\" "}

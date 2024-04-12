@@ -1,0 +1,1 @@
+{"text": "text\\<open> Groups have left and right division. \\<close>\n", "statement": "lemma (in group0) gr_has_lr_div: shows \"HasLeftDiv(G,P)\" and \"HasRightDiv(G,P)\"\n"}

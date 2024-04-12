@@ -1,0 +1,1 @@
+{"text": "text\\<open>Subtracting integers corresponds to adding the negative.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_L10: assumes A1: \"m\\<in>\\<int>\"  \"n\\<in>\\<int>\"\n  shows \"m\\<rs>n = m $+ $-n\"\n  "}

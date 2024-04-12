@@ -1,0 +1,1 @@
+{"informal": " In the real number domain: zero and one belong to the set of real numbers.", "statement": "lemma (in real0) Real_ZF_1_L4: shows \"\\<zero>\\<in>\\<real>\"  \"\\<one>\\<in>\\<real>\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>An intersection of subsets is a subset.\\<close>\n", "statement": "lemma ZF1_1_L7: assumes A1: \"I\\<noteq>0\" and A2: \"\\<forall>i\\<in>I. P(i) \\<subseteq> X\"\n  shows \"( \\<Inter>i\\<in>I. P(i) ) \\<subseteq> X\"\n"}

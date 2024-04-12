@@ -1,0 +1,1 @@
+{"text": "text\\<open>Integers form a linearly ordered group. We can apply all theorems\n  proven in group3 context to integers.\\<close>\n"}

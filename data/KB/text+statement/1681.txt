@@ -1,0 +1,1 @@
+{"text": "text\\<open>The union of D-sets is the D-set of the sum of the ideals\\<close>\n", "statement": "lemma (in ring0) union_open_basic:\n  assumes \"\\<J> \\<subseteq> \\<I>\"\n  shows \"\\<Union>{D(I). I\\<in>\\<J>} = D(\\<oplus>\\<^sub>I\\<J>)\"\n"}

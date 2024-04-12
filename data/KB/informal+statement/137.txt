@@ -1,0 +1,1 @@
+{"informal": " In the set K0, assumption that a is an element, there exists an element b such that their product is the identity element (one).", "statement": "lemma (in field0) Field_ZF_1_L3: assumes A1: \"a\\<in>K\\<^sub>0\"\n  shows \"\\<exists>b\\<in>K\\<^sub>0. a\\<cdot>b = \\<one>\"\n"}

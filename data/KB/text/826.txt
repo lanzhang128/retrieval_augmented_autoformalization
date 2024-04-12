@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $f$ is a slope, then $f(f^{-1}(m+n)-f^{-1}(m) - f^{-1}(n))$ is \n  uniformly bounded above and below. Will it be the messiest IsarMathLib\n  proof ever? Only time will tell.\\<close>\n"}

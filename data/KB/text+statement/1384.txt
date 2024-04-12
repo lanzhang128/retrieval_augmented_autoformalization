@@ -1,0 +1,1 @@
+{"text": "text\\<open>Ordered ring is an ordered group, hence we can use theorems\n  proven in the \\<open>group3\\<close> context.\\<close>\n", "statement": "lemma (in  ring1) OrdRing_ZF_1_L4: shows \n  \"IsAnOrdGroup(R,A,r)\"\n  \"r {is total on} R\"\n  \"A {is commutative on} R\"\n  \"group3(R,A,r)\"\n"}

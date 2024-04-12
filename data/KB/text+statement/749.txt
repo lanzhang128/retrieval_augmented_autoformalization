@@ -1,0 +1,1 @@
+{"text": "text\\<open>Alternative definition of an odd function.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_5_L13:  assumes A1: \"f: \\<int>\\<rightarrow>\\<int>\" shows \n  \"(\\<forall>a\\<in>\\<int>. f`(\\<rm>a) = (\\<rm>f`(a))) \\<longleftrightarrow> (\\<forall>a\\<in>\\<int>. (\\<rm>(f`(\\<rm>a))) = f`(a))\"\n  "}

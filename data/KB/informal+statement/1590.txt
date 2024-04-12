@@ -1,0 +1,1 @@
+{"informal": " If a non-empty set S of real numbers is boundedly above the real numbers order, then S has a minimum element under the real numbers ordering.", "statement": "lemma (in real1) real_order_complete:\n  assumes A1: \"IsBoundedAbove(S,OrderOnReals)\"  \"S\\<noteq>0\"\n  shows \"HasAminimum(OrderOnReals,\\<Inter>a\\<in>S. OrderOnReals``{a})\"\n"}

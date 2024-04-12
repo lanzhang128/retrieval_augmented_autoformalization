@@ -1,0 +1,1 @@
+{"text": "text\\<open>First, we define the set of homeomorphisms.\\<close>\n", "informal": " A relation \"HomeoG(T)\" over a type \"T\" holds if and only if there exists a function \"f: T -> T\" that is a homeomorphism for the type \"T\" itself.", "statement": "definition\n  \"HomeoG(T) \\<equiv> {f:\\<Union>T\\<rightarrow>\\<Union>T. IsAhomeomorphism(T,T,f)}\"\n"}

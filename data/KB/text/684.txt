@@ -1,0 +1,1 @@
+{"text": "text\\<open>$|a\\cdot (-b)| = |(-a)\\cdot b| = |(-a)\\cdot (-b)| = |a\\cdot b|$\n  This is a property of ordered rings..\\<close>\n"}

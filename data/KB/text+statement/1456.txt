@@ -1,0 +1,1 @@
+{"text": "text\\<open> The quasigroup operation is closed on $G$. \\<close>\n", "statement": "lemma (in quasigroup0) qg_op_closed: assumes \"x\\<in>G\" \"y\\<in>G\"\n  shows \"x\\<cdot>y \\<in> G\"\n  "}

@@ -1,0 +1,1 @@
+{"informal": " In the real numbers, 0 and 1 are represented as the real numbers 0 and 1, respectively.\n\nTherefore, we have:\n\nZero in real numbers = 0\nOne in real numbers = 1", "statement": "lemma (in real1) int_0_1_are_real_zero_one: \n  shows \"\\<zero>\\<^sub>Z\\<^sup>R = \\<zero>\"  \"\\<one>\\<^sub>Z\\<^sup>R = \\<one>\"\n  "}

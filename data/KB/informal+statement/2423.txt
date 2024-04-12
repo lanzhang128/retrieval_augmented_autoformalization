@@ -1,0 +1,1 @@
+{"informal": " Given functions f and g from X to X, and an element x in X, then Composition(f,g)(x) equals f(g(x)).", "statement": "lemma func_ZF_5_L3: assumes \"f:X\\<rightarrow>X\" and \"g:X\\<rightarrow>X\" and \"x\\<in>X\"\n  shows \"(Composition(X)`\\<langle>f,g\\<rangle>)`(x) = f`(g`(x))\"\n  "}

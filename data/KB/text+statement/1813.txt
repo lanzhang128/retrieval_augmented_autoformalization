@@ -1,0 +1,1 @@
+{"text": "text\\<open>The collection of closed covers of a subset of the carrier of topology\n  is never empty. This is good to know, as we want to intersect this collection\n  to get the closure.\\<close>\n", "statement": "lemma (in topology0) Top_3_L3: \n  assumes A1: \"A \\<subseteq> \\<Union>T\" shows \"ClosedCovers(A,T) \\<noteq> 0\"\n"}

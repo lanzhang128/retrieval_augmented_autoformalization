@@ -1,0 +1,1 @@
+{"text": "text\\<open>Complement of an open set is closed.\\<close>\n", "statement": "lemma (in topology0) Top_3_L9: assumes A1: \"A\\<in>T\" \n  shows \"(\\<Union>T - A) {is closed in} T\"\n"}

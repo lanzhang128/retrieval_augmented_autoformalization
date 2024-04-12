@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>OrderedGroup_ZF_1_L28\\<close> when\n  $a\\cdot b^{-1}$ is positive.\\<close>\n", "statement": "corollary (in group3) OrderedGroup_ZF_1_L29:\n  assumes A1: \"a\\<in>G\"  \"b\\<in>G\" and A2: \"a\\<cdot>b\\<inverse> \\<in> G\\<^sub>+\"\n  shows \"b\\<lsq>a\"  \"b\\<noteq>a\"\n"}

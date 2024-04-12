@@ -1,0 +1,1 @@
+{"text": "text\\<open>$|a^{-1}| = |a|$.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_3_L7A:\n  assumes A1: \"r {is total on} G\" and A2: \"a\\<in>G\"\n  shows \"\\<bar>a\\<inverse>\\<bar> = \\<bar>a\\<bar>\"\n"}

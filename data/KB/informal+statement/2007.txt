@@ -1,0 +1,1 @@
+{"informal": " In the context of topology0, the following equivalence holds: the topology \"T\" is anti-T0 (i.e., every pair of non-empty open sets has non-empty intersection) if and only if T is the set containing the empty set and the union of T itself.", "statement": "theorem (in topology0) anti_T0:\n  shows \"(T{is anti-}isT0) \\<longleftrightarrow> T={0,\\<Union>T}\"\n"}

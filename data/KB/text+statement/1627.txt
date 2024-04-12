@@ -1,0 +1,1 @@
+{"text": "text\\<open>Subtraction is distributive with respect to multiplication.\\<close>\n", "statement": "lemma (in ring0) Ring_ZF_1_L8: assumes \"a\\<in>R\"  \"b\\<in>R\"  \"c\\<in>R\"\n  shows \n  \"a\\<cdot>(b\\<rs>c) = a\\<cdot>b \\<rs> a\\<cdot>c\"  \n  \"(b\\<rs>c)\\<cdot>a = b\\<cdot>a \\<rs> c\\<cdot>a\"\n  "}

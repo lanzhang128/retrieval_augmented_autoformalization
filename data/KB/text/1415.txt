@@ -1,0 +1,1 @@
+{"text": "text\\<open>Triangle inequality. Property of linearly ordered abelian groups.\\<close>\n"}

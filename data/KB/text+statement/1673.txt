@@ -1,0 +1,1 @@
+{"text": "text\\<open>The quotient map is surjective\\<close>\n", "statement": "lemma (in ring2) quot_fun:\n  shows \"f\\<^sub>I\\<in>surj(R,R\\<^sub>I)\" unfolding qfun_def "}

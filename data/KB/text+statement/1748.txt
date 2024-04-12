@@ -1,0 +1,1 @@
+{"text": "text\\<open> A corollary from \\<open>interval_add\\<close> \\<close>\n", "statement": "corollary (in topgroup) elements_in_set_sum: assumes \"A\\<subseteq>G\" \"B\\<subseteq>G\"\n  \"t \\<in> A\\<sad>B\" shows \"\\<exists>s\\<in>A. \\<exists>q\\<in>B. t=s\\<ra>q\"\n  "}

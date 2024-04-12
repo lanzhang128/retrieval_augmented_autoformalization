@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma explains the notation of the definition of an interval.\\<close>\n"}

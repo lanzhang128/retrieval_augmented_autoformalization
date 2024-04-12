@@ -1,0 +1,1 @@
+{"text": "text\\<open>Let's have an explicit statement that the multiplication\n  in fields is commutative.\\<close>\n", "statement": "lemma (in field0) field_mult_comm: assumes \"a\\<in>K\"  \"b\\<in>K\"\n  shows \"a\\<cdot>b = b\\<cdot>a\"\n  "}

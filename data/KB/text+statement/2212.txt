@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another form of the definition of topology generated from a uniformity.\\<close>\n", "statement": "lemma uniftop_def_alt1: assumes \"\\<Phi> {is a uniformity on} X\"\n  shows \"UniformTopology(\\<Phi>,X) = {U\\<in>Pow(X).  \\<forall>x\\<in>U. \\<exists>W\\<in>\\<Phi>. W``{x} \\<subseteq> U}\"\n"}

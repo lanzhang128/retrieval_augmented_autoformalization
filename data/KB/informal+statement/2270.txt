@@ -1,0 +1,1 @@
+{"informal": " The lemma `consdef` asserts that the cons construction of a list, `cons(a, A)`, is equivalent to appending the singleton set `{a}` to the set `A`, expressed as the set union `A \\<union> {a}`.", "statement": "lemma consdef: shows \"cons(a,A) = A \\<union> {a}\"\n  "}

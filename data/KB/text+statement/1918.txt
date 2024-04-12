@@ -1,0 +1,1 @@
+{"text": "text\\<open>Now we define the base of the product topology as the collection of all finite products \n(in the sense defined above) of open sets. \n\\<close>\n", "statement": "definition\n  \"ProductTopBase(I,T) \\<equiv>  \\<Union>N\\<in>FinPow(I).{FinProd(I\\<rightarrow>\\<Union>T,W). W\\<in>N\\<rightarrow>T}\"\n"}

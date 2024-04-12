@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every set is equipollent with its conjugates.\\<close>\n"}

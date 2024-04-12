@@ -1,0 +1,1 @@
+{"text": "text\\<open>A result from \\<open>Int_ZF_2.thy\\<close>: the identity function on integers\n  is not almost equal to any bounded function.\\<close>\n", "statement": "lemma (in real1) Real_ZF_1_1_L7:\n  assumes A1: \"f \\<in> BoundedIntMaps\"\n  shows \"\\<not>(id(int) \\<sim> f)\"\n  "}

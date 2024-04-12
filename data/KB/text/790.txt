@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $s$ is a slope, then the difference between \n  $s(m-n-k)$ and $s(m)-s(n)-s(k)$ is uniformly bounded.\\<close>\n"}

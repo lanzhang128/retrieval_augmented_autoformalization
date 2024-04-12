@@ -1,0 +1,1 @@
+{"text": "text\\<open>The homeomorphisms form a monoid and its neutral element is the identity.\\<close>\n", "statement": "theorem (in topology0) homeo_submonoid:\n  shows \"IsAmonoid(HomeoG(T),restrict(Composition(\\<Union>T),HomeoG(T)\\<times>HomeoG(T)))\" \n  \"TheNeutralElement(HomeoG(T),restrict(Composition(\\<Union>T),HomeoG(T)\\<times>HomeoG(T)))=id(\\<Union>T)\"\n"}

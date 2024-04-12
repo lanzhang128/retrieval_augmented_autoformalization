@@ -1,0 +1,1 @@
+{"informal": " The set of non-negative integers is closed under multiplication.", "statement": "lemma (in int0) pos_int_closed_mul: shows\n  \"\\<int>\\<^sub>+ {is closed under} IntegerMultiplication\"\n  "}

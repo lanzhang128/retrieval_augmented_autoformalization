@@ -1,0 +1,1 @@
+{"text": "text\\<open>In rings with no zero divisors we can (strictly) increase a \n  positive element by  multiplying it by an element that is greater than $1$.\\<close>\n"}

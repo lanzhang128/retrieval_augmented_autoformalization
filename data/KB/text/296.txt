@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we add a point to a finite set, the cardinality \n  increases by one. To understand the second assertion\n  $| A \\cup \\{ a\\}| = |A| \\cup \\{ |A|\\} $ recall that\n  the cardinality $|A|$ of $A$ is a natural number\n  and for natural numbers we have $n+1 = n \\cup \\{ n\\}$. \n\\<close>\n"}

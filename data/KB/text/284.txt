@@ -1,0 +1,1 @@
+{"text": "text\\<open>The full reduction of a word is similar to that\nof the automata without $\\varepsilon$-transitions.\\<close>\n"}

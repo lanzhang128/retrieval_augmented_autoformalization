@@ -1,0 +1,1 @@
+{"informal": " A set is in the spectrum of an isolated spectrum filter if and only if it is strictly less than 1.", "statement": "lemma sober_spectrum:\n  shows \"(A{is in the spectrum of}IsSober) \\<longleftrightarrow> A\\<lesssim>1\"\n"}

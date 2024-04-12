@@ -1,0 +1,1 @@
+{"text": "text\\<open>A relation that is reflexive and transitive is called a \\<open>preorder\\<close>.\\<close>\n"}

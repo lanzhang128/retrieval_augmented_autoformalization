@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a$ is smaller than $b$, then $(b-a)^{-1}$ is positive.\\<close>\n", "statement": "lemma (in field1) OrdField_ZF_1_L9: assumes \"a\\<ls>b\"\n  shows  \"(b\\<rs>a)\\<inverse> \\<in> R\\<^sub>+\"  \n  "}

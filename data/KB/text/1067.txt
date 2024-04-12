@@ -1,0 +1,1 @@
+{"text": "text\\<open>For natural numbers if $j\\in n$ then $j+1 \\subseteq n$.\\<close>\n"}

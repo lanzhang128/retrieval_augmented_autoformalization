@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we increase the middle term in a product, the whole product \n  increases.\\<close>\n"}

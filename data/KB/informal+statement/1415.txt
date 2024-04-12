@@ -1,0 +1,1 @@
+{"informal": " In the ring1 context, if a and b are elements of the ring, then a * b < b * a.", "statement": "lemma (in ring1) ord_ring_triangle_ineq:  assumes \"a\\<in>R\" \"b\\<in>R\"\n  shows \"\\<bar>a\\<ra>b\\<bar> \\<lsq> \\<bar>a\\<bar>\\<ra>\\<bar>b\\<bar>\"\n  "}

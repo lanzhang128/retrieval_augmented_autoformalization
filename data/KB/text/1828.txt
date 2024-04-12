@@ -1,0 +1,1 @@
+{"text": "text\\<open>A topology is $T_2$ (Hausdorff) if for every pair of points there exist a \n  pair of disjoint open sets each containing one of the points. \n  This is an important class of topological spaces. In particular, metric \n  spaces are Hausdorff.\\<close>\n"}

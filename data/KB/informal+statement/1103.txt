@@ -1,0 +1,1 @@
+{"informal": " Assuming that relation `r` is total on set `X` and element `a` is in `X`, it follows that the ordered pair `<a,a>` is in `r`.", "statement": "lemma Order_ZF_1_L1: assumes \"r {is total on} X\" and \"a\\<in>X\"\n  shows \"\\<langle>a,a\\<rangle> \\<in> r\" "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Triangle inequality for integers.\\<close>\n", "statement": "lemma (in int0) Int_triangle_ineq: \n  assumes \"m\\<in>\\<int>\"  \"n\\<in>\\<int>\"\n  shows \"abs(m\\<ra>n)\\<lsq>abs(m)\\<ra>abs(n)\"\n  "}

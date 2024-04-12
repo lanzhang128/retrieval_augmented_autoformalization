@@ -1,0 +1,1 @@
+{"text": "text\\<open> A quasigroup is a set with a binary operation that has the Latin square property. \\<close>\n", "statement": "definition\n  \"IsAquasigroup(G,A) \\<equiv> A:G\\<times>G\\<rightarrow>G \\<and> A {has Latin square property on} G\"\n"}

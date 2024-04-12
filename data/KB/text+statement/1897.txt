@@ -1,0 +1,1 @@
+{"text": "text\\<open>A continuous bijection that is an open map is a homeomorphism.\\<close>\n", "statement": "lemma bij_cont_open_homeo: \n  assumes \"f \\<in> bij(\\<Union>T,\\<Union>S)\" and \"IsContinuous(T,S,f)\" and \"\\<forall>U\\<in>T. f``(U) \\<in> S\" \n  shows \"IsAhomeomorphism(T,S,f)\"\n  "}

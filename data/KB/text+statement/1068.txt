@@ -1,0 +1,1 @@
+{"text": "text\\<open>For a natural $n$ if $k\\in n+1$ then $k+1\\leq n+1$.\\<close>\n", "statement": "lemma succ_ineq2: assumes \"n \\<in> nat\" \"k \\<in> n #+ 1\"\n  shows \"k #+ 1 \\<le> n #+ 1\" and \"k\\<le>n\"\n"}

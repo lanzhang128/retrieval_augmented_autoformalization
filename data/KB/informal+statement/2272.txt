@@ -1,0 +1,1 @@
+{"informal": " If set A has no element x, then removing x from set A does not change the set. \n\nTherefore, x is not an element of set A.", "statement": "lemma singl_diff_eq: assumes A1: \"A - {x} = A\"\n  shows \"x \\<notin> A\"\n"}

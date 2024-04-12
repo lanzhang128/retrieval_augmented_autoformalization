@@ -1,0 +1,1 @@
+{"informal": " Given that y belongs to Y, the function mapping each x to the pair <xy> is a function from the set X to Y.", "statement": "lemma pair_func_singleton: assumes A1: \"y \\<in> Y\"\n  shows \"{\\<langle>x,y\\<rangle>} : {x} \\<rightarrow> Y\"\n"}

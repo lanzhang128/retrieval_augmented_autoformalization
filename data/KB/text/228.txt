@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma about extending a finite sequence by one more value. This is \n  just a more explicit version of \\<open>append_props\\<close>.\\<close>\n"}

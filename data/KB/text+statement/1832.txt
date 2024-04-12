@@ -1,0 +1,1 @@
+{"text": "text\\<open>In a $T_0$ space two points that can not be separated \n  by an open set are equal. Proof by contradiction.\\<close>\n", "statement": "lemma Top_1_1_L1: assumes A1: \"T {is T\\<^sub>0}\" and A2: \"x \\<in> \\<Union>T\"  \"y \\<in> \\<Union>T\"\n  and A3: \"\\<forall>U\\<in>T. (x\\<in>U \\<longleftrightarrow> y\\<in>U)\" \n  shows \"x=y\"\n"}

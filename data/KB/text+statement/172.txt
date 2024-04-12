@@ -1,0 +1,1 @@
+{"text": "text\\<open>The negative of a function with a finite support\n  is a function with a finite support.\\<close>\n", "statement": "lemma (in finsupp1) finsupp_neg_finsupp: assumes A1: \"f \\<in> \\<M>\"\n  shows \"GroupInv(X\\<rightarrow>M,\\<A>)`(f) \\<in> \\<M>\"\n"}

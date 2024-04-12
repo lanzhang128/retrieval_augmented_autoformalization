@@ -1,0 +1,1 @@
+{"text": "text\\<open>Absolute value of a product is the product of absolute values.\n  Property of ordered rings.\\<close>\n"}

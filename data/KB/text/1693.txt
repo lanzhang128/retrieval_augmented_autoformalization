@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma shows our assumption on the associativity\n  of the semigroup operation in the notation defined in in the \n  \\<open>semigr0\\<close> context.\\<close>\n"}

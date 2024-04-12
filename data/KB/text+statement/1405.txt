@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can multiply the right hand side of an inequality between\n  nonnegative ring elements by an element greater or equal $1$.\\<close>\n", "statement": "lemma (in ring1) OrdRing_ZF_1_L17: \n  assumes A1: \"\\<zero>\\<lsq>a\" and A2: \"a\\<lsq>b\" and A3: \"\\<one>\\<lsq>c\"\n  shows \"a\\<lsq>b\\<cdot>c\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " In the theory `complex0`, we have the lemma `renfdisj` stating that the real interval between the complement negation and the conjunction of the constants `<cpnf>` and `<cmnf>` equals zero.", "statement": "lemma (in complex0) renfdisj: shows \"\\<real> \\<inter> {\\<cpnf>,\\<cmnf>} = 0\"\n"}

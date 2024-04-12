@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another corollary of \\<open>rtrans_image_add\\<close> \\<close>\n"}

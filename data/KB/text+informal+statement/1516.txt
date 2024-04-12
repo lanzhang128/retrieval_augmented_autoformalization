@@ -1,0 +1,1 @@
+{"text": "text\\<open>Real order is antisymmetric.\\<close>\n", "informal": " In the real numbers, if a is strictly less than b, and b is strictly less than a, then a equals b.", "statement": "lemma (in real1) real_ord_antisym: \n  assumes A1: \"a\\<lsq>b\"  \"b\\<lsq>a\" shows \"a=b\"\n"}

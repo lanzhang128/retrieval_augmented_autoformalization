@@ -1,0 +1,1 @@
+{"text": "text\\<open>A formula for tail of a finite list.\\<close>\n"}

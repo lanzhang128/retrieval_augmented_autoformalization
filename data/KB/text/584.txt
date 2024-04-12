@@ -1,0 +1,1 @@
+{"text": "text\\<open>Suppose we have two groups $G$ and $H$ with corresponding binary operations \n  $P:G\\times G \\rightarrow G$ and $F:H\\times H \\rightarrow H$. Then $f$ is a homomorphism\n  if for all $g_1,g_2\\in G$ we have $f(P\\langle g_1,g_2\\rangle ) = F\\langle f(g_1),f(g_2)\\rangle$. \\<close> \n"}

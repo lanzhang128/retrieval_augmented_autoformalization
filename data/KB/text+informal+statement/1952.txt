@@ -1,0 +1,1 @@
+{"text": "text\\<open>Net of a filter is indeed a net.\\<close>\n", "informal": " If X is filter-equipped, then the set of filters on X is a net on X. \n\nOr more succinctly, a collection of filters on a set X forms a net on X.", "statement": "theorem net_of_filter_is_net:\n  assumes \"\\<FF> {is a filter on} X\"\n  shows \"(Net(\\<FF>)) {is a net on} X\"\n"}

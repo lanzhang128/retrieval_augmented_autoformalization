@@ -1,0 +1,1 @@
+{"text": "text\\<open>A cover of a nonempty set must have a nonempty member.\\<close>\n", "informal": " Assuming X is a non-empty set and P is an element of the covers relation for X, there exists a non-empty element U in P.", "statement": "lemma cover_nonempty: assumes \"X\\<noteq>0\" \"P \\<in> Covers(X)\"\n  shows \"\\<exists>U\\<in>P. U\\<noteq>0\"\n  "}

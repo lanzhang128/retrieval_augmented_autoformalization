@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can look at the result of interval arithmetic operation as union of\n  left translated sets.\\<close>\n"}

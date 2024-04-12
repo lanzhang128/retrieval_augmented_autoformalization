@@ -1,0 +1,1 @@
+{"informal": " \"End(G,P) is defined as the relation equal to { f in G | f is a homomorphism from G to G with respect to relation P }\"", "statement": "definition\n  \"End(G,P) \\<equiv> {f\\<in>G\\<rightarrow>G. Homomor(f,G,P,G,P)}\"\n"}

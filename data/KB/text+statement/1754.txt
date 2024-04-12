@@ -1,0 +1,1 @@
+{"text": "text\\<open>Right and left translations are continuous.\\<close>\n", "statement": "lemma (in topgroup) trans_cont: assumes \"g\\<in>G\" shows\n  \"IsContinuous(T,T,RightTranslation(G,f,g))\" and\n  \"IsContinuous(T,T,LeftTranslation(G,f,g))\"\n"}

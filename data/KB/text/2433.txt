@@ -1,0 +1,1 @@
+{"text": "text\\<open>A kind of converse of \\<open>lift_subset_apply\\<close>, providing\n  a necessary condition for a point to be in the result of lifting to \n  subsets.\\<close>\n"}

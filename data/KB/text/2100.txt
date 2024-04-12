@@ -1,0 +1,1 @@
+{"text": "text\\<open>In the theory file Partitions\\_ZF.thy; there is\na definition to work with partitions. In this setting\nis much easier to work with a family of subsets.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " If I is an ideal in ring0 and x, y are elements in I, then x + y is also an element in I.", "statement": "lemma (in ring0) ideal_dest_sum:\n  assumes \"I \\<triangleleft>R\" \"x\\<in>I\" \"y\\<in>I\"\n  shows \"x\\<ra>y \\<in>I\" "}

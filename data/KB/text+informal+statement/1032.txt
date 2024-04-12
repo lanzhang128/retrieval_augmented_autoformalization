@@ -1,0 +1,1 @@
+{"text": "text\\<open>Any multiple of a monoid element is a monoid element.\\<close>\n", "informal": " If n is a natural number and x is an element of group G, then n * x is also an element of group G.", "statement": "lemma (in monoid1) nat_mult_type: assumes \"n\\<in>nat\" \"x\\<in>G\"\n  shows \"n\\<cdot>x \\<in> G\" "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set neighborhood system of $T$ is a function mapping subsets of $\\bigcup T$\n  to collections of subsets of $\\bigcup T$. \\<close>\n", "statement": "lemma nei_fun: \n  shows \"({set neighborhood system of} T):Pow(\\<Union>T) \\<rightarrow>Pow(Pow(\\<Union>T))\"\n"}

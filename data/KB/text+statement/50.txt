@@ -1,0 +1,1 @@
+{"text": "text\\<open>Complex $1$ is not complex $0$.\\<close>\n", "statement": "lemma (in complex0) ax1ne0: shows \"\\<one> \\<noteq> \\<zero>\"\n"}

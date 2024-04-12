@@ -1,0 +1,1 @@
+{"text": "text\\<open>Inverse of an open set is open.\\<close>\n", "statement": "lemma (in topgroup) open_inv_open: assumes \"V\\<in>T\" shows \"(\\<sm>V) \\<in> T\"\n  "}

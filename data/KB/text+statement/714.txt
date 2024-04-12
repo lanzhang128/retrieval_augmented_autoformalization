@@ -1,0 +1,1 @@
+{"text": "text\\<open>A triangle inequality with three integers. Property of \n  linearly ordered abelian groups.\\<close>\n", "statement": "lemma (in int0) int_triangle_ineq3: \n  assumes A1: \"a\\<in>\\<int>\"  \"b\\<in>\\<int>\"  \"c\\<in>\\<int>\"\n  shows \"abs(a\\<rs>b\\<rs>c) \\<lsq> abs(a) \\<ra> abs(b) \\<ra> abs(c)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The final state is @{term starts0}\\<close>\n", "statement": "definition finalStates where\n\"finalStates \\<equiv> {starts0}\"\n"}

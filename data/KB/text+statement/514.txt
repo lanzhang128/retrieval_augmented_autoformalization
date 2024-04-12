@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of finite range functions is s subgroup of the lifted group.\\<close>\n", "statement": "theorem Group_ZF_3_1_T1: \n  assumes A1: \"IsAgroup(G,P)\" \n  and A2: \"F = P {lifted to function space over} X\"\n  and A3: \"X\\<noteq>0\"\n  shows \"IsAsubgroup(FinRangeFunctions(X,G),F)\"\n"}

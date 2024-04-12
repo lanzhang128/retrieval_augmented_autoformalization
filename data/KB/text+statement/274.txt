@@ -1,0 +1,1 @@
+{"text": "text\\<open>A regular language is a language.\\<close>\n", "statement": "lemma regular_is_language:\n  assumes \"Finite(\\<Sigma>)\"\n  and \"L{is a regular language on}\\<Sigma>\"\n  shows \"L{is a language with alphabet}\\<Sigma>\" unfolding IsALanguage_def[OF assms(1)]\n"}

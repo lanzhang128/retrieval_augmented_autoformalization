@@ -1,0 +1,1 @@
+{"informal": " In the group G, if element a and element b belong to it, and a * b^-1 (the inverse of b times a) is the identity element, then b is less than a.", "statement": "corollary (in group3) OrderedGroup_ZF_1_L5K: \n  assumes A1: \"a\\<in>G\"  \"b\\<in>G\" and A2: \"\\<one> \\<lsq> a\\<cdot>b\\<inverse>\"\n  shows \"b \\<lsq> a\"\n"}

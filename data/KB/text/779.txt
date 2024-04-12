@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma allows to use the expression \\<open>maxf(f,\\<zero>..M-1)\\<close>. \n  Recall that \\<open>maxf(f,A)\\<close> is the maximum of (function) $f$ on \n  (the set) $A$.\\<close>\n"}

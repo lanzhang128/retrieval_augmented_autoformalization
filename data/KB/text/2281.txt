@@ -1,0 +1,1 @@
+{"text": "text\\<open>A reflexive relation is contained in the union of products of its singleton images. \\<close>\n"}

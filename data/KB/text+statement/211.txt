@@ -1,0 +1,1 @@
+{"text": "text\\<open>Codomain of a nonempty list is nonempty.\\<close>\n", "statement": "lemma nelist_vals_nonempty: assumes \"a:succ(n)\\<rightarrow>Y\"\n  shows \"Y\\<noteq>0\" "}

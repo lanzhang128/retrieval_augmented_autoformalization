@@ -1,0 +1,1 @@
+{"text": "text\\<open>When we append an element to the empty list we get\n  a list with length $1$.\\<close>\n"}

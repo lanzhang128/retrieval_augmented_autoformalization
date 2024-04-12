@@ -1,0 +1,1 @@
+{"text": "text\\<open>The trivial subgroup is then a normal subgroup.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image of an intersection is contained in the \n  intersection of the images.\\<close>\n"}

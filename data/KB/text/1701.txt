@@ -1,0 +1,1 @@
+{"text": "text\\<open>The main theorem of the section: taking the product of \n  a sequence is distributive with respect to concatenation of sequences.\n  The proof is by induction on the length of the second list.\\<close>\n"}

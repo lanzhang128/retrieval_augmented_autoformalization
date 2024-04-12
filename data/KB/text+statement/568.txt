@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every normal subgroup contains its conjugate subgroups.\\<close>\n", "statement": "theorem (in group0) norm_group_cont_conj:\n  assumes \"IsAnormalSubgroup(G,P,H)\" \"g\\<in>G\"\n  shows \"{g\\<cdot>(h\\<cdot>g\\<inverse>). h\\<in>H}\\<subseteq>H\"\n"}

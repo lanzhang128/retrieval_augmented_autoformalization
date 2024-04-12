@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $\\Theta$ are uniform covers of $X$ then we can recover $X$ from $\\Theta$ by taking \n  $\\bigcup\\bigcup \\Theta$. \\<close>\n", "statement": "lemma space_from_unicov: assumes \"\\<Theta> {are uniform covers of} X\" shows \"X = \\<Union>\\<Union>\\<Theta>\"\n"}

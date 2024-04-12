@@ -1,0 +1,1 @@
+{"text": "text\\<open>The lift of a commutative function is commutative \n  on the function space.\\<close>\n", "statement": "lemma func_ZF_2_L2:\n  assumes \"f : G\\<times>G\\<rightarrow>G\"\n  and \"f {is commutative on} G\"\n  and \"F = f {lifted to function space over} X\"\n  shows \"F {is commutative on} (X\\<rightarrow>range(f))\"\n  "}

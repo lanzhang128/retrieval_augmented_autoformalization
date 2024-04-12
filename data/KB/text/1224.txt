@@ -1,0 +1,1 @@
+{"text": "text\\<open>The order in an ordered group is antisymmetric.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " If relation r makes AEquiv, and a subset U of A is related to A via r, then the subset of A minus U, based on r projections, equals the union of U.", "statement": "lemma preim_equi_proj:\n  assumes \"U\\<subseteq>A//r\" \"equiv(A,r)\"\n  shows \"{\\<langle>b,r``{b}\\<rangle>. b\\<in>A}-``(U) = \\<Union>U\"\n"}

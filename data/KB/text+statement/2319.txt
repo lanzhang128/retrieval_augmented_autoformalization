@@ -1,0 +1,1 @@
+{"text": "text\\<open>Yet another way of expressing value of a function.\\<close>\n", "statement": "lemma ZF_fun_from_tot_val1:\n  assumes \"x\\<in>X\" shows \"{\\<langle>x,b(x)\\<rangle>. x\\<in>X}`(x)=b(x)\"\n"}

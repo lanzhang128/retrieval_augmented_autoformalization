@@ -1,0 +1,1 @@
+{"text": "text\\<open>Yet another induction theorem. This is similar, but \n  slightly more complicated than \\<open>FinPow_ind_rem_one\\<close>.\n  The difference is in the treatment of the empty set to allow \n  to show properties that are not true for empty set.\n\\<close>\n"}

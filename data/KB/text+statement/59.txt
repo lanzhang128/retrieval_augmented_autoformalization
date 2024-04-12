@@ -1,0 +1,1 @@
+{"text": "text\\<open>Complex multiplication is associative.\\<close>\n", "statement": "lemma (in complex0) axmulass: assumes A1: \"a \\<in> \\<complex>\"  \"b \\<in> \\<complex>\"  \"c \\<in> \\<complex>\"\n  shows \"a \\<cdot> b \\<cdot> c = a \\<cdot> (b \\<cdot> c)\"\n"}

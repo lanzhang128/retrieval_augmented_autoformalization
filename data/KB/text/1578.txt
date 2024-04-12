@@ -1,0 +1,1 @@
+{"text": "text\\<open>Suppose $S\\neq \\emptyset$ is bounded above and \n  $\\Gamma(S,m) =\\lfloor m^R\\cdot x\\rfloor$ for some positive integer $m$\n  and $x\\in S$. Then if $y\\in S, x\\leq y$ we also have \n  $\\Gamma(S,m) =\\lfloor m^R\\cdot y\\rfloor$.\\<close>\n"}

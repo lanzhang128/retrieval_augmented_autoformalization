@@ -1,0 +1,1 @@
+{"text": "text\\<open>This lemma allows to prove theorems for the case of positive and \n  negative elements of the ring separately.\\<close>\n", "statement": "lemma (in ring1) OrdRing_ZF_2_L4: assumes \"a\\<in>R\" and \"\\<not>(\\<zero>\\<lsq>a)\" \n  shows \"\\<zero> \\<lsq> (\\<rm>a)\"  \"\\<zero>\\<noteq>a\"\n  "}

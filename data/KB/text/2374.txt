@@ -1,0 +1,1 @@
+{"text": "text\\<open>Restriction of an bijection to a set without a point\n  is a a bijection.\\<close>\n"}

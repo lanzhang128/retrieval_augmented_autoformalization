@@ -1,0 +1,1 @@
+{"text": "text\\<open>Now we are able to prove the first isomorphism theorem. This theorem states\n  that any group homomorphism $f:G\\to H$ gives an isomorphism between a quotient group of $G$\n  and a subgroup of $H$.\\<close>\n"}

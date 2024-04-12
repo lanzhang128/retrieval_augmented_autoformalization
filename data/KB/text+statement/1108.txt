@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can restrict a partial order relation to the domain. \\<close>\n", "statement": "lemma part_ord_restr: assumes \"IsPartOrder(X,r)\"\n  shows \"IsPartOrder(X,r \\<inter> X\\<times>X)\"\n  "}

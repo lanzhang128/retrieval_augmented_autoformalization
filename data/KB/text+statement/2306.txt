@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next theorem illustrates the meaning of the concept of \n  function in ZF.\\<close>\n", "statement": "theorem fun_is_set_of_pairs: assumes A1: \"f:X\\<rightarrow>Y\"\n  shows \"f = {\\<langle>x, f`(x)\\<rangle>. x \\<in> X}\"\n"}

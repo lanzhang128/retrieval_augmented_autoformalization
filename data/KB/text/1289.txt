@@ -1,0 +1,1 @@
+{"text": "text\\<open>A bit stronger that \\<open>OrderedGroup_ZF_1_L29\\<close>, adds\n   case when two elements are equal.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The Roelcke uniformity is indeed a uniformity on the group. \\<close>\n", "statement": "lemma (in topgroup) roelcke_uniformity:\n  shows \"roelckeUniformity {is a uniformity on} G\"\n"}

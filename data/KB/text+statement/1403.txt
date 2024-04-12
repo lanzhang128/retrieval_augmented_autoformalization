@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the difference is nonnegative, then $a\\leq b$.\\<close>\n", "statement": "lemma (in ring1) OrdRing_ZF_1_L15: \n  assumes \"a\\<in>R\" \"b\\<in>R\" and \"\\<zero> \\<lsq> b\\<rs>a\"\n  shows \"a\\<lsq>b\"\n  "}

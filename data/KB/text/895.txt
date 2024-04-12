@@ -1,0 +1,1 @@
+{"text": "text\\<open>Some inequalities about the sum of two integers\n  and its absolute value.\\<close>\n"}

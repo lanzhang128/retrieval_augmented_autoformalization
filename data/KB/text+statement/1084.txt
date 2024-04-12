@@ -1,0 +1,1 @@
+{"text": "text\\<open>We define the notion of a \\<open>downward directed set\\<close> analogously.\\<close>\n", "statement": "definition\n  \"IsDownDirectedSet(X,r) \\<equiv> IsPreorder(X,r) \\<and> (r {down-directs} X)\"\n"}

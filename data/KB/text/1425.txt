@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $m$ is less or equal than the negative of \n  multiplicative unit, then the set\n  $\\{m\\cdot n: n\\in R\\}$ is infinite (unless the ring is trivial).\\<close>\n"}

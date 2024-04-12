@@ -1,0 +1,1 @@
+{"text": "text\\<open>Cocountable topology in fact consists of the empty set and all cocountable subsets of $X$.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every integer whose embedding is less or equal a real number $a$\n  is less or equal than the floor of $a$.\\<close>\n"}

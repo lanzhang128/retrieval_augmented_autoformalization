@@ -1,0 +1,1 @@
+{"text": "text\\<open>The filter part of the definition of uniformity for easier reference:\\<close>\n"}

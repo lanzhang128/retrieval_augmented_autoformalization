@@ -1,0 +1,1 @@
+{"text": "text\\<open>In conclusion, every locally compact Hausdorff topological space is regular; since this property is hereditary.\\<close>\n"}

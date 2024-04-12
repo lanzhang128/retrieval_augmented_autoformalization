@@ -1,0 +1,1 @@
+{"informal": " The lemma \"cofinite_compact\" states that a set X is compact in the cofinite topology. In other words, every open cover of X has a finite subcover.", "statement": "lemma cofinite_compact:\n  shows \"X {is compact in}(CoFinite X)\" unfolding IsCompact_def\n"}

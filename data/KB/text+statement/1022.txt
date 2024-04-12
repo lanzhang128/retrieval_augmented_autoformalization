@@ -1,0 +1,1 @@
+{"text": "text\\<open>The monoid operation is associative.\\<close>\n", "statement": "lemma (in monoid0) sum_associative:\n  assumes \"a\\<in>G\" \"b\\<in>G\" \"c\\<in>G\"\n  shows \"(a\\<oplus>b)\\<oplus>c = a\\<oplus>(b\\<oplus>c)\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>For natural numbers if $k\\subseteq n$ the similar holds for \n  their successors.\\<close>\n", "statement": "lemma succ_subset: assumes A1: \"k \\<in> nat\"  \"n \\<in> nat\" and A2: \"k\\<subseteq>n\" \n  shows \"succ(k) \\<subseteq> succ(n)\"\n"}

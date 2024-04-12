@@ -1,0 +1,1 @@
+{"text": "text\\<open>Left translating an open set by a negative of a point that belongs to it\n  makes it a neighboorhood of zero.\\<close>\n", "statement": "lemma (in topgroup) open_trans_neigh: assumes A1: \"U\\<in>T\" and \"g\\<in>U\"\n  shows \"(\\<rm>g)\\<ltr>U \\<in> \\<N>\\<^sub>0\"\n"}

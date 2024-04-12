@@ -1,0 +1,1 @@
+{"text": "text\\<open>Zero and one of the ring are elements of the ring. The negative of zero\n  is zero.\\<close>\n", "statement": "lemma (in ring0) Ring_ZF_1_L2: \n  shows \"\\<zero>\\<in>R\"  \"\\<one>\\<in>R\"   \"(\\<rm>\\<zero>) = \\<zero>\"\n  "}

@@ -1,0 +1,1 @@
+{"informal": " In the context of topology0, the restricted topology on X (denoted by (T {restricted to} X)) is a topology.", "statement": "lemma (in topology0) Top_1_L4: \n  shows \"(T {restricted to} X) {is a topology}\"\n"}

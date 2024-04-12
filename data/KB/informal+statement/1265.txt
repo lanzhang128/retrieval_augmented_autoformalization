@@ -1,0 +1,1 @@
+{"informal": "Assuming `a` and `b` are elements of group `G`, and `b` has an inverse in the group, then `a` is less than `b`.", "statement": "lemma (in group3) OrderedGroup_ZF_1_L9F: \n  assumes A1: \"a\\<in>G\"  \"b\\<in>G\" and A2: \"\\<one> \\<lsq> b\\<cdot>a\\<inverse>\"\n  shows \"a\\<lsq>b\"\n"}

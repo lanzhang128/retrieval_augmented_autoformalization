@@ -1,0 +1,1 @@
+{"informal": " If T is a subset of X, then the set of elements that are in X or in T (i.e., the union of X and T) is equal to X.", "statement": "lemma union_includedset:\n  assumes \"T\\<subseteq>X \"\n  shows \"\\<Union>IncludedSet(X,T) = X\"\n"}

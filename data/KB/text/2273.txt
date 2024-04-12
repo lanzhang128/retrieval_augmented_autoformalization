@@ -1,0 +1,1 @@
+{"text": "text\\<open>Simple substitution in membership, has to be used by rule\n  in very rare cases.\\<close>\n"}

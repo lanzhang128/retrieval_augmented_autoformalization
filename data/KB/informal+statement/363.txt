@@ -1,0 +1,1 @@
+{"informal": " In the generalization1 lemma, it is shown that the domain of the move function is equal to the set of all elements, denoted as \"big.\"", "statement": "lemma (in generalization1) move_domain: shows \"domain(move) = big\" \n  "}

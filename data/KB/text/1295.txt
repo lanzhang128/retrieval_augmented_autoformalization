@@ -1,0 +1,1 @@
+{"text": "text\\<open>For nontrivial linearly ordered groups  if for every element $G$ \n  we can find one in $A$ \n  that is greater or equal (not necessarily strictly greater), then $A$\n  can neither be finite nor bounded above.\\<close>\n"}

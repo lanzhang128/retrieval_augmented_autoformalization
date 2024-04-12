@@ -1,0 +1,1 @@
+{"text": "text\\<open>The composition of embeddings is the embeding of the product.\\<close>\n", "statement": "lemma (in int1) Int_ZF_2_5_L3B: assumes A1: \"m\\<in>\\<int>\"  \"k\\<in>\\<int>\"\n  shows \"(m\\<^sup>S) \\<circ> (k\\<^sup>S) = ((m\\<cdot>k)\\<^sup>S)\"\n"}

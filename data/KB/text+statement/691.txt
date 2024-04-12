@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>Int_ZF_1_3_L6B\\<close> when $b=0$. This\n  allows to split the proofs in cases $a\\leq -1$, $a=0$ and $a\\geq 1$.\\<close>\n", "statement": "corollary (in int0) Int_ZF_1_3_L6C: assumes A1: \"a\\<in>\\<int>\"\n  shows \"a=\\<zero> \\<or> (a \\<lsq> \\<rm>\\<one>) \\<or> (\\<one>\\<lsq>a)\"  \n"}

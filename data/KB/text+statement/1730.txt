@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can use the \\<open>prod_top_spaces0\\<close> locale in the context of \\<open>topgroup\\<close>.\\<close>\n", "statement": "lemma (in topgroup) prod_top_spaces0_valid: shows \"prod_top_spaces0(T,T,T)\"\n  "}

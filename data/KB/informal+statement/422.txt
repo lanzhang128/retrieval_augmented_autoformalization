@@ -1,0 +1,1 @@
+{"informal": " A set H is a subgroup of a relation P if and only if H is a group with respect to the restriction of P to H x H.", "statement": "definition\n  \"IsAsubgroup(H,P) \\<equiv> IsAgroup(H, restrict(P,H\\<times>H))\"\n"}

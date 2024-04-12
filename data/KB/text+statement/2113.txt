@@ -1,0 +1,1 @@
+{"text": "text\\<open>The open intervals and rays satisfy the base condition.\\<close>\n", "statement": "lemma intervals_rays_base_condition:\n  assumes \"IsLinOrder(X,r)\"\n  shows \"{IntervalX(X,r,b,c). \\<langle>b,c\\<rangle>\\<in>X\\<times>X}\\<union>{LeftRayX(X,r,b). b\\<in>X}\\<union>{RightRayX(X,r,b). b\\<in>X} {satisfies the base condition}\"\n"}

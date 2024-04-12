@@ -1,0 +1,1 @@
+{"text": "text\\<open>A if $a$ is a nonunit element that is not positive, then $a^{-1}$ is \n  is positive. This is useful for some proofs by cases.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Almost homomorphisms are defined as those maps \n  $s:G\\rightarrow G$ such that the \n  homomorphism difference takes only finite number of values on $G\\times G$.\n\\<close>\n", "statement": "definition\n  \"AlmostHoms(G,f) \\<equiv> \n  {s \\<in> G\\<rightarrow>G.{HomDiff(G,f,s,x). x \\<in> G\\<times>G } \\<in> Fin(G)}\"\n"}

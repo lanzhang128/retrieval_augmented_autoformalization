@@ -1,0 +1,1 @@
+{"text": "text\\<open>The range of the homomorphism difference of a composition\n  of two almost homomorphisms is finite. This is the essential condition\n  to show that a composition of almost homomorphisms is an almost \n  homomorphism.\\<close>\n"}

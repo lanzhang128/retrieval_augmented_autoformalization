@@ -1,0 +1,1 @@
+{"informal": " Given that both functions f and g are in the finite supply mapa M, their sum (f \\oplus g) is also an element of M.", "statement": "lemma (in finsupp) sum_finsupp: \n  assumes \"f \\<in> \\<M>\"  \"g \\<in> \\<M>\"\n  shows \"f\\<oplus>g \\<in>\\<M> \"\n"}

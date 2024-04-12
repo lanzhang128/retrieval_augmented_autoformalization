@@ -1,0 +1,1 @@
+{"text": "text\\<open>The essential condition to show that a total relation is reflexive.\\<close>\n", "statement": "lemma Order_ZF_1_L1: assumes \"r {is total on} X\" and \"a\\<in>X\"\n  shows \"\\<langle>a,a\\<rangle> \\<in> r\" "}

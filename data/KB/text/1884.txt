@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the inverse image of every closed set is closed, then the\n  image of a closure is contained in the closure of the image.\\<close>\n"}

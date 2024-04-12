@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can cancel an element from both sides of a strict inequality on the left side. \\<close>\n", "statement": "lemma (in loop1) strict_ineq_cancel_left: \n  assumes \"x\\<in>L\" \"y\\<in>L\" \"z\\<in>L\" and \"z\\<ra>x \\<ls> z\\<ra>y\" \n  shows  \"x\\<ls>y\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open> In an ordered loop the strict order is translation invariant. \\<close>\n", "statement": "lemma (in loop1) strict_ord_trans_inv: assumes \"x\\<ls>y\" \"z\\<in>L\"\n  shows \"x\\<ra>z \\<ls> y\\<ra>z\" and \"z\\<ra>x \\<ls> z\\<ra>y\"\n"}

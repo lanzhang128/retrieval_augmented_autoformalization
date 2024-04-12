@@ -1,0 +1,1 @@
+{"informal": " Assuming T and S are topologies, and both T and S are connected, the product topology of T and S is connected.", "statement": "theorem compact_product:\n  assumes \"T{is a topology}\"\"S{is a topology}\"\"T{is connected}\"\"S{is connected}\"\n  shows \"ProductTopology(T,S){is connected}\"\n"}

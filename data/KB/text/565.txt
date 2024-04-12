@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $s$ is an almost homomorphism and $c$ is some constant from the group, \n  then $s\\cdot c$ is an almost homomorphism.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image of \\<open>\\<int>\\<^sub>+\\<close> by a function defined on integers \n  is not empty.\\<close>\n"}

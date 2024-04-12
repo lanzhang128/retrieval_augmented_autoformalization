@@ -1,0 +1,1 @@
+{"text": "text\\<open>The lift of a commutative function is commutative \n  on the function space.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Zero is neutral for addition and one for multiplication.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_L5: assumes A1:\"x\\<in>\\<int>\"\n  shows \"($# 0) \\<ra> x = x \\<and> x \\<ra> ($# 0) = x\"\n  \"($# 1)\\<cdot>x = x \\<and> x\\<cdot>($# 1) = x\"\n"}

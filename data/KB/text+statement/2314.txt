@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $f\\subseteq X\\times Y$ and for every $x\\in X$ there is exactly \none $y\\in Y$ such that $(x,y)\\in f$ then $f$ maps $X$ to $Y$.\\<close>\n", "statement": "lemma func1_1_L11: \n  assumes \"f \\<subseteq> X\\<times>Y\" and \"\\<forall>x\\<in>X. \\<exists>!y. y\\<in>Y \\<and> \\<langle>x,y\\<rangle> \\<in> f\"\n  shows \"f: X\\<rightarrow>Y\" "}

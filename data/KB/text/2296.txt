@@ -1,0 +1,1 @@
+{"text": "text\\<open>A version of the \\<open>Pi_type\\<close> lemma from the standard Isabelle/ZF library.\\<close>\n"}

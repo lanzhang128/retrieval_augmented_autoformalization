@@ -1,0 +1,1 @@
+{"text": "text\\<open>Images of singletons by entourages are set neighborhoods of those singletons.\n  See also the Metamath theorem with the same name.\\<close>\n"}

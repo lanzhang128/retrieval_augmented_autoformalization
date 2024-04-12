@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma useful in the induction step of the main theorem.\\<close>\n"}

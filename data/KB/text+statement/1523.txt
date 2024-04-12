@@ -1,0 +1,1 @@
+{"text": "text\\<open>The order on real is reflexive.\\<close>\n", "statement": "lemma (in real1) real_ord_refl: assumes \"a\\<in>\\<real>\" shows \"a\\<lsq>a\"\n  "}

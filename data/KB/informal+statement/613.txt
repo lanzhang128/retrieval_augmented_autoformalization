@@ -1,0 +1,1 @@
+{"informal": " Given a function `f: X -> X` and an element `x: X`, it can be shown that `InductiveSequence(x, f)` is a function from `nat` to `X`.", "statement": "theorem indseq_seq: assumes  A1: \"f: X\\<rightarrow>X\" and A2: \"x\\<in>X\"\n  shows \"InductiveSequence(x,f) : nat \\<rightarrow> X\"\n"}

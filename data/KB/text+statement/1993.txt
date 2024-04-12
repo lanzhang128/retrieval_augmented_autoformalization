@@ -1,0 +1,1 @@
+{"text": "text\\<open>A Hausdorff space separates compact spaces from other compact spaces.\\<close>\n", "statement": "theorem (in topology0) T2_compact_compact:\n  assumes \"T{is T\\<^sub>2}\" \"A{is compact in}T\" \"B{is compact in}T\" \"A\\<inter>B=0\"\n  shows \"\\<exists>U\\<in>T. \\<exists>V\\<in>T. A\\<subseteq>U \\<and> B\\<subseteq>V \\<and> U\\<inter>V=0\"\n"}

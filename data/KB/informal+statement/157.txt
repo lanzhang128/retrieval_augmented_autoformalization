@@ -1,0 +1,1 @@
+{"informal": " Given a linearly ordered set (X, r), and a finite non-empty subset B, the identity relation over B is an order isomorphism between B and itself with respect to relation r.", "statement": "theorem fin_ord_auto_id: assumes A1: \"IsLinOrder(X,r)\"\n  and A2: \"B \\<in>  FinPow(X)\" and A3: \"B\\<noteq>0\"\n  shows \"ord_iso(B,r,B,r) = {id(B)}\"\n"}

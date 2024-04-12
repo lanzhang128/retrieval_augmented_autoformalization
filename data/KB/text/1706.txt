@@ -1,0 +1,1 @@
+{"text": "text\\<open>The \\<open>enum_append\\<close> lemma from the \n  \\<open>Enemeration\\<close> theory specialized for natural\n  numbers.\\<close> \n"}

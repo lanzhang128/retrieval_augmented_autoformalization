@@ -1,0 +1,1 @@
+{"text": "text\\<open>The interior of a set is itself if it is open or the empty set if it isn't.\\<close>\n"}

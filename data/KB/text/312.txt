@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a family of sets contains the empty set and\n  is closed with respect to taking unions\n  of two sets then it is closed with respect to taking unions \n  of any finite collection.\\<close>\n"}

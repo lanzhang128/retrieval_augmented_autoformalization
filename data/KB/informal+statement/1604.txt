@@ -1,0 +1,1 @@
+{"informal": " In the ring3 context, if n is a natural number and x, y, z are elements in R, then the associativity of multiplication holds: n * (x * y) = (n * x) * y.", "statement": "lemma (in ring3) nat_mult_assoc1: assumes \"n\\<in>nat\" \"x\\<in>R\" \"y\\<in>R\" \"z\\<in>R\" \n  shows \"n\\<nm>x\\<cdot>y\\<cdot>z = n\\<nm>(x\\<cdot>y\\<cdot>z)\"\n  "}

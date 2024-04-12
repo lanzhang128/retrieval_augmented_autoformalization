@@ -1,0 +1,1 @@
+{"informal": " If a relation `r` has a maximum for a set `A`, then `A` is non-empty.", "statement": "lemma set_max_not_empty: assumes \"HasAmaximum(r,A)\" shows \"A\\<noteq>0\"\n  "}

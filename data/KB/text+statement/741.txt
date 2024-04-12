@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $n$ is positive, then $n-1$ is nonnegative.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_5_L6: assumes A1: \"n \\<in> \\<int>\\<^sub>+\"\n  shows \n  \"\\<zero> \\<lsq> n\\<rs>\\<one>\"\n  \"\\<zero> \\<in> \\<zero>..(n\\<rs>\\<one>)\"\n  \"\\<zero>..(n\\<rs>\\<one>) \\<subseteq> \\<int>\"\n"}

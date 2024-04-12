@@ -1,0 +1,1 @@
+{"text": "text\\<open>Intersection of subgroups is a subgroup.\\<close>\n", "statement": "lemma (in group0) subgroup_inter: assumes \"\\<H>\\<noteq>0\"\n  and \"\\<forall>H\\<in>\\<H>. IsAsubgroup(H,P)\"\n  shows \"IsAsubgroup(\\<Inter>\\<H>,P)\"\n"}

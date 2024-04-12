@@ -1,0 +1,1 @@
+{"text": "text\\<open>Similarly the right division is defined as a function on $G\\times G$.  \\<close>\n", "statement": "definition\n  \"RightDiv(G,A) \\<equiv> {\\<langle>p,\\<Union>{z\\<in>G. A`\\<langle>z,fst(p)\\<rangle> = snd(p)}\\<rangle>.p\\<in>G\\<times>G}\"\n"}

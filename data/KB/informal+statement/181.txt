@@ -1,0 +1,1 @@
+{"informal": " IntPr(T, N) is defined as (N = 0 or N is an element of T).", "statement": "definition\n  \"IntPr(T,N) \\<equiv> (N = 0 | \\<Inter>N \\<in> T)\"\n"}

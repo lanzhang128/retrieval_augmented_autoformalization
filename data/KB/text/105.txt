@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every $x$ is in the class of $y$, then they are equivalent.\\<close>\n"}

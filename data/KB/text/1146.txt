@@ -1,0 +1,1 @@
+{"text": "text\\<open>A somewhat technical fact that allows to reduce the number of premises in some\n  theorems: the assumption that a set has a maximum implies that it is not empty. \\<close>\n"}

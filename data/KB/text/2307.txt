@@ -1,0 +1,1 @@
+{"text": "text\\<open>The range of function that maps $X$ into $Y$ is contained in $Y$.\\<close>\n"}

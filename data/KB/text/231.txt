@@ -1,0 +1,1 @@
+{"text": "text\\<open>The last element of a non-empty list valued in $X$ is in $X$.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The support of the sum of functions is contained in the union of\n  supports.\\<close>\n", "statement": "lemma (in finsupp) supp_sum_union: assumes \"f:X \\<rightarrow>M\"  \"g:X \\<rightarrow>M\"\n  shows \"supp(f\\<oplus>g) \\<subseteq> supp(f) \\<union> supp(g)\"\n"}

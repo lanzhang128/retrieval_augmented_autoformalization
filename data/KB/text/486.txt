@@ -1,0 +1,1 @@
+{"text": "text\\<open>What is the group inverse for the lifted group?\\<close>\n"}

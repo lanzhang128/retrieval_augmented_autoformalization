@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can put a positive factor on the other side of an inequality,\n  changing it to its inverse, version with a product initially on the \n  right hand side.\\<close>\n", "statement": "lemma (in field1) OrdField_ZF_2_L5A:\n  assumes A1: \"b\\<in>R\"  \"c\\<in>R\\<^sub>+\" and A2: \"a \\<lsq> b\\<cdot>c\"\n  shows \"a\\<cdot>c\\<inverse> \\<lsq> b\"\n"}

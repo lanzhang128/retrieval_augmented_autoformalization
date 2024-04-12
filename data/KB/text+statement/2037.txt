@@ -1,0 +1,1 @@
+{"text": "text\\<open>The underlying set of the quotient topology is $Y$.\\<close>\n", "statement": "lemma (in topology0) total_quo_func:\n  assumes \"f\\<in>surj(\\<Union>T,Y)\"\n  shows \"(\\<Union>({quotient topology in} Y {by} f))=Y\"\n"}

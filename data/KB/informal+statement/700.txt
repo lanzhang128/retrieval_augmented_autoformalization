@@ -1,0 +1,1 @@
+{"informal": " Given integers a < a b and zero < c, we have a * c < b * c and c * a < c * b.", "statement": "lemma (in int0) Int_ZF_1_3_L13:\n  assumes A1: \"a\\<lsq>b\" and A2: \"\\<zero>\\<lsq>c\"\n  shows \n  \"a\\<cdot>c \\<lsq> b\\<cdot>c\"\n  \"c\\<cdot>a \\<lsq> c\\<cdot>b\"\n  "}

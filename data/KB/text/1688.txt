@@ -1,0 +1,1 @@
+{"text": "text\\<open>As with D-sets, by De Morgan's Laws we get the same result\nfor unions and intersections on V-sets\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " Given natural numbers k and n with k > n, and i an integer between n and k inclusive, then i - n is also an integer between 0 and k.", "statement": "lemma inter_diff_in_len: \n  assumes A1: \"k \\<in> nat\" and A2: \"i \\<in> NatInterval(n,k)\"\n  shows \"i #- n \\<in> k\"\n"}

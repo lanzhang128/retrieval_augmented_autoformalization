@@ -1,0 +1,1 @@
+{"text": "text\\<open>The relation, that is actually a function\nhas the following domain and range:\\<close>\n"}

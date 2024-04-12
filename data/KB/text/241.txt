@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma about appending an element to a list defined by set\n  comprehension.\\<close>\n"}

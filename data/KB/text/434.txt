@@ -1,0 +1,1 @@
+{"text": "text\\<open>Intersection of subgroups is a subgroup. This lemma is obsolete and should be replaced by \n  \\<open>subgroup_inter\\<close>. \\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>We also define boundary  of a set as the intersection of \n  its closure with the closure of the complement (with respect to the \n  carrier).\\<close>\n", "statement": "definition\n  \"Boundary(A,T) \\<equiv> Closure(A,T) \\<inter> Closure(\\<Union>T - A,T)\"\n"}

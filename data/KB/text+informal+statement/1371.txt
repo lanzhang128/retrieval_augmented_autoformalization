@@ -1,0 +1,1 @@
+{"text": "text\\<open> A form of mixed transitivity for the strict order: \\<close>\n", "informal": " If x is strictly smaller than y, and y is smaller than z, then x is strictly smaller than z.", "statement": "lemma (in loop1) loop_strict_ord_trans: assumes \"x\\<lsq>y\" and \"y\\<ls>z\"\n  shows \"x\\<ls>z\"\n"}

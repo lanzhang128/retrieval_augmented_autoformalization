@@ -1,0 +1,1 @@
+{"text": "text\\<open>The (non strict) order on complex reals is antisymmetric,\n  transitive and total.\\<close>\n"}

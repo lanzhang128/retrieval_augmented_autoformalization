@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another way to state that the range of the monoid operation\n  is the whole monoid carrier.\\<close>\n", "informal": " In the monoid0 setting, the range of the function f applied to the cartesian product G \u00d7 G is equal to the set G itself.", "statement": "lemma (in monoid0) range_carr: shows \"f``(G\\<times>G) = G\"\n  "}

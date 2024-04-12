@@ -1,0 +1,1 @@
+{"text": "text\\<open>A more readable version of standard Isabelle/ZF \\<open>Ord_linear_lt\\<close>\\<close>\n"}

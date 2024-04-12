@@ -1,0 +1,1 @@
+{"text": "text\\<open>In $T_2$-spaces, filters and nets have at most one limit point.\\<close>\n", "statement": "lemma (in topology0) T2_imp_unique_limit_filter:\n  assumes \"T {is T\\<^sub>2}\" \"\\<FF> {is a filter on}\\<Union>T\" \"\\<FF> \\<rightarrow>\\<^sub>F x\" \"\\<FF> \\<rightarrow>\\<^sub>F y\"\n  shows \"x=y\"\n"}

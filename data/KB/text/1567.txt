@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $p$ is a positive integer, then\n  for all $s\\in S$ the floor of $p\\cdot x$ is not greater that $\\Gamma(S,p)$.\\<close>\n"}

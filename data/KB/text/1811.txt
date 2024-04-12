@@ -1,0 +1,1 @@
+{"text": "text\\<open>The carrier of the space is closed.\\<close>\n"}

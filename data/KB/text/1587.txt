@@ -1,0 +1,1 @@
+{"text": "text\\<open>The essential condition to claim that the candidate for supremum\n  of $S$ is less or equal than any upper bound of $S$.\\<close>\n"}

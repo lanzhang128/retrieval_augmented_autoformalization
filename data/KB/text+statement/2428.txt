@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another trivial fact: identity is the only bijection of a singleton\n  with itself.\\<close>\n", "statement": "lemma single_bij_id: shows \"bij({x},{x}) = {id({x})}\"\n"}

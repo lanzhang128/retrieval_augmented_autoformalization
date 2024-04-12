@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of elements in a set $A$ that are nongreater than \n  a given element is bounded above.\\<close>\n", "statement": "lemma Order_ZF_3_L15: shows \"IsBoundedAbove({x\\<in>A. \\<langle>x,a\\<rangle> \\<in> r},r)\"\n  "}

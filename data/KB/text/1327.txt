@@ -1,0 +1,1 @@
+{"text": "text\\<open>For linearly ordered groups if the absolute values of elements in a set\n  are bounded, then the set is bounded.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Induction on integers, implication between two forms of the induction\n  step.\\<close>\n", "statement": "lemma (in int0) Int_ZF_3_L10: assumes\n  A1: \"\\<forall>n. n\\<lsq>i \\<and> P(n) \\<longrightarrow> P(n\\<rs>\\<one>)\"\n  shows \"\\<forall>n. n\\<lsq>i \\<and> P(n) \\<longrightarrow> P(n $+ $-($#1))\"\n"}

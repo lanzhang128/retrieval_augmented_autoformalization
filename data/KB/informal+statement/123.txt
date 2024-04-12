@@ -1,0 +1,1 @@
+{"informal": " A set A is saturated with respect to a relation r if and only if A is equal to the transitive closure of A under r, i.e., A = r-``(r(A)).", "statement": "definition\n  \"IsSaturated(r,A) \\<equiv> A = r-``(r``(A))\"\n"}

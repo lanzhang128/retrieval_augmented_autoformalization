@@ -1,0 +1,1 @@
+{"text": "text\\<open>When we convert the quantifiers into unions and intersections in the definition\n  of \\<open>UniCovFromUniformity\\<close> we get an alternative definition of the operation\n  that creates a family of uniform covers from a uniformity. Just a curiosity, not used anywhere.\\<close>\n"}

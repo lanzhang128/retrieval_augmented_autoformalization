@@ -1,0 +1,1 @@
+{"informal": " Given a function f from X to Y and an element x in X, there exists an element y in Y such that the pair <x,y> is in the image of f.", "statement": "lemma func1_1_L2: assumes A1: \"f:X\\<rightarrow>Y\"  \"x\\<in>X\" \n  shows \"\\<exists>y\\<in>Y. \\<langle>x,y\\<rangle> \\<in> f\"  \n"}

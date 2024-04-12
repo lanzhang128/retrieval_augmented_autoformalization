@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a function maps $A$ into another set, then $A$ is the \n  domain of the function.\\<close>\n", "statement": "lemma func1_1_L1: assumes \"f:A\\<rightarrow>C\" shows \"domain(f) = A\"\n  "}

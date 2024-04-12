@@ -1,0 +1,1 @@
+{"text": "text\\<open>Given $(G,\\cdot)$  and $(H,\\circ)$\n  a new operation $(G\\times H, \\times )$ is defined as\n  $(g, h) \\times (g', h') = (g \\cdot g', h \\circ h')$.\\<close>\n"}

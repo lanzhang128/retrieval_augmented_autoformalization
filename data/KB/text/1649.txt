@@ -1,0 +1,1 @@
+{"text": "text\\<open>Two big rearranegements with six elements, useful for\n  proving properties of complex addition and multiplication.\\<close>\n"}

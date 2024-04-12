@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image of the set of upper bounds is the set of upper bounds\n  of the image.\\<close>\n"}

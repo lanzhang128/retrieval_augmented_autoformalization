@@ -1,0 +1,1 @@
+{"text": "text\\<open>Real numbers form a ring. This is a special case of the theorem\n  proven in \\<open>Ring_ZF_1.thy\\<close>, where we show the same in general for \n  almost homomorphisms rather than slopes.\\<close>\n"}

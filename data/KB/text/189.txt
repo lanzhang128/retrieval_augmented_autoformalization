@@ -1,0 +1,1 @@
+{"text": "text\\<open>Cartesian product of finite sets is finite.\\<close>\n"}

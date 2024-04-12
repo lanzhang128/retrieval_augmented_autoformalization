@@ -1,0 +1,1 @@
+{"informal": " \"SlopeOp1 is defined as the first operation in the algebra of integer homomorphisms using IntegerAddition as the binary operation.\"", "statement": "definition\n  \"SlopeOp1 \\<equiv> AlHomOp1(int,IntegerAddition)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The convergence for filters is much easier concept to write. Given a topology\nand a filter on the same underlying set, we can define convergence as containing\nall the neighborhoods of the point.\\<close>\n"}

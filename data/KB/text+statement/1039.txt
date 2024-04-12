@@ -1,0 +1,1 @@
+{"text": "text\\<open>$\\leq$ is antisymmetric, transitive, total, and linear. Proofs by\n  rewrite using definitions.\\<close>\n", "statement": "lemma NatOrder_ZF_1_L2:\n  shows\n  \"antisym(Le)\"\n  \"trans(Le)\"\n  \"Le {is total on} nat\"\n  \"IsLinOrder(nat,Le)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The classes of almost homomorphisms form a ring.\\<close>\n"}

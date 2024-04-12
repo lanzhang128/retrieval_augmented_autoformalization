@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we remove an element and put it back we get the set back.\n\\<close>\n"}

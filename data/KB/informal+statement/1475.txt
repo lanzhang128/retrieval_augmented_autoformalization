@@ -1,0 +1,1 @@
+{"informal": " Assuming `a` and `b` are real numbers, and `c` is also a real number, we have `a * (b * c) = (a * b) * c`.", "statement": "lemma (in real0) Real_ZF_1_L6A: assumes \"a\\<in>\\<real>\"  \"b\\<in>\\<real>\"  \"c\\<in>\\<real>\"\n  shows \"a\\<cdot>(b\\<cdot>c) = (a\\<cdot>b)\\<cdot>c\"\n  "}

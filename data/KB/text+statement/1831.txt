@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a topology is $T_1$ then it is $T_0$. \n  We don't really assume here that $T$ is a topology on $X$. \n  Instead, we prove the relation between isT0 condition and isT1.\\<close>\n", "statement": "lemma T1_is_T0: assumes A1: \"T {is T\\<^sub>1}\" shows \"T {is T\\<^sub>0}\"\n"}

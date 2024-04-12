@@ -1,0 +1,1 @@
+{"informal": " In the theory of topology0, we have a lemma stating that the empty set is closed in the topology T.", "statement": "lemma (in topology0) Top_3_L2: shows \"0 {is closed in} T\"\n  "}

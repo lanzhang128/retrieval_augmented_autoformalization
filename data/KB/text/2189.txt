@@ -1,0 +1,1 @@
+{"text": "text\\<open>An also useful property is local-connexion.\\<close>\n"}

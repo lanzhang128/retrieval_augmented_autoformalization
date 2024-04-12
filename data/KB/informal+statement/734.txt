@@ -1,0 +1,1 @@
+{"informal": " If both `a` and `b` are natural numbers, then their product `a * b` is also a natural number.", "statement": "lemma (in int0) pos_int_closed_mul_unfold: \n  assumes \"a\\<in>\\<int>\\<^sub>+\"  \"b\\<in>\\<int>\\<^sub>+\"\n  shows \"a\\<cdot>b \\<in> \\<int>\\<^sub>+\"\n  "}

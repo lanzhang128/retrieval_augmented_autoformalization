@@ -1,0 +1,1 @@
+{"text": "text\\<open>A total relation is reflexive.\\<close>\n", "statement": "lemma total_is_refl:\n  assumes \"r {is total on} X\"\n  shows \"refl(X,r)\" "}

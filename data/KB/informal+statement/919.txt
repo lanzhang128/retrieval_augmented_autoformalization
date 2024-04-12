@@ -1,0 +1,1 @@
+{"informal": " Assuming i is less than k, P(i) is true, and for all m, if i is less than m and P(m) is true, then P(m + 1) is true, it can be inferred that P(k) is true.", "statement": "lemma (in int0) Int_ZF_3_L7B: assumes A1: \"i\\<lsq>k\" and A2: \"P($-i)\"\n  and A3: \"\\<forall>m. i\\<lsq>m \\<and> P($-m) \\<longrightarrow> P($-(m $+ ($# 1)))\"\n  shows \"P($-k)\"\n"}

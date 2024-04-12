@@ -1,0 +1,1 @@
+{"informal": " The predicate \"Characteristic\" of set \"A\" with default value \"default\" for element \"x\" holds if and only if \"x\" is a member of set \"A\" or \"x\" equals the default value.", "statement": "definition\n  \"Characteristic(A,default,x) \\<equiv> (if x\\<in>A then x else default)\"\n"}

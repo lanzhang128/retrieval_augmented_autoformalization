@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $H\\subseteq G$ is closed under the group operation\n  $1\\notin H$ and for every $a\\in H$ we have either $a\\in H$ or \n  $a^{-1}\\in H$, then the relation \"$\\leq$\" defined by \n  $a\\leq b \\Leftrightarrow a^{-1}b \\in H$ orders the group $G$.\n  In such order $H$ may be the set of positive or nonnegative\n  elements.\\<close>\n"}

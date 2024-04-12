@@ -1,0 +1,1 @@
+{"text": "text\\<open>Theorems proven in \\<open>field0\\<close> (about fields) context are valid\n  in the \\<open>field1\\<close> context (about ordered fields).\\<close>\n", "statement": "lemma (in field1) OrdField_ZF_1_L1B: shows \"field0(R,A,M)\"\n  "}

@@ -1,0 +1,1 @@
+{"informal": " The sets A and B are disjoint if and only if set B is disjoint with set A.", "statement": "theorem disjointness_symmetric: \n  shows \"A {is disjoint with} B \\<longleftrightarrow> B {is disjoint with} A\"\n"}

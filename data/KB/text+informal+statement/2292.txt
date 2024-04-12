@@ -1,0 +1,1 @@
+{"text": "text\\<open>A definition that allows to get the first factor of the\n  domain of a binary function $f: X\\times Y \\rightarrow Z$.\\<close>\n", "informal": " The set fstdom of a function f is equivalent to the domain of its domain. In other words, fstdom(f) = domain(domain(f)).", "statement": "definition\n  \"fstdom(f) \\<equiv> domain(domain(f))\"\n"}

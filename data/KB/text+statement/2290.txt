@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $z$ is a pair, then the cartesian product of the singletons of its \n  elements is the same as the singleton $\\{ z\\}$.\\<close> \n", "statement": "lemma pair_prod: assumes \"z = \\<langle>x,y\\<rangle>\" shows \"{x}\\<times>{y} = {z}\"\n  "}

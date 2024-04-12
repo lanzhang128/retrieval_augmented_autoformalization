@@ -1,0 +1,1 @@
+{"informal": " In the field0 context, if a and b are elements of the field K, then a * b equals b * a.", "statement": "lemma (in field0) field_mult_comm: assumes \"a\\<in>K\"  \"b\\<in>K\"\n  shows \"a\\<cdot>b = b\\<cdot>a\"\n  "}

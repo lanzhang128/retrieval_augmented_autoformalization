@@ -1,0 +1,1 @@
+{"text": "text\\<open>Right and left inverses have desired properties.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A set cannot be a member of itself. This is exactly lemma \\<open>mem_not_refl\\<close>\n  from Isabelle/ZF \\<open>upair.thy\\<close>, we put it here for easy reference. \\<close>\n", "statement": "lemma mem_self: shows \"x\\<notin>x\" by (rule mem_not_refl)\n"}

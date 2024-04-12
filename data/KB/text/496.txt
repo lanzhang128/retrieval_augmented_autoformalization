@@ -1,0 +1,1 @@
+{"text": "text\\<open>A normal subgorup $N$ of a group $G$ is such that $aba^{-1}$ belongs to \n  $N$ if $a\\in G, b\\in N$.\\<close>\n"}

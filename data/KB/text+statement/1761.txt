@@ -1,0 +1,1 @@
+{"text": "text\\<open>Inverse is a homeomorphism.\\<close>\n", "statement": "lemma (in topgroup) inv_homeo: shows \"IsAhomeomorphism(T,T,GroupInv(G,f))\"\n  "}

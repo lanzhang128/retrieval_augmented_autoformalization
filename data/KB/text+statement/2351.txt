@@ -1,0 +1,1 @@
+{"text": "text\\<open>A composition of functions is a function. This is a slight\n  generalization of standard Isabelle's \\<open>comp_fun\\<close>\n\\<close>\n", "statement": "lemma comp_fun_subset: \n  assumes A1: \"g:A\\<rightarrow>B\"  and A2: \"f:C\\<rightarrow>D\" and A3: \"B \\<subseteq> C\"\n  shows \"f O g : A \\<rightarrow> D\"\n"}

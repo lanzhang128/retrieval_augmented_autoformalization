@@ -1,0 +1,1 @@
+{"text": "text\\<open>The mapping $\\langle b,c \\rangle \\mapsto \\langle r\\{ a\\},r\\{ b\\}\\rangle$\n  is a function that maps the product of the carrier by itself to the\n  product of the quotients. Note $r$ does not have to be an equivalence relation. \\<close>\n"}

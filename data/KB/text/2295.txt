@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma explains what \\<open>fstdom\\<close> is for.\\<close>\n"}

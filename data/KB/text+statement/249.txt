@@ -1,0 +1,1 @@
+{"text": "text\\<open>What is the inverse image of a set by the natural bijection between $X$-valued \n  singleton lists and $X$?\\<close>\n", "statement": "lemma singleton_vimage: assumes \"U\\<subseteq>X\" shows \"{x\\<in>1\\<rightarrow>X. x`(0) \\<in> U} = { {\\<langle>0,y\\<rangle>}. y\\<in>U}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Taking the inverse on both sides reverses the inequality.\\<close>\n"}

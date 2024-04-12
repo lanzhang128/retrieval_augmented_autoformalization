@@ -1,0 +1,1 @@
+{"text": "text\\<open>For the endomorphisms of a group $G$ the group operation lifted to the function space \n  over $G$ is distributive with respect to the composition operation. \\<close>\n"}

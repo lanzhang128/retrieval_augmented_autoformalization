@@ -1,0 +1,1 @@
+{"text": "text\\<open>Composition operation is a function that maps \n  $(X\\rightarrow X)\\times (X\\rightarrow X)$ into $X\\rightarrow X$.\\<close>\n", "statement": "lemma func_ZF_5_L1: shows \"Composition(X) : (X\\<rightarrow>X)\\<times>(X\\<rightarrow>X)\\<rightarrow>(X\\<rightarrow>X)\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>$K_0$ (the set of nonzero field elements is closed with respect\n  to multiplication.\\<close>\n"}

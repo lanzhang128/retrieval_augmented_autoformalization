@@ -1,0 +1,1 @@
+{"text": "text\\<open>A sligltly more complicated version of \\<open>fin_ord_induction\\<close>\n  that allows to prove properties that are not true for the empty set.\\<close>\n"}

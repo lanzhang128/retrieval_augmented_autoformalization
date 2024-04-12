@@ -1,0 +1,1 @@
+{"text": "text\\<open>First, a transitive closure variation on @{thm rtrancl_unfold}.\\<close>\n", "statement": "theorem rtrancl_rev:\n  shows \"r^* = id(field(r)) \\<union> (r^* O r)\"\n"}

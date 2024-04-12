@@ -1,0 +1,1 @@
+{"text": "text\\<open>A reformulation of \\<open>cart_prod_fun\\<close> above in a sligtly different notation.\\<close>\n"}

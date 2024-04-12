@@ -1,0 +1,1 @@
+{"text": "text\\<open>Adding a neutral element to a set that is \n  closed under the group operation results in a set that is closed under the \n  group operation.\\<close>\n", "statement": "lemma (in group0) group0_2_L17: \n  assumes \"H\\<subseteq>G\"\n  and \"H {is closed under} P\"\n  shows \"(H \\<union> {\\<one>}) {is closed under} P\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>In linearly ordered groups $G\\setminus G_+$ is bounded above.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_2_L3:\n  assumes A1: \"r {is total on} G\" shows \"IsBoundedAbove(G-G\\<^sub>+,r)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open> Meet is associative. \\<close>\n", "statement": "lemma (in meet_semilatt) meet_assoc: assumes \"x\\<in>L\" \"y\\<in>L\" \"z\\<in>L\"\n  shows \"x\\<sqinter>(y\\<sqinter>z) = x\\<sqinter>y\\<sqinter>z\"\n"}

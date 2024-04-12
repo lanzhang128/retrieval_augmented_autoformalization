@@ -1,0 +1,1 @@
+{"text": "text\\<open>If every value of a function on a set is bounded below by\n  a constant, then the image of the set is bounded below.\\<close>\n", "statement": "lemma func_ZF_8_L1: \n  assumes \"f:X\\<rightarrow>Y\" and \"A\\<subseteq>X\" and \"\\<forall>x\\<in>A. \\<langle>L,f`(x)\\<rangle> \\<in> r\"\n  shows \"IsBoundedBelow(f``(A),r)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>An intersection of subsets is a subset.\\<close>\n"}

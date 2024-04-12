@@ -1,0 +1,1 @@
+{"text": "text\\<open>A key identity for binomial terms needed for the proof of the binomial theorem:\\<close>\n", "statement": "lemma (in ring3) bt_rec_identity: \n  assumes \"M {is commutative on} R\" \"j\\<in>nat\" \"k\\<in>j\" \"x\\<in>R\" \"y\\<in>R\"\n  shows \n    \"BT(j,k #+ 1,x,y)\\<cdot>x \\<ra> BT(j,k,x,y)\\<cdot>y = BT(j #+ 1,k #+ 1,x,y)\"\n"}

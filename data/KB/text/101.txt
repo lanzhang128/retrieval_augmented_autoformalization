@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image of a subset of $X$ under projection is a subset\n  of $A/r$.\\<close>\n"}

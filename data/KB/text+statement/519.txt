@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma shows the set from the definition of almost \n  homomorphism in a different form.\\<close>\n", "statement": "lemma (in group0) Group_ZF_3_2_L1A: shows\n  \"{HomDiff(G,P,s,x). x \\<in> G\\<times>G } = {s`(m\\<cdot>n)\\<cdot>(s`(m)\\<cdot>s`(n))\\<inverse>. \\<langle> m,n\\<rangle> \\<in> G\\<times>G}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The space of functions that map a set $X$ into \n  itsef is a monoid with composition as operation and the identity function\n  as the neutral element.\\<close>\n"}

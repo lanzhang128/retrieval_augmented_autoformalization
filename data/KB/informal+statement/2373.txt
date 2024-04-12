@@ -1,0 +1,1 @@
+{"informal": " If function f is surjective from set X to set Y and set A is a subset of Y, then the image of A under the inverse of the image of X under f (f- image of A) is equal to the original set A.", "statement": "lemma surj_image_vimage: assumes A1: \"f \\<in> surj(X,Y)\" and A2: \"A\\<subseteq>Y\"\n  shows \"f``(f-``(A)) = A\"\n"}

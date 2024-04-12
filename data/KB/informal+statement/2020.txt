@@ -1,0 +1,1 @@
+{"informal": " If a topology T is anti-Heronically connected (i.e., every proper subcollection has more points than required to separate any pair of distinct points), then T is sober.", "statement": "theorem (in topology0) anti_HConn_imp_sober:\n  assumes \"T{is anti-}IsHConnected\"\n  shows \"T{is sober}\"\n"}

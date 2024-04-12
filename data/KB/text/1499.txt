@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the pair of function belongs to the slope equivalence relation, then\n  their classes are equal. This is convenient, because we don't need to assume\n  that $f,g$ are slopes (follows from the fact that $f\\sim g$).\\<close>\n"}

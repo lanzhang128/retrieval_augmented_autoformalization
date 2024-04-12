@@ -1,0 +1,1 @@
+{"text": "text\\<open>Elements from $G\\setminus G_+$ are not greater that the unit.\\<close>\n"}

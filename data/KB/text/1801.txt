@@ -1,0 +1,1 @@
+{"text": "text\\<open>Having a topology $T$ and a set $X$ we can \n  define the induced topology \n  as the one consisting of the intersections of $X$ with sets from $T$.\n  The notion of a collection restricted to a set is defined in ZF1.thy.\\<close>\n"}

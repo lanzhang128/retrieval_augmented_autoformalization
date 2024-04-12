@@ -1,0 +1,1 @@
+{"text": "text\\<open>Inverse image of any set is contained in the domain.\\<close>\n"}

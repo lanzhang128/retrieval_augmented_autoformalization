@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $T$ is a topology, then the (set) neighborhoods of a nonempty subset of \n  $\\bigcup T$ form a filter on $X=\\bigcup T$.\\<close>\n"}

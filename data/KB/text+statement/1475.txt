@@ -1,0 +1,1 @@
+{"text": "text\\<open>Multiplication of reals is associative.\\<close>\n", "statement": "lemma (in real0) Real_ZF_1_L6A: assumes \"a\\<in>\\<real>\"  \"b\\<in>\\<real>\"  \"c\\<in>\\<real>\"\n  shows \"a\\<cdot>(b\\<cdot>c) = (a\\<cdot>b)\\<cdot>c\"\n  "}

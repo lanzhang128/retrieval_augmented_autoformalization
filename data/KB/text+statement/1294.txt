@@ -1,0 +1,1 @@
+{"text": "text\\<open>In linearly ordered groups finite sets are bounded.\\<close>\n", "statement": "theorem (in group3) ord_group_fin_bounded:\n  assumes \"r {is total on} G\" and \"B\\<in>Fin(G)\" \n  shows \"IsBounded(B,r)\"\n  "}

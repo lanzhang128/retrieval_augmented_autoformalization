@@ -1,0 +1,1 @@
+{"text": "text\\<open>What happens to the product of a list when we append an element \n  to the list?\\<close>\n", "statement": "lemma (in semigr0) prod_append: assumes A1: \"n \\<in> nat\" and\n  A2: \"a : succ(n) \\<rightarrow> G\" and A3: \"x\\<in>G\"\n  shows \"(\\<Prod> a\\<hookleftarrow>x) = (\\<Prod> a) \\<cdot> x\"\n"}

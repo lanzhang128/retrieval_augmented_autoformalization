@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a property is hereditary in open sets, then local properties are equivalent\nto find just one open neighbourhood with that property instead of a whole local basis.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Empty state\\<close>\n", "informal": " In Isabelle/ZF, the definition for \"empty\" is equivalent to the number 2. \n\nIn natural language, we could say: \"The definition for 'empty' is the same as the number 2.\" or \"2 and 'empty' are interchangeable in meaning.\"", "statement": "definition empty where\n  \"empty \\<equiv> 2\"\n"}

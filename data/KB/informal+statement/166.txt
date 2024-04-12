@@ -1,0 +1,1 @@
+{"informal": " Given functions f and g from X to M, the support of their sum (f \\oplus g) is a subset of the union of the supports of f and g.", "statement": "lemma (in finsupp) supp_sum_union: assumes \"f:X \\<rightarrow>M\"  \"g:X \\<rightarrow>M\"\n  shows \"supp(f\\<oplus>g) \\<subseteq> supp(f) \\<union> supp(g)\"\n"}

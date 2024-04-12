@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a\\leq c$ and $b\\leq c$, then $a+b\\leq 2\\cdot c$. \n  Property of ordered rings.\\<close>\n", "informal": " Assuming numbers a and b are less than a constant c, their sum is less than or equal to 2 * c.", "statement": "lemma (in int0) Int_ZF_1_3_L21:\n  assumes A1: \"a\\<lsq>c\"  \"b\\<lsq>c\" shows \"a\\<ra>b \\<lsq> \\<two>\\<cdot>c\"\n  "}

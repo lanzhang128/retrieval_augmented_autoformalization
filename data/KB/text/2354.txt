@@ -1,0 +1,1 @@
+{"text": "text\\<open>What is the inverse image of a set under a restricted fuction?\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a point of a set has an open neighboorhood contained in the set,\n  then the point belongs to the interior of the set.\\<close>\n", "statement": "lemma (in topology0) Top_2_L6:  assumes \"\\<exists>U\\<in>T. (x\\<in>U \\<and> U\\<subseteq>A)\"\n  shows \"x \\<in> int(A)\"\n  "}

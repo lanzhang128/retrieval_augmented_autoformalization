@@ -1,0 +1,1 @@
+{"informal": " In Isabelle/ZF, the definition \"BinomElem(r, k)\" is equivalent to:\n\nIf k equals 0, then 1. Otherwise, the sum of r raised to the power of k minus 1, and r raised to the power of k.", "statement": "definition \n  \"BinomElem(r,k) \\<equiv> if k=0 then 1 else r`(pred(k)) #+ r`(k)\"  \n"}

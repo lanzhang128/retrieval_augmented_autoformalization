@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every normal subgroup contains its conjugate subgroups.\\<close>\n"}

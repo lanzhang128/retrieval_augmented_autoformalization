@@ -1,0 +1,1 @@
+{"text": "text\\<open>On \\<open>\\<int>\\<^sub>+\\<close>, the odd extension of $f$ is the same as $f$.\\<close>\n"}

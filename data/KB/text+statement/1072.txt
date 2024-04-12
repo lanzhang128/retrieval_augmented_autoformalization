@@ -1,0 +1,1 @@
+{"text": "text\\<open>A version of induction for finite sequences using the $n+1$ notation\n  instead of \\<open>succ(n)\\<close>:\\<close>\n", "statement": "lemma fin_nat_ind1: \n  assumes \"n\\<in>nat\" and \"P(0)\" and \"\\<forall>j\\<in>n. P(j)\\<longrightarrow>P(j #+ 1)\"\n  shows \"\\<forall>k\\<in>n #+ 1. P(k)\" and \"P(n)\"\n"}

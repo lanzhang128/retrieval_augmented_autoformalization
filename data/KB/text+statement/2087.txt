@@ -1,0 +1,1 @@
+{"text": "text\\<open>The interior of a set is itself if it is open or the empty set if it isn't.\\<close>\n", "statement": "lemma interior_set_includedset:\n  assumes \"A\\<subseteq>X\"\n  shows \"Interior(A,IncludedSet(X,T))= (if T\\<subseteq>A then A else 0)\"\n"}

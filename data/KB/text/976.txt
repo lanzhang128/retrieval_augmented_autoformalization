@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma states that we can use \n  the theorems proven in the \\<open>MMIsar0\\<close> context in\n  the \\<open>complex0\\<close> context. Unfortunately we have to \n  use low level Isabelle methods \"rule\" and \"unfold\" in the proof, simp\n  and blast fail on the order axioms.\n\\<close>\n"}

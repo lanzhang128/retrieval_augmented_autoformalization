@@ -1,0 +1,1 @@
+{"text": "text\\<open>Subtracting a positive element decreases the value. \\<close>\n", "statement": "lemma (in loop1) subtract_pos: assumes \"x\\<in>L\" \"\\<zero>\\<ls>y\"\n  shows \"x\\<rs>y \\<ls> x\" and \"(\\<rm>y\\<ad>x) \\<ls> x\"\n"}

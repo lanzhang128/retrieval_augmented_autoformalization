@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every sober space is $T_0$.\\<close>\n"}

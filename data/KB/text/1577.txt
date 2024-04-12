@@ -1,0 +1,1 @@
+{"text": "text\\<open>Some estimates for the homomorphism difference of the floor\n  function.\\<close>\n"}

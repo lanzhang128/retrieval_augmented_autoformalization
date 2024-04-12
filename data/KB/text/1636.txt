@@ -1,0 +1,1 @@
+{"text": "text\\<open>In rings with no zero divisors multiplying a nonzero element \n  by a nonone element changes the value.\\<close>\n"}

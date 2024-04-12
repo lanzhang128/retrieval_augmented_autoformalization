@@ -1,0 +1,1 @@
+{"text": "text\\<open>Empty state\\<close>\n", "statement": "definition empty where\n  \"empty \\<equiv> 2\"\n"}

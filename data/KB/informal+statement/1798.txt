@@ -1,0 +1,1 @@
+{"informal": " In a topology T, the empty set belongs to T. Therefore, 0 is an element of T.", "statement": "lemma empty_open: \n  assumes \"T {is a topology}\" shows \"0 \\<in> T\"\n"}

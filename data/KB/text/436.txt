@@ -1,0 +1,1 @@
+{"text": "text\\<open>The range of the subgroup operation is the whole subgroup.\\<close>\n"}

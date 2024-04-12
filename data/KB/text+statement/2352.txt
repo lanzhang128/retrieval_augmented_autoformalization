@@ -1,0 +1,1 @@
+{"text": "text\\<open>This lemma supersedes the lemma \\<open>comp_eq_id_iff\\<close> \n  in Isabelle/ZF. Contributed by Victor Porton.\\<close>\n", "statement": "lemma comp_eq_id_iff1: assumes A1: \"g: B\\<rightarrow>A\" and A2: \"f: A\\<rightarrow>C\"\n  shows \"(\\<forall>y\\<in>B. f`(g`(y)) = y) \\<longleftrightarrow> f O g = id(B)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Any neighborhood of an element of the closure of a subset intersects the subset.\\<close>\n", "statement": "lemma neigh_inter_nempty: \n  assumes \"T {is a topology}\" \"A\\<subseteq>\\<Union>T\" \"x \\<in> Closure(A,T)\" and\n  \"N \\<in> ({neighborhood system of} T)`(x)\"\n  shows \"N\\<inter>A \\<noteq> 0\"\n"}

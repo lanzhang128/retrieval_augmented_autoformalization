@@ -1,0 +1,1 @@
+{"text": "text\\<open>A technical lemma about decreasing a factor in an inequality.\\<close>\n"}

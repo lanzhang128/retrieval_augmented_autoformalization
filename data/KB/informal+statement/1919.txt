@@ -1,0 +1,1 @@
+{"informal": " The sequence product topology over a set I of indices and a type T of values is equivalent to the union of all bases B that belong to the product topology base over I and T.", "statement": "definition\n  \"SeqProductTopology(I,T) \\<equiv> {\\<Union>B. B \\<in> Pow(ProductTopBase(I,T))}\"\n"}

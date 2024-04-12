@@ -1,0 +1,1 @@
+{"informal": " In the ring0 context, if H is a subset of R and H is closed under a binary operation A, then the subset H union {0} is also closed under A.", "statement": "lemma (in ring0) Ring_ZF_1_L15: \n  assumes \"H \\<subseteq> R\" and \"H {is closed under} A\"\n  shows \"(H \\<union> {\\<zero>}) {is closed under} A\"\n  "}

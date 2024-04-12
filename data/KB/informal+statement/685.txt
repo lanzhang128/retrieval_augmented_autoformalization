@@ -1,0 +1,1 @@
+{"informal": " Given integers a and b, their product's absolute value equals the product of their individual absolute values.", "statement": "lemma (in int0) Int_ZF_1_3_L5:\n  assumes A1: \"a\\<in>\\<int>\"  \"b\\<in>\\<int>\"\n  shows \"abs(a\\<cdot>b) = abs(a)\\<cdot>abs(b)\"\n  "}

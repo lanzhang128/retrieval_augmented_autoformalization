@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another lemma about cancelling with two group elements.\\<close>\n", "informal": " In the group0 theory, if elements a and b belong to the group, then a * (b * a)^-1 equals b^-1.", "statement": "lemma (in group0) group0_2_L16A:\n  assumes A1: \"a\\<in>G\"  \"b\\<in>G\"\n  shows \"a\\<cdot>(b\\<cdot>a)\\<inverse> = b\\<inverse>\"\n"}

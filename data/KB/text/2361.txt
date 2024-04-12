@@ -1,0 +1,1 @@
+{"text": "text\\<open>A composition of two functions is the same as \n  composition with a restriction.\\<close>\n"}

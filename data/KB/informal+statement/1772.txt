@@ -1,0 +1,1 @@
+{"informal": " In the set of natural numbers, if U is an element, there exists a subset V with the property that V is a proper subset of U and the complement of V is equivalent to V itself.", "statement": "theorem (in topgroup) exists_sym_zerohood:\n  assumes \"U\\<in>\\<N>\\<^sub>0\"\n  shows \"\\<exists>V\\<in>\\<N>\\<^sub>0. (V\\<subseteq>U \\<and> (\\<sm>V)=V)\"\n"}

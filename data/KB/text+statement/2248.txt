@@ -1,0 +1,1 @@
+{"text": "text\\<open>The \\<open>UniformityFromUniCov\\<close> operation is the inverse of \\<open>UniCovFromUniformity\\<close>. \\<close>\n", "statement": "theorem unif_from_unicov_inv: assumes \"\\<Phi> {is a uniformity on} X\" \"X\\<noteq>0\"\n  shows \"UniformityFromUniCov(X,UniCovFromUniformity(X,\\<Phi>)) = \\<Phi>\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Zero is not one.\\<close>\n", "statement": "lemma (in int0) int_zero_not_one: shows \"\\<zero> \\<noteq> \\<one>\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can multiply the right hand side of an inequality between\n  nonnegative ring elements by an element greater or equal $1$.\\<close>\n"}

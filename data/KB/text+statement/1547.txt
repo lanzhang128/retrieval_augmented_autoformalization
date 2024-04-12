@@ -1,0 +1,1 @@
+{"text": "text\\<open>An identity with three real numbers, inverse and cancelling.\\<close>\n", "statement": "lemma (in real1) Real_ZF_1_3_L8: assumes\"a\\<in>\\<real>\"  \"b\\<in>\\<real>\" \"b\\<noteq>\\<zero>\"  \"c\\<in>\\<real>\"\n  shows \"a\\<cdot>b\\<cdot>(c\\<cdot>b\\<inverse>) = a\\<cdot>c\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>OrderedGroup_ZF_1_L8\\<close> when one of \n  the elements is the unit.\\<close>\n"}

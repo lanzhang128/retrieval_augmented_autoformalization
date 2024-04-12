@@ -1,0 +1,1 @@
+{"informal": " A set T is anti-compact if and only if the union of all its subsets, each of which is compact in T, is compact.", "statement": "definition\n  IsAntiComp (\"_{is anti-compact}\")\n  where \"T{is anti-compact} \\<equiv> T{is anti-}(\\<lambda>T. (\\<Union>T){is compact in}T)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every element of a loop has unique left and right inverse (which need not be the same). \n  Here we define the left inverse as a function on $G$. \\<close>\n"}

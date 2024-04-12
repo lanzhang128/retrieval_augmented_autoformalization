@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set has a maximum implies that it is not empty. \\<close>\n"}

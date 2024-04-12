@@ -1,0 +1,1 @@
+{"text": "text\\<open>Metamath defines the usual $<$ and $\\leq$ ordering relations for the\n  extended real line, including $+\\infty$ and $-\\infty$.\\<close>\n"}

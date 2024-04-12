@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a$ is not a unit, then its inverse is not a unit either.\\<close>\n", "informal": " Assume `a` is an element of group `G` and `a` is not the identity element. Then, `a`'s inverse is not the identity element.", "statement": "lemma (in group0) group0_2_L8B:\n  assumes \"a\\<in>G\" and \"a \\<noteq> \\<one>\"\n  shows \"a\\<inverse> \\<noteq> \\<one>\" "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse of an almost homomorphism  maps the group into itself.\\<close>\n"}

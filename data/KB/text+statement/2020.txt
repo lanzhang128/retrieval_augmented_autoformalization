@@ -1,0 +1,1 @@
+{"text": "text\\<open>Being sober is weaker than being anti-hyperconnected.\\<close>\n", "statement": "theorem (in topology0) anti_HConn_imp_sober:\n  assumes \"T{is anti-}IsHConnected\"\n  shows \"T{is sober}\"\n"}

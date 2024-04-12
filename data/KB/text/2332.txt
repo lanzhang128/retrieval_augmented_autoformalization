@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma that can be used instead \\<open>fun_extension_iff\\<close>\n  to show that two functions are equal\\<close>\n"}

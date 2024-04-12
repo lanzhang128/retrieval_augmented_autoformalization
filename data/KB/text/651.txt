@@ -1,0 +1,1 @@
+{"text": "text\\<open>A quotient-reminder theorem about integers greater than a given \n  product.\\<close>\n"}

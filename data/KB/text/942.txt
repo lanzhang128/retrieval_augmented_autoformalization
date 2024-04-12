@@ -1,0 +1,1 @@
+{"text": "text\\<open> In a join-semilattice join is indeed a binary operation. \\<close>\n"}

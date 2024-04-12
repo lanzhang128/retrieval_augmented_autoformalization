@@ -1,0 +1,1 @@
+{"informal": " In the ring1 theory, if a is non-zero and zero is less than b, then the product of a and b is less than zero.", "statement": "lemma (in ring1) OrdRing_ZF_1_L8:\n  assumes A1: \"a\\<lsq>\\<zero>\"  and A2: \"\\<zero>\\<lsq>b\"\n  shows \"a\\<cdot>b \\<lsq> \\<zero>\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The relation is an actual relation, but even\nmore it is a function (hence the adjective deterministic).\\<close>\n"}

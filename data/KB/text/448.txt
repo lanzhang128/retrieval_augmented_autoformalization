@@ -1,0 +1,1 @@
+{"text": "text\\<open>Point free version of \\<open>group0_5_L4\\<close> and \\<open>group0_5_L5\\<close>.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If absolute values of values of some integer function are bounded,\n  then the image a set from the domain is a bounded set.\\<close>\n"}

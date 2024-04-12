@@ -1,0 +1,1 @@
+{"informal": " If group element `c` is between `a` and `b`, then `a * c` is strictly less than `b * c`, and `c * a` is strictly less than `c * b`.", "statement": "lemma (in group3) ord_transl_inv: assumes \"a\\<lsq>b\" \"c\\<in>G\"\n  shows \"a\\<cdot>c \\<lsq> b\\<cdot>c\" and \"c\\<cdot>a \\<lsq> c\\<cdot>b\"\n  "}

@@ -1,0 +1,1 @@
+{"informal": " Assume F is a function from X to a group G. Then, F defines a monoid structure on the set of all functions from X to G.", "statement": "lemma (in group0) Group_ZF_2_1_L4:\n  assumes A1: \"F = P {lifted to function space over} X\"\n  shows \"monoid0(X\\<rightarrow>G,F)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The preimage of a normal subgroup is normal\\<close>\n", "statement": "theorem preimage_normal_subgroup:\n  assumes \"IsAgroup(G,P)\" \"IsAgroup(H,F)\" \"Homomor(f,G,P,H,F)\" \"f:G\\<rightarrow>H\"\n          \"IsAnormalSubgroup(H,F,K)\"\n        shows \"IsAnormalSubgroup(G,P,f-``(K))\"\n"}

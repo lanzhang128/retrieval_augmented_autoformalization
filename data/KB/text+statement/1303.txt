@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a$ is positive, then $|a| = a$.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_3_L2B:\n  assumes \"a\\<in>G\\<^sub>+\" shows \"\\<bar>a\\<bar> = a\"\n  "}

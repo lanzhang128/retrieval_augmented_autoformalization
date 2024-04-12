@@ -1,0 +1,1 @@
+{"informal": " If group G is finite and H is a subgroup of group P, then subgroup H is finite.", "statement": "lemma (in group0) finite_subgroup:\n  assumes \"Finite(G)\" \"IsAsubgroup(H,P)\"\n  shows \"Finite(H)\"\n  "}

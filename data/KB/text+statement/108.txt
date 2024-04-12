@@ -1,0 +1,1 @@
+{"text": "text\\<open>Equivalence classes are not empty.\\<close>\n", "statement": "lemma EquivClass_1_L5: \n  assumes A1: \"refl(A,r)\" and A2: \"C \\<in> A//r\"\n  shows \"C\\<noteq>0\"\n"}

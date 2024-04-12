@@ -1,0 +1,1 @@
+{"text": "text\\<open>A version of \\<open>succ_ineq\\<close> without a quantifier, with additional assertion\n  using the \\<open>n #+ 1\\<close> notation.\\<close>\n", "statement": "lemma succ_ineq1:  assumes \"n \\<in> nat\" \"i\\<in>n\"\n  shows \"succ(i) \\<in> succ(n)\" \"i #+ 1 \\<in> n #+ 1\" \"i \\<in> n #+ 1\" \n  "}

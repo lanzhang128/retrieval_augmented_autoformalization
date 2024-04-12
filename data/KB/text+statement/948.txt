@@ -1,0 +1,1 @@
+{"text": "text\\<open> Join of the elements of the lattice is in the lattice. \\<close>\n", "statement": "lemma (in join_semilatt) join_props: assumes \"x\\<in>L\" \"y\\<in>L\" \n  shows \"x\\<squnion>y \\<in> L\" and \"x\\<squnion>y = sup {x,y}\"\n"}

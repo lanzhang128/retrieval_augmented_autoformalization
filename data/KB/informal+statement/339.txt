@@ -1,0 +1,1 @@
+{"informal": " \"FoldSeq is defined as an Inductive Sequence Variable Function with base element x, domain of function f, sequence obtained by applying function f to each element of another sequence a, and the domain of sequence a.\"", "statement": "definition\n  \"FoldSeq(f,x,a) \\<equiv> \n  InductiveSeqVarFN(x,fstdom(f),Seq2TrSeq(f,a),domain(a))\" \n"}

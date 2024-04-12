@@ -1,0 +1,1 @@
+{"text": "text\\<open>A property of order isomorphisms that is missing from\n  standard Isabelle's \\<open>Order.thy\\<close>.\\<close>\n", "statement": "lemma ord_iso_apply_conv: \n  assumes \"f \\<in> ord_iso(A,r,B,R)\" and\n  \"\\<langle>f`(x),f`(y)\\<rangle> \\<in> R\" and \"x\\<in>A\"  \"y\\<in>A\"\n  shows \"\\<langle>x,y\\<rangle> \\<in> r\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The converse of the previous result is not always true. For compactness, it holds because the axiom of finite choice\nalways holds.\\<close>\n"}

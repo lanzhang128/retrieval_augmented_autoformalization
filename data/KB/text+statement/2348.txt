@@ -1,0 +1,1 @@
+{"text": "text\\<open>An image of an image is the image of a composition.\\<close>\n", "statement": "lemma func1_1_L15C: assumes  A1: \"f:X\\<rightarrow>Y\" and A2: \"g:Y\\<rightarrow>Z\"\n  and A3: \"A\\<subseteq>X\"\n  shows \n  \"g``(f``(A)) =  {g`(f`(x)). x\\<in>A}\"\n  \"g``(f``(A)) = (g O f)``(A)\"\n"}

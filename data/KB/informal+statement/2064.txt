@@ -1,0 +1,1 @@
+{"informal": " If T is not empty, then the union of the set of all subsets of X with cardinality less than or equal to T equals X.", "statement": "lemma union_cocardinal:\n  assumes \"T\\<noteq>0\"\n  shows \"\\<Union> CoCardinal(X,T) = X\"\n"}

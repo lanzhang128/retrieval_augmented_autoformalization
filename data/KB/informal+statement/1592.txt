@@ -1,0 +1,1 @@
+{"informal": " In the real numbers, Add function with real order forms an ordered loop.", "statement": "lemma (in reals) reals_loop: shows \"IsAnOrdLoop(\\<real>,Add,ROrd)\"\n"}

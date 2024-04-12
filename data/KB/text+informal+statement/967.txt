@@ -1,0 +1,1 @@
+{"text": "text\\<open>There are no natural numbers between $1$ and $2$.\\<close>\n", "informal": " Assuming n is a natural number, if n is less than one, then there exists a number between n and one.", "statement": "lemma (in MMIsar0) no_nat_between12: \n  assumes A1: \"n \\<in> \\<nat>\"\n  shows \"n \\<ls> \\<one>\\<ca>\\<one> \\<longrightarrow> n \\<lsq> \\<one>\"\n"}

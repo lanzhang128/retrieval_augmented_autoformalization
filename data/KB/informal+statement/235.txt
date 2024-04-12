@@ -1,0 +1,1 @@
+{"informal": " Assuming x is a function from 1 to X, then x equals the singleton set {<xy>0, x(0]<xy>}.", "statement": "lemma list_singleton_pair: assumes A1: \"x:1\\<rightarrow>X\" shows \"x = {\\<langle>0,x`(0)\\<rangle>}\"\n"}

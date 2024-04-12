@@ -1,0 +1,1 @@
+{"text": "text\\<open>The whole group is normal as a subgroup\\<close>\n", "informal": " In the group G, subgroup P is normal.", "statement": "lemma (in group0) whole_normal_subgroup:\n  shows \"IsAnormalSubgroup(G,P,G)\"\n"}

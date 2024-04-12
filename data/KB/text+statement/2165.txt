@@ -1,0 +1,1 @@
+{"text": "text\\<open>US spaces are also $T_1$.\\<close>\n", "statement": "theorem (in topology0) US_imp_T1:\n  assumes \"T{is US}\"\n  shows \"T{is T\\<^sub>1}\"\n"}

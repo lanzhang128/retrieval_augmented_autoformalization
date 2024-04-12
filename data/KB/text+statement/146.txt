@@ -1,0 +1,1 @@
+{"text": "text\\<open>Division is a function on $K\\times K_0$ with values in $K$.\\<close>\n", "statement": "lemma (in fieldd) div_fun: shows \"division: K\\<times>K\\<^sub>0 \\<rightarrow> K\"\n"}

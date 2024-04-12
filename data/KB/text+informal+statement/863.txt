@@ -1,0 +1,1 @@
+{"text": "text\\<open>Integer order is a relation on integers.\\<close>\n", "informal": " In ZF set theory, the relation \"IntegerOrder\" is a subset of the Cartesian product int \u00d7 int.", "statement": "lemma Int_ZF_2_L1B: shows \"IntegerOrder \\<subseteq> int\\<times>int\"\n"}

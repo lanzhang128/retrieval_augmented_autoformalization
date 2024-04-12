@@ -1,0 +1,1 @@
+{"text": "text\\<open>Concatenating a list of length $1$ is the same as appending its\n  first (and only) element. Recall that in ZF set theory \n  $1 = \\{ 0 \\} $.\\<close>\n"}

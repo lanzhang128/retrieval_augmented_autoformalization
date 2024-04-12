@@ -1,0 +1,1 @@
+{"informal": " In the group3 theory, if a is the identity element, then a is equal to its own inverse.", "statement": "lemma (in group3) OrderedGroup_ZF_3_L3A:\n  assumes A1: \"a\\<lsq>\\<one>\" \n  shows \"\\<bar>a\\<bar> = a\\<inverse>\"\n"}

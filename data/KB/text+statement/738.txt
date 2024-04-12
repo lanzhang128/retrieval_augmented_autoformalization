@@ -1,0 +1,1 @@
+{"text": "text\\<open>Absolute value is identity on positive integers.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_5_L4A: \n  assumes \"a\\<in>\\<int>\\<^sub>+\" shows \"abs(a) = a\"\n  "}

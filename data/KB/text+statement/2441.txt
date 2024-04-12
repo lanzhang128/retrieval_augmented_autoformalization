@@ -1,0 +1,1 @@
+{"text": "text\\<open>Identity is the only order automorphism \n  of a singleton.\\<close>\n", "statement": "lemma id_ord_auto_singleton: \n  shows \"ord_iso({x},r,{x},r) = {id({x})}\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can identify a set of $X$-valued lists of length with $X$.\\<close>\n"}

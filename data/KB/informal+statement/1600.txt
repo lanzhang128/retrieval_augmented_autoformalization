@@ -1,0 +1,1 @@
+{"informal": " If `n` is a natural number and `x` is an element of `R` (a ring), then `n` times `x` and `x` raised to the power of `n` are also elements of `R`.", "statement": "lemma (in ring3) mult_pow_type: assumes \"n\\<in>nat\" \"x\\<in>R\"\n  shows \"n\\<nm>x \\<in> R\" and \"pow(n,x) \\<in> R\"\n  "}

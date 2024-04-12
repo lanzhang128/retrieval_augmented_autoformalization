@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of bisections of the empty set is empty.\\<close>\n", "informal": " The lemma \"bisec_empty\" asserts that the function \"Bisections\" with an argument of 0 returns the value 0.", "statement": "lemma bisec_empty: shows \"Bisections(0) = 0\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every set, with the cofinite topology is compact.\\<close>\n", "statement": "lemma cofinite_compact:\n  shows \"X {is compact in}(CoFinite X)\" unfolding IsCompact_def\n"}

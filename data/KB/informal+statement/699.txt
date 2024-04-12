@@ -1,0 +1,1 @@
+{"informal": " Assuming that `a` is less than zero and `b` is non-negative, we have that the product `a * b` is less than zero.", "statement": "lemma (in int0) Int_ZF_1_3_L12:\n  assumes \"a\\<lsq>\\<zero>\"  and \"\\<zero>\\<lsq>b\"\n  shows \"a\\<cdot>b \\<lsq> \\<zero>\"\n  "}

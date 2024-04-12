@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma about extending a bijection by one point.\\<close>\n", "statement": "lemma bij_extend_point: assumes \"f \\<in> bij(X,Y)\" \"a\\<notin>X\" \"b\\<notin>Y\"\n  shows \"(f \\<union> {\\<langle>a,b\\<rangle>}) \\<in> bij(X\\<union>{a},Y\\<union>{b})\"\n  "}

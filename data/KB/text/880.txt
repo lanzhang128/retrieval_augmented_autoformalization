@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can cancel the same element on on both sides of an inequality,\n  a version with minus on both sides.\\<close>\n"}

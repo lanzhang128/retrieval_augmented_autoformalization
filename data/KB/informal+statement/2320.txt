@@ -1,0 +1,1 @@
+{"informal": " For all x in X, the value of the total function b from x to X at x is equal to b(x).", "statement": "lemma ZF_fun_from_tot_val2: shows \"\\<forall>x\\<in>X. {\\<langle>x,b(x)\\<rangle>. x\\<in>X}`(x) = b(x)\"\n  "}

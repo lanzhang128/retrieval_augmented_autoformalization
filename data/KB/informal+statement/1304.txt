@@ -1,0 +1,1 @@
+{"informal": " In the group `G` (from `group3` theory), if an element `a` is in `G-G^+` (the positive part of `G`), then the multiplicative inverse of `a` equals `a` itself.", "statement": "lemma (in group3) OrderedGroup_ZF_3_L3:\n   assumes A1: \"a \\<in> G-G\\<^sup>+\" shows \"\\<bar>a\\<bar> = a\\<inverse>\"\n"}

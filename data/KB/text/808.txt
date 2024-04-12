@@ -1,0 +1,1 @@
+{"text": "text\\<open>A slope whose image of the set of positive integers is bounded\n  below is a finite range function or a positive slope.\\<close>\n"}

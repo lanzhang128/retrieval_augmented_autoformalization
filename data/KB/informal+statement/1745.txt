@@ -1,0 +1,1 @@
+{"informal": " In the top group, if zero is an element of a subset A of a set G, then zero is an element of the interval [A, A] (i.e., A union A).", "statement": "lemma (in topgroup) interval_add_zero: assumes \"A\\<subseteq>G\" \"\\<zero>\\<in>A\"\n  shows \"\\<zero> \\<in> A\\<sad>A\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open> Minimum is the infimum if it exists.\\<close>\n"}

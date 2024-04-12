@@ -1,0 +1,1 @@
+{"informal": " In the lemma \"generalization1\", it is shown that the function \"ret\" maps injectively from the larger set \"newbig\" to the smaller set \"big\".", "statement": "lemma (in generalization1) ret_inj: shows \"ret \\<in> inj(newbig,big)\" \n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>First we show a lemma that says that we can use theorems proven in\n  the \\<open>monoid0\\<close> context (locale).\\<close>\n", "statement": "lemma (in group0) group0_2_L1: shows \"monoid0(G,P)\"\n  "}

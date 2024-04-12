@@ -1,0 +1,1 @@
+{"text": "text\\<open>For total and transitive relations if a set $A$ is bounded then \n  $A\\cup \\{a\\}$ is bounded.\\<close>\n", "statement": "lemma Order_ZF_3_L8: \n  assumes \"r {is total on} X\" and \"trans(r)\"\n  and \"IsBounded(A,r)\" and \"a\\<in>X\" and \"r \\<subseteq> X\\<times>X\"\n  shows \"IsBounded(A\\<union>{a},r)\"\n  "}

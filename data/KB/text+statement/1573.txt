@@ -1,0 +1,1 @@
+{"text": "text\\<open>Floor of the difference of a number and the embedding of an\n  integer is the floor of the number minus the integer.\\<close>\n", "statement": "lemma (in real1) Real_ZF_1_4_L16: assumes A1: \"x\\<in>\\<real>\" and A2: \"p \\<in> int\"\n  shows \"\\<lfloor>x \\<rs> p\\<^sup>R\\<rfloor> = \\<lfloor>x\\<rfloor> \\<zs> p\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The projection of an associative operation is associative on the\n  quotient.\\<close>\n", "statement": "theorem EquivClass_2_T2:\n  assumes A1: \"equiv(A,r)\" and A2: \"Congruent2(r,f)\"\n  and A3: \"f {is associative on} A\"\n  shows \"ProjFun2(A,r,f) {is associative on} A//r\"\n"}

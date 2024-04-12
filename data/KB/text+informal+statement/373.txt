@@ -1,0 +1,1 @@
+{"text": "text\\<open>\\<open>zf_move\\<close> is a function that maps \\<open>big\\<close> to \\<open>newbig\\<close>.\\<close>\n", "informal": " The lemma `zf_move_fun` states that the function `zf_move` from `big` to `zf_newbig` types is defined in Isabelle/ZF.", "statement": "lemma (in generalization) zf_move_fun: shows \"zf_move: big\\<rightarrow>zf_newbig\"\n  "}

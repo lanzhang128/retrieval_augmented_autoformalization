@@ -1,0 +1,1 @@
+{"text": "text\\<open>In ordered fields if at least one of $a,b$ is not zero, then\n  $a^2+b^2 > 0$, in particular $a^2+b^2\\neq 0$ and exists the \n  (multiplicative) inverse of $a^2+b^2$.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A bounded set can be translated to put it in  $G^+$ and then it is \n still bounded above.\\<close>\n"}

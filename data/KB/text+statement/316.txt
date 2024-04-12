@@ -1,0 +1,1 @@
+{"text": "text\\<open>Union of finite number of finite sets is finite.\\<close>\n", "statement": "lemma fin_union_finpow: assumes \"M \\<in> FinPow(FinPow(X))\"\n  shows \"\\<Union>M \\<in> FinPow(X)\"\n  "}

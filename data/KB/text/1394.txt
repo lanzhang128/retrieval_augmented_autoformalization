@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can multiply both sides of an inequality by a nonnegative ring\n  element. This property is sometimes (not here) used to define\n  ordered rings.\\<close>\n"}

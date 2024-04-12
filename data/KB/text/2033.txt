@@ -1,0 +1,1 @@
+{"text": "text\\<open>For a topological space $X=\\bigcup T$ and a surjection $f:X\\rightarrow Y$\n  we define \\<open>{quotient topology in} Y {by} f\\<close> as the collection of subsets\n  of $Y$ whose inverse images by $f$ are open. \\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Almost homomorphisms form a monoid with composition.\n  The identity function on the group is the neutral element there.\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_4_L16: \n  shows\n  \"IsAmonoid(AH,Op2)\"\n  \"monoid0(AH,Op2)\"\n  \"id(G) = TheNeutralElement(AH,Op2)\"\n"}

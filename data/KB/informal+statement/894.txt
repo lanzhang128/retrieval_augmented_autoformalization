@@ -1,0 +1,1 @@
+{"informal": " Assuming `n` is a natural number and `m` is an integer, prove that `m` is less than or equal to `n`.", "statement": "lemma (in int0) Int_ZF_2_L15D:\n  assumes \"\\<zero>\\<lsq>n\"  \"m\\<in>\\<int>\"\n  shows \"m \\<lsq> n\\<ra>m\"\n  "}

@@ -1,0 +1,1 @@
+{"informal": " The theorem \"binom_left_boundary\" states that for any natural number n, the binomial coefficient Binom(n, 0) equals 1.", "statement": "theorem binom_left_boundary: assumes \"n\\<in>nat\" shows \"Binom(n,0) = 1\"\n"}

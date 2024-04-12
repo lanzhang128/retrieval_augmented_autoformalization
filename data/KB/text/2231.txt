@@ -1,0 +1,1 @@
+{"text": "text\\<open>A family of uniform covers contain the trivial cover $\\{ X\\}$.\\<close>\n"}

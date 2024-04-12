@@ -1,0 +1,1 @@
+{"text": "text\\<open>The essential condition to show that if a set $A$ is closed \n  with respect to an operation, \n  then it is closed under this operation restricted \n  to any superset of $A$.\\<close>\n"}

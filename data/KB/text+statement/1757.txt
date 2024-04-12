@@ -1,0 +1,1 @@
+{"text": "text\\<open>Left translations preserve interior.\\<close>\n", "statement": "lemma (in topgroup) ltrans_interior: assumes A1: \"g\\<in>G\" and A2: \"A\\<subseteq>G\" \n  shows \"g \\<ltr> int(A) = int(g\\<ltr>A)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>$1$ is nonnegative.\\<close>\n", "statement": "corollary (in ring1) ordring_one_is_nonneg: shows \"\\<zero> \\<lsq> \\<one>\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A function that has an infinite limit can be made arbitrarily large\n  on positive integers by adding a constant. This does not actually require\n  the function to have infinite limit, just to be larger than a constant\n  for arguments large enough.\\<close>\n"}

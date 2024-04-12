@@ -1,0 +1,1 @@
+{"text": "text\\<open>The closure of a set is the V-set of the intersection\nof all its points.\\<close>\n"}

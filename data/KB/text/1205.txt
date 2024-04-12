@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>OrdField_ZF_2_L1\\<close> when we multiply\n  an inverse by an element.\\<close>\n"}

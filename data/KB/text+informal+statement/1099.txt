@@ -1,0 +1,1 @@
+{"text": "text\\<open>Infimum is defined analogously.\\<close>\n", "informal": " The set Infimum of a relation r and a set A is defined as the maximum value of the relation r with respect to the set difference of A from each element in A, subtracted from that element.", "statement": "definition\n  \"Infimum(r,A) \\<equiv> Maximum(r,\\<Inter>a\\<in>A. r-``{a})\"\n"}

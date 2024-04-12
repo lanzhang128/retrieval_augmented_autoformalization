@@ -1,0 +1,1 @@
+{"text": "text\\<open>Product of nonnegative integers is nonnegative.\\<close>\n"}

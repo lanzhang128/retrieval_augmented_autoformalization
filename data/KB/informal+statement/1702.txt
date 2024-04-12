@@ -1,0 +1,1 @@
+{"informal": " SetFold is defined as the result of applying the Fold1 function to the set obtained by merging a given set a with the enumeration of a lambda expression over a set r.", "statement": "definition\n  \"SetFold(f,a,\\<Lambda>,r) = Fold1(f,a O Enumeration(\\<Lambda>,r))\"\n"}

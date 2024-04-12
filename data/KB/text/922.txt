@@ -1,0 +1,1 @@
+{"text": "text\\<open>Backwards induction on integers, version with higher-order decrement\n  function.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open> A technical lemma to simplify proof of the \\<open>uniformity_from_unicov\\<close> theorem. \\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Uniform spaces are regular ($T_3$). \\<close>\n", "statement": "theorem utopreg: \n  assumes \"\\<Phi> {is a uniformity on} X\"\n  shows \"UniformTopology(\\<Phi>,X) {is regular}\"\n"}

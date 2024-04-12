@@ -1,0 +1,1 @@
+{"text": "text\\<open>Here is the equivalence from the two previous results.\\<close>\n"}

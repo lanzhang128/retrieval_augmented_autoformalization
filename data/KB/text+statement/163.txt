@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can use theorems proven in the \\<open>monoid0\\<close> context.\\<close>\n", "statement": "lemma (in finsupp) monoid0_valid: shows \"monoid0(M,A)\"\n  "}

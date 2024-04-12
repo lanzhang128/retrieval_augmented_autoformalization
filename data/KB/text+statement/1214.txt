@@ -1,0 +1,1 @@
+{"text": "text\\<open>A technical lemma about solving a strict inequality with three\n  field elements and inverse of a difference.\\<close>\n", "statement": "lemma (in field1) OrdField_ZF_2_L9: \n  assumes A1: \"a\\<ls>b\" and A2: \"(b\\<rs>a)\\<inverse> \\<ls> c\"\n  shows \"\\<one> \\<ra> a\\<cdot>c \\<ls> b\\<cdot>c\"\n"}

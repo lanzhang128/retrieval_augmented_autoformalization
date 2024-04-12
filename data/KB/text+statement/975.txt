@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next definition is what Metamath $X\\in V$ is\n  translated to. I am not sure why it works, probably because\n  Isabelle does a type inference and the \"=\" sign\n  indicates that both sides are sets.\\<close>\n", "statement": "definition\n  IsASet :: \"i\\<Rightarrow>o\" (\"_ isASet\" [90] 90) where\n"}

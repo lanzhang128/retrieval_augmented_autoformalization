@@ -1,0 +1,1 @@
+{"text": "text\\<open>For total and transitive relations a union a of two sets that have \n  maxima has a maximum.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Inverse of an element that belongs to the inverse of the set belongs to the set. \\<close>\n", "statement": "lemma (in group0) ginv_image_el: assumes \"V\\<subseteq>G\" \"g \\<in> GroupInv(G,P)``(V)\"\n  shows \"g\\<inverse> \\<in> V\"\n  "}

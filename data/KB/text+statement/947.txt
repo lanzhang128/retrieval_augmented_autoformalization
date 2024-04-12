@@ -1,0 +1,1 @@
+{"text": "text\\<open>In a (nonempty) join semi-lattice the relation up-directs the set. \\<close>\n", "statement": "lemma join_up_directs: assumes \"IsJoinSemilattice(L,r)\" \"L\\<noteq>0\"\n  shows \"r {up-directs} L\"\n"}

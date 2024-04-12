@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $A$ is bounded below, then the set of elements in a set $A$ \n  that are nongreater than a given element is bounded.\\<close>\n"}

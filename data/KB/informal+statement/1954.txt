@@ -1,0 +1,1 @@
+{"informal": " Assuming \"is a filter on T\" and \"Net becomes convergent to N x\", then \"filter converges to F x.\"", "statement": "theorem (in topology0) net_of_filter_conver_filter_conver:\n  assumes \"\\<FF> {is a filter on}\\<Union>T\" and \"(Net(\\<FF>)) \\<rightarrow>\\<^sub>N x\"\n  shows \"\\<FF> \\<rightarrow>\\<^sub>F x\"\n"}

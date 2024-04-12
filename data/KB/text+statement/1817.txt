@@ -1,0 +1,1 @@
+{"text": "text\\<open>Closure of a bigger sets is bigger.\\<close>\n", "statement": "lemma (in topology0) top_closure_mono: \n  assumes A1: \"B \\<subseteq> \\<Union>T\"  and A2:\"A\\<subseteq>B\"\n  shows \"cl(A) \\<subseteq> cl(B)\"\n"}

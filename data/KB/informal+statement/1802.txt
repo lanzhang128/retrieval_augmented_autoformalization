@@ -1,0 +1,1 @@
+{"informal": " In the setting of topology0, the subset of the real numbers in A is included in A itself.", "statement": "lemma (in topology0) Top_2_L1: shows \"int(A) \\<subseteq> A\"\n  "}

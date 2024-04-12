@@ -1,0 +1,1 @@
+{"informal": " In the context of the \"fieldd\" theory, it can be shown that the reciprocal of zero is equal to zero.", "statement": "theorem (in fieldd) one_over_zero: shows \"\\<one>\\<fd>\\<zero> = 0\"\n"}

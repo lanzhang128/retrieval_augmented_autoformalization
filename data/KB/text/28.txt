@@ -1,0 +1,1 @@
+{"text": "text\\<open>The first predicate we define states that the axiom of $Q$-choice holds for subsets of $K$ if \n  we can find a choice function for every family of subsets of $K$ whose (that family's) \n  cardinality does not exceed $Q$.\\<close>\n"}

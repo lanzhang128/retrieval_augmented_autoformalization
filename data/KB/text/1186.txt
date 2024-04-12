@@ -1,0 +1,1 @@
+{"text": "text\\<open>A trichotomy law for linear order. This is a special\n  case of \\<open>strict_ans_tot_trich\\<close>.\\<close>\n"}

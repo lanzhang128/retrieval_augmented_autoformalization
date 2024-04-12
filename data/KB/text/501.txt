@@ -1,0 +1,1 @@
+{"text": "text\\<open>The quotient group relation is an equivalence relation. Note\n  we do not need the subgroup to be normal for this to be true.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The composition of positive slopes is a positive slope.\\<close>\n", "statement": "theorem (in int1) comp_of_pos_sls_is_pos_sl: \n  assumes A1: \"f \\<in> \\<S>\\<^sub>+\"  \"g \\<in> \\<S>\\<^sub>+\"\n  shows \"f\\<circ>g \\<in> \\<S>\\<^sub>+\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " In the group0 theory, if a and b are elements of the group G, then the product a * b is also an element of the group.", "statement": "lemma (in group0) group_op_closed: assumes \"a\\<in>G\"  \"b\\<in>G\"\n  shows \"a\\<cdot>b \\<in> G\" "}

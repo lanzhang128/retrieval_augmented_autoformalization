@@ -1,0 +1,1 @@
+{"text": "text\\<open>AlHomOp1$(G,f)$ is the group operation on almost \n  homomorphisms defined in a natural way \n  by $(s\\cdot r)(n) = s(n)\\cdot r(n)$. In the terminology defined in \n  func1.thy this is the group operation $f$ (on $G$) \n  lifted to the function space $G\\rightarrow G$ and restricted to the set \n  AlmostHoms$(G,f)$.\\<close>\n"}

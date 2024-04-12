@@ -1,0 +1,1 @@
+{"text": "text\\<open>Strict order is preserved by translations.\\<close>\n", "statement": "lemma (in group3) group_strict_ord_transl_inv: \n  assumes \"a\\<ls>b\" and \"c\\<in>G\"\n  shows \"a\\<cdot>c \\<ls> b\\<cdot>c\" and \"c\\<cdot>a \\<ls> c\\<cdot>b\"\n  "}

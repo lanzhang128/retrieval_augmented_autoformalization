@@ -1,0 +1,1 @@
+{"text": "text\\<open>For any two natural numbers one of them is contained in the other.\\<close>\n", "statement": "lemma nat_incl_total: assumes A1: \"i \\<in> nat\"  \"j \\<in> nat\"\n  shows \"i \\<subseteq> j \\<or> j \\<subseteq> i\"\n"}

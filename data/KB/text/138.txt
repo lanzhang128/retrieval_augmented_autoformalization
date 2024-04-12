@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we remove zero, the field with multiplication\n  becomes a group and we can use all theorems proven in \n  \\<open>group0\\<close> context.\\<close>\n"}

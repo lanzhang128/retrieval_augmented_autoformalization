@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $B$ is a base for $T$, then $T$ is the smallest topology containing $B$.\n\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Restriction of an bijection to a set without a point\n  is a a bijection.\\<close>\n", "statement": "lemma bij_restrict_rem: \n  assumes A1: \"f \\<in> bij(A,B)\" and A2: \"a\\<in>A\"\n  shows \"restrict(f, A-{a}) \\<in> bij(A-{a}, B-{f`(a)})\"\n"}

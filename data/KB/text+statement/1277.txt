@@ -1,0 +1,1 @@
+{"text": "text\\<open>A if $a$ is a nonunit element that is not positive, then $a^{-1}$ is \n  is positive. This is useful for some proofs by cases.\\<close>\n", "statement": "lemma (in group3) OrdGroup_cases:\n  assumes A1: \"r {is total on} G\" and A2: \"a\\<in>G\" \n  and A3: \"a\\<noteq>\\<one>\"  \"a\\<notin>G\\<^sub>+\"\n  shows \"a\\<inverse> \\<in> G\\<^sub>+\"\n"}

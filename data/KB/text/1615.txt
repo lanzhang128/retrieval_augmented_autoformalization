@@ -1,0 +1,1 @@
+{"text": "text\\<open>A key identity for binomial terms needed for the proof of the binomial theorem:\\<close>\n"}

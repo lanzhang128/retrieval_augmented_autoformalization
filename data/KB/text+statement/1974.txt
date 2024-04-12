@@ -1,0 +1,1 @@
+{"text": "text\\<open>Given a set neighborhood system we can recover the (standard)\n  neighborhood system by taking the values of the set neighborhood system\n  at singletons ${x}$ where $x\\in X=\\bigcup T$.\\<close>\n", "statement": "lemma neigh_from_nei: assumes \"x\\<in>\\<Union>T\"\n  shows \"({neighborhood system of} T)`(x) = ({set neighborhood system of} T)`{x}\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The result of the lift belongs to the function space.\\<close>\n"}

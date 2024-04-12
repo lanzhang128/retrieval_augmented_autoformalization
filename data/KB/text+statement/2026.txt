@@ -1,0 +1,1 @@
+{"text": "text\\<open>The previous topology in not $T_2$, but is anti-hyperconnected.\\<close>\n", "statement": "theorem join_Cofinite_ExclPoint_not_T2:\n  shows \n    \"\\<not>((joinT {CoFinite nat, ExcludedSet(nat,{0,1})}){is T\\<^sub>2})\" and \n    \"(joinT {CoFinite nat,ExcludedSet(nat,{0,1})}){is anti-} IsHConnected\"\n"}

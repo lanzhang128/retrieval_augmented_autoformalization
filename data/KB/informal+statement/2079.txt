@@ -1,0 +1,1 @@
+{"informal": " The lemma \"smaller_excludedset\" states that the Excluded Set of a relation X with respect to set T, is equal to the Excluded Set of X with respect to the subset X intersect T.", "statement": "lemma smaller_excludedset:\n  shows \"ExcludedSet(X,T) = ExcludedSet(X,(X\\<inter>T))\"\n"}

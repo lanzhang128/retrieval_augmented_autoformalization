@@ -1,0 +1,1 @@
+{"text": "text\\<open>An integer is not less or equal zero iff it is greater or equal one.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_3_L7: assumes \"a\\<in>\\<int>\" \n  shows \"\\<not>(a\\<lsq>\\<zero>) \\<longleftrightarrow> \\<one> \\<lsq> a\"\n  "}

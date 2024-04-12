@@ -1,0 +1,1 @@
+{"text": "text\\<open>A reformulation of \\<open>disj_open_cl_disj\\<close>:\n  If a point belongs to the closure of a set, then we can find a point\n  from the set in any open neighboorhood of the point.\\<close>\n"}

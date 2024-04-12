@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set $A$ is closed under an operation, \n  then it is closed under this operation restricted \n  to any superset of $A$.\\<close>\n"}

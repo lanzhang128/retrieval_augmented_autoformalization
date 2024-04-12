@@ -1,0 +1,1 @@
+{"text": "text\\<open>Fixing the second variable commutes with restrictig the domain.\\<close>\n"}

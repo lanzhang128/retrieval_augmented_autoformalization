@@ -1,0 +1,1 @@
+{"text": "text\\<open>The term $k \\leq n$ is the same as $k < \\textrm{succ}(n)$.  \\<close>\n", "statement": "lemma leq_mem_succ: shows \"k\\<le>n \\<longleftrightarrow> k < succ(n)\" by simp\n"}

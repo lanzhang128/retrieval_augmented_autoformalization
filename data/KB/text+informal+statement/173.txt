@@ -1,0 +1,1 @@
+{"text": "text\\<open>Finitely supported functions form a subgroup\n  with pointwise addition of group-valued functions.\n\\<close>\n", "informal": " In the context of the finitesup1 theory, prove that A is a subgroup of M.", "statement": "theorem (in finsupp1) fin_sup_group:\n  shows \"IsAsubgroup(\\<M>,\\<A>)\"\n"}

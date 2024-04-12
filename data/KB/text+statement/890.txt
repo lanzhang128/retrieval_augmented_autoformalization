@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can increase components in an estimate.\\<close>\n", "statement": "lemma (in int0) Int_ZF_2_L15: \n  assumes \"b\\<lsq>b\\<^sub>1\" \"c\\<lsq>c\\<^sub>1\" and \"a\\<lsq>b\\<ra>c\"\n  shows \"a\\<lsq>b\\<^sub>1\\<ra>c\\<^sub>1\"\n"}

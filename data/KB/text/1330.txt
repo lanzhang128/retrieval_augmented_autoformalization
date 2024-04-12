@@ -1,0 +1,1 @@
+{"text": "text\\<open>For linearly ordered groups if $l\\leq a\\leq u$ then \n  $|a|$ is smaller than the greater of $|l|,|u|$.\\<close>\n"}

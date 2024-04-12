@@ -1,0 +1,1 @@
+{"text": "text\\<open>Nonnegative is not negative. Property of ordered groups.\\<close>\n", "statement": "lemma (in ring1) OrdRing_ZF_1_L11: assumes \"\\<zero>\\<lsq>a\"\n  shows \"\\<not>(a\\<lsq>\\<zero> \\<and> a\\<noteq>\\<zero>)\"\n  "}

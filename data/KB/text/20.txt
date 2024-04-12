@@ -1,0 +1,1 @@
+{"text": "text\\<open>Simple fact used a couple of times in proofs.\\<close>\n"}

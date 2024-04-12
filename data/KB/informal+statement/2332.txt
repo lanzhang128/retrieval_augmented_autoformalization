@@ -1,0 +1,1 @@
+{"informal": " If function f from X to Y and function g from X to Z have the same value for every x in X, then f and g are equal.", "statement": "lemma func_eq: \n  assumes \"f: X\\<rightarrow>Y\"  \"g: X\\<rightarrow>Z\"and  \"\\<forall>x\\<in>X. f`(x) = g`(x)\"\n  shows \"f = g\" "}

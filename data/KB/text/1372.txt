@@ -1,0 +1,1 @@
+{"text": "text\\<open> Another form of mixed transitivity for the strict order: \\<close>\n"}

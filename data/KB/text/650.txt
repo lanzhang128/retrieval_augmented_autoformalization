@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma essentially translates \\<open>zdiv_mono1\\<close> from \n  standard Isabelle to our notation.\\<close>\n"}

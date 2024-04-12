@@ -1,0 +1,1 @@
+{"text": "text\\<open>If every value of a function on a set is bounded above by\n  a constant, then the image of the set is bounded above.\\<close>\n"}

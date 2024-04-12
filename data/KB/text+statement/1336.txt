@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set has a maximum and minimum, then the set of absolute values \n  also has a maximum.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_4_L4:\n  assumes A1: \"r {is total on} G\" and A2: \"A \\<subseteq> G\"\n  and A3: \"HasAmaximum(r,A)\" \"HasAminimum(r,A)\"\n  shows \"HasAmaximum(r,AbsoluteValue(G,P,r)``(A))\"\n"}

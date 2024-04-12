@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group of almost homomorphisms is abelian\\<close>\n"}

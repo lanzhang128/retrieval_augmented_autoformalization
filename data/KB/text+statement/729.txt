@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every nonempty subset of positive integers has a mimimum.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_5_L1C: assumes \"A \\<subseteq> \\<int>\\<^sub>+\" and \"A \\<noteq> 0\"\n  shows \n  \"HasAminimum(IntegerOrder,A)\"\n  \"Minimum(IntegerOrder,A) \\<in> A\"\n  \"\\<forall>x\\<in>A. Minimum(IntegerOrder,A) \\<lsq> x\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Domain of \\<open>zf_move\\<close> is \\<open>big\\<close>.\\<close>\n", "informal": " In the theory of ZF (Zermelo-Fraenkel set theory), the function \"zf_move\" has a domain equal to the universe of all sets, denoted as \"big\".", "statement": "lemma (in generalization) zf_move_domain: shows \"domain(zf_move) = big\"\n  "}

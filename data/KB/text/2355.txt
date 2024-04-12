@@ -1,0 +1,1 @@
+{"text": "text\\<open>A criterion for when one function is a restriction of another.\n  The lemma below provides a result useful in the actual proof of the \n  criterion and applications.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " If `a` is an element of a group `G+` and `a` is less than `b`, then `b` is also an element of `G+`.", "statement": "lemma (in group3) OrderedGroup_ZF_1_L19:\n  assumes A1: \"a \\<in> G\\<^sub>+\" and A2: \"a\\<lsq>b\"\n  shows \"b \\<in> G\\<^sub>+\"\n"}

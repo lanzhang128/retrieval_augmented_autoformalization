@@ -1,0 +1,1 @@
+{"text": "text\\<open>The collection of sets defined as above is indeed a topology. \\<close>\n", "statement": "theorem topology_from_neighs: \n  assumes \"\\<M> {is a neighborhood system on} X\"\n  defines Tdef: \"T \\<equiv> {U\\<in>Pow(X). \\<forall>x\\<in>U. U \\<in> \\<M>`(x)}\"\n  shows \"T {is a topology}\" and \"\\<Union>T = X\"\n"}

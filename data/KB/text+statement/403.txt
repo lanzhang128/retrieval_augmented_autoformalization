@@ -1,0 +1,1 @@
+{"text": "text\\<open>Group inverse is nilpotent, therefore a bijection and involution.\\<close>\n", "statement": "lemma (in group0) group_inv_bij: \n  shows \"GroupInv(G,P) O GroupInv(G,P) = id(G)\" and \"GroupInv(G,P) \\<in> bij(G,G)\" and\n  \"GroupInv(G,P) = converse(GroupInv(G,P))\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " Given an integer m, assume m is an element of the set of integers, then m is less than m plus one.", "statement": "lemma (in int0) Int_ZF_2_L12B: assumes A1: \"m\\<in>\\<int>\" shows \"m \\<lsq> m\\<ra>\\<one>\"\n  "}

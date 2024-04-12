@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition of a sum of function over a set in \n  notation defined in the \\<open>commsemigr\\<close> locale.\\<close>\n", "statement": "lemma (in commsemigr) CommSetFolddef: \n  shows \"(\\<ssum>(A,a)) = (\\<Union>{\\<Sum>(a O b). b \\<in> bij(|A|, A)})\"\n  "}

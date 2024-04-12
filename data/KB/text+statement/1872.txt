@@ -1,0 +1,1 @@
+{"text": "text\\<open>First a lemma. In a complete ordered set, every non-empty set bounded from below has\na maximum lower bound.\\<close>\n", "statement": "lemma complete_order_bounded_below:\n  assumes \"r{is complete}\" \"IsBoundedBelow(A,r)\" \"A\\<noteq>0\" \"r\\<subseteq>X\\<times>X\"\n  shows \"HasAmaximum(r,\\<Inter>c\\<in>A. r-``{c})\"\n"}

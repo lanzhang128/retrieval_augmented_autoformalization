@@ -1,0 +1,1 @@
+{"text": "text\\<open>The order on integers is \n  transitive. This version is stated in the \\<open>int0\\<close> context \n  using notation for integers.\\<close>\n"}

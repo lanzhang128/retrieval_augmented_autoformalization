@@ -1,0 +1,1 @@
+{"text": "text\\<open>Domain and range of the relation of the form $\\bigcup \\{U\\times U : U\\in P\\}$\n  is $\\bigcup P$: \\<close>\n", "statement": "lemma domain_range_sym: shows \"domain(\\<Union>{U\\<times>U. U\\<in>P}) = \\<Union>P\" and \"range(\\<Union>{U\\<times>U. U\\<in>P}) = \\<Union>P\" \n  by auto\n"}

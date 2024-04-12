@@ -1,0 +1,1 @@
+{"text": "text\\<open>The complement of a regular language\nis a regular language.\\<close>\n"}

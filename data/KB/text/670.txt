@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another couple of rearrangements with three integers.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>OrdRing_ZF_3_L7\\<close>: a ring element greater\n  or equal than $1$ is positive.\\<close>\n", "statement": "corollary (in ring1) OrdRing_ZF_3_L8: assumes A1: \"\\<zero>\\<noteq>\\<one>\" and A2: \"\\<one>\\<lsq>a\"\n  shows \"a \\<in> R\\<^sub>+\"\n"}

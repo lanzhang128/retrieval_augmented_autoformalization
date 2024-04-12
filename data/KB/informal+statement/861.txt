@@ -1,0 +1,1 @@
+{"informal": " Assuming m is an integer, the difference of m and any integer n (m - n) is one more than n.", "statement": "lemma (in int0) Int_ZF_1_L13: assumes \"m\\<in>\\<int>\" \n  shows \"(m $- $#1) \\<ra> \\<one> = m\"\n  "}

@@ -1,0 +1,1 @@
+{"informal": " In the context of the topological group G, Roelcke uniformity is equivalent to the uniformity of the topology.", "statement": "lemma (in topgroup) top_generated_roelcke_uniformity:\n  shows \"UniformTopology(roelckeUniformity,G) = T\"\n"}

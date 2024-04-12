@@ -1,0 +1,1 @@
+{"text": "text\\<open>Under the assumptions of \\<open>Order_ZF_2_L2\\<close>, the interval is \n  nonempty.\\<close>\n"}

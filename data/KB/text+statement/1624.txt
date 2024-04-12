@@ -1,0 +1,1 @@
+{"text": "text\\<open>Any element of a ring multiplied by zero is zero.\\<close>\n", "statement": "lemma (in ring0) Ring_ZF_1_L6: \n  assumes A1: \"x\\<in>R\" shows \"\\<zero>\\<cdot>x = \\<zero>\"   \"x\\<cdot>\\<zero> = \\<zero>\"\n"}

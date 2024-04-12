@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the relation is total, then every set is a union of those elements\n  that are nongreater than a given one and nonsmaller than a given one.\\<close>\n"}

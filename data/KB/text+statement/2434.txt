@@ -1,0 +1,1 @@
+{"text": "text\\<open>Lifting to subsets inherits commutativity.\\<close>\n", "statement": "lemma lift_subset_comm: assumes A1: \"f : X \\<times> X \\<rightarrow> Y\" and \n  A2: \"f {is commutative on} X\" and\n  A3: \"F = f {lifted to subsets of} X\"\n  shows \"F {is commutative on} Pow(X)\"\n"}

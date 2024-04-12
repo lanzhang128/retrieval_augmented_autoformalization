@@ -1,0 +1,1 @@
+{"informal": " A set X covers all subsets of it if and only if the union of all its elements equals X.", "statement": "definition \n  \"Covers(X) \\<equiv> {P \\<in> Pow(Pow(X)). \\<Union>P = X}\" \n"}

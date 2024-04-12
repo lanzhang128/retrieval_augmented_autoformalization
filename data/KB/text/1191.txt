@@ -1,0 +1,1 @@
+{"text": "text\\<open>Strict version of a relation on a set is a relation on that\n  set.\\<close>\n"}

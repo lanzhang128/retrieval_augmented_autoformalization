@@ -1,0 +1,1 @@
+{"text": "text\\<open>The included set topology is locally finite when the set is finite.\\<close>\n", "statement": "lemma included_finite_locally_finite:\n  assumes \"Finite(A)\" and \"A\\<subseteq>X\"\n  shows \"(IncludedSet(X,A)){is locally}(\\<lambda>A.(\\<lambda>B. Finite(A)))\"\n"}

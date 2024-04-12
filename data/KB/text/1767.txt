@@ -1,0 +1,1 @@
+{"text": "text\\<open>Negative of a neighborhood of zero is a neighborhood of zero.\\<close>\n"}

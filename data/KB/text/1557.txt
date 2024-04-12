@@ -1,0 +1,1 @@
+{"text": "text\\<open>For any real number there is a positive integer\n  whose real version is (strictly) greater. \n  This is Lemma 14 i) in  \\cite{Arthan2004}.\\<close>\n"}

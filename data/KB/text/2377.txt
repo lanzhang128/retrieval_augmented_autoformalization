@@ -1,0 +1,1 @@
+{"text": "text\\<open>For injections if a value at a point \n  belongs to the image of a set, then the point\n  belongs to the set.\\<close>\n"}

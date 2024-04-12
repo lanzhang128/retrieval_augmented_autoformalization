@@ -1,0 +1,1 @@
+{"text": "text\\<open>$(m\\cdot k)$ div $k = m$.\\<close>\n", "statement": "lemma (in int0) IntDiv_ZF_1_L3: \n  assumes \"m\\<in>\\<int>\"  \"k\\<in>\\<int>\"  and \"k\\<noteq>\\<zero>\"\n  shows \n  \"(m\\<cdot>k) zdiv k = m\"\n  \"(k\\<cdot>m) zdiv k = m\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a word is a reduced version of an other,\nthen it can be encoded as a restriction.\\<close>\n", "statement": "lemma (in DetFinStateAuto) seq_is_restriction:\n  fixes w s u v\n  assumes \"\\<langle>\\<langle>w,s\\<rangle>,\\<langle>u,v\\<rangle>\\<rangle>\\<in>r\\<^sub>D^*\"\n  shows \"restrict(w,domain(u)) = u\"\n"}

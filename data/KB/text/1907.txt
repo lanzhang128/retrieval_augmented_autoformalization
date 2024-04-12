@@ -1,0 +1,1 @@
+{"text": "text\\<open>Having two constinuous mappings we can construct a third one on the cartesian product\n  of the domains.\\<close>\n"}

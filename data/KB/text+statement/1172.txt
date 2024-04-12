@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set has a maximum, then the maximum is the supremum. This lemma is obsolete, use\n  \\<open>max_is_sup\\<close> instead.\\<close>\n", "statement": "lemma Order_ZF_5_L6: \n  assumes A1:  \"antisym(r)\" and A2: \"A\\<noteq>0\" and \n  A3: \"HasAmaximum(r,A)\"\n  shows \n  \"HasAminimum(r,\\<Inter>a\\<in>A. r``{a})\"\n  \"Maximum(r,A) = Supremum(r,A)\"\n"}

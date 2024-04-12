@@ -1,0 +1,1 @@
+{"informal": " Assuming `n` is a natural number and `n` is not equal to zero, there exists a natural number `k` such that `n` is the successor of `k`. In other words, there exists a natural number `k` such that `n = succ(k)`.", "statement": "lemma Nat_ZF_1_L3: assumes A1: \"n \\<in> nat\" and A2: \"n\\<noteq>0\"\n  shows \"\\<exists>k\\<in>nat. n = succ(k)\"\n"}

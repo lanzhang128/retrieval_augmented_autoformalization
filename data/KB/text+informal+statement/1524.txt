@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can add a real number to both sides of an inequality.\\<close>\n", "informal": " Assuming \"a < b\" and \"c is a real number\", we have \"a + c < b + c\".", "statement": "lemma (in real1) add_num_to_ineq: assumes \"a\\<lsq>b\" and \"c\\<in>\\<real>\"\n  shows \"a\\<ra>c \\<lsq> b\\<ra>c\"\n  "}

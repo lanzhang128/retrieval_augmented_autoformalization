@@ -1,0 +1,1 @@
+{"text": "text\\<open> Given 2 functions $f:A\\to B$ and $g:C\\to D$ , we can consider a function $h:A\\times C \\to B\\times D$\nsuch that $h(x,y)=\\langle f(x),g(y)\\rangle$ \\<close>\n"}

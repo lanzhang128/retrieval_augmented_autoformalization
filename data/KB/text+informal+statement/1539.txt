@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a$ is positive, then $a^{-1}$ is also positive.\\<close>\n", "informal": " If a is a real number, then its multiplicative inverse is also a real number.", "statement": "lemma (in real1) Real_ZF_1_3_L1: assumes \"a \\<in> \\<real>\\<^sub>+\" \n  shows \"a\\<inverse> \\<in> \\<real>\\<^sub>+\"   \"a\\<inverse> \\<in> \\<real>\"\n  "}

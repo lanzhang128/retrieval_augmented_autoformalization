@@ -1,0 +1,1 @@
+{"text": "text\\<open>This time, anti-ultraconnected is an old property.\\<close>\n", "statement": "theorem (in topology0) anti_UConn:\n  shows \"(T{is anti-}IsUConnected) \\<longleftrightarrow> T{is T\\<^sub>1}\"\n"}

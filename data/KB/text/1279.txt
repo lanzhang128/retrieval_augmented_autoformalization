@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma allows to split proofs that something holds \n  for all $a\\in G$ into cases $a=1$, $a\\in G_+$, $-a\\in G_+$.\\<close>\n"}

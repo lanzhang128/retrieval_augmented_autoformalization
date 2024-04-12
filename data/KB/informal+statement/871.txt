@@ -1,0 +1,1 @@
+{"informal": " The lemma \"Int_ZF_2_L7\" asserts that the relation \"IsPartOrder\" holds between the type of integers and the relation \"IntegerOrder\". In other words, \"IntegerOrder\" is a total order on the type of integers.", "statement": "lemma Int_ZF_2_L7: shows \"IsPartOrder(int,IntegerOrder)\"\n  "}

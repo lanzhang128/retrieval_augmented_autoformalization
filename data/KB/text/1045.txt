@@ -1,0 +1,1 @@
+{"text": "text\\<open>Empty set is an element of every natural number which is not zero.\\<close>\n"}

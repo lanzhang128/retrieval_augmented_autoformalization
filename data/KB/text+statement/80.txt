@@ -1,0 +1,1 @@
+{"text": "text\\<open>The strict order on complex reals is transitive.\\<close>\n", "statement": "lemma (in complex0) cplx_strict_ord_trans: \n  shows \"trans(StrictVersion(CplxROrder(R,A,r)))\"\n  "}

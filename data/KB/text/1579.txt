@@ -1,0 +1,1 @@
+{"text": "text\\<open>The homomorphism difference of $n\\mapsto \\Gamma(S,n)$ is bounded\n  by $2$ on positive integers.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>Int_ZF_2_3_L5\\<close> where $K=1$.\\<close>\n", "statement": "corollary (in int1) Int_ZF_2_3_L6: assumes \"f\\<in>\\<S>\\<^sub>+\"\n  shows \"\\<exists>N\\<in>\\<int>\\<^sub>+. \\<forall>m. N\\<lsq>m \\<longrightarrow> f`(m) \\<in> \\<int>\\<^sub>+\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The relation, that is actually a function\nhas the following domain and range:\\<close>\n", "statement": "lemma (in DetFinStateAuto) reduce_function:\nshows \"r\\<^sub>D:NELists(\\<Sigma>)\\<times>S\\<rightarrow>Lists(\\<Sigma>)\\<times>S\"\n"}

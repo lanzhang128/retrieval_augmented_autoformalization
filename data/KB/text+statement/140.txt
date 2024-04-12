@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse is really the inverse.\\<close>\n", "statement": "lemma (in field0) Field_ZF_1_L6: assumes A1: \"a\\<in>K\"  \"a\\<noteq>\\<zero>\"\n  shows \"a\\<cdot>a\\<inverse> = \\<one>\"  \"a\\<inverse>\\<cdot>a = \\<one>\"\n"}

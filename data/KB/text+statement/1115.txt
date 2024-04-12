@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the relation is reflexive, the endpoints belong to the interval.\\<close>\n", "statement": "lemma Order_ZF_2_L2: assumes \"refl(X,r)\" \n  and \"a\\<in>X\"  \"b\\<in>X\" and \"\\<langle> a,b\\<rangle> \\<in> r\"\n  shows \n  \"a \\<in> Interval(r,a,b)\"  \n  \"b \\<in> Interval(r,a,b)\"  \n  "}

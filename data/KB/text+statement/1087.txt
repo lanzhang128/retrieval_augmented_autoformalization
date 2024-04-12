@@ -1,0 +1,1 @@
+{"text": "text\\<open>We define sets bounded below analogously.\\<close>\n", "statement": "definition\n  \"IsBoundedBelow(A,r) \\<equiv> (A=0 \\<or> (\\<exists>l. \\<forall>x\\<in>A. \\<langle> l,x\\<rangle> \\<in> r))\"\n"}

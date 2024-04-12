@@ -1,0 +1,1 @@
+{"text": "text\\<open>So, really $1/0=0$. The essential lemma is \\<open>apply_0\\<close> from standard\n  Isabelle's \\<open>func.thy\\<close>.\\<close>\n"}

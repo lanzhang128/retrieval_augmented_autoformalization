@@ -1,0 +1,1 @@
+{"text": "text\\<open>A subset of a finite subset is a finite subset.\\<close>\n"}

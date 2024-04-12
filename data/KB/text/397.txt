@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a^{-1}$ is not a unit, then a is not a unit either.\\<close>\n"}

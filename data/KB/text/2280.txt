@@ -1,0 +1,1 @@
+{"text": "text\\<open>An identity for the square (in the sense of composition) of a symmetric relation.\\<close>\n"}

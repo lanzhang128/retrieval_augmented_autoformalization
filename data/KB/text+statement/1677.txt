@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set where the topology is defined is in the spectrum\nof a ring; i.e. the set of all prime ideals.\\<close>\n", "statement": "definition (in ring0) Spec where\n\"Spec \\<equiv> {I\\<in>\\<I>. I\\<triangleleft>\\<^sub>pR}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of slopes is defined as the set of almost homomorphisms\n  on the additive group of integers.\\<close>\n", "statement": "definition\n  \"Slopes \\<equiv> AlmostHoms(int,IntegerAddition)\"\n"}

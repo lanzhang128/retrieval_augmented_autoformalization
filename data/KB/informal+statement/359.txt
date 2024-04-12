@@ -1,0 +1,1 @@
+{"informal": " The theorem `spec_bij` asserts that the relation `spec` is a bijection between two sets `small2` and `small`. In natural language:\n\nThe relation `spec` is a bijection between `small2` and `small`.", "statement": "theorem (in generalization) spec_bij: shows \"spec \\<in> bij(small2, small)\"\n  "}

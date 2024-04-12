@@ -1,0 +1,1 @@
+{"text": "text\\<open>To shorten the notation in the proof of the binomial theorem we give a name to the\n  binomial term ${n \\choose k} x^{n-k} y^k$.\\<close>\n", "statement": "definition (in ring3) BT where\n  \"BT(n,k,x,y) \\<equiv> Binom(n,k)\\<nm>pow(n #- k,x)\\<cdot>pow(k,y)\"\n"}

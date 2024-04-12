@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next formula restates the definition of the homomorphism \n  difference to express the value an almost homomorphism on a product.\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_4_L1: \n  assumes \"s\\<in>AH\" and  \"m\\<in>G\"  \"n\\<in>G\" \n  shows \"s`(m\\<cdot>n) = s`(m)\\<cdot>s`(n)\\<cdot>\\<delta>(s,\\<langle> m,n\\<rangle>)\"\n  "}

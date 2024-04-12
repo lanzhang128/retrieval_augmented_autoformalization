@@ -1,0 +1,1 @@
+{"text": "text\\<open>An integer can be written a a sum of a smaller integer and a natural \n  number.\\<close>\n"}

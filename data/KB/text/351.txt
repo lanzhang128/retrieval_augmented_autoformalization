@@ -1,0 +1,1 @@
+{"text": "text\\<open>We define the \\<open>small2\\<close> set as the range of \\<open>embed\\<close>.\\<close>\n"}

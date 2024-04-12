@@ -1,0 +1,1 @@
+{"text": "text\\<open>Yet another induction scheme. We build a linearly ordered\n  set by adding elements that are greater than all elements in the\n  set.\\<close>\n"}

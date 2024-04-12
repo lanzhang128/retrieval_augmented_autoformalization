@@ -1,0 +1,1 @@
+{"text": "text\\<open>The sum of finitely supported functions is \n  finitely supported.\\<close>\n", "statement": "lemma (in finsupp) sum_finsupp: \n  assumes \"f \\<in> \\<M>\"  \"g \\<in> \\<M>\"\n  shows \"f\\<oplus>g \\<in>\\<M> \"\n"}

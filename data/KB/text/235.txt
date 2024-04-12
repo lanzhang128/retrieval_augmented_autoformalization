@@ -1,0 +1,1 @@
+{"text": "text\\<open>A singleton list is in fact a singleton set with a pair as the only element.\\<close>\n"}

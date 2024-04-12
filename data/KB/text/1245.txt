@@ -1,0 +1,1 @@
+{"text": "text\\<open>We don't decrease an element of the group by multiplying by one that is\n  nonnegative.\\<close>\n"}

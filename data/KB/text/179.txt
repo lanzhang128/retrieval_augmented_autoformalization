@@ -1,0 +1,1 @@
+{"text": "text\\<open>A collection closed with respect to taking a union of two sets \n  is closed under taking finite unions. Proof by induction with \n  the induction step formulated in a separate lemma.\\<close>\n"}

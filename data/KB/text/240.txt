@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma about creating lists by composition and how\n  \\<open>Append\\<close> behaves in such case.\\<close>\n"}

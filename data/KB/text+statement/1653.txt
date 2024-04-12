@@ -1,0 +1,1 @@
+{"text": "text\\<open>The projection of the first group operation on almost homomorphisms\n  is distributive with respect to the second group operation.\\<close>\n", "statement": "lemma (in group1) Ring_ZF_1_1_L4: \n  assumes A1: \"R = QuotientGroupRel(AH,Op1,FR)\"\n  and A2: \"A = ProjFun2(AH,R,Op1)\" \"M = ProjFun2(AH,R,Op2)\"\n  shows \"IsDistributive(AH//R,A,M)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>$0$ is the neutral element of complex addition.\\<close>\n", "informal": " Assuming `a` is an element of the complex number domain, it is equal to its additive identity (zero).", "statement": "lemma (in complex0) ax0id: assumes \"a \\<in> \\<complex>\"\n  shows \"a \\<ca> \\<zero> = a\"\n  "}

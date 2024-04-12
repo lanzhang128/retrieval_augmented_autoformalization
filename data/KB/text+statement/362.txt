@@ -1,0 +1,1 @@
+{"text": "text\\<open>Move is a surjection \\<open>big\\<close> to \\<open>newbig\\<close>.\\<close>\n", "statement": "lemma (in generalization1) move_surj: shows \"move\\<in>surj(big, newbig)\" \n  "}

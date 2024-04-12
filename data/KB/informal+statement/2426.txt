@@ -1,0 +1,1 @@
+{"informal": " If function f from X to Y satisfies that for all x in X, f(x) is equal to x, then f is the identity function on X.", "statement": "lemma indentity_fun: assumes A1: \"f:X\\<rightarrow>Y\" and A2:\"\\<forall>x\\<in>X. f`(x)=x\"\n  shows \"f = id(X)\"\n"}

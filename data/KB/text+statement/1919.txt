@@ -1,0 +1,1 @@
+{"text": "text\\<open>Finally, we define the product topology on sequences. We use the ''Seq'' \nprefix although the definition is good for any index sets, not only natural numbers.\\<close>\n", "statement": "definition\n  \"SeqProductTopology(I,T) \\<equiv> {\\<Union>B. B \\<in> Pow(ProductTopBase(I,T))}\"\n"}

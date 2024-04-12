@@ -1,0 +1,1 @@
+{"text": "text\\<open>$0$ is the neutral element of complex addition.\\<close>\n", "statement": "lemma (in complex0) ax0id: assumes \"a \\<in> \\<complex>\"\n  shows \"a \\<ca> \\<zero> = a\"\n  "}

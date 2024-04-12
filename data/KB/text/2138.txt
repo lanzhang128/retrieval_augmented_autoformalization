@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a subset is compact of some cardinal for a topological space, it is compact of the same cardinal\nin the subspace topology.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Next we define what it means that a set is closed with \n  respect to an operation.\\<close>\n"}

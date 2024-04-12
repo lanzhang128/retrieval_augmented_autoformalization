@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma lists some properties of a ring that require one element\n  of a ring.\\<close>\n"}

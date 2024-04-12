@@ -1,0 +1,1 @@
+{"text": "text\\<open>For natural numbers if $k\\subseteq n$ the similar holds for \n  their successors.\\<close>\n"}

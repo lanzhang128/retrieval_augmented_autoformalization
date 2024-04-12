@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma is needed in the \\<open>Group_ZF_3\\<close> theory in a \n  couple of places.\\<close>\n"}

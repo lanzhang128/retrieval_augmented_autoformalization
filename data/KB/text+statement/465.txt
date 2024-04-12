@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can express the definition of an odd function in two ways.\\<close>\n", "statement": "lemma (in group0) group0_6_L2:\n  assumes A1: \"p : G\\<rightarrow>G\" \n  shows \n  \"(\\<forall>a\\<in>G. p`(a\\<inverse>) = (p`(a))\\<inverse>) \\<longleftrightarrow> (\\<forall>a\\<in>G. (p`(a\\<inverse>))\\<inverse> = p`(a))\"\n"}

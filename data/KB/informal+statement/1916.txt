@@ -1,0 +1,1 @@
+{"informal": " In a two-topological space (as defined in the hypothesis two_top_spaces0), the constant function mapping all elements to zero is continuous.", "statement": "corollary (in two_top_spaces0) zero_continuous: shows \"0 {is continuous}\"\n"}

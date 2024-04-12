@@ -1,0 +1,1 @@
+{"informal": " If A is a finite subset of X, then removing an element from A results in a still finite subset of X.", "statement": "corollary fin_rem_point_fin: assumes \"A \\<in> FinPow(X)\"\n  shows \"A - {a} \\<in> FinPow(X)\"\n  "}

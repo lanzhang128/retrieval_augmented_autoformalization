@@ -1,0 +1,1 @@
+{"text": "text\\<open>An integer is either positive, zero, or its opposite is postitive.\\<close>\n", "statement": "lemma (in int0) Int_decomp: assumes \"m\\<in>\\<int>\"\n  shows \"Exactly_1_of_3_holds (m=\\<zero>,m\\<in>\\<int>\\<^sub>+,(\\<rm>m)\\<in>\\<int>\\<^sub>+)\"\n  "}

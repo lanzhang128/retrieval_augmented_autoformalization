@@ -1,0 +1,1 @@
+{"text": "text\\<open>The closed sets are those which contain the set \\<open>(X \\<inter> T)\\<close> and \\<open>0\\<close>.\\<close>\n", "statement": "lemma closed_sets_excludedset:\n  shows \"D {is closed in}ExcludedSet(X,T) \\<longleftrightarrow> (D\\<in>Pow(X) \\<and> (X \\<inter> T) \\<subseteq> D) \\<or> D=0\"\n"}

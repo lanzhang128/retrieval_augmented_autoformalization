@@ -1,0 +1,1 @@
+{"text": "text\\<open>Support of a function is the subset of its domain where the values \n  are not zero.\\<close>\n"}

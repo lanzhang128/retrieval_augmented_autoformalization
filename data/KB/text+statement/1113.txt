@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma explains the notation of the definition of an interval.\\<close>\n", "statement": "lemma Order_ZF_2_L1: \n  shows \"x \\<in> Interval(r,a,b) \\<longleftrightarrow> \\<langle> a,x\\<rangle> \\<in> r \\<and> \\<langle> x,b\\<rangle> \\<in> r\"\n  "}

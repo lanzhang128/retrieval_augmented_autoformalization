@@ -1,0 +1,1 @@
+{"text": "text\\<open>Finite powerset is the union of sets of cardinality\n  bounded by natural numbers.\\<close>\n"}

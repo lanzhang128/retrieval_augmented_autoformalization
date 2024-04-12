@@ -1,0 +1,1 @@
+{"informal": " Assuming P belongs to the cover X, then P is a star neighborhood of some x in X.", "statement": "lemma singl_star_bary: \n  assumes \"P \\<in> Covers(X)\" shows \"P <\\<^sup>B {Star({x},P). x\\<in>X}\"\n  "}

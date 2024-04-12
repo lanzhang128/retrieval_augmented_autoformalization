@@ -1,0 +1,1 @@
+{"text": "text\\<open>A bijection from a topological space induces a topology on the range.\\<close>\n"}

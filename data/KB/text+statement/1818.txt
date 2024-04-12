@@ -1,0 +1,1 @@
+{"text": "text\\<open>Boundary of a set is closed.\\<close>\n", "statement": "lemma (in topology0) boundary_closed: \n  assumes A1: \"A \\<subseteq> \\<Union>T\" shows \"\\<partial>A {is closed in} T\"\n"}

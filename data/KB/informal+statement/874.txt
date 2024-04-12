@@ -1,0 +1,1 @@
+{"informal": " Assuming i is less than m and i is not equal to m, i is strictly smaller than m.", "statement": "lemma (in int0) Int_ZF_2_L9: assumes A1: \"i \\<lsq> m\" and A2: \"i\\<noteq>m\"\n  shows \"i $< m\"\n"}

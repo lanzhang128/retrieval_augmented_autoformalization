@@ -1,0 +1,1 @@
+{"text": "text\\<open>We start with the property that a product of \n  nonnegative integers is nonnegative. The proof is by induction and the next\n  lemma is the induction step.\\<close>\n"}

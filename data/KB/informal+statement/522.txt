@@ -1,0 +1,1 @@
+{"informal": " In the group1 theory, if F is the lifting of relation P to the function space over group G, then the image of the relation A under F is a closed relation.", "statement": "lemma (in group1) Group_ZF_3_2_L3:\n  assumes \"F = P {lifted to function space over} G\"\n  shows \"AH {is closed under} F\"\n  "}

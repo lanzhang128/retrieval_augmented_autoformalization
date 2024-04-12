@@ -1,0 +1,1 @@
+{"text": "text\\<open>Even weirder than \\<open>empty_ord_iso\\<close>\n  The order automorphism of the empty set is unique.\\<close>\n", "statement": "lemma empty_ord_iso_uniq: \n  assumes \"f \\<in> ord_iso(0,r,0,R)\"  \"g \\<in> ord_iso(0,r,0,R)\"\n  shows \"f = g\"\n"}

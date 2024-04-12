@@ -1,0 +1,1 @@
+{"informal": " The set of excluded points of a subset X with respect to a binary relation T in the subset Y is equal to the set of excluded points of the intersection of Y and X with respect to T.", "statement": "lemma subspace_excludedset:\n  shows \"ExcludedSet(X,T) {restricted to} Y = ExcludedSet(Y \\<inter> X, T)\"\n"}

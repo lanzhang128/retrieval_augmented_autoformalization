@@ -1,0 +1,1 @@
+{"text": "text\\<open>What is product over a singleton?\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " If function f maps an element x to an element y in its domain X, then x belongs to X.", "statement": "lemma arg_in_domain: assumes \"f:X\\<rightarrow>Y\" \"y\\<in>f`(x)\" shows \"x\\<in>X\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Integers with addition and integers with multiplication\n  form monoids.\\<close>\n", "statement": "theorem (in int0) Int_ZF_1_T1: shows\n  \"IsAmonoid(\\<int>,IntegerAddition)\"\n  \"IsAmonoid(\\<int>,IntegerMultiplication)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image of a subset of $X$ under projection is a subset\n  of $A/r$.\\<close>\n", "informal": " If A is a subset of X, then the equivalence class of x with respect to relation r is a subset of X.", "statement": "lemma EquivClass_1_L1A: \n  assumes \"A\\<subseteq>X\" shows \"{r``{x}. x\\<in>A} \\<subseteq> X//r\"\n  "}

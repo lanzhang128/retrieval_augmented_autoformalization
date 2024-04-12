@@ -1,0 +1,1 @@
+{"text": "text\\<open>The singleton containing the empty set is a natural number.\\<close>\n", "informal": " \"We have {0 is a natural number} if and only if {0 equals one}, and this holds since {0 equals the successor of zero}.\"", "statement": "lemma one_is_nat: shows \"{0} \\<in> nat\" \"{0} = succ(0)\" \"{0} = 1\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A composition of functions is a function. This is a slight\n  generalization of standard Isabelle's \\<open>comp_fun\\<close>\n\\<close>\n"}

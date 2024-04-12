@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma about extending a surjection by one point.\\<close>\n", "statement": "lemma surj_extend_point: \n  assumes A1: \"f \\<in> surj(X,Y)\" and A2: \"a\\<notin>X\" and\n  A3: \"g = f \\<union> {\\<langle>a,b\\<rangle>}\"\n  shows \"g \\<in> surj(X\\<union>{a},Y\\<union>{b})\"\n"}

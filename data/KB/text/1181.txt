@@ -1,0 +1,1 @@
+{"text": "text\\<open>We define a strict version of a relation by removing the $y=x$ line \n  from the relation.\\<close>\n"}

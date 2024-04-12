@@ -1,0 +1,1 @@
+{"text": "text\\<open>Any non-empty word can be reduced to the empty\nstring, but it does not always end in a final state.\\<close>\n", "statement": "lemma (in DetFinStateAuto) endpoint_exists:\n  assumes \"w\\<in>NELists(\\<Sigma>)\"\n  shows \"\\<exists>q \\<in> S. \\<langle>\\<langle>w,s\\<^sub>0\\<rangle>,\\<langle>0,q\\<rangle>\\<rangle> \\<in> r\\<^sub>D^*\"\n"}

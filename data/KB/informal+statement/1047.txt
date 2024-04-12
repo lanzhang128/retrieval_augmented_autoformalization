@@ -1,0 +1,1 @@
+{"informal": " The lemma \"empty\\_in\\_non\\_empty\" assumes that n is a natural number and n is not equal to zero. It then proves that zero is an element of n.\n\nIn natural language:\n\nAssuming n is a natural number and n is not zero, zero is an element of n.", "statement": "lemma empty_in_non_empty: assumes \"n\\<in>nat\" \"n\\<noteq>0\"\n  shows \"0\\<in>n\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Standard Isabelle uses a notion of \\<open>cons(A,a)\\<close> that can be thought \n  of as $A\\cup \\{a\\}$.\\<close>\n", "statement": "lemma consdef: shows \"cons(a,A) = A \\<union> {a}\"\n  "}

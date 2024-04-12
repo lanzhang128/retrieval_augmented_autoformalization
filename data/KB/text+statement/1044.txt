@@ -1,0 +1,1 @@
+{"text": "text\\<open>The singleton containing the empty set is a natural number.\\<close>\n", "statement": "lemma one_is_nat: shows \"{0} \\<in> nat\" \"{0} = succ(0)\" \"{0} = 1\"\n"}

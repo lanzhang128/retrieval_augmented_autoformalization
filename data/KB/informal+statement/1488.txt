@@ -1,0 +1,1 @@
+{"informal": " Assuming functions f and g are members of a set S, their composition is equal to the composition of g and f.", "statement": "lemma (in real1) Real_ZF_1_1_L2: assumes A1: \"f \\<in> \\<S>\"  \"g \\<in> \\<S>\"\n  shows \"[f\\<circ>g] = [g\\<circ>f]\"\n"}

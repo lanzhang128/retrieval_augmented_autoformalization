@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the base of a topology is contained in the base of another\ntopology, then the topologies maintain the same relation.\\<close>\n"}

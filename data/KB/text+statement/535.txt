@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group inverse in the group of almost homomorphisms acts in a \n  natural way on its operand.\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_2_L14:\n  assumes \"s\\<in>AH\" and \"n\\<in>G\"\n  shows \"(GroupInv(AH,Op1)`(s))`(n) = (s`(n))\\<inverse>\"\n  "}

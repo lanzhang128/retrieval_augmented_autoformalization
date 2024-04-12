@@ -1,0 +1,1 @@
+{"text": "text\\<open>In a (nonempty) join semi-lattice the relation up-directs the set. \\<close>\n"}

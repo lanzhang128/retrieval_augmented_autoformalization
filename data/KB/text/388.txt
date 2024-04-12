@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group operation maps $G\\times G$ into $G$. It is conveniet to have\n  this fact easily accessible in the \\<open>group0\\<close> context.\\<close>\n"}

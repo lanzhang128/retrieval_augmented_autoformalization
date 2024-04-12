@@ -1,0 +1,1 @@
+{"text": "text\\<open>The closed sets are those which contain the set \\<open>(X \\<inter> T)\\<close> and \\<open>0\\<close>.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>\\<open>R\\<^sub>+\\<close> is closed under\n  multiplication iff the ring has no zero divisors.\\<close>\n"}

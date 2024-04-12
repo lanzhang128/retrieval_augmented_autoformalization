@@ -1,0 +1,1 @@
+{"text": "text\\<open>Elements that have the same image under an equivalence relation are equivalent.\n  This is the same as \\<open>eq_equiv_class\\<close> from standard Isabelle/ZF's \\<open>EquivClass\\<close> theory, \n  just copied here to be easier to find.\\<close>\n"}

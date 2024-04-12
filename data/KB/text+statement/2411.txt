@@ -1,0 +1,1 @@
+{"text": "text\\<open>The lift of an associative function is associative \n  on the function space.\\<close>\n", "statement": "lemma func_ZF_2_L4:\n  assumes A1: \"f {is associative on} G\"\n  and A2: \"F = f {lifted to function space over} X\"\n  shows \"F {is associative on} (X\\<rightarrow>range(f))\"\n"}

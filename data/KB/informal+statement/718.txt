@@ -1,0 +1,1 @@
+{"informal": " If a is less than b and b is an integer between a and c, then the absolute difference between b and a is less than or equal to c.", "statement": "lemma (in int0) Int_ZF_1_3_L23: \n  assumes A1: \"a\\<lsq>b\" and A2: \"c\\<in>\\<int>\" and A3: \"b\\<lsq> a\\<ra>c\"\n  shows \"abs(b\\<rs>a) \\<lsq> c\"\n"}

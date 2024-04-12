@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a\\cdot b$ is nonnegative and $b$ is positive, then $a$ is \n  nonnegative. Proof by contradiction.\\<close>\n"}

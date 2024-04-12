@@ -1,0 +1,1 @@
+{"text": "text\\<open>We start with a property that has already appeared in\n@{file \"Topology_ZF_1b.thy\"}. A KC-space is a space where\ncompact sets are closed.\\<close>\n"}

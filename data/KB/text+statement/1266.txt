@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we increase the middle term in a product, the whole product \n  increases.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L10: \n  assumes \"a\\<in>G\"  \"b\\<in>G\" and \"c\\<lsq>d\"\n  shows \"a\\<cdot>c\\<cdot>b \\<lsq> a\\<cdot>d\\<cdot>b\"\n  "}

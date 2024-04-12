@@ -1,0 +1,1 @@
+{"text": "text\\<open>Finite set has a minimum - induction step.\\<close>\n", "statement": "lemma Finite_ZF_1_1_L2: \n  assumes A1: \"r {is total on} X\" and A2: \"trans(r)\"\n  and A3: \"A\\<in>Fin(X)\" and A4: \"x\\<in>X\" and A5: \"A=0 \\<or> HasAminimum(r,A)\"\n  shows \"A\\<union>{x} = 0 \\<or> HasAminimum(r,A\\<union>{x})\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " In the ring0 context, define the predicate \"V\" as a closure operation: if a set S is a subset of another set R, then the value of V on S is the set of all prime ideals containing S.", "statement": "definition (in ring0) closeBasic (\"V\") where\n\"S \\<subseteq> R \\<Longrightarrow> V(S) = {K\\<in>Spec. S\\<subseteq>K}\"\n"}

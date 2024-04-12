@@ -1,0 +1,1 @@
+{"text": "text\\<open>Rearrangements with two elements and cancelling.\\<close>\n", "statement": "lemma (in ring0) Ring_ZF_2_L1A: assumes \"a\\<in>R\" \"b\\<in>R\" \n  shows\n  \"a\\<rs>b\\<ra>b = a\"\n  \"a\\<ra>b\\<rs>a = b\"\n  \"(\\<rm>a)\\<ra>b\\<ra>a = b\"\n  \"(\\<rm>a)\\<ra>(b\\<ra>a) = b\"\n  \"a\\<ra>(b\\<rs>a) = b\"\n  "}

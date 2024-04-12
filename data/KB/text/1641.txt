@@ -1,0 +1,1 @@
+{"text": "text\\<open>The ring is trivial iff $0=1$.\\<close>\n"}

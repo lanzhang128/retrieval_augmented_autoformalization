@@ -1,0 +1,1 @@
+{"text": "text\\<open>The topology is defined in the set $X$.\\<close>\n", "statement": "lemma union_includedset:\n  assumes \"T\\<subseteq>X \"\n  shows \"\\<Union>IncludedSet(X,T) = X\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " If M is an element of FinPow (the finite power set of X), then the union of M is an element of FinPow(X).", "statement": "lemma fin_union_finpow: assumes \"M \\<in> FinPow(FinPow(X))\"\n  shows \"\\<Union>M \\<in> FinPow(X)\"\n  "}

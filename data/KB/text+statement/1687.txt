@@ -1,0 +1,1 @@
+{"text": "text\\<open>V-sets and D-sets are complementary\\<close>\n", "statement": "lemma (in ring0) V_is_closed:\n  assumes \"J\\<in>\\<I>\"\n  shows \"Spec-V(J) = D(J)\" and \"V(J){is closed in}{D(J). J\\<in>\\<I>}\"\n  unfolding IsClosed_def\n"}

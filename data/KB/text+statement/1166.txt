@@ -1,0 +1,1 @@
+{"text": "text\\<open>Elements of the set of lower bounds are indeed lower bounds.\n  Isabelle also thinks it is obvious.\\<close>\n", "statement": "lemma Order_ZF_5_L2: assumes \"l \\<in> (\\<Inter>a\\<in>A. r-``{a})\" and \"a\\<in>A\"\n  shows \"\\<langle>l,a\\<rangle> \\<in> r\"\n  "}

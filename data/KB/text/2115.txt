@@ -1,0 +1,1 @@
+{"text": "text\\<open>The union of two topologies is not a topology. A way to \novercome this fact is to define the following topology:\\<close>\n"}

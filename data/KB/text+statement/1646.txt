@@ -1,0 +1,1 @@
+{"text": "text\\<open>Rearrangement with three elements\\<close>\n", "statement": "lemma (in ring0) Ring_ZF_2_L4: \n  assumes \"M {is commutative on} R\"\n  and \"a\\<in>R\"  \"b\\<in>R\"  \"c\\<in>R\"\n  shows \"a\\<cdot>(b\\<cdot>c) = a\\<cdot>c\\<cdot>b\" and \"a\\<cdot>b\\<cdot>c = a\\<cdot>c\\<cdot>b\"\n  "}

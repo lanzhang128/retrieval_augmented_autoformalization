@@ -1,0 +1,1 @@
+{"text": "text\\<open> Meet is a binary operation whose value on a pair $\\langle x,y\\rangle$\n  is defined as the infimum of the set $\\{ x,y\\}$.\\<close>\n"}

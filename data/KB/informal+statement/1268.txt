@@ -1,0 +1,1 @@
+{"informal": " Assuming one is an element of both a and b in a group, then a * b is also an element of the group. (Here, * represents group multiplication.)", "statement": "lemma (in group3) OrderedGroup_ZF_1_L12:\n  assumes A1: \"\\<one> \\<lsq> a\"  \"\\<one> \\<lsq> b\"\n  shows \"\\<one> \\<lsq> a\\<cdot>b\"\n"}

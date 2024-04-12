@@ -1,0 +1,1 @@
+{"text": "text\\<open>A negative element cannot be a square.\\<close>\n", "statement": "lemma (in ring1) OrdRing_ZF_1_L12: \n  assumes A1: \"a\\<lsq>\\<zero>\"  \"a\\<noteq>\\<zero>\"\n  shows \"\\<not>(\\<exists>b\\<in>R. a = (b\\<^sup>2))\"\n"}

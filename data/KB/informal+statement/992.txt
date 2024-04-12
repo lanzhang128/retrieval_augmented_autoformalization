@@ -1,0 +1,1 @@
+{"informal": " A disk with center (d, c), radius r, and record R exists if and only if the point (d, c) and all points in X are within a strict version (no on the boundary) of radius r from the center.", "statement": "definition \"Disk(X,d,r,c,R) \\<equiv> {x\\<in>X. \\<langle>d`\\<langle>c,x\\<rangle>,R\\<rangle> \\<in> StrictVersion(r)}\"\n"}

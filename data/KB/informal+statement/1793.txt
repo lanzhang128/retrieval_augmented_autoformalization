@@ -1,0 +1,1 @@
+{"informal": " A subset D of a collection T is a closed cover of a set A if and only if D is a closed subset of T and A is a subset of D.", "statement": "definition\n  \"ClosedCovers(A,T) \\<equiv> {D \\<in> Pow(\\<Union>T). D {is closed in} T \\<and> A\\<subseteq>D}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open> $|a^{-1}|\\leq |a|$.\\<close>\n"}

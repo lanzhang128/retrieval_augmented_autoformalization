@@ -1,0 +1,1 @@
+{"informal": " Given that X is a set and x is an element of X such that phi(x) and psi(x) hold, there exists an element x in X satisfying both phi(x) and psi(x).", "statement": "lemma witness_exists1: assumes \"x\\<in>X\" \"\\<phi>(x)\" \"\\<psi>(x)\"\n  shows \"\\<exists>x\\<in>X. \\<phi>(x) \\<and> \\<psi>(x)\"\n  "}

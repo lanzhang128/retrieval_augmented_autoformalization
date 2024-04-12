@@ -1,0 +1,1 @@
+{"text": "text\\<open>A densely ordered set with more than one point gives an order topology.\nApplying the previous construction to this topology we get a non locally-Hausdorff space.\\<close>\n"}

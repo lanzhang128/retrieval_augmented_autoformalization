@@ -1,0 +1,1 @@
+{"informal": " In Isabelle/ZF, the lemma \"discrete_tot_dis\" asserts that the power set of a set X is totally-disconnected. In natural language, this can be expressed as:\n\n\"The power set of X is a totally disconnected space.\"", "statement": "lemma discrete_tot_dis:\n  shows \"Pow(X) {is totally-disconnected}\"\n"}

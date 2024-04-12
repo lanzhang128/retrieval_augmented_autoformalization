@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the inverse of $a$ is in \\<open>G\\<^sub>+\\<close>, then $a$ is in the inverse\n  of \\<open>G\\<^sub>+\\<close>.\\<close>\n"}

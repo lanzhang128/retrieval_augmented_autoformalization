@@ -1,0 +1,1 @@
+{"informal": " The set of pairs (b, a') where b is in A and a' is the quotient of some r-equivalent b' in A, is a surjection from A to the quotient set A/r.", "statement": "lemma quotient_proj_surj:\n  shows \"{\\<langle>b,r``{b}\\<rangle>. b\\<in>A}\\<in>surj(A,A//r)\"\n"}

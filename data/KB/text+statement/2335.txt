@@ -1,0 +1,1 @@
+{"text": "text\\<open>A single pair is a function on a singleton. This is\n  similar to \\<open>singleton_fun\\<close> from standard Isabelle/ZF.\\<close>\n", "statement": "lemma pair_func_singleton: assumes A1: \"y \\<in> Y\"\n  shows \"{\\<langle>x,y\\<rangle>} : {x} \\<rightarrow> Y\"\n"}

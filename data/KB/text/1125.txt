@@ -1,0 +1,1 @@
+{"text": "text\\<open>For total and transitive relations if a set $A$ is bounded above then \n  $A\\cup \\{a\\}$ is bounded above.\\<close>\n"}

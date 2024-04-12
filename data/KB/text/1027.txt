@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can pull the first component of a sum of a nonempty list of monoid elements\n  before the summation sign. \\<close>  \n"}

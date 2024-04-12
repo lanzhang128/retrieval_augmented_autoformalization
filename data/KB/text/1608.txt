@@ -1,0 +1,1 @@
+{"text": "text\\<open>In rings we have \n  $\\sum_{k=0}^{n-1}q(k) + p(k) = (\\sum_{k=0}^{n-1} p(k)) + (\\sum_{k=0}^{n-1} q(k))$. \n  This is the same as theorem \\<open>sum_comm_distrib\\<close> in \\<open>Monoid_ZF_1.thy\\<close>, except that\n  we do not need the assumption about commutativity of the operation as addition in rings\n  is always commutative. \\<close>\n"}

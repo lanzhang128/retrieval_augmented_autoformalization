@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $c$ is not an element of $A$  then the inverse image of $A$ by the constant \n  function $x\\mapsto c$ is empty. \\<close>\n"}

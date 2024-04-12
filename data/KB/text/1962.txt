@@ -1,0 +1,1 @@
+{"text": "text\\<open> A neighborhood system on $X$ consists of collections of subsets of $X$. \\<close>\n"}

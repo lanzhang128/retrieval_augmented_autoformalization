@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set has a maximum, then the maximum is the supremum. This lemma is obsolete, use\n  \\<open>max_is_sup\\<close> instead.\\<close>\n"}

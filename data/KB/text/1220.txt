@@ -1,0 +1,1 @@
+{"text": "text\\<open>For total order if $g$ is not in $G^{+}$, then it has to be \n  less or equal the unit.\\<close>\n"}

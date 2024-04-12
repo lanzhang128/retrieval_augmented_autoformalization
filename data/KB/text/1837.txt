@@ -1,0 +1,1 @@
+{"text": "text\\<open>Each open set is a union of some sets from the base.\\<close>\n"}

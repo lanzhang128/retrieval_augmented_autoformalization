@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of positive elements is closed under ring addition. \n  This is a property of ordered groups, we just reference a theorem\n  from \\<open>OrderedGroup_ZF\\<close> theory in the proof.\\<close>\n"}

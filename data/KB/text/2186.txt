@@ -1,0 +1,1 @@
+{"text": "text\\<open>A topological space where every dense subset is open\nis called submaximal.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $k$ is in the successor of $n$, then the predecessor of $k$ is in $n$.\\<close>\n"}

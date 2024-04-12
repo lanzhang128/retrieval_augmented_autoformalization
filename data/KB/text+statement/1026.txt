@@ -1,0 +1,1 @@
+{"text": "text\\<open>For nonempty lists our $\\Sigma$ is the same as \\<open>Fold1\\<close>. \\<close>\n", "statement": "lemma (in monoid1) sum_nonempty:  assumes \"n \\<in> nat\" \"s:succ(n)\\<rightarrow>G\"\n  shows \n    \"(\\<Sum>s) = Fold(f,s`(0),Tail(s))\"\n    \"(\\<Sum>s) = Fold1(f,s)\"\n"}

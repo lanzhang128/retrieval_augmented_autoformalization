@@ -1,0 +1,1 @@
+{"informal": " In the set theoretical structure \"topgroup\" of Isabelle/ZF, if H is a subgroup of a set with respect to a binary operation f, then the closure of H, denoted by cl(H), is also a subgroup with respect to f.", "statement": "theorem (in topgroup) closure_subgroup:\n  assumes \"IsAsubgroup(H,f)\"\n  shows \"IsAsubgroup(cl(H),f)\"\n"}

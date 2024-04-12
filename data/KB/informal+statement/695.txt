@@ -1,0 +1,1 @@
+{"informal": " Assuming `a` and `b` are natural numbers, `a < lsq b` is equivalent to `a < rs b` and `a < zero`.", "statement": "lemma (in int0) Int_ZF_1_3_L10:\n  assumes \"a\\<in>\\<int>\"  \"b\\<in>\\<int>\"\n  shows \"a\\<lsq>b \\<longleftrightarrow> a\\<rs>b \\<lsq> \\<zero>\"\n  "}

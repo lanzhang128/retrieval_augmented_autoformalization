@@ -1,0 +1,1 @@
+{"informal": " If T has second type cardinality and property Q holds for T, then T has first type cardinality and property Q still holds.", "statement": "theorem second_imp_first:\n  assumes \"T{is of second type of cardinal}Q\"\n  shows \"T{is of first type of cardinal}Q\"\n"}

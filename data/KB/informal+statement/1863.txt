@@ -1,0 +1,1 @@
+{"informal": " If T and S are T2 topologies (i.e., Hausdorff spaces), then their product topology is also T2.", "statement": "theorem T2_product:\n  assumes \"T{is a topology}\"\"S{is a topology}\"\"T{is T\\<^sub>2}\"\"S{is T\\<^sub>2}\"\n  shows \"ProductTopology(T,S){is T\\<^sub>2}\"\n"}

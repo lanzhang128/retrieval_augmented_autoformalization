@@ -1,0 +1,1 @@
+{"text": "text\\<open>We call the relation created by a relation on $Y$ and a mapping\n  $f:X\\rightarrow Y$ the \\<open>InducedRelation(f,R)\\<close>.\\<close>\n", "statement": "definition\n  \"InducedRelation(f,R) \\<equiv> \n  {p \\<in> domain(f)\\<times>domain(f). \\<langle>f`(fst(p)),f`(snd(p))\\<rangle> \\<in> R}\"\n"}

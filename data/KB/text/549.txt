@@ -1,0 +1,1 @@
+{"text": "text\\<open>What is the homomorphism difference of a composition (another form)?\n  Here we split the homomorphism difference of a composition \n  into a product of three factors.\n  This will help us in proving that the range of homomorphism difference\n  for the composition is finite, as each factor has finite range.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " In the ring0 context, if an element a is in the ring R, then a raised to the power of 2 is equal to a squared (a^2).", "statement": "lemma (in ring0) Ring_ZF_1_L14:\n  assumes \"a\\<in>R\" shows \"(\\<rm>a)\\<^sup>2 = ((a)\\<^sup>2)\"\n  "}

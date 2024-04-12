@@ -1,0 +1,1 @@
+{"text": "text\\<open>The order in an ordered group is antisymmetric.\\<close>\n", "statement": "lemma (in group3) group_order_antisym:\n  assumes A1: \"a\\<lsq>b\"  \"b\\<lsq>a\" shows \"a=b\"\n"}

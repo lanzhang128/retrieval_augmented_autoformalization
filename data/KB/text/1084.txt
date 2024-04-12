@@ -1,0 +1,1 @@
+{"text": "text\\<open>We define the notion of a \\<open>downward directed set\\<close> analogously.\\<close>\n"}

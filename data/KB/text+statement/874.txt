@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a pair $(i,m)$ belongs to the order relation on integers and\n  $i\\neq m$, then $i<m$ in the sense of defined in the standard Isabelle's \n  Int.thy.\\<close>\n", "statement": "lemma (in int0) Int_ZF_2_L9: assumes A1: \"i \\<lsq> m\" and A2: \"i\\<noteq>m\"\n  shows \"i $< m\"\n"}

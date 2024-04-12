@@ -1,0 +1,1 @@
+{"text": "text\\<open>The essential condition to show that distributivity is preserved by \n  projections to quotient spaces, provided both operations are congruent\n  with respect to the equivalence relation.\\<close>\n"}

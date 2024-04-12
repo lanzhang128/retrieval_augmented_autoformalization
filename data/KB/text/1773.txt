@@ -1,0 +1,1 @@
+{"text": "text\\<open> We can say even more than in \\<open>exists_sym_zerohood\\<close>:\n  every neighborhood of zero $U$ has a symmetric subset that is a neighborhood of zero and its \n  set double is contained in $U$.\\<close>\n"}

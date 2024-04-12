@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we take init of the result of append, we get back the same list.\\<close> \n"}

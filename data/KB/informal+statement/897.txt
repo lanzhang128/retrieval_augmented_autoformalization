@@ -1,0 +1,1 @@
+{"informal": " In the integers, the absolute value of the difference between two numbers is less than or equal to the sum of their absolute values.\n\nFormally, for all integers m and n, |m - n| \u2264 |m| + |n|.", "statement": "lemma (in int0) Int_triangle_ineq: \n  assumes \"m\\<in>\\<int>\"  \"n\\<in>\\<int>\"\n  shows \"abs(m\\<ra>n)\\<lsq>abs(m)\\<ra>abs(n)\"\n  "}

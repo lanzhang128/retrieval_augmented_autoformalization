@@ -1,0 +1,1 @@
+{"text": "text\\<open>The axiom of finite choice always holds.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " Given real numbers x and y, there exists an integer M such that x is less than M times y.", "statement": "lemma (in real1) Arthan_Lemma14ii: assumes A1: \"x\\<in>\\<real>\"  \"y \\<in> \\<real>\\<^sub>+\"\n  shows \"\\<exists>M\\<in>\\<int>\\<^sub>+. x \\<ls> M\\<^sup>R\\<cdot>y\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Noetherian rings have compact Zariski topology\\<close>\n", "statement": "theorem (in ring0) zariski_compact:\n  assumes \"\\<forall>I\\<in>\\<I>. (I{is finitely generated})\"\n  shows \"Spec {is compact in} {D(I). I\\<in>\\<I>}\"\n  unfolding IsCompact_def\n"}

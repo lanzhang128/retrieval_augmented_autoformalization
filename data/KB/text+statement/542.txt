@@ -1,0 +1,1 @@
+{"text": "text\\<open>The \"almost equal\" relation is symmetric.\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_3_L3A: assumes A1: \"s\\<cong>r\"\n  shows \"r\\<cong>s\"\n"}

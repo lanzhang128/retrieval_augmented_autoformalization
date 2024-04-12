@@ -1,0 +1,1 @@
+{"text": "text\\<open>A set is injective and not bijective to the successor of a cardinal\nif and only if it is injective and possibly bijective to the cardinal.\\<close>\n"}

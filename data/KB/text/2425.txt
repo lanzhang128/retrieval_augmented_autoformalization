@@ -1,0 +1,1 @@
+{"text": "text\\<open>Composition is an associative operation on $X\\rightarrow X$ (the space\n  of functions that map $X$ into itself).\\<close>\n"}

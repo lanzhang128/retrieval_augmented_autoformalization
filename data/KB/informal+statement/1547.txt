@@ -1,0 +1,1 @@
+{"informal": " Assuming a and b are real numbers with b not equal to zero, and c is also a real number, show that a * b * (1 / b) = a * c.", "statement": "lemma (in real1) Real_ZF_1_3_L8: assumes\"a\\<in>\\<real>\"  \"b\\<in>\\<real>\" \"b\\<noteq>\\<zero>\"  \"c\\<in>\\<real>\"\n  shows \"a\\<cdot>b\\<cdot>(c\\<cdot>b\\<inverse>) = a\\<cdot>c\"\n  "}

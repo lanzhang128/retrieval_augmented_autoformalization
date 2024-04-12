@@ -1,0 +1,1 @@
+{"text": "text\\<open>The class of the inverse is a right inverse of the class.\\<close>\n"}

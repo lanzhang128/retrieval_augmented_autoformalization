@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can multiply the sides of an inequality with absolute value.\\<close>\n"}

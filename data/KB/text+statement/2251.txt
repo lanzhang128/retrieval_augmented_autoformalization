@@ -1,0 +1,1 @@
+{"text": "text\\<open>If all sets of a nonempty collection are the same, then its union \n  is the same.\\<close>\n", "statement": "lemma ZF1_1_L1: assumes \"C\\<noteq>0\" and \"\\<forall>y\\<in>C. b(y) = A\" \n  shows \"(\\<Union>y\\<in>C. b(y)) = A\" "}

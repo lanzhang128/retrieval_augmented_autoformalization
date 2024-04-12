@@ -1,0 +1,1 @@
+{"text": "text\\<open>What are the values of composition of three functions?\\<close>\n", "statement": "lemma func1_1_L18: assumes A1: \"f:A\\<rightarrow>B\"  \"g:B\\<rightarrow>C\"  \"h:C\\<rightarrow>D\"\n  and A2: \"x\\<in>A\"\n  shows\n  \"(h O g O f)`(x) \\<in> D\"\n  \"(h O g O f)`(x) = h`(g`(f`(x)))\"  \n"}

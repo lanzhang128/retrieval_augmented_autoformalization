@@ -1,0 +1,1 @@
+{"text": "text\\<open>The whole space is the D-set of the ring as an ideal of itself\\<close>\n", "statement": "lemma (in ring0) openBasic_total:\n  shows \"D(R) = Spec\"\n"}

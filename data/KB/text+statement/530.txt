@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the group is abelian, then almost homomorphisms form a \n  subgroup of the lifted group.\\<close>\n", "statement": "lemma Group_ZF_3_2_L10:\n  assumes A1: \"IsAgroup(G,P)\"\n  and A2: \"P {is commutative on} G\"\n  and A3: \"F = P {lifted to function space over} G\"\n  shows \"IsAsubgroup(AlmostHoms(G,P),F)\"\n"}

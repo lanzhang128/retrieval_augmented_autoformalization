@@ -1,0 +1,1 @@
+{"text": "text\\<open>Elements of the set of lower bounds are indeed lower bounds.\n  Isabelle also thinks it is obvious.\\<close>\n"}

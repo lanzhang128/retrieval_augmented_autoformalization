@@ -1,0 +1,1 @@
+{"informal": " If m is less than n, and n is less than k, then m is less than k. (In the context of integers)", "statement": "lemma (in int0) Int_order_transitive: \n  assumes A1: \"m\\<lsq>n\"  \"n\\<lsq>k\"\n  shows \"m\\<lsq>k\"\n"}

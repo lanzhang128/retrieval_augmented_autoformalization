@@ -1,0 +1,1 @@
+{"text": "text\\<open>The underlying set of the quotient topology is $Y$.\\<close>\n"}

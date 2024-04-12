@@ -1,0 +1,1 @@
+{"text": "text\\<open>The definition of the nonnegative set in the notation used in the \\<open>loop1\\<close> locale: \\<close>\n", "informal": " In the context of loop1 theory, a number x is in the set L+ if and only if x is non-negative.", "statement": "lemma (in loop1) nonneg_definition: \n  shows \"x \\<in> L\\<^sup>+ \\<longleftrightarrow> \\<zero> \\<lsq> x\" "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The existence of a real negative of a real number.\\<close>\n", "statement": "lemma (in complex0) axrnegex: assumes A1: \"a\\<in>\\<real>\"\n  shows \"\\<exists> x \\<in> \\<real>. a \\<ca> x = \\<zero>\"\n"}

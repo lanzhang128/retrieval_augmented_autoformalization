@@ -1,0 +1,1 @@
+{"text": "text\\<open>We call the relation created by a relation on $Y$ and a mapping\n  $f:X\\rightarrow Y$ the \\<open>InducedRelation(f,R)\\<close>.\\<close>\n"}

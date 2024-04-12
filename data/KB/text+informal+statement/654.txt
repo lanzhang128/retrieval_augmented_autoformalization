@@ -1,0 +1,1 @@
+{"text": "text\\<open>Negative of zero is zero.\\<close>\n", "informal": " The lemma \"int_zero_one_are_INTA\" in the theory \"int0\" of Isabelle/ZF states that the natural number zero is equal to itself.", "statement": "lemma (in int0) int_zero_one_are_intA: shows \"(\\<rm>\\<zero>) = \\<zero>\"\n  "}

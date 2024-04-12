@@ -1,0 +1,1 @@
+{"text": "text\\<open>A deterministic finite state automaton is defined\nas a finite set of states, an initial state, \na transition function from state to state based on\nthe word and a set of final states.\\<close>\n"}

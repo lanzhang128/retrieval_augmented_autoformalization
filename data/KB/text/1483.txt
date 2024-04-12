@@ -1,0 +1,1 @@
+{"text": "text\\<open>Two classes are equal iff the slopes that represent them \n  are almost equal.\\<close>\n"}

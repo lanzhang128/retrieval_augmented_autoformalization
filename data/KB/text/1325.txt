@@ -1,0 +1,1 @@
+{"text": "text\\<open>A somewhat generalized version of the above lemma.\\<close>\n"}

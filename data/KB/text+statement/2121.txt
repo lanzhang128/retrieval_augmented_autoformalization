@@ -1,0 +1,1 @@
+{"text": "text\\<open>However, if the topology has not many open sets, then the topological\nspace is indeed compact.\\<close>\n", "statement": "theorem card_top_comp:\n  assumes \"Card(Q)\" \"T\\<prec>Q\" \"K\\<subseteq>\\<Union>T\"\n  shows \"(K){is compact of cardinal}Q{in}T\"\n"}

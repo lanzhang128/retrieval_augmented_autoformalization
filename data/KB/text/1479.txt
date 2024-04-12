@@ -1,0 +1,1 @@
+{"text": "text\\<open>Zero is the class of any finite range function.\\<close>\n"}

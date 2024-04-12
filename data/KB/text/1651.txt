@@ -1,0 +1,1 @@
+{"text": "text\\<open>The sides of the distributive law equations for almost homomorphisms \n  are almost equal.\\<close>\n"}

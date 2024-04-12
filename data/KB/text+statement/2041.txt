@@ -1,0 +1,1 @@
+{"text": "text\\<open>Now we define what a quotient topology from an equivalence relation is:\\<close>\n", "statement": "definition (in topology0)\n  EquivQuo (\"{quotient by} _\" 70)\n  where \"equiv(\\<Union>T,r)\\<Longrightarrow>({quotient by} r) \\<equiv> {quotient topology in} (\\<Union>T)//r {by} {\\<langle>b,r``{b}\\<rangle>. b\\<in>\\<Union>T}\"\n"}

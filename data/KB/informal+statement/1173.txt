@@ -1,0 +1,1 @@
+{"informal": " Assuming a relation `r` is antisymmetric, `A` is non-empty and possesses a maximum, it holds that `A` has a supremum and the maximum equals the supremum.", "statement": "lemma max_is_sup: assumes \"antisym(r)\" \"A\\<noteq>0\" \"HasAmaximum(r,A)\"\n  shows \"HasAsupremum(r,A)\" and \"Maximum(r,A) = Supremum(r,A)\"\n"}

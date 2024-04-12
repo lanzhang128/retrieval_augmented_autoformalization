@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can choose an element from a nonempty set.\\<close>\n", "informal": " If X is nonempty, then there exists an element x in X.", "statement": "lemma nonempty_has_element: assumes \"X\\<noteq>0\" shows \"\\<exists>x. x\\<in>X\"\n  "}

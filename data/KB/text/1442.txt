@@ -1,0 +1,1 @@
+{"text": "text\\<open>A continuation of the lemma \\<open>bisec_add_point\\<close>\n  that refines the case when the pair with removed point bisects\n  the original set.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the relation is a linear order then for any \n  element $y$ smaller than the supremum of a set we can\n  find one element of the set that is greater than $y$.\\<close>\n"}

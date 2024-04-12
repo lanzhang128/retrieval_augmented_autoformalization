@@ -1,0 +1,1 @@
+{"text": "text\\<open>HomDiff is a homomorphism on the lifted group structure.\\<close>\n"}

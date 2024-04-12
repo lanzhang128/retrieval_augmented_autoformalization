@@ -1,0 +1,1 @@
+{"informal": " Given a linearly ordered set (X, r) that is non-empty and connected with a complete topology, the relation r is also complete.", "statement": "theorem conn_imp_complete:\n  assumes \"IsLinOrder(X,r)\" \"\\<exists>x y. x\\<noteq>y\\<and>x\\<in>X\\<and>y\\<in>X\" \"r\\<subseteq>X\\<times>X\"\n     \"(OrdTopology X r){is connected}\"\n  shows \"r{is complete}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A function that maps a group $G$ into itself and satisfies \n  $f(g_1\\cdot g2) = f(g_1)\\cdot f(g_2)$ is an endomorphism.\\<close>\n"}

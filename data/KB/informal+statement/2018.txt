@@ -1,0 +1,1 @@
+{"informal": " If x is an element of the union of a collection T of sets in the topology, then the restriction of the closure of x to the collection is a hyperconnected set.", "statement": "lemma (in topology0)cl_point_imp_HConn:\n  assumes \"x\\<in>\\<Union>T\"\n  shows \"(T{restricted to}Closure({x},T)){is hyperconnected}\"\n"}

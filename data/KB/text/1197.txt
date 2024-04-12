@@ -1,0 +1,1 @@
+{"text": "text\\<open>In ordered rings the existence of a right inverse for all positive\n  elements implies the existence of an inverse for all non zero elements.\\<close>\n"}

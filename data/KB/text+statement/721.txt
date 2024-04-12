@@ -1,0 +1,1 @@
+{"text": "text\\<open>Nonempty set of integers that is bounded below attains its minimum.\\<close>\n", "statement": "theorem (in int0) int_bounded_below_has_min:\n  assumes A1: \"IsBoundedBelow(A,IntegerOrder)\" and A2: \"A\\<noteq>0\"\n  shows \"\n  HasAminimum(IntegerOrder,A)\"\n  \"Minimum(IntegerOrder,A) \\<in> A\"\n"}

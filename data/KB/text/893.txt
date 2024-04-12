@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we increase the second component in a sum of three\n  integers, the whole sum inceases.\\<close>\n"}

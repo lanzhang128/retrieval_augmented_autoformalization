@@ -1,0 +1,1 @@
+{"informal": " The lemma `pow_is_scattered` asserts that the power domain `Pow(A)` of a set `A` is scattered. In simpler terms, no non-empty subset of `Pow(A)` has a least or greatest element.", "statement": "lemma pow_is_scattered:\n  shows \"Pow(A){is scattered}\"\n"}

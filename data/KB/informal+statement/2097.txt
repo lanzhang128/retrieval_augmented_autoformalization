@@ -1,0 +1,1 @@
+{"informal": " If B is a base for set T and B2 is a base for set T2, and B is a subset of B2, then T is a subset of T2.", "statement": "theorem base_subset:\n  assumes \"B{is a base for}T\"\"B2{is a base for}T2\"\"B\\<subseteq>B2\"\n  shows \"T\\<subseteq>T2\"\n"}

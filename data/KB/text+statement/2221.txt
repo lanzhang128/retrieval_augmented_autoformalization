@@ -1,0 +1,1 @@
+{"text": "text\\<open> A \"star\" of $R$ with respect to $\\mathcal{R}$ is the union of all $S\\in \\mathcal{R}$ that\n  intersect $R$. \\<close>\n", "statement": "definition\n  \"Star(R,\\<R>) \\<equiv> \\<Union>{S\\<in>\\<R>. S\\<inter>R \\<noteq> 0}\"\n"}

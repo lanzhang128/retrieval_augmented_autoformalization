@@ -1,0 +1,1 @@
+{"informal": " If function `f` is surjective from set `A` to `B`, `A` is a subset of a well-ordered set `Q`, then `B` is related to `A` (i.e., `B` is below or equal to `A` in the ordering relation).", "statement": "lemma surj_fun_inv:\n  assumes \"f \\<in> surj(A,B)\" \"A\\<subseteq>Q\" \"Ord(Q)\"\n  shows \"B\\<lesssim>A\"\n"}

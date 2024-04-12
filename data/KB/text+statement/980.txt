@@ -1,0 +1,1 @@
+{"text": "text\\<open>A quite involved inequality.\\<close>\n", "statement": "lemma (in complex0) lt2mul2divt: \n  assumes A1: \"a \\<in> \\<real>\"  \"b \\<in> \\<real>\"  \"c \\<in> \\<real>\"  \"d \\<in> \\<real>\" and\n  A2: \"\\<zero> \\<ls> b\"  \"\\<zero> \\<ls> d\"\n  shows \"a\\<cdot>b \\<ls> c\\<cdot>d \\<longleftrightarrow> a\\<cdiv>d \\<ls> c\\<cdiv>b\"\n"}

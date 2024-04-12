@@ -1,0 +1,1 @@
+{"informal": " Given a mapping from the empty set to a group G, the sum of this mapping is equal to the identity element (zero) in the group.", "statement": "lemma (in monoid1) sum_empty: assumes \"s:0\\<rightarrow>G\" shows \"(\\<Sum>s) = \\<zero>\"\n  "}

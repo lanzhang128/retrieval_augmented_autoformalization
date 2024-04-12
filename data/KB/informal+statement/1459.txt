@@ -1,0 +1,1 @@
+{"informal": " In the quasigroup0 theory, if x, y, and z are elements of the group, and y multiplied with x equals the product of z and x, then y is equal to z.", "statement": "lemma (in quasigroup0) qg_cancel_right: \n  assumes \"x\\<in>G\" \"y\\<in>G\" \"z\\<in>G\" and \"y\\<cdot>x = z\\<cdot>x\"\n  shows \"y=z\"\n  "}

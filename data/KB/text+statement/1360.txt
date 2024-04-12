@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can cancel an element from both sides of an inequality on the right side. \\<close>\n", "statement": "lemma (in loop1) ineq_cancel_right: assumes \"x\\<in>L\" \"y\\<in>L\" \"z\\<in>L\" and \"x\\<ra>z \\<lsq> y\\<ra>z\" \n  shows  \"x\\<lsq>y\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Left and right translations of an open set are open.\\<close>\n", "statement": "lemma (in topgroup) open_tr_open: assumes \"g\\<in>G\" and \"V\\<in>T\"\n  shows \"g\\<ltr>V \\<in> T\" and  \"V\\<rtr>g \\<in> T\"\n  "}

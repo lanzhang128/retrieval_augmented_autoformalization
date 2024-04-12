@@ -1,0 +1,1 @@
+{"text": "text\\<open>Group inverse of a set is a subset of the group. \n  Interestingly we don't need to assume the set is a subset of the group.\\<close>\n"}

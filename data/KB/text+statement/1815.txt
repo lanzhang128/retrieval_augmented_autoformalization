@@ -1,0 +1,1 @@
+{"text": "text\\<open>The union and intersection of two closed sets are closed.\\<close>\n", "statement": "lemma (in topology0) Top_3_L5:\n  assumes A1: \"D\\<^sub>1 {is closed in} T\"   \"D\\<^sub>2 {is closed in} T\"\n  shows \n  \"(D\\<^sub>1\\<inter>D\\<^sub>2) {is closed in} T\"\n  \"(D\\<^sub>1\\<union>D\\<^sub>2) {is closed in} T\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Fixing the first variable in a two-variable continuous function results in a \ncontinuous function.\\<close>\n"}

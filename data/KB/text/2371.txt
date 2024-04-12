@@ -1,0 +1,1 @@
+{"text": "text\\<open>For surjection from $A$ to $B$ the image of \n  the domain is $B$.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The definition of the lift to subsets rewritten in a more intuitive\n  notation. We would like to write the last assertion as\n  \\<open>F`\\<langle>A,B\\<rangle> = {f`\\<langle>x,y\\<rangle>. x \\<in> A, y \\<in> B}\\<close>, but Isabelle/ZF does not allow\n  such syntax.\\<close>\n"}

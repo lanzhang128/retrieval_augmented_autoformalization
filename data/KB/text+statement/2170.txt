@@ -1,0 +1,1 @@
+{"text": "text\\<open>The cocountable topology on $\\mathbb{N}^+$ is not $T_2$.\\<close>\n", "statement": "theorem cocountable_in_csucc_nat_noT2:\n  shows \"\\<not>(CoCountable csucc(nat)){is T\\<^sub>2}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of almost homomorphisms is closed under the \n  lifted group operation.\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_2_L3:\n  assumes \"F = P {lifted to function space over} G\"\n  shows \"AH {is closed under} F\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The positive set is closed under the group operation.\\<close>\n"}

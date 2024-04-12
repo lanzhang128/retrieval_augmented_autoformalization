@@ -1,0 +1,1 @@
+{"text": "text\\<open>A sufficient condition for a set to be bounded below.\\<close>\n"}

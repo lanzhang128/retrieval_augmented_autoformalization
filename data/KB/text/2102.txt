@@ -1,0 +1,1 @@
+{"text": "text\\<open>A restriction of a partition is a partition. If the empty set appears\nit has to be removed.\\<close>\n"}

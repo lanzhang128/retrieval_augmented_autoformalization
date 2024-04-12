@@ -1,0 +1,1 @@
+{"text": "text\\<open>All elements greater or equal than an element of \\<open>G\\<^sub>+\\<close>\n  belong to \\<open>G\\<^sub>+\\<close>.\\<close>\n"}

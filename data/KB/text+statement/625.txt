@@ -1,0 +1,1 @@
+{"text": "text\\<open>The state transformation function (\\<open>StateTransfFunN\\<close> is \n  a function that transforms $X\\times n$ into itself.\\<close>\n", "statement": "lemma state_trans_fun: assumes A1: \"n \\<in> nat\" and A2: \"F: n \\<rightarrow> (X\\<rightarrow>X)\"\n  shows \"StateTransfFunN(X,F,n): X\\<times>succ(n) \\<rightarrow> X\\<times>succ(n)\"\n"}

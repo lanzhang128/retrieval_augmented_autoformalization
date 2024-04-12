@@ -1,0 +1,1 @@
+{"text": "text\\<open>Composition of almost homomorphisms is an almost homomorphism.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set $S$ has a smallest element, then the infimum of $S$ belongs\n  to it.\\<close>\n", "statement": "lemma (in complex0) lbinfmcl: assumes A1: \"S \\<subseteq> \\<real>\" and \n  A2: \"\\<exists>x\\<in>S. \\<forall>y\\<in>S. x \\<lsq> y\"\n  shows  \"Infim(S,\\<real>,\\<cltrrset>) \\<in> S\"\n"}

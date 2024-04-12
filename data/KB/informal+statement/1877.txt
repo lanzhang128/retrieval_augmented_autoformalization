@@ -1,0 +1,1 @@
+{"informal": " If T is a T2 topology and K is a compact subset of T, then K is closed in T.", "statement": "theorem (in topology0) in_t2_compact_is_cl:\n  assumes A1: \"T {is T\\<^sub>2}\" and A2: \"K {is compact in} T\"\n  shows \"K {is closed in} T\"\n"}

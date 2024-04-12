@@ -1,0 +1,1 @@
+{"text": "text\\<open>A one-side implication of the equivalence from \\<open>Real_ZF_1_L10\\<close>:\n  the class of a bounded integer map is the real zero.\\<close>\n", "statement": "lemma (in real0) Real_ZF_1_L11A: assumes \"s \\<in> BoundedIntMaps\"\n  shows \"SlopeEquivalenceRel``{s} = \\<zero>\"\n  "}

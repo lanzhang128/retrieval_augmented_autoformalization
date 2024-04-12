@@ -1,0 +1,1 @@
+{"informal": " Assume that x and y are in the domain X of function f, and that f is a function from X to Y. Then, x is an element of X and y is an element of Y.", "statement": "lemma func1_1_L5: \n  assumes A1: \"\\<langle> x,y\\<rangle> \\<in> f\" and A2: \"f:X\\<rightarrow>Y\"  \n  shows \"x\\<in>X \\<and> y\\<in>Y\" \n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a relation down-directs a set, then a larger one does as well.\\<close>\n", "statement": "lemma down_dir_mono: assumes \"r {down-directs} X\" \"r\\<subseteq>R\"\n  shows \"R {down-directs} X\" "}

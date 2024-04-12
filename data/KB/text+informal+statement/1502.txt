@@ -1,0 +1,1 @@
+{"text": "text\\<open>Zero is not one.\\<close>\n", "informal": " In the real numbers, one is not equal to zero.", "statement": "lemma (in real1) real_zero_not_one: shows \"\\<one>\\<noteq>\\<zero>\"\n"}

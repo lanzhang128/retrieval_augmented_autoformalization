@@ -1,0 +1,1 @@
+{"informal": " A set A is bounded by a real number r if and only if it is both bounded above and below by r.", "statement": "definition\n  \"IsBounded(A,r) \\<equiv> (IsBoundedAbove(A,r) \\<and> IsBoundedBelow(A,r))\"\n"}

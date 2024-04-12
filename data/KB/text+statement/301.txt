@@ -1,0 +1,1 @@
+{"text": "text\\<open>A finite subset is a finite subset of itself.\\<close>\n", "statement": "lemma fin_finpow_self: assumes \"A \\<in> FinPow(X)\" shows \"A \\<in> FinPow(A)\"\n  "}

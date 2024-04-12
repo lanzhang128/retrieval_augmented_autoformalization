@@ -1,0 +1,1 @@
+{"text": "text\\<open>Various forms of saying that for natural numbers taking the successor \n  is the same as adding one. \\<close>\n"}

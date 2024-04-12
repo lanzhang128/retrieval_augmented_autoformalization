@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image of any set is contained in the range.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a$ is not greater than $b$, then it is strictly less than\n  $b+1$.\\<close>\n", "statement": "lemma (in ring1) OrdRing_ZF_3_L11: assumes A1: \"\\<zero>\\<noteq>\\<one>\" and A2: \"a\\<lsq>b\"\n  shows \"a\\<ls> b\\<ra>\\<one>\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma has to be used as a rule in some rare cases. \\<close>\n"}

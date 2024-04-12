@@ -1,0 +1,1 @@
+{"text": "text\\<open>Intervals don't overlap with their starting point and \n  the union of an interval with its starting point is the sum of the starting\n  point and the length of the interval.\\<close>\n"}

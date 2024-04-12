@@ -1,0 +1,1 @@
+{"text": "text\\<open>Product of nonnegative integers is nonnegative.\\<close>\n", "informal": " Assuming zero less than both a and b, we have zero less than their product a * b.", "statement": "lemma (in int0) Int_ZF_1_3_L2: assumes A1: \"\\<zero>\\<lsq>a\"  \"\\<zero>\\<lsq>b\" \n  shows \"\\<zero>\\<lsq>a\\<cdot>b\"\n"}

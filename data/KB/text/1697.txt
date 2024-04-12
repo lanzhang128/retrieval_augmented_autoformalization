@@ -1,0 +1,1 @@
+{"text": "text\\<open>Lemma \\<open>concat_init_last_elem\\<close> rewritten\n  in the notation used in the \\<open>semigr0\\<close> context.\\<close>\n"}

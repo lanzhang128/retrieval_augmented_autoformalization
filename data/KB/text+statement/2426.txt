@@ -1,0 +1,1 @@
+{"text": "text\\<open>A function that maps every point to itself is the identity on its domain.\\<close>\n", "statement": "lemma indentity_fun: assumes A1: \"f:X\\<rightarrow>Y\" and A2:\"\\<forall>x\\<in>X. f`(x)=x\"\n  shows \"f = id(X)\"\n"}

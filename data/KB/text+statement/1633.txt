@@ -1,0 +1,1 @@
+{"text": "text\\<open>An interpretation of what it means that a ring has \n  no zero divisors.\\<close>\n", "statement": "lemma (in ring0) Ring_ZF_1_L12: \n  assumes \"HasNoZeroDivs(R,A,M)\"\n  and \"a\\<in>R\"  \"a\\<noteq>\\<zero>\"  \"b\\<in>R\"  \"b\\<noteq>\\<zero>\"\n  shows \"a\\<cdot>b\\<noteq>\\<zero>\" \n  "}

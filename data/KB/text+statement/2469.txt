@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the original relation is complete, then the induced\n  one is complete.\\<close>\n", "statement": "lemma ind_rel_pres_compl: assumes A1: \"f \\<in> bij(A,B)\"\n  and A2: \"R \\<subseteq> B\\<times>B\" and A3: \"R {is complete}\"\n  shows \"InducedRelation(f,R) {is complete}\"\n"}

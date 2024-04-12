@@ -1,0 +1,1 @@
+{"text": "text\\<open>For surjection from $A$ to $B$ the image of \n  the domain is $B$.\\<close>\n", "statement": "lemma surj_range_image_domain: assumes A1: \"f \\<in> surj(A,B)\"\n  shows \"f``(A) = B\"\n"}

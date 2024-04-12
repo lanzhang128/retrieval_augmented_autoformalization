@@ -1,0 +1,1 @@
+{"informal": " In the group0 theory, if set V is a subset of group G and x is an element of G, then the image of set V under the left translation by x is equal to the set of products of x and elements in V.", "statement": "lemma (in group0) ltrans_image: assumes A1: \"V\\<subseteq>G\" and A2: \"x\\<in>G\"\n  shows \"LeftTranslation(G,P,x)``(V) = {x\\<cdot>v. v\\<in>V}\"\n"}

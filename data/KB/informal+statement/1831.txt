@@ -1,0 +1,1 @@
+{"informal": " Assuming that T is identical to T1, prove that T is identical to T0.", "statement": "lemma T1_is_T0: assumes A1: \"T {is T\\<^sub>1}\" shows \"T {is T\\<^sub>0}\"\n"}

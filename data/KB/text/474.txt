@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next theorem states that a set $G$ with an associative operation \n  that satisfies condition C is a group, as defined in IsarMathLib\n  \\<open>Group_ZF\\<close> theory.\\<close>\n"}

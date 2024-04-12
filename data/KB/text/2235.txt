@@ -1,0 +1,1 @@
+{"text": "text\\<open> From the definition of uniform covers we know that if a uniform cover $P$ \n  is a star-refinement of a cover $Q$ then $Q$ is in a uniform cover. The next lemma\n  shows that in order for $Q$ to be a uniform cover it is sufficient that $P$ is a \n  barycentric refinement of $Q$. \\<close>\n"}

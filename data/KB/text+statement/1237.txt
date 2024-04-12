@@ -1,0 +1,1 @@
+{"text": "text\\<open>If two elements are greater or equal than the unit, then the inverse\n  of one is not greater than the other.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L5AC:\n  assumes A1: \"\\<one>\\<lsq>a\"  \"\\<one>\\<lsq>b\"\n  shows \"a\\<inverse> \\<lsq> b\"\n"}

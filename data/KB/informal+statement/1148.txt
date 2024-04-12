@@ -1,0 +1,1 @@
+{"informal": " If a set A has a supremum in the ordered set r, then A is non-empty.", "statement": "lemma set_sup_not_empty: assumes \"HasAsupremum(r,A)\" shows \"A\\<noteq>0\"\n"}

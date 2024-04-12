@@ -1,0 +1,1 @@
+{"text": "text\\<open>All elements greater or equal than an element of \\<open>R\\<^sub>+\\<close>\n  belong to \\<open>R\\<^sub>+\\<close>. Property of ordered groups.\\<close>\n", "statement": "lemma (in ring1) OrdRing_ZF_3_L7: assumes A1: \"a \\<in> R\\<^sub>+\" and A2: \"a\\<lsq>b\"\n  shows \"b \\<in> R\\<^sub>+\"\n"}

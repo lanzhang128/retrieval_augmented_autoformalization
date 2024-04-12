@@ -1,0 +1,1 @@
+{"informal": " Assuming \"a\" is a natural number, \"abs(a)\" equals \"a\" itself.", "statement": "lemma (in int0) Int_ZF_1_5_L4A: \n  assumes \"a\\<in>\\<int>\\<^sub>+\" shows \"abs(a) = a\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>First we define a notion similar to \\<open>Fold\\<close>, except that\n  that the initial element of the fold is given by the first element\n  of sequence. By analogy with Haskell fold we call that \\<open>Fold1\\<close>\n\\<close>\n"}

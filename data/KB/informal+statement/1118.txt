@@ -1,0 +1,1 @@
+{"informal": " If relation `r` is transitive and `(a, b)` is not in `r`, then the interval `Interval(r, a, b)` is equal to the empty set.", "statement": "lemma Order_ZF_2_L5: assumes A1: \"trans(r)\" and A2: \"\\<langle> a,b\\<rangle> \\<notin> r\"\n  shows \"Interval(r,a,b) = 0\"\n"}

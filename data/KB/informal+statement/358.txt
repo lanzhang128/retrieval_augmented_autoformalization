@@ -1,0 +1,1 @@
+{"informal": " The theorem `small2_sub_big` asserts that the set `small2` is a subset of the set `big` in Isabelle/ZF.", "statement": "theorem (in generalization) small2_sub_big: shows \"small2 \\<subseteq> big\"\n  "}

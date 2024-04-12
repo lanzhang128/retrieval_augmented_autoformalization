@@ -1,0 +1,1 @@
+{"informal": " \"Lemma Pow_is_top: X is a topology in Isabelle/ZF under the Pow operation.\"\n\nAlternatively:\n\n\"Proposition Pow_is_top: X forms a topology under the Pow operation in Isabelle/ZF.\"", "statement": "lemma Pow_is_top: shows \"Pow(X) {is a topology}\"\n"}

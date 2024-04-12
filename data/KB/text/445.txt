@@ -1,0 +1,1 @@
+{"text": "text\\<open>Translations map $G$ into $G$. Two dimensional translations map\n  $G\\times G$ into itself.\\<close>\n"}

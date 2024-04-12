@@ -1,0 +1,1 @@
+{"text": "text\\<open>\\<open>small\\<close> is a subset of \\<open>big\\<close>.\\<close>\n", "statement": "theorem (in generalization) small_less_zf_newbig: \n  shows \"small \\<subseteq> zf_newbig\"\n"}

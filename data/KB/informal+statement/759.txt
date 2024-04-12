@@ -1,0 +1,1 @@
+{"informal": " The lemma Int_ZF_2_1_L1 in the int1 theory asserts that IntegerAddition is a group for the int type in Isabelle/ZF.", "statement": "lemma (in int1) Int_ZF_2_1_L1: shows \"group1(\\<int>,IntegerAddition)\"\n  "}

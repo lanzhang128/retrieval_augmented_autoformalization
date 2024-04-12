@@ -1,0 +1,1 @@
+{"text": "text\\<open>An injection is a bijection on its range. Suggested by Victor Porton.\\<close>\n"}

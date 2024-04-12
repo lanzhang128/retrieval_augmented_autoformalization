@@ -1,0 +1,1 @@
+{"text": "text\\<open>Since all the cardinals previous to \\<open>nat\\<close>\nare finite, it cannot be a successor cardinal; hence it is \na \\<open>LimitC\\<close> cardinal.\\<close>\n"}

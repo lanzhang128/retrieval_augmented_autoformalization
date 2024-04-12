@@ -1,0 +1,1 @@
+{"informal": " Given integers m, n, and k, the triangle inequality holds: |m - n| <= |m| + |n| + |k|.", "statement": "lemma (in int0) Int_triangle_ineq3: \n  assumes A1: \"m\\<in>\\<int>\"  \"n\\<in>\\<int>\"  \"k\\<in>\\<int>\"\n  shows \"abs(m\\<ra>n\\<ra>k) \\<lsq> abs(m)\\<ra>abs(n)\\<ra>abs(k)\"\n"}

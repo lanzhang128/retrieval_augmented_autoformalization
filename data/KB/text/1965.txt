@@ -1,0 +1,1 @@
+{"text": "text\\<open>For a topology $T$ we define a neighborhood system of $T$ as a function that takes an $x\\in X=\\bigcup T$ \nand assigns it the collection of supersets of open sets containing $x$. \nWe call that the \"neighborhood system of $T$\"\\<close>\n"}

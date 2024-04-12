@@ -1,0 +1,1 @@
+{"informal": " If A is a subset of a closed set B in topology0, then the closure of A is a subset of B.", "statement": "lemma (in topology0) Top_3_L13: \n  assumes A1: \"B {is closed in} T\"   \"A\\<subseteq>B\"\n  shows \"cl(A) \\<subseteq> B\"\n"}

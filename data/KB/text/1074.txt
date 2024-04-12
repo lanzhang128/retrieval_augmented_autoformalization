@@ -1,0 +1,1 @@
+{"text": "text\\<open>The interval is determined by two parameters: starting point and length.\\<close>\n"}

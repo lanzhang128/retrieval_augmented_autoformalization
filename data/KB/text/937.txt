@@ -1,0 +1,1 @@
+{"text": "text\\<open> A partially ordered $(L,r)$ set is a join-semilattice if each two-element subset of $L$\n  has a supremum (i.e. the least upper bound). \\<close>\n"}

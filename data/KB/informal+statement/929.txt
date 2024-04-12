@@ -1,0 +1,1 @@
+{"informal": " Assuming i is less than or equal to m and i along with all the integers between i and m form a finite sequence, I will prove that the sequence i up to (m plus one) also forms a finite sequence.", "statement": "lemma (in int0) Int_ZF_4_L4: \n  assumes A1: \"i\\<lsq>m\" and A2: \"i..m \\<in> Fin(\\<int>)\"\n  shows \"i..(m $+ $#1) \\<in> Fin(\\<int>)\"\n  "}

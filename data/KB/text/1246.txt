@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can multiply the right hand side of an inequality by a nonnegative\n  element.\\<close>\n"}

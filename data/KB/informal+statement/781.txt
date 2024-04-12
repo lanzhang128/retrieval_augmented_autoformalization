@@ -1,0 +1,1 @@
+{"informal": " The lemma \"Int_ZF_2_1_L17\" in the theory \"int1\" states that the identity function applied to integers is an element of the set \"S\".", "statement": "lemma (in int1) Int_ZF_2_1_L17: shows \"id(\\<int>) \\<in> \\<S>\"\n  "}

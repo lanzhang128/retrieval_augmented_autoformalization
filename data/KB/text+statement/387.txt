@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group operation is associative. This is another technical lemma \n  that allows to shorten the list of referenced lemmas in some proofs.\\<close>\n", "statement": "lemma (in group0) group_oper_assoc: \n  assumes \"a\\<in>G\"  \"b\\<in>G\"  \"c\\<in>G\" shows \"a\\<cdot>(b\\<cdot>c) = a\\<cdot>b\\<cdot>c\"\n  "}

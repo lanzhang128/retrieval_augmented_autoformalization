@@ -1,0 +1,1 @@
+{"text": "text\\<open>The topology is defined in the set $X$\\<close>\n", "statement": "lemma union_ptopology:\n  assumes \"U {is a partition of} X\"\n  shows \"\\<Union>(PTopology X U)=X\"\n  "}

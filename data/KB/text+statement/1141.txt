@@ -1,0 +1,1 @@
+{"text": "text\\<open>If relation $R$ orders a set $A$, (in Metamath sense) then $R$ \n  is irreflexive, transitive and linear therefore is a total order on $A$ \n  (in Isabelle sense).\\<close>\n", "statement": "lemma orders_imp_tot_ord: assumes A1: \"R Orders A\"\n  shows \n  \"irrefl(A,R)\"\n  \"trans[A](R)\"\n  \"part_ord(A,R)\"\n  \"linear(A,R)\"\n  \"tot_ord(A,R)\"\n"}

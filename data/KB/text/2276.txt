@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse of the \\<open>comprehension\\<close> lemma.\\<close>\n"}

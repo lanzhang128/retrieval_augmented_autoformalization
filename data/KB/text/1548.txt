@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $m$ is an integer, then \\<open>m\\<^sup>R\\<close> is a real number.\n  Recall that in \\<open>real1\\<close> context \\<open>m\\<^sup>R\\<close> denotes the class\n  of the slope $n\\mapsto m\\cdot n$.\\<close>\n"}

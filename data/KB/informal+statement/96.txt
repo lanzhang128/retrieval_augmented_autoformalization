@@ -1,0 +1,1 @@
+{"informal": " In the enum setting, the empty enumeration has its first element equal to zero.", "statement": "lemma (in enums) empty_enum: shows \"\\<sigma>(0) = 0\"\n"}

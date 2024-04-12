@@ -1,0 +1,1 @@
+{"informal": " \"SlopeOp2 is defined as the algebraic homomorphism from int to IntegerAddition (i.e., addition of integers), denoted AlHomOp2.\"", "statement": "definition\n  \"SlopeOp2 \\<equiv> AlHomOp2(int,IntegerAddition)\"\n"}

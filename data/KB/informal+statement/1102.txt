@@ -1,0 +1,1 @@
+{"informal": " If relation r up-directs X and is a subset of relation R, then R up-directs X. (In other words, the transitivity of the up-directed relation is preserved under subset inclusion.)", "statement": "lemma up_dir_mono: assumes \"r {up-directs} X\" \"r\\<subseteq>R\"\n  shows \"R {up-directs} X\" "}

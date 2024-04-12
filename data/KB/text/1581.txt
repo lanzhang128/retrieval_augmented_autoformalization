@@ -1,0 +1,1 @@
+{"text": "text\\<open>The candidate for (a representant of) the supremum of a \n  nonempty bounded above set is a slope.\\<close>\n"}

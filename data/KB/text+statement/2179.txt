@@ -1,0 +1,1 @@
+{"text": "text\\<open>The topology we built is anti-compact.\\<close>\n", "statement": "theorem extension_pow_antiCompact:\n  shows \"(Pow(csucc(nat)) \\<union> {{csucc(nat)}\\<union>S. S\\<in>(CoCountable csucc(nat))-{0}}){is anti-compact}\"\n"}

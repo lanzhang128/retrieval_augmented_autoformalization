@@ -1,0 +1,1 @@
+{"text": "text\\<open> A technical lemma about relations: if $x$ is in its image by a relation $U$\n  and that image is contained in some set $C$, then the image of the singleton\n  $\\{ x\\}$ by the relation $U \\cup C\\times C$ equals $C$. \\<close>\n"}

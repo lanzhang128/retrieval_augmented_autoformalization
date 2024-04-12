@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another condition for continuity: it is sufficient to check if the \n  inverse image of every set in a base is open.\\<close>\n", "statement": "lemma (in two_top_spaces0) Top_ZF_2_1_L5:\n  assumes A1: \"B {is a base for} \\<tau>\\<^sub>2\" and A2: \"\\<forall>U\\<in>B. f-``(U) \\<in> \\<tau>\\<^sub>1\" \n  shows \"f {is continuous}\"\n"}

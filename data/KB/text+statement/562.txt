@@ -1,0 +1,1 @@
+{"text": "text\\<open>The homomorphism difference for the identity function is equal to\n  the neutral element of the group (denoted $e$ in the group1 context).\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_4_L14: assumes A1: \"x \\<in> G\\<times>G\"\n  shows \"\\<delta>(id(G),x) = \\<one>\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>\\<open>R\\<^sub>+\\<close> is closed under\n  multiplication iff the ring has no zero divisors.\\<close>\n", "statement": "lemma (in ring1) OrdRing_ZF_3_L3: \n  shows \"(R\\<^sub>+ {is closed under} M)\\<longleftrightarrow> HasNoZeroDivs(R,A,M)\"\n"}

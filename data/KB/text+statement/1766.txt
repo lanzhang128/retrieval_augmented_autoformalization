@@ -1,0 +1,1 @@
+{"text": "text\\<open>Any element belongs to the interior of any neighboorhood of zero\n  right translated by that element.\\<close>\n", "statement": "lemma (in topgroup) elem_in_int_rtrans:\n  assumes A1: \"g\\<in>G\" and A2: \"H \\<in> \\<N>\\<^sub>0\"\n  shows \"g \\<in> int(H\\<rtr>g)\" and \"g \\<in> int(H\\<rtr>g) \\<sad> int(H)\"\n"}

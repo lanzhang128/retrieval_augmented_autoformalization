@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of finite range functions is s subgroup of the lifted group.\\<close>\n"}

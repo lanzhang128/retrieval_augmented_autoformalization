@@ -1,0 +1,1 @@
+{"informal": " If A is a subset of X, and A has fewer elements than natural number n, then A is an element of FinPow(X) (the finite power set of X).", "statement": "lemma lepoll_nat_in_finpow: \n  assumes \"n \\<in> nat\"   \"A \\<subseteq> X\"  \"A \\<lesssim> n\"\n  shows \"A \\<in> FinPow(X)\"\n  "}

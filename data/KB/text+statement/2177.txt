@@ -1,0 +1,1 @@
+{"text": "text\\<open>This topology is Hausdorff.\\<close>\n", "statement": "theorem extension_pow_T2:\n  shows \"(Pow(csucc(nat)) \\<union> {{csucc(nat)}\\<union>S. S\\<in>(CoCountable csucc(nat))-{0}}){is T\\<^sub>2}\"\n"}

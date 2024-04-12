@@ -1,0 +1,1 @@
+{"text": "text\\<open>A nonnegative number is does not decrease when multiplied by \n  a number greater or equal $1$.\\<close>\n", "statement": "lemma (in ring1) OrdRing_ZF_1_L16: \n  assumes A1: \"\\<zero>\\<lsq>a\" and A2: \"\\<one>\\<lsq>b\"\n  shows \"a\\<lsq>a\\<cdot>b\"\n"}

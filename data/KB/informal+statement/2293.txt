@@ -1,0 +1,1 @@
+{"informal": " If function f maps from set A to set C, then the domain of f is equal to set A.", "statement": "lemma func1_1_L1: assumes \"f:A\\<rightarrow>C\" shows \"domain(f) = A\"\n  "}

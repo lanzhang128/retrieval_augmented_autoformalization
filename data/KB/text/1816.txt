@@ -1,0 +1,1 @@
+{"text": "text\\<open>Finite union of closed sets is closed. To understand the proof \n  recall that $D\\in$\\<open>Pow(\\<Union>T)\\<close> means\n  that $D$ is a subset of the carrier of the topology.\\<close> \n"}

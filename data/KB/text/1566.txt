@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $S$ is bounded above and $p$ is a positive intereger, then\n  $\\Gamma(S,p)$ is well defined.\\<close>\n"}

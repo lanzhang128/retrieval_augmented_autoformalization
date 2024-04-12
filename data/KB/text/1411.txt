@@ -1,0 +1,1 @@
+{"text": "text\\<open>The absolue value of an element and its negative are the same.\\<close>\n"}

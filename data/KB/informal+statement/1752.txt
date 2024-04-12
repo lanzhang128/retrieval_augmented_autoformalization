@@ -1,0 +1,1 @@
+{"informal": " If B is a subset of group G, g is an element in G, q is an element in B, and t is the left transpose of g applied to q, then t is an element of the left transpose of g with respect to subset B.", "statement": "corollary (in topgroup) elements_in_ltrans_inv: assumes \"B\\<subseteq>G\" \"g\\<in>G\" \"q\\<in>B\" \"t=g\\<ra>q\"\n  shows \"t \\<in> g\\<ltr>B\"\n  "}

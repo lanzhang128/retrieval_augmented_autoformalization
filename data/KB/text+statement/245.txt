@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a:n\\rightarrow X$ is a list, then $a$ with prepended $x\\in X$ is a list as well and\n  its first element is $x$. \\<close>\n", "statement": "lemma prepend_props: \n  assumes \"n\\<in>nat\" \"a:n\\<rightarrow>X\" \"x\\<in>X\"\n  shows \"Prepend(a,x):(n #+ 1)\\<rightarrow>X\" and \"Prepend(a,x)`(0) = x\"\n"}

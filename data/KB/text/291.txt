@@ -1,0 +1,1 @@
+{"text": "text\\<open>The language of a non-deterministic finite\nstate automaton is regular.\\<close>\n"}

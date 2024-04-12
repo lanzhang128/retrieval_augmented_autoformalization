@@ -1,0 +1,1 @@
+{"text": "text\\<open>What is the enumeration of a singleton?\\<close>\n", "statement": "lemma (in enums) enum_singleton: \n  assumes A1: \"x\\<in>X\" shows \"\\<sigma>({x}): 1 \\<rightarrow> X\" and \"\\<sigma>({x})`(0) = x\"\n  "}

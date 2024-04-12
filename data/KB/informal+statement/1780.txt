@@ -1,0 +1,1 @@
+{"informal": " In the topological group, if an element x is in a set G and set A is a subset of G, then the closure of x translated over A equals x translated over the closure of A.", "statement": "lemma (in topgroup) trans_closure:\n  assumes \"x\\<in>G\" \"A\\<subseteq>G\"\n  shows \"cl(x\\<ltr>A)=x\\<ltr>cl(A)\"\n"}

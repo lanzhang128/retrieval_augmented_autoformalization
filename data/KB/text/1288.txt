@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>OrderedGroup_ZF_1_L28\\<close> when\n  $a\\cdot b^{-1}$ is positive.\\<close>\n"}

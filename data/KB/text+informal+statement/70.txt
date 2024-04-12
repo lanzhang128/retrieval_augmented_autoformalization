@@ -1,0 +1,1 @@
+{"text": "text\\<open>The product of (complex) real numbers is real.\\<close>\n", "informal": " Given real numbers a and b, their product a * b is also a real number.", "statement": "lemma (in complex0) axmulrcl: assumes \"a\\<in>\\<real>\"  \"b\\<in>\\<real>\"\n  shows \"a \\<cdot> b \\<in> \\<real>\"\n  "}

@@ -1,0 +1,1 @@
+{"informal": " In general, \"zf_move_inj\" is a theorem stating that the function \"zf_move\" from the set \"big\" to the set \"zf_newbig\" is injective.", "statement": "theorem (in generalization) zf_move_inj: shows \"zf_move\\<in>inj(big, zf_newbig)\"\n"}

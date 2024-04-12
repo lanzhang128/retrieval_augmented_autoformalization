@@ -1,0 +1,1 @@
+{"informal": " A set T is locally closed if and only if every subset B of T is closed in T.", "statement": "definition\n  IsLocallyClosed (\"_{is locally-closed}\")\n  where \"T{is locally-closed} \\<equiv> T{is locally}(\\<lambda>B TT. B{is closed in}TT)\"\n"}

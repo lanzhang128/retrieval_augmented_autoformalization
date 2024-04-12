@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse of an almost homomorphism is an almost homomorphism.\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_2_L8:\n  assumes A1: \"F = P {lifted to function space over} G\"\n  and A2: \"s \\<in> AH\"\n  shows \"GroupInv(G\\<rightarrow>G,F)`(s) \\<in> AH\"\n"}

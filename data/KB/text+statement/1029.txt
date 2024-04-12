@@ -1,0 +1,1 @@
+{"text": "text\\<open>The sum of a singleton list is its only element,\\<close>\n", "statement": "lemma (in monoid1) seq_sum_singleton: assumes \"q(0) \\<in> G\"\n  shows \"(\\<Sum>{\\<langle>k,q(k)\\<rangle>. k\\<in>1}) = q(0)\"\n"}

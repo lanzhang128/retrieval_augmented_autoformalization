@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the order is total, the elements that do not belong\n  to the positive set are negative. We also show here that the group inverse\n  of an element that does not belong to the nonnegative set does belong to the\n  nonnegative set.\\<close>\n"}

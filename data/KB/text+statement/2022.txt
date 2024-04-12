@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every $T_2$ space is anti-hyperconnected.\\<close>\n", "statement": "theorem (in topology0) T2_imp_anti_HConn:\n  assumes \"T{is T\\<^sub>2}\"\n  shows \"T{is anti-}IsHConnected\"\n"}

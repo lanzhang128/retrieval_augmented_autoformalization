@@ -1,0 +1,1 @@
+{"text": "text\\<open>The strict order on the complex reals is kind of \n  antisymetric.\\<close>\n", "statement": "lemma (in complex0) pre_axlttri: assumes A1: \"a \\<in> \\<real>\"   \"b \\<in> \\<real>\"\n  shows \"a \\<lsr> b \\<longleftrightarrow> \\<not>(a=b \\<or> b \\<lsr> a)\"\n"}

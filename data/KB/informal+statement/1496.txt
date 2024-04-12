@@ -1,0 +1,1 @@
+{"informal": " In the real1 theory, we have the identity: the value of the constant int, which is a real number, equals the real number one.", "statement": "lemma (in real1) real_one_cl_identity: shows \"[id(int)] = \\<one>\"\n  "}

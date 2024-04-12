@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $T$ is a topology, then the (set) neighborhoods of a nonempty subset of \n  $\\bigcup T$ form a filter on $X=\\bigcup T$.\\<close>\n", "statement": "theorem nei_filter: assumes \"T {is a topology}\" \"D \\<subseteq> (\\<Union>T)\" \"D\\<noteq>0\"\n  shows \"({set neighborhood system of} T)`(D) {is a filter on} (\\<Union>T)\"\n"}

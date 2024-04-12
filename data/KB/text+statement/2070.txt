@@ -1,0 +1,1 @@
+{"text": "text\\<open>The topological subspaces of the \\<open>CoCardinal(X,T)\\<close> topology\nare also CoCardinal topologies.\\<close>\n", "statement": "lemma subspace_cocardinal:\n  shows \"CoCardinal(X,T) {restricted to} Y = CoCardinal(Y\\<inter>X,T)\"\n"}

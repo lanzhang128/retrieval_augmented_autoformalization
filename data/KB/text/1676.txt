@@ -1,0 +1,1 @@
+{"text": "text\\<open>Since the map is surjective, this bijection\nrestricts to prime ideals on both sides.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The order on integers is a partial order.\\<close>\n", "statement": "lemma Int_ZF_2_L7: shows \"IsPartOrder(int,IntegerOrder)\"\n  "}

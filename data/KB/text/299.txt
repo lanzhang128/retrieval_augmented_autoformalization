@@ -1,0 +1,1 @@
+{"text": "text\\<open>A different form of \\<open>finpow_union_card_nat\\<close> (see above) -\n  a subset that has not more elements than a given natural number \n  is in the finite powerset.\\<close>\n"}

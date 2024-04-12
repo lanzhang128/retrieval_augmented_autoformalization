@@ -1,0 +1,1 @@
+{"text": "text\\<open>Square of an element and its opposite are the same.\\<close>\n"}

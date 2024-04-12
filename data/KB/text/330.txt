@@ -1,0 +1,1 @@
+{"text": "text\\<open>The definition below implements a common idiom that states that \n  (perhaps under some assumptions) exactly one of given three statements \n  is true.\\<close>\n"}

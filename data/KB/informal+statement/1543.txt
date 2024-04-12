@@ -1,0 +1,1 @@
+{"informal": " Given that both b and c are real numbers, and a is less than or equal to b, and c is positive, then the reciprocal of the product of a and c is less than or equal to b.", "statement": "lemma (in real1) Real_ZF_1_3_L4A:\n  assumes A1: \"b\\<in>\\<real>\"  \"c\\<in>\\<real>\\<^sub>+\" and A2: \"a \\<ls> b\\<cdot>c\"\n  shows \"a\\<cdot>c\\<inverse> \\<ls> b\"\n  "}

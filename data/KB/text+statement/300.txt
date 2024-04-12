@@ -1,0 +1,1 @@
+{"text": "text\\<open>Natural numbers are finite subsets of the set of natural numbers.\\<close>\n", "statement": "lemma nat_finpow_nat: assumes \"n \\<in> nat\" shows \"n \\<in> FinPow(nat)\"\n  "}

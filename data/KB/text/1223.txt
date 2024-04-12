@@ -1,0 +1,1 @@
+{"text": "text\\<open>It is good to have transitivity handy.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " In the ring3 context, the Boolean truth value function BT evaluates to the multiplicative identity (one) when applied to arguments 0 and 0 for any third and fourth argument x and y.", "statement": "lemma (in ring3) bt_at_zero: shows \"BT(0,0,x,y) = \\<one>\"\n  "}

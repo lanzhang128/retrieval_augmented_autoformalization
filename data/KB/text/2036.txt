@@ -1,0 +1,1 @@
+{"text": "text\\<open>One of the important properties of this topology, is that a function\nfrom the quotient space is continuous iff the composition with the quotient\nfunction is continuous.\\<close>\n"}

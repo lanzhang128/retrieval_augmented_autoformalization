@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can pull the first component of a sum of a nonempty list of monoid elements\n  before the summation sign. \\<close>  \n", "statement": "lemma (in monoid1) seq_sum_pull_first0: assumes \"n \\<in> nat\" \"s:succ(n)\\<rightarrow>G\"\n  shows \"(\\<Sum>s) = s`(0) \\<oplus> (\\<Sum>Tail(s))\"\n"}

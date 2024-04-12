@@ -1,0 +1,1 @@
+{"text": "text\\<open>Subgroups are closed with respect to taking the group inverse.\\<close>\n", "statement": "theorem (in group0) group0_3_T3A: \n  assumes A1: \"IsAsubgroup(H,P)\" and A2: \"h\\<in>H\"\n  shows \"h\\<inverse>\\<in> H\"\n"}

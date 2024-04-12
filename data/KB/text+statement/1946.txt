@@ -1,0 +1,1 @@
+{"text": "text\\<open>A simple corollary from the previous lemma.\\<close>\n", "statement": "corollary base_unique_filter_set3:\n  assumes \"C\\<subseteq>Pow(X)\" and \"C {satisfies the filter base condition}\"\n  shows \"C {is a base filter} {A\\<in>Pow(X). \\<exists>D\\<in>C. D\\<subseteq>A}\" and \"\\<Union>{A\\<in>Pow(X). \\<exists>D\\<in>C. D\\<subseteq>A} = X\"\n"}

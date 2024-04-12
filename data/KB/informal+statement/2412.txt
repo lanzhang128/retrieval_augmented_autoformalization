@@ -1,0 +1,1 @@
+{"informal": " If function f from X to Y is commutative and A is a subset of X, then the restriction of f to A times A is also a commutative function on A.", "statement": "lemma func_ZF_4_L1: \n  assumes A1: \"f:X\\<times>X\\<rightarrow>Y\" and A2: \"A\\<subseteq>X\"\n  and A3: \"f {is commutative on} X\"\n  shows \"restrict(f,A\\<times>A) {is commutative on} A\"\n"}

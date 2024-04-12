@@ -1,0 +1,1 @@
+{"informal": " In general, the set \"small\" is a subset of the set \"zf_newbig\" in ZF theory.", "statement": "theorem (in generalization) small_less_zf_newbig: \n  shows \"small \\<subseteq> zf_newbig\"\n"}

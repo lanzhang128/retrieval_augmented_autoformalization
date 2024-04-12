@@ -1,0 +1,1 @@
+{"text": "text\\<open>Adding zero to a set that is closed under multiplication results\n  in a set that is also closed under multiplication.\\<close>\n", "statement": "lemma (in ring0) Ring_ZF_1_L16:\n  assumes A1: \"H \\<subseteq> R\" and A2: \"H {is closed under} M\"\n  shows \"(H \\<union> {\\<zero>}) {is closed under} M\"\n  "}

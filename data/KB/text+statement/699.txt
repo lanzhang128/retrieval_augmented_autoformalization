@@ -1,0 +1,1 @@
+{"text": "text\\<open>Negative times positive is negative. This a property of ordered rings.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_3_L12:\n  assumes \"a\\<lsq>\\<zero>\"  and \"\\<zero>\\<lsq>b\"\n  shows \"a\\<cdot>b \\<lsq> \\<zero>\"\n  "}

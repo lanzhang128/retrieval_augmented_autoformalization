@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set is finite after removing one element, then it is finite.\\<close>\n", "statement": "lemma rem_point_fin_fin: \n  assumes A1: \"x \\<in> X\" and A2: \"A - {x} \\<in> FinPow(X)\"\n  shows \"A \\<in> FinPow(X)\"\n"}

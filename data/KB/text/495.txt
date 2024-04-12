@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group inverse (in the projected group) of a class is the class\n  of the inverse.\\<close>\n"}

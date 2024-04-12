@@ -1,0 +1,1 @@
+{"text": "text\\<open>The cocountable topology on $\\mathbb{N}^+$ is $T_1$.\\<close>\n", "statement": "theorem cocountable_in_csucc_nat_T1:\n  shows \"(CoCountable csucc(nat)){is T\\<^sub>1}\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A dual to \\<open>Order_ZF_4_L11\\<close>: \n  If the order relation has a property that every nonempty bounded set \n  attains a maximum (for example integers are like that), \n  then every nonempty set bounded above attains a maximum.\\<close>\n"}

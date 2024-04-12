@@ -1,0 +1,1 @@
+{"text": "text\\<open>The interior of a set is the union of all the sets of the base which are fully\n  contained by it.\\<close>\n"}

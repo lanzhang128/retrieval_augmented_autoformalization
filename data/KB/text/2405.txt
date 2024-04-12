@@ -1,0 +1,1 @@
+{"text": "text\\<open>The values of the lift are defined by the values of the liftee in\n  the natural way.\\<close>\n"}

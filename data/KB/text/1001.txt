@@ -1,0 +1,1 @@
+{"text": "text\\<open>Unions of disks form a topology, hence (pseudo)metric spaces are topological spaces. \\<close>\n"}

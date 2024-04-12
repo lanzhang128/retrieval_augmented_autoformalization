@@ -1,0 +1,1 @@
+{"text": "text\\<open>In a monoid any neutral element is the neutral element.\\<close>\n"}

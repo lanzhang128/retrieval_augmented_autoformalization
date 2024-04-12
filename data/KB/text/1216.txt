@@ -1,0 +1,1 @@
+{"text": "text\\<open>An ordered group is a group equipped with a partial order that is\n  \"translation invariant\", that is if $a\\leq b$ then $a\\cdot g \\leq b\\cdot g$\n  and $g\\cdot a \\leq g\\cdot b$.\\<close>\n"}

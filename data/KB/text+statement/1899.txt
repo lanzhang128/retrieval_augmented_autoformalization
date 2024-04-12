@@ -1,0 +1,1 @@
+{"text": "text\\<open>Interior is a topological invariant.\\<close>\n", "statement": "theorem int_top_invariant: assumes A1: \"A\\<subseteq>\\<Union>T\" and A2: \"IsAhomeomorphism(T,S,f)\"\n  shows \"f``(Interior(A,T)) = Interior(f``(A),S)\"\n"}

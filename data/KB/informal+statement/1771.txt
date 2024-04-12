@@ -1,0 +1,1 @@
+{"informal": " If A is a subset of the relation x runs before B, and x is an element of group G, while B is also a subset of group G, then x runs before A is a subset of B.", "statement": "lemma (in topgroup) trans_subset:\n  assumes \"A \\<subseteq> ((\\<rm>x)\\<ltr>B)\"\"x\\<in>G\" \"B\\<subseteq>G\"\n  shows \"x\\<ltr>A \\<subseteq> B\"\n"}

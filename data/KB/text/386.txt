@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group is closed under the group operation. Used all the time,\n  useful to have handy.\\<close>\n"}

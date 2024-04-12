@@ -1,0 +1,1 @@
+{"text": "text\\<open>A subbase is a collection \n  of open sets such that finite intersection of those sets form a base.\\<close>\n", "statement": "definition\n  IsAsubBaseFor (infixl \"{is a subbase for}\" 65) where\n  \"B {is a subbase for} T \\<equiv> \n  B \\<subseteq> T \\<and> {\\<Inter>A. A \\<in> FinPow(B)} {is a base for} T\"\n"}

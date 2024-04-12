@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma restates the fact \\<open>Field_ZF\\<close> that out notation\n  for the field inverse means what it is supposed to mean.\\<close>\n", "statement": "lemma (in field1) OrdField_ZF_1_L7: assumes \"a\\<in>R\"  \"a\\<noteq>\\<zero>\"\n  shows \"a\\<cdot>(a\\<inverse>) = \\<one>\"  \"(a\\<inverse>)\\<cdot>a = \\<one>\"\n  "}

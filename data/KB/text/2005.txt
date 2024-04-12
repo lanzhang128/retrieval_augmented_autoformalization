@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a topologycal space has an hereditary property, then it has its double-anti property.\\<close>  \n"}

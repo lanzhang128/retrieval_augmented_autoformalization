@@ -1,0 +1,1 @@
+{"text": "text\\<open>Type information related to the situation of two almost\n  homomorphisms.\\<close>\n"}

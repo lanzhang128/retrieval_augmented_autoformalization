@@ -1,0 +1,1 @@
+{"informal": " The lemma `axmulopr` in `complex0` states that the product of two complex numbers, given by `CplxMul` in Isabelle/ZF, results in a complex number.", "statement": "lemma (in complex0) axmulopr: shows \"CplxMul(R,A,M): \\<complex> \\<times> \\<complex> \\<rightarrow> \\<complex>\"\n"}

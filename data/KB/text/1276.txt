@@ -1,0 +1,1 @@
+{"text": "text\\<open>For linearly ordered groups each element is either the unit, \n  positive or its inverse is positive.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Positive slopes are arbitrarily small for small enough arguments.\n  Kind of dual to \\<open>Int_ZF_2_3_L5\\<close>.\\<close>\n"}

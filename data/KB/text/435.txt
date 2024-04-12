@@ -1,0 +1,1 @@
+{"text": "text\\<open>Intersection of subgroups is a subgroup.\\<close>\n"}

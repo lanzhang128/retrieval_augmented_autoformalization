@@ -1,0 +1,1 @@
+{"informal": " In the context of the generalization1 lemma, the statement \"ret <in} surj(newbig, big)\" can be translated into natural language as follows:\n\nFor all sets newbig and big, the set retrieval operator \"ret\" over newbig is surjective onto big.", "statement": "lemma (in generalization1) ret_surj: shows \"ret \\<in> surj(newbig,big)\" \n  "}

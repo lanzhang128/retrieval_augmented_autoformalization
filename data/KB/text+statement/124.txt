@@ -1,0 +1,1 @@
+{"text": "text\\<open>For equivalence relations a set is saturated iff it is an image \n  of itself.\\<close>\n", "statement": "lemma EquivClass_3_L1: assumes A1: \"equiv(X,r)\"\n  shows \"IsSaturated(r,A) \\<longleftrightarrow> A = r``(A)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>\\<open>zf_move\\<close> is a surjection of \\<open>big\\<close> onto  \\<open>zf_newbig\\<close>.\\<close>\n", "statement": "theorem (in generalization) zf_move_surj: \n  shows \"zf_move \\<in> surj(big,zf_newbig)\"\n  "}

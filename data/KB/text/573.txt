@@ -1,0 +1,1 @@
+{"text": "text\\<open>Since the whole group and the trivial subgroup are always normal,\nit is natural to define simplicity of groups in the following way:\\<close>\n"}

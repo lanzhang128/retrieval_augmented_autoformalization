@@ -1,0 +1,1 @@
+{"text": "text\\<open>$K_0$ (the set of nonzero field elements is closed with respect\n  to multiplication.\\<close>\n", "statement": "lemma (in field0) Field_ZF_1_L2: \n  shows \"K\\<^sub>0 {is closed under} M\"\n  "}

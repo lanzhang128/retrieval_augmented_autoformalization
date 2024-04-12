@@ -1,0 +1,1 @@
+{"text": "text\\<open>The anti-properties are always hereditary\\<close>\n", "statement": "theorem anti_here:\n  shows \"ANTI(P){is hereditary}\"\n"}

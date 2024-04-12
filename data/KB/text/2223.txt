@@ -1,0 +1,1 @@
+{"text": "text\\<open>An alternative formula for star of a singleton.\\<close>\n"}

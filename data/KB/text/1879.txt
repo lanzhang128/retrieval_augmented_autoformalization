@@ -1,0 +1,1 @@
+{"text": "text\\<open>A trivial example of a continuous function - identity is continuous.\\<close>\n"}

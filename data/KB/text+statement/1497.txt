@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $f$ is bounded, then its class is the neutral element of additive \n  operation on reals (denoted as \\<open>\\<zero>\\<close> in the \\<open>real1\\<close> context).\\<close>\n", "statement": "lemma (in real1) real_zero_cl_bounded_map: \n  assumes \"f \\<in> BoundedIntMaps\" shows \"[f] = \\<zero>\"\n  "}

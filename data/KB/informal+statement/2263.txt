@@ -1,0 +1,1 @@
+{"informal": " If I is not the empty set and for all i in I, P(i) is a subset of X, then the intersection of all subsets of I where P(i) is non-empty is also a subset of X.", "statement": "lemma ZF1_1_L7: assumes A1: \"I\\<noteq>0\" and A2: \"\\<forall>i\\<in>I. P(i) \\<subseteq> X\"\n  shows \"( \\<Inter>i\\<in>I. P(i) ) \\<subseteq> X\"\n"}

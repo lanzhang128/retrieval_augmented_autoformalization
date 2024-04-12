@@ -1,0 +1,1 @@
+{"text": "text\\<open>Homeomorphisms are open maps.\\<close>\n", "statement": "lemma homeo_open: assumes \"IsAhomeomorphism(T,S,f)\" and \"U\\<in>T\"\n  shows \"f``(U) \\<in> S\"\n  "}

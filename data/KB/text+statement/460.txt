@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can look at the result of interval arithmetic operation as union of\n  left translated sets.\\<close>\n", "statement": "lemma (in group0) image_ltrans_union: assumes \"A\\<subseteq>G\" \"B\\<subseteq>G\" shows\n  \"(P {lifted to subsets of} G)`\\<langle>A,B\\<rangle> = (\\<Union>a\\<in>A.  LeftTranslation(G,P,a)``(B))\"\n"}

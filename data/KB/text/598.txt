@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image of a group under a homomorphism is a subgroup of the target group.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " A set is in the spectrum of a relation isT4 if and only if the set has a size less than 1.", "statement": "theorem T4_spectrum:\n  shows \"(A {is in the spectrum of} isT4) \\<longleftrightarrow> A \\<lesssim> 1\"\n"}

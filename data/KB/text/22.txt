@@ -1,0 +1,1 @@
+{"text": "text\\<open>Given an ordinal bounded by a cardinal in ordinal order, we can change\nto the order of sets.\\<close>\n"}

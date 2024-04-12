@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma demonstrating what is the left translation of a set\\<close>\n", "statement": "lemma (in group0) ltrans_image: assumes A1: \"V\\<subseteq>G\" and A2: \"x\\<in>G\"\n  shows \"LeftTranslation(G,P,x)``(V) = {x\\<cdot>v. v\\<in>V}\"\n"}

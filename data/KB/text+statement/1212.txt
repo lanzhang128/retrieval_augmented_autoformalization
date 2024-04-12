@@ -1,0 +1,1 @@
+{"text": "text\\<open>Sometimes we can reverse an inequality by taking inverse\n  on both sides.\\<close>\n", "statement": "lemma (in field1) OrdField_ZF_2_L7: \n  assumes A1: \"a\\<in>R\\<^sub>+\" and A2: \"a\\<inverse> \\<lsq> b\"\n  shows \"b\\<inverse> \\<lsq> a\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another useful rearrangement of three elements\n  and cancelling.\\<close>\n", "statement": "lemma (in group0) group0_4_L6E: \n  assumes A1: \"P {is commutative on} G\"\n  and A2: \"a\\<in>G\"  \"b\\<in>G\"  \"c\\<in>G\"\n  shows \n  \"a\\<cdot>b\\<cdot>(a\\<cdot>c)\\<inverse> = b\\<cdot>c\\<inverse>\"\n"}

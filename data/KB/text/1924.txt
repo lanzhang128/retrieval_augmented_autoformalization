@@ -1,0 +1,1 @@
+{"text": "text\\<open>A technical lemma providing a formula for finite product on one topological space.\\<close>\n"}

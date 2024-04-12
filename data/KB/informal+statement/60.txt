@@ -1,0 +1,1 @@
+{"informal": " The statement \"lemma ax1re in complex0 shows <1> is an element of <real>\" can be translated into natural language as follows:\n\nLemma ax1re: The real number 1 belongs to the set of real numbers.", "statement": "lemma (in complex0) ax1re: shows \"\\<one> \\<in> \\<real>\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A group is a quasigroup and a loop.\\<close>\n", "statement": "lemma (in group0) group_is_loop: shows \"IsAquasigroup(G,P)\" and \"IsAloop(G,P)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Intersection of a nonempty family of closed sets is closed.\\<close>\n"}

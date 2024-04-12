@@ -1,0 +1,1 @@
+{"informal": " \"The function Fold(f, x, a) is equivalent to the last element of the sequence produced by FoldSeq(f, x, a).\" \n\nOr more succinctly: \n\n\"Fold(f, x, a) is the last result of repeatedly applying f to x and the previous result.\"", "statement": "definition\n  \"Fold(f,x,a) \\<equiv> Last(FoldSeq(f,x,a))\"\n"}

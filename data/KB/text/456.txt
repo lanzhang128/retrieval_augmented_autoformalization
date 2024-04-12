@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another way of looking at translations is that they are sections\n  of the group operation.\\<close>\n"}

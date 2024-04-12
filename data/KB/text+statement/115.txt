@@ -1,0 +1,1 @@
+{"text": "text\\<open>Congruent functions of two variables can be projected.\\<close>\n", "statement": "theorem EquivClass_1_T1: \n  assumes \"equiv(A,r)\"  \"Congruent2(r,f)\"\n  shows \"ProjFun2(A,r,f) : (A//r)\\<times>(A//r) \\<rightarrow> A//r\"\n  "}

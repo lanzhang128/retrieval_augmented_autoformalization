@@ -1,0 +1,1 @@
+{"text": "text\\<open>Translations map $G$ into $G$. Two dimensional translations map\n  $G\\times G$ into itself.\\<close>\n", "statement": "lemma (in group0) group0_5_L1: assumes A1: \"g\\<in>G\"\n  shows \"RightTranslation(G,P,g) : G\\<rightarrow>G\" and  \"LeftTranslation(G,P,g) : G\\<rightarrow>G\"\n"}

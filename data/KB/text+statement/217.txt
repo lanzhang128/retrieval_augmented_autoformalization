@@ -1,0 +1,1 @@
+{"text": "text\\<open>Properties of \\<open>Tail\\<close>.\\<close>\n", "statement": "theorem tail_props: \n  assumes A1: \"n \\<in> nat\" and A2: \"a: succ(n) \\<rightarrow> X\"\n  shows\n  \"Tail(a) : n \\<rightarrow> X\"\n  \"\\<forall>k \\<in> n. Tail(a)`(k) = a`(succ(k))\"\n"}

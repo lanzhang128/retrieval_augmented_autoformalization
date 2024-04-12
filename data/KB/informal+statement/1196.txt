@@ -1,0 +1,1 @@
+{"informal": " If K is an ordered field with carrier set A, multiplication M, and addition r, then K is a field with the given carrier set, multiplication, and addition. In other words, an ordered field is also a field.", "statement": "lemma OrdField_ZF_1_L2: assumes \"IsAnOrdField(K,A,M,r)\"\n  shows \"field1(K,A,M,r)\"\n  "}

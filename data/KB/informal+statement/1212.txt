@@ -1,0 +1,1 @@
+{"informal": " If `a` is an element of a set `R+`, and `a` is less than `b`, then `b` is less than `a` in inverse order.", "statement": "lemma (in field1) OrdField_ZF_2_L7: \n  assumes A1: \"a\\<in>R\\<^sub>+\" and A2: \"a\\<inverse> \\<lsq> b\"\n  shows \"b\\<inverse> \\<lsq> a\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " Assuming X is a uniformity on a non-empty set, UniformityFromUniCov(X, UniCovFromUniformity(X, \u03a6)) equals \u03a6.", "statement": "theorem unif_from_unicov_inv: assumes \"\\<Phi> {is a uniformity on} X\" \"X\\<noteq>0\"\n  shows \"UniformityFromUniCov(X,UniCovFromUniformity(X,\\<Phi>)) = \\<Phi>\"\n"}

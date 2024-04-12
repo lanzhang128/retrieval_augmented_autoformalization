@@ -1,0 +1,1 @@
+{"informal": " \"PositiveSlopes is the set of slopes whose domain is a subset of positive integers and whose range does not contain the finite integer zero.\"", "statement": "definition\n  \"PositiveSlopes \\<equiv> {s \\<in> Slopes. \n  s``(PositiveIntegers) \\<inter>  PositiveIntegers \\<notin> Fin(int)}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $f\\left( \\overline{A}\\right)\\subseteq \\overline{f(A)}$ \n  (the image of the closure is contained in the closure of the image), then\n  $\\overline{f^{-1}(B)}\\subseteq f^{-1}\\left( \\overline{B} \\right)$ \n  (the inverse image of the closure contains the closure of the \n  inverse image).\\<close>\n"}

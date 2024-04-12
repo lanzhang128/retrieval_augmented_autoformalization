@@ -1,0 +1,1 @@
+{"informal": " In the topological group, the product topology on the cartesian product G x G is a topology and equals the union of all open sets in the product.", "statement": "lemma (in topgroup) prod_top_on_G:\n  shows \"\\<tau> {is a topology}\" and \"\\<Union>\\<tau> = G\\<times>G\"\n  "}

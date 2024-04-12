@@ -1,0 +1,1 @@
+{"text": "text\\<open>If an image of a set by a function with infinite positive limit \n  is bounded above, then the set itself is bounded above.\\<close>\n"}

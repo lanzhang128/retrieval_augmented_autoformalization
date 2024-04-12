@@ -1,0 +1,1 @@
+{"text": "text\\<open>Two continuous functions into a Hausdorff space are equal on a closed set.\n  Note that in the lemma below $f$ is assumed to map $X_1$ to $X_2$ in the locale, we only\n  need to add a similar assumption for the second function. \\<close>\n"}

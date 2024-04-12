@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next formula restates the definition of the homomorphism \n  difference to express the value an almost homomorphism on a product.\\<close>\n"}

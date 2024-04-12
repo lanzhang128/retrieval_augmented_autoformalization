@@ -1,0 +1,1 @@
+{"text": "text\\<open>Under the assumptions of \\<open>Order_ZF_2_L2\\<close>, the interval is \n  nonempty.\\<close>\n", "statement": "lemma Order_ZF_2_L2A: assumes \"refl(X,r)\" \n  and \"a\\<in>X\"  \"b\\<in>X\" and \"\\<langle> a,b\\<rangle> \\<in> r\"\n  shows \"Interval(r,a,b) \\<noteq> 0\"\n"}

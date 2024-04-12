@@ -1,0 +1,1 @@
+{"informal": " If a is less than b and c is less than d in the ordering of ring1, then a is less than or equal to c and b is less than or equal to d. Therefore, a + c is less than or equal to b + d.", "statement": "lemma (in ring1) OrdRing_ZF_1_L19:\n  assumes \"a\\<ls>b\" and \"c\\<lsq>d\"\n  shows \"a\\<ra>c \\<ls> b\\<ra>d\"\n  "}

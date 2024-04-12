@@ -1,0 +1,1 @@
+{"informal": " Given integers m and k, the rounded product from the real numbers side, i.e, \\<lfloor>m^R \\* k^R \\<rfloor>, equals the integer multiplication result, i.e, m \\* k.", "statement": "lemma (in real1) Real_ZF_1_4_L14A: assumes A1: \"m \\<in> int\"  \"k \\<in> int\"\n  shows  \"\\<lfloor>m\\<^sup>R\\<cdot>k\\<^sup>R\\<rfloor> = m\\<zmu>k\"\n"}

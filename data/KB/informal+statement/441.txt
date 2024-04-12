@@ -1,0 +1,1 @@
+{"informal": " In the group0 theory, we have the lemma group_is_quasigroup stating that G equipped with relation P forms an aquasigroup, and it's also an loop.", "statement": "lemma (in group0) group_is_loop: shows \"IsAquasigroup(G,P)\" and \"IsAloop(G,P)\"\n"}

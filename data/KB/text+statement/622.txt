@@ -1,0 +1,1 @@
+{"text": "text\\<open>Then we define the actual generating function on sets of pairs\n  from $X\\times \\{0,1, .. ,n\\}$.\\<close>\n", "statement": "definition\n  \"StateTransfFunN(X,F,n) \\<equiv> {\\<langle>s, StateTransfFunNMeta(F,n,s)\\<rangle>. s \\<in> X\\<times>succ(n)}\"\n"}

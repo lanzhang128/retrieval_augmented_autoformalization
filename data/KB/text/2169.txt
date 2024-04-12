@@ -1,0 +1,1 @@
+{"text": "text\\<open>The cocountable topology on $\\mathbb{N}^+$ is not anti-hyperconnected.\\<close>\n"}

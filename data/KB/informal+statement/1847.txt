@@ -1,0 +1,1 @@
+{"informal": " If B is a topology and a base for the topology T, then B and T are equal.", "statement": "lemma base_topology: assumes \"B {is a topology}\" and \"B {is a base for} T\"\n  shows \"B=T\" "}

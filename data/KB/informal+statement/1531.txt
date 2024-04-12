@@ -1,0 +1,1 @@
+{"informal": " Assuming `a` is strictly smaller than `b`, and `b` is smaller than `c`, then `a` is strictly smaller than `c`.", "statement": "lemma (in real1) real_strict_ord_transit:\n  assumes A1: \"a\\<lsq>b\" and A2: \"b\\<ls>c\"\n  shows \"a\\<ls>c\"\n"}

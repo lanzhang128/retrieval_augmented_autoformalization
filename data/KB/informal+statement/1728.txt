@@ -1,0 +1,1 @@
+{"informal": " In the theory `topgroup`, it is proven that `group0(G, f)` holds true. Here, `G` is a group and `f` is a function defined elsewhere in the theory.", "statement": "lemma (in topgroup) group0_valid_in_tgroup: shows \"group0(G,f)\"\n  "}

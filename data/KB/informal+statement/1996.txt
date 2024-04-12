@@ -1,0 +1,1 @@
+{"informal": " If T is a regular relation and A is an element in the power set of T, then the restriction of T to A is also a regular relation.", "statement": "theorem regular_here:\n  assumes \"T{is regular}\" \"A\\<in>Pow(\\<Union>T)\" shows \"(T{restricted to}A){is regular}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma presents two ways the set of homomorphism differences\n  can be written.\\<close>\n"}

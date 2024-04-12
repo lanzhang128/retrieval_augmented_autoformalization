@@ -1,0 +1,1 @@
+{"text": "text\\<open>Absolute vaues of integers from a finite image of integers are bounded\n  by an integer.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open> In particular, every uniform cover has a barycentric refinement. \\<close>\n"}

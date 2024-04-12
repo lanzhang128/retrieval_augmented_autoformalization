@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $f$ is a slope and $-f\\notin$ \\<open>\\<S>\\<^sub>+\\<close>, then \n  $f($\\<open>\\<int>\\<^sub>+\\<close>$)$ is bounded below.\\<close>\n", "statement": "lemma (in int1) Int_ZF_2_3_L3: assumes A1: \"f\\<in>\\<S>\" and A2: \"\\<fm>f \\<notin> \\<S>\\<^sub>+\"\n  shows \"IsBoundedBelow(f``(\\<int>\\<^sub>+), IntegerOrder)\"\n"}

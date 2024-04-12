@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $x$ belongs to a set where a property holds, then the property holds\n  for $x$. This has to be used as rule in rare cases. \\<close>\n"}

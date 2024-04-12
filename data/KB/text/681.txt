@@ -1,0 +1,1 @@
+{"text": "text\\<open>Integers form an ordered ring. All theorems proven in the \n  \\<open>ring1\\<close> context are valid in \\<open>int0\\<close> context.\\<close>\n"}

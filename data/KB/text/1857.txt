@@ -1,0 +1,1 @@
+{"text": "text\\<open>Projection of a section of an open set is open.\\<close>\n"}

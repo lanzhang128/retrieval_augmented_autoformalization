@@ -1,0 +1,1 @@
+{"text": "text\\<open>Zero is in the group.\\<close>\n", "informal": " In the top group, zero is an element of the group (G).", "statement": "lemma (in topgroup) zero_in_tgroup: shows \"\\<zero>\\<in>G\"\n  "}

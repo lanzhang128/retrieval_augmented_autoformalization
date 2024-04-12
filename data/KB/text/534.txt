@@ -1,0 +1,1 @@
+{"text": "text\\<open>What is the group inverse in the group of almost homomorphisms?\\<close>\n"}

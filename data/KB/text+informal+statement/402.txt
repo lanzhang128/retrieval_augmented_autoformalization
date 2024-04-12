@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse of the inverse is the element.\\<close>\n", "informal": " In the group0 theory, for all elements a in the group G, a is equal to the inverse of the inverse of a.", "statement": "lemma (in group0) group_inv_of_inv:\n  assumes \"a\\<in>G\" shows \"a = (a\\<inverse>)\\<inverse>\"\n  "}

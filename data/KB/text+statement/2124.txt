@@ -1,0 +1,1 @@
+{"text": "text\\<open>If some set is compact for some cardinal, it is compact for any greater cardinal.\\<close>\n", "statement": "theorem compact_greater_card:\n  assumes \"Q\\<lesssim>Q1\" and \"(K){is compact of cardinal}Q{in}T\" and \"Card(Q1)\"\n  shows \"(K){is compact of cardinal}Q1{in}T\"\n"}

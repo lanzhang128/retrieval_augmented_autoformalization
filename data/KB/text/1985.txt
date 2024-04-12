@@ -1,0 +1,1 @@
+{"text": "text\\<open>First we will give a global characterization of $T_1$-spaces; which is interesting\nbecause it involves the cardinal $\\mathbb{N}$.\\<close>\n"}

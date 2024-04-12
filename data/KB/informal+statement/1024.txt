@@ -1,0 +1,1 @@
+{"informal": " If `n` is a natural number and for all `k` in `n`, `q(k)` is an element of `G`, then the sum of those `k` and `q(k)` pairs, where `k` is in `n`, is an element of `G`.", "statement": "lemma (in monoid1) sum_in_mono: assumes \"n\\<in>nat\" \"\\<forall>k\\<in>n. q(k)\\<in>G\"\n  shows \"(\\<Sum>{\\<langle>k,q(k)\\<rangle>. k\\<in>n}) \\<in> G\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Boundary of a set is the closure of the set \n  minus the interior of the set.\\<close>\n", "statement": "lemma (in topology0) Top_3_L12: assumes A1: \"A \\<subseteq> \\<Union>T\"\n  shows \"\\<partial>A = cl(A) - int(A)\"\n"}

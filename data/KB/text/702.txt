@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can multiply an inequality by a positive number. \n  This is a property of ordered rings.\\<close>\n"}

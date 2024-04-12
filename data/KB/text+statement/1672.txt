@@ -1,0 +1,1 @@
+{"text": "text\\<open>The quotient map is a homomorphism of rings\\<close>\n", "statement": "theorem (in ring2) quotient_fun_homomor:\n  shows \"f\\<^sub>I{is a ring homomorphism}{R,A,M}\\<rightarrow>{R\\<^sub>I,A\\<^sub>I,M\\<^sub>I}\"\n  unfolding ringHomomor_def[OF ringAssum quotient_ring.ringAssum]\n"}

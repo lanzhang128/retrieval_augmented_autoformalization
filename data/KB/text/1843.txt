@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma is needed when proving that the would-be topology is\n  closed with respect to taking intersections. We show here that intersection\n  of two sets from this (would-be) topology can be written as union of sets \n  from the topology.\\<close>\n"}

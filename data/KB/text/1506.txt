@@ -1,0 +1,1 @@
+{"text": "text\\<open>Let's recall from \\<open>Int_ZF_2.thy\\<close> that the sum and composition \n  of positive slopes is a positive slope.\\<close>\n"}

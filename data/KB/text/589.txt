@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of endomorphisms forms a submonoid of the monoid of function\nfrom a set to that set under composition.\\<close>\n"}

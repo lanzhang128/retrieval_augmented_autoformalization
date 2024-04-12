@@ -1,0 +1,1 @@
+{"text": "text\\<open>A corner case: what happens when we fold an empty list?\\<close>\n", "statement": "theorem fold_empty: assumes A1: \"f : X\\<times>Y \\<rightarrow> X\" and \n  A2: \"a:0\\<rightarrow>Y\"  \"x\\<in>X\"  \"Y\\<noteq>0\"\n  shows \"Fold(f,x,a) = x\"\n"}

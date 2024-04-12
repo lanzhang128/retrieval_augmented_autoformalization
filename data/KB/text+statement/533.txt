@@ -1,0 +1,1 @@
+{"text": "text\\<open>The first operation on homomorphisms acts in a natural way on its \n  operands.\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_2_L12: \n  assumes \"s\\<in>AH\"  \"r\\<in>AH\" and \"n\\<in>G\"\n  shows \"(s\\<bullet>r)`(n) = s`(n)\\<cdot>r`(n)\"\n  "}

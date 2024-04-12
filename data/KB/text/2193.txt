@@ -1,0 +1,1 @@
+{"text": "text\\<open>The spectrum of Luzin spaces is the class of countable sets, so there\nare lots of examples of Luzin spaces.\\<close>\n"}

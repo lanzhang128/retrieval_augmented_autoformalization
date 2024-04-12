@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $A$ is saturated then $x\\in A$ iff its class is in the projection \n  of $A$.\\<close>\n", "statement": "lemma EquivClass_3_L6: assumes A1: \"equiv(X,r)\"\n  and A2: \"IsSaturated(r,A)\" and A3: \"A\\<subseteq>X\" and A4: \"x\\<in>X\"\n  and A5: \"B = {r``{x}. x\\<in>A}\"\n  shows \"x\\<in>A \\<longleftrightarrow> r``{x} \\<in> B\"\n"}

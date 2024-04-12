@@ -1,0 +1,1 @@
+{"text": "text\\<open>Complex $1$ is not complex $0$.\\<close>\n", "informal": " In the theory `complex0`, there is a lemma (named `ax1ne0`) stating that one is not equal to zero.", "statement": "lemma (in complex0) ax1ne0: shows \"\\<one> \\<noteq> \\<zero>\"\n"}

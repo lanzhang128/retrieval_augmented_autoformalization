@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another obvious operation we can talk about is appending an element\n  at the end of a sequence. This is called \\<open>Append\\<close>.\\<close>\n", "statement": "definition\n  \"Append(a,x) \\<equiv> a \\<union> {\\<langle>domain(a),x\\<rangle>}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The transition relation is then realized by considering\nall possible steps the transition function returns.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " The set {powerset of successor natural numbers + successor natural numbers + S. S is in thecocountable set of successor natural numbers minus {0}} is anticompact.", "statement": "theorem extension_pow_antiCompact:\n  shows \"(Pow(csucc(nat)) \\<union> {{csucc(nat)}\\<union>S. S\\<in>(CoCountable csucc(nat))-{0}}){is anti-compact}\"\n"}

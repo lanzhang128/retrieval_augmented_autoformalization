@@ -1,0 +1,1 @@
+{"text": "text\\<open>Set that has a maximum is bounded above.\\<close>\n", "informal": " Assuming a relation `r` over a non-empty set `A` has a maximum, then `A` is bounded above by that maximum.", "statement": "lemma Order_ZF_4_L7:\n  assumes \"HasAmaximum(r,A)\"\n  shows \"IsBoundedAbove(A,r)\"\n  "}

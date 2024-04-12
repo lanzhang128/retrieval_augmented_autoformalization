@@ -1,0 +1,1 @@
+{"text": "text\\<open> Supremum of the set of suprema of a collection of sets is supremum of the union. \\<close>\n"}

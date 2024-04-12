@@ -1,0 +1,1 @@
+{"text": "text\\<open>The sum of positive slopes is a positive slope.\\<close>\n", "statement": "theorem (in int1) sum_of_pos_sls_is_pos_sl: \n  assumes A1: \"f \\<in> \\<S>\\<^sub>+\"  \"g \\<in> \\<S>\\<^sub>+\"\n  shows \"f\\<fp>g \\<in> \\<S>\\<^sub>+\"\n"}

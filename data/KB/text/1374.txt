@@ -1,0 +1,1 @@
+{"text": "text\\<open> We can move an element to the other side of an inequality. Well, not exactly, but\n  our notation creates an illusion to that effect. \\<close>\n"}

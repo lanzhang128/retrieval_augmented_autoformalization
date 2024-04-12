@@ -1,0 +1,1 @@
+{"text": "text\\<open>The notation for the definition of an interval may be mysterious for some\n  readers, see lemma \\<open>Order_ZF_2_L1\\<close> for more intuitive notation.\\<close>\n", "statement": "definition\n  \"Interval(r,a,b) \\<equiv> r``{a} \\<inter> r-``{b}\"\n"}

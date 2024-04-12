@@ -1,0 +1,1 @@
+{"text": "text\\<open>The quotient group relation is an equivalence relation. Note\n  we do not need the subgroup to be normal for this to be true.\\<close>\n", "statement": "lemma (in group0) Group_ZF_2_4_L3: assumes A1:\"IsAsubgroup(H,P)\"\n  shows \"equiv(G,QuotientGroupRel(G,P,H))\"\n"}

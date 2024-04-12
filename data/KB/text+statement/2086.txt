@@ -1,0 +1,1 @@
+{"text": "text\\<open>The closed sets are those which are disjoint with \\<open>T\\<close>\n and \\<open>X\\<close>.\\<close>\n", "statement": "lemma closed_sets_includedset:\n  assumes \"T\\<subseteq>X\"\n  shows \"D {is closed in} IncludedSet(X,T) \\<longleftrightarrow> (D\\<in>Pow(X) \\<and>  (D \\<inter> T)=0)\\<or> D=X\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " A constant function from X to the constant c is equivalent to the Cartesian product X x {c}.", "statement": "definition\n  \"ConstantFunction(X,c) \\<equiv> X\\<times>{c}\"\n"}

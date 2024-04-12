@@ -1,0 +1,1 @@
+{"informal": " If compact set K is a subset of a compact set A in a topological space T, then K is compact in the subspace T restricted to B.", "statement": "lemma compact_imp_compact_subspace:\n  assumes \"A{is compact of cardinal}K{in}T\" \"A\\<subseteq>B\"\n  shows \"A{is compact of cardinal}K{in}(T{restricted to}B)\" unfolding IsCompactOfCard_def\n"}

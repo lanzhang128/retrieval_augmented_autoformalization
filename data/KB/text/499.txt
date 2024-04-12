@@ -1,0 +1,1 @@
+{"text": "text\\<open>The quotient group relation is reflexive.\\<close>\n"}

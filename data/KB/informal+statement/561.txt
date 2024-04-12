@@ -1,0 +1,1 @@
+{"informal": " In the group `group1`, we have that the congruence relation `Congruent2` holds for the quotient group formed using relations `AH`, `Op1`, and `FR` under operations `Op1` and `Op2`.", "statement": "lemma (in group1) Group_ZF_3_4_L13A: shows\n  \"Congruent2(QuotientGroupRel(AH,Op1,FR),Op2)\"\n"}

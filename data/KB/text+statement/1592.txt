@@ -1,0 +1,1 @@
+{"text": "text\\<open>Real numbers form an ordered loop.\\<close>\n", "statement": "lemma (in reals) reals_loop: shows \"IsAnOrdLoop(\\<real>,Add,ROrd)\"\n"}

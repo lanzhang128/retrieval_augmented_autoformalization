@@ -1,0 +1,1 @@
+{"text": "text\\<open>The singleton with the neutral element is a subgroup.\\<close>\n", "statement": "corollary (in group0) unit_singl_subgr:\n  shows \"IsAsubgroup({\\<one>},P)\"\n  "}

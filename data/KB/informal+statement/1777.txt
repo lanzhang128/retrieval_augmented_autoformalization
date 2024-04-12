@@ -1,0 +1,1 @@
+{"informal": " In the context of the topgroup theory, the lemma `grop_def1` asserts that the function application `f (x, y)` equals the infix multiplication `x * y`.", "statement": "lemma (in topgroup) grop_def1: shows \"f`\\<langle>x,y\\<rangle> = x\\<ra>y\" by simp \n"}

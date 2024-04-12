@@ -1,0 +1,1 @@
+{"text": "text\\<open>Intersection of sets that are\n  closed with respect to an operation is closed under \n  the operation.\\<close>\n"}

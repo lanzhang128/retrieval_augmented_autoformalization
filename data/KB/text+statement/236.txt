@@ -1,0 +1,1 @@
+{"text": "text\\<open>When we append an element to the empty list we get\n  a list with length $1$.\\<close>\n", "statement": "lemma empty_append1: assumes A1: \"x\\<in>X\"\n  shows \"Append(0,x): 1 \\<rightarrow> X\" and \"Append(0,x)`(0) = x\"\n"}

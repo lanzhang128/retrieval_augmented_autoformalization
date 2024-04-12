@@ -1,0 +1,1 @@
+{"text": "text\\<open>In linearly ordered groups the absolute value of any element \n  is in $G^+$.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>For continuous functions the closure of the inverse image is contained in the\n  inverse image of the closure. This is a shortcut through a series of implications\n  provided by \\<open>TopZF_2_1_L1\\<close>, \\<open>Top_ZF_2_1_L2\\<close> and \\<open>Top_ZF_2_1_L3\\<close>. \\<close>\n"}

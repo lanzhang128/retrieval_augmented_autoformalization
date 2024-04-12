@@ -1,0 +1,1 @@
+{"text": "text\\<open>We start with a version of \\<open>prod_append\\<close> that will shorten a bit\n  the proof of the main theorem.\\<close>\n", "statement": "lemma (in semigr0) shorter_seq: assumes A1: \"k \\<in> nat\" and\n  A2: \"a \\<in> succ(succ(k)) \\<rightarrow> G\" \n  shows \"(\\<Prod> a) = (\\<Prod> Init(a)) \\<cdot> a`(succ(k))\"\n"}

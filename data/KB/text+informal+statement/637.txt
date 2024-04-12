@@ -1,0 +1,1 @@
+{"text": "text\\<open>The $n$'th row of the Pascal's triangle is a list of $n+1$ natural numbers. \\<close>\n", "informal": " Given a natural number n, the function PascalTriangle(n) returns a natural number.", "statement": "lemma pascal_row_list: \n  assumes \"n\\<in>nat\" shows \"PascalTriangle`(n):succ(n)\\<rightarrow>nat\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open> Supremum and infimum of a singleton is the element. \\<close>\n", "statement": "lemma sup_inf_singl: assumes \"antisym(r)\" \"refl(X,r)\" \"z\\<in>X\"\n  shows \n    \"HasAsupremum(r,{z})\" \"Supremum(r,{z}) = z\" and \n    \"HasAnInfimum(r,{z})\" \"Infimum(r,{z}) = z\"\n"}

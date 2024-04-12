@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma shows a formula that translates an expression\n  in terms of the first group operation on almost homomorphisms and the\n  group inverse in the group of almost homomorphisms to an expression using\n  only the underlying group operations.\\<close>\n"}

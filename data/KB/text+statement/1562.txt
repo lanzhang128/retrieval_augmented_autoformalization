@@ -1,0 +1,1 @@
+{"text": "text\\<open>Integer two embeds as the real two.\\<close>\n", "statement": "lemma (in real1) int_two_is_real_two: shows \"\\<two>\\<^sub>Z\\<^sup>R = \\<two>\"\n"}

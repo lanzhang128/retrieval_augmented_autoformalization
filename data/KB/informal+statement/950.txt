@@ -1,0 +1,1 @@
+{"informal": " If x and y are elements of a meet-semilattice L, then their meet (i.e., greatest lower bound) x inter y is also an element of L and equals the infimum of {x, y}.", "statement": "lemma (in meet_semilatt) meet_props: assumes \"x\\<in>L\" \"y\\<in>L\" \n  shows \"x\\<sqinter>y \\<in> L\" and \"x\\<sqinter>y = inf {x,y}\"\n"}

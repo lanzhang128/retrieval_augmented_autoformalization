@@ -1,0 +1,1 @@
+{"text": "text\\<open>Induction on integer, implication between two forms of the induction\n  step.\\<close>\n", "statement": "lemma (in int0) Int_ZF_3_L7A: assumes \n  A1: \"\\<forall>m. i\\<lsq>m \\<and> Q(m) \\<longrightarrow> Q(m\\<ra>\\<one>)\"\n  shows \"\\<forall>m. i\\<lsq>m \\<and> Q(m) \\<longrightarrow> Q(m $+ ($# 1))\"\n"}

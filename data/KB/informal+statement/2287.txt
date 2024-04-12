@@ -1,0 +1,1 @@
+{"informal": " If every element x is in set A implies that phi(x) holds, then every element in set A satisfies phi.", "statement": "lemma exists_in_set: assumes \"\\<forall>x. x\\<in>A \\<longrightarrow> \\<phi>(x)\" shows \"\\<forall>x\\<in>A. \\<phi>(x)\"\n  "}

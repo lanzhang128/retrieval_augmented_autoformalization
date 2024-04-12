@@ -1,0 +1,1 @@
+{"text": "text\\<open>Of course the product topology is a topology (on $G\\times G$).\\<close>\n"}

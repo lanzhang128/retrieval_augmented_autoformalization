@@ -1,0 +1,1 @@
+{"informal": " Given a topology T with an infinite cardinality, the CoCardinal topology of a set X with respect to T is a topology.", "statement": "theorem topology0_CoCardinal:\n  assumes \"InfCard(T)\"\n  shows \"topology0(CoCardinal(X,T))\"\n  "}

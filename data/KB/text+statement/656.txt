@@ -1,0 +1,1 @@
+{"text": "text\\<open>$2$ and $3$ are integers.\\<close>\n", "statement": "lemma (in int0) int_two_three_are_int: shows \"\\<two> \\<in> \\<int>\"  \"\\<three> \\<in> \\<int>\"\n    "}

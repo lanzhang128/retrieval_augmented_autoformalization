@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma shows the set from the definition of almost \n  homomorphism in a different form.\\<close>\n"}

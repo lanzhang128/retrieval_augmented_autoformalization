@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma corresponds to Lemma 14 iii) in \\cite{Arthan2004}.\n  It says that we can find a rational number between any two different\n  real numbers.\\<close>\n"}

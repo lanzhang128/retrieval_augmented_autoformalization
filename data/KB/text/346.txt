@@ -1,0 +1,1 @@
+{"text": "text\\<open>A corner case: what happens when we fold an empty list?\\<close>\n"}

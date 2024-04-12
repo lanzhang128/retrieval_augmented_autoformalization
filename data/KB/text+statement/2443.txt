@@ -1,0 +1,1 @@
+{"text": "text\\<open>Maximum is a fixpoint of order automorphism.\\<close>\n", "statement": "lemma max_auto_fixpoint: \n  assumes \"antisym(r)\" and \"f \\<in> ord_iso(A,r,A,r)\"\n  and \"HasAmaximum(r,A)\"\n  shows \"Maximum(r,A) = f`(Maximum(r,A))\"\n  "}

@@ -1,0 +1,1 @@
+{"informal": " If `z` is the pair `<x, y>`, then the product of `x` and `y` equals `z`.", "statement": "lemma pair_prod: assumes \"z = \\<langle>x,y\\<rangle>\" shows \"{x}\\<times>{y} = {z}\"\n  "}

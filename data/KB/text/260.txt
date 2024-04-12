@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a word is a reduced version of an other,\nthen it can be encoded as a restriction.\\<close>\n"}

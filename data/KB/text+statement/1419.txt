@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a ring element $a\\neq 0$, and it is not positive, then \n  $-a$ is positive.\\<close>\n", "statement": "lemma (in ring1) OrdRing_ZF_3_L2A: assumes \"a\\<in>R\"  \"a\\<noteq>\\<zero>\"  \"a \\<notin> R\\<^sub>+\"\n  shows \"(\\<rm>a) \\<in>  R\\<^sub>+\"\n  "}

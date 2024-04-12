@@ -1,0 +1,1 @@
+{"text": "text\\<open>A neccessary condition for two a. h. to be almost equal.\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_4_L11:\n  assumes A1: \"s\\<cong>r\"\n  shows \"{s`(n)\\<cdot>(r`(n))\\<inverse>. n\\<in>G} \\<in> Fin(G)\"\n"}

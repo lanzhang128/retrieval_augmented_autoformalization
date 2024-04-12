@@ -1,0 +1,1 @@
+{"text": "text\\<open>An alternative form of the definition of finite range functions.\\<close>\n"}

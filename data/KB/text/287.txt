@@ -1,0 +1,1 @@
+{"text": "text\\<open>First, we show that if the non-deterministic\nautomaton produces a reduction step to a word, then the deterministic one\nwe constructed does the same reduction step.\\<close>\n"}

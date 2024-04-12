@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma shows what happens when one element of a totally \n  ordered group is not greater or equal than another.\\<close>\n"}

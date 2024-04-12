@@ -1,0 +1,1 @@
+{"informal": " Assuming one-element sets {a} and {b}, prove that set {a \\* b} has exactly one element.", "statement": "lemma (in int0) Int_ZF_1_3_L3: \n  assumes A1: \"\\<one>\\<lsq>a\" \"\\<one>\\<lsq>b\"\n  shows \"\\<one> \\<lsq> a\\<cdot>b\"\n"}

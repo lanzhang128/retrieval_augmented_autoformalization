@@ -1,0 +1,1 @@
+{"text": "text\\<open>What is the value of \\<open>Fix1stVar(f,x)\\<close> at $y\\in Y$\n  and the value of \\<open>Fix2ndVar(f,y)\\<close> at $x\\in X$\"?\\<close>\n"}

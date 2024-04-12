@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>OrderedGroup_ZF_1_L5JA\\<close> where $c=1$.\\<close>\n"}

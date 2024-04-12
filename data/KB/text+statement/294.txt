@@ -1,0 +1,1 @@
+{"text": "text\\<open>A reformulation of \\<open>card_fin_is_nat\\<close>: for a finit\n  set $A$ there is a bijection between $|A|$ and $A$.\\<close>\n", "statement": "lemma fin_bij_card: assumes A1: \"A \\<in> FinPow(X)\"\n  shows \"\\<exists>b. b \\<in> bij(|A|, A)\"\n"}

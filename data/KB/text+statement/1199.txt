@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of positive field elements is closed under multiplication.\\<close>\n", "statement": "lemma (in field1) OrdField_ZF_1_L5: shows \"R\\<^sub>+ {is closed under} M\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A technical fact about reflexive relations.\\<close>\n", "statement": "lemma refl_add_point: \n  assumes \"refl(X,r)\" and \"A \\<subseteq> B \\<union> {x}\" and \"B \\<subseteq> X\" and\n  \"x \\<in> X\" and \"\\<forall>y\\<in>B. \\<langle>y,x\\<rangle> \\<in> r\"\n  shows \"\\<forall>a\\<in>A. \\<langle>a,x\\<rangle> \\<in> r\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>For reflexive relations singletons are bounded.\\<close>\n", "statement": "lemma Order_ZF_3_L1: assumes \"refl(X,r)\" and \"a\\<in>X\"\n  shows \"IsBounded({a},r)\"\n  "}

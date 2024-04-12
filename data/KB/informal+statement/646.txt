@@ -1,0 +1,1 @@
+{"informal": " If n is a natural number, then the binomial coefficient Binom(n+1, n+1) equals Binom(n, n).", "statement": "lemma binom_prop1: assumes \"n\\<in>nat\" \n  shows \"Binom(n #+ 1,n #+ 1) = Binom(n,n)\"\n"}

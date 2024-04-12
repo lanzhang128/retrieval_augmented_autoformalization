@@ -1,0 +1,1 @@
+{"text": "text\\<open>We don't decrease an element of the group by multiplying by one that is\n  nonnegative.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L5F:\n  assumes A1: \"\\<one>\\<lsq>a\" and A2: \"b\\<in>G\"\n  shows \"b\\<lsq>a\\<cdot>b\"  \"b\\<lsq>b\\<cdot>a\" \n"}

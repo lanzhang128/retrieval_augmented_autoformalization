@@ -1,0 +1,1 @@
+{"text": "text\\<open>The neutral element belongs to the translation of a set by the inverse\n  of an element that belongs to it.\\<close>\n", "statement": "lemma (in group0) elem_trans_neut: assumes A1: \"A\\<subseteq>G\" and A2: \"g\\<in>A\"\n  shows \"\\<one> \\<in> LeftTranslation(G,P,g\\<inverse>)``(A)\" \"\\<one> \\<in> RightTranslation(G,P,g\\<inverse>)``(A)\"\n"}

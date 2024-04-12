@@ -1,0 +1,1 @@
+{"text": "text\\<open>Finite set has a maximum - induction step.\\<close>\n"}

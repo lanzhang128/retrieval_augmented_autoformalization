@@ -1,0 +1,1 @@
+{"text": "text\\<open>The space of cosets is also finite. In particular, quotient groups.\\<close>\n", "statement": "lemma (in group0) finite_cosets:\n  assumes \"Finite(G)\" \"IsAsubgroup(H,P)\"\n  defines \"r \\<equiv> QuotientGroupRel(G,P,H)\"\n  shows \"Finite(G//r)\"\n"}

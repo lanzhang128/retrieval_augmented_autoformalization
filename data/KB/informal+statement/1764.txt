@@ -1,0 +1,1 @@
+{"informal": " If A is a subset of G, and g is an element of A, then g is an element of the set of integers A intersection taken over all natural numbers H.", "statement": "lemma (in topgroup) elem_in_int_sad: assumes \"A\\<subseteq>G\" \"g\\<in>A\" \"H \\<in> \\<N>\\<^sub>0\"\n  shows \"g \\<in> A\\<sad>int(H)\"\n"}

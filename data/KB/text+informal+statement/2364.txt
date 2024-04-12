@@ -1,0 +1,1 @@
+{"text": "text\\<open>Constant function is a function (i.e. belongs to a function space).\\<close>\n", "informal": " If element c is in the set Y, then the constant function from X to Y with value c holds.", "statement": "lemma func1_3_L1: \n  assumes A1: \"c\\<in>Y\" shows \"ConstantFunction(X,c) : X\\<rightarrow>Y\"\n"}

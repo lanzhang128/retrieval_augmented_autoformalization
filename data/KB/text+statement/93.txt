@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of the existence and uniqueess \n  of the order isomorphism for finite sets\n  when the first set is a natural number.\\<close>\n", "statement": "lemma (in enums) ord_iso_nat_fin:  \n  assumes \"A \\<in> FinPow(X)\" and \"n \\<in> nat\" and \"A \\<approx> n\"\n  shows \"\\<exists>!f. f \\<in> ord_iso(n,Le,A,r)\"\n  "}

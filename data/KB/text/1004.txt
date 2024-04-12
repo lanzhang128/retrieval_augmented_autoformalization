@@ -1,0 +1,1 @@
+{"text": "text\\<open>It is convenient to have the collection of all open balls in given (p) metrics defined\n  as a separate notion.\\<close>\n"}

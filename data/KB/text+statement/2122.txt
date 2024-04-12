@@ -1,0 +1,1 @@
+{"text": "text\\<open>The union of two compact sets, is compact; of any cardinality.\\<close>\n", "statement": "theorem union_compact:\n  assumes \"K{is compact of cardinal}Q{in}T\" \"K1{is compact of cardinal}Q{in}T\" \"InfCard(Q)\"\n  shows \"(K \\<union> K1){is compact of cardinal}Q{in}T\" unfolding IsCompactOfCard_def\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Finite nonempty subsets of integers attain maxima and minima.\\<close>\n"}

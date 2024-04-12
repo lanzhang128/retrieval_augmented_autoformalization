@@ -1,0 +1,1 @@
+{"text": "text\\<open>The opposite of an element of \\<open>\\<int>\\<^sub>+\\<close> cannot belong to\n  \\<open>\\<int>\\<^sub>+\\<close>.\\<close>\n", "informal": " Assuming a is a natural number, it is not an integer.", "statement": "lemma (in int0) Int_ZF_1_5_L8: assumes \"a \\<in> \\<int>\\<^sub>+\"\n  shows \"(\\<rm>a) \\<notin> \\<int>\\<^sub>+\"\n  "}

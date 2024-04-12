@@ -1,0 +1,1 @@
+{"text": "text\\<open>The cocountable topology on $\\mathbb{N}^+$ is not anti-hyperconnected.\\<close>\n", "informal": " The cocountable set of natural numbers successor elements is not anti-isomorphic to an is hollowly connected set.", "statement": "corollary cocountable_in_csucc_nat_notAntiHConn:\n  shows \"\\<not>((CoCountable csucc(nat)){is anti-}IsHConnected)\"\n"}

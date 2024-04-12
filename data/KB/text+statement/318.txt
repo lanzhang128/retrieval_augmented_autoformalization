@@ -1,0 +1,1 @@
+{"text": "text\\<open>An image of a finite set is finite.\\<close>\n", "statement": "lemma fin_image_fin: assumes \"\\<forall>V\\<in>B. K(V)\\<in>C\" and \"N \\<in> FinPow(B)\"\n  shows \"{K(V). V\\<in>N} \\<in> FinPow(C)\"\n"}

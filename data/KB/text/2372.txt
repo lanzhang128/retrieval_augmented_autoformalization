@@ -1,0 +1,1 @@
+{"text": "text\\<open>For injections the inverse image of an image is the same set.\\<close>\n"}

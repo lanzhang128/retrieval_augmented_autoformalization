@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a class of a slope $f$ is not zero, then either $f$ is \n  a positive slope or $-f$ is a positive slope. The real proof is in\n  \\<open>Int_ZF_2.thy.\\<close>\\<close>\n"}

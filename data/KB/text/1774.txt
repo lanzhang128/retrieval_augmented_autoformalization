@@ -1,0 +1,1 @@
+{"text": "text\\<open>Closure of a set is contained in the sum of the set and any\n  neighboorhood of zero.\\<close>\n"}

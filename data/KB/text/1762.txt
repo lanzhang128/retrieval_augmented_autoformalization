@@ -1,0 +1,1 @@
+{"text": "text\\<open>Taking negative preserves interior.\\<close>\n"}

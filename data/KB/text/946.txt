@@ -1,0 +1,1 @@
+{"text": "text\\<open>In a (nonempty) meet semi-lattice the relation down-directs the set. \\<close>\n"}

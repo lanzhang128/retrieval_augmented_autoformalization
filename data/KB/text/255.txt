@@ -1,0 +1,1 @@
+{"text": "text\\<open>Destruction lemma about deterministic finite\nstate automata.\\<close>\n"}

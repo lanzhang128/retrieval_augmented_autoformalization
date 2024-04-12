@@ -1,0 +1,1 @@
+{"text": "text\\<open>With this additional assumption $(M,A)$ becomes a group\n  and we can use theorems proven in ine \\<open>group0\\<close> context.\\<close>\n", "statement": "lemma (in finsupp1) group0_valid: shows \n  \"IsAgroup(M,A)\" and \"group0(M,A)\"\n  "}

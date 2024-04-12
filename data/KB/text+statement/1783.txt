@@ -1,0 +1,1 @@
+{"text": "text\\<open>The promised corollary follows:\\<close>\n", "statement": "corollary (in topgroup) T2_imp_T3:\n  assumes \"T{is T\\<^sub>2}\"\n  shows \"T{is T\\<^sub>3}\" "}

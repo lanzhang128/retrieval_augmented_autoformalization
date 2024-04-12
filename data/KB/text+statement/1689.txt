@@ -1,0 +1,1 @@
+{"text": "text\\<open>The closure of a set is the V-set of the intersection\nof all its points.\\<close>\n", "statement": "lemma (in ring0) closure_zariski:\n  assumes \"U \\<subseteq> Spec\" \"U\\<noteq>0\"\n  shows \"cl(U) = V(\\<Inter>U)\"\n"}

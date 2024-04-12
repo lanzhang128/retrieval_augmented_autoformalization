@@ -1,0 +1,1 @@
+{"informal": " Corollary LimitC_nat: The limit property holds for the natural numbers.", "statement": "corollary LimitC_nat:\n  shows \"LimitC(nat)\"\n"}

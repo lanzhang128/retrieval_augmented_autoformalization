@@ -1,0 +1,1 @@
+{"informal": " Given that x is strictly less than y and z is strictly less than t, it follows that the sum of x and z is strictly less than the sum of y and t.", "statement": "lemma (in loop1) add_ineq_strict: assumes \"x\\<ls>y\" \"z\\<ls>t\" \n  shows \"x\\<ra>z \\<ls> y\\<ra>t\"\n"}

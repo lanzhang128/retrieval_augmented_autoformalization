@@ -1,0 +1,1 @@
+{"text": "text\\<open> We can cancel the right element on both sides of an equation. \\<close>\n", "statement": "lemma (in quasigroup0) qg_cancel_right: \n  assumes \"x\\<in>G\" \"y\\<in>G\" \"z\\<in>G\" and \"y\\<cdot>x = z\\<cdot>x\"\n  shows \"y=z\"\n  "}

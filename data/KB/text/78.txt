@@ -1,0 +1,1 @@
+{"text": "text\\<open>The trichotomy law for the strict order on the complex \n  reals.\\<close>\n"}

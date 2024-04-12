@@ -1,0 +1,1 @@
+{"informal": " Assuming `X` is not zero and `c` is an element of `Y`, the constant function from `X` to `c` belongs to the set of finite range functions from `X` to `Y`.", "statement": "lemma Finite1_L17: assumes \"c\\<in>Y\" and \"X\\<noteq>0\"\n  shows \"ConstantFunction(X,c) \\<in> FinRangeFunctions(X,Y)\"\n  "}

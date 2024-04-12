@@ -1,0 +1,1 @@
+{"informal": " For real numbers a and b, exactly one of the following holds: a is strictly less than b, a is equal to b, or b is strictly less than a.", "statement": "lemma (in complex0) cplx_strict_ord_trich: \n  assumes \"a \\<in> \\<real>\"  \"b \\<in> \\<real>\"\n  shows \"Exactly_1_of_3_holds(a\\<lsr>b, a=b, b\\<lsr>a)\"\n  "}

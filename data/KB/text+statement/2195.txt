@@ -1,0 +1,1 @@
+{"text": "text\\<open>The spectrum of being resolvable follows:\\<close>\n", "statement": "corollary spectrum_resolvable:\n  shows \"(A{is in the spectrum of}IsRes) \\<longleftrightarrow> A=0\"\n"}

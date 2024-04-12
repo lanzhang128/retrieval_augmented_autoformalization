@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse image of the image of the domain is the domain.\\<close>\n", "statement": "lemma inv_im_dom: assumes A1: \"f:X\\<rightarrow>Y\" shows \"f-``(f``(X)) = X\"\n"}

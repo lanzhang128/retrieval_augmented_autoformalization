@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a$ is not greater than $b$, then it is strictly less than\n  $b+1$.\\<close>\n"}

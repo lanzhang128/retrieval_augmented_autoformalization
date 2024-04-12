@@ -1,0 +1,1 @@
+{"text": "text\\<open>Composing \\<open>move\\<close> with \\<open>embed\\<close> takes elements of \n  \\<open>small\\<close> to themselves.\\<close>\n", "informal": " If x is an element of a small set, then moving an embedding of x results in x itself.", "statement": "theorem (in generalization1) move_embed_plain: assumes \"x\\<in>small\" \n  shows \"move`(embed`(x)) = x\"\n"}

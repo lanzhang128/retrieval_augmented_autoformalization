@@ -1,0 +1,1 @@
+{"text": "text\\<open>Regularity can be rewritten in terms of existence of certain neighboorhoods.\\<close>\n", "statement": "lemma (in topology0) regular_imp_exist_clos_neig:\n  assumes \"T{is regular}\" and \"U\\<in>T\" and \"x\\<in>U\"\n  shows \"\\<exists>V\\<in>T. x\\<in>V \\<and> cl(V)\\<subseteq>U\"\n"}

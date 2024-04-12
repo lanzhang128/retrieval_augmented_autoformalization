@@ -1,0 +1,1 @@
+{"text": "text\\<open>Given a base injective with a set, then we can find a\nbase whose elements are indexed by that set.\\<close>\n"}

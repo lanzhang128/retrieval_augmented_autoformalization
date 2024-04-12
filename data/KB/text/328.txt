@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma serves as a workaround to problems with applying \n  the definition of transitivity (of a relation) in our coding style \n  (any attempt to do\n  something like \\<open>using trans_def\\<close> puts Isabelle in an \n  infinite loop).\\<close>\n"}

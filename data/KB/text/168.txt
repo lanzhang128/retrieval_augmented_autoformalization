@@ -1,0 +1,1 @@
+{"text": "text\\<open>The neutral element of the lifted (pointwise) \n  operation is the function equal zero everywhere.\n  In the next lemma we show that this is a finitely\n  supported function.\\<close>\n"}

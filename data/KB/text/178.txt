@@ -1,0 +1,1 @@
+{"text": "text\\<open>Purely technical lemma used in \\<open>Topology_ZF_1\\<close> to show \n  that if a topology is $T_2$, then it is $T_1$.\\<close>\n"}

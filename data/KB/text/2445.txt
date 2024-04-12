@@ -1,0 +1,1 @@
+{"text": "text\\<open>If two sets are order isomorphic and \n  we remove maxima from the sets, then they are still\n  order isomorphic.\\<close>\n"}

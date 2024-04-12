@@ -1,0 +1,1 @@
+{"text": "text\\<open>Simple fact used a couple of times in proofs.\\<close>\n", "statement": "lemma nat_less_infty: assumes \"n\\<in>nat\" and \"InfCard(X)\" shows \"n<X\"\n"}

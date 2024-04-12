@@ -1,0 +1,1 @@
+{"text": "text\\<open>The quotient projection is a surjection. Again $r$ does not need to be an equivalence relation \n here \\<close>\n"}

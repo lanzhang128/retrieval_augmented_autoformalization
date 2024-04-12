@@ -1,0 +1,1 @@
+{"informal": " A set T is Luzin if and only if every subset A of T that is nowhere dense in T has a subset with fewer elements that is included in natural numbers.", "statement": "definition\n  IsLuzin (\"_ {is luzin}\") where\n  \"T{is luzin} \\<equiv> \\<forall>A\\<in>Pow(\\<Union>T). (A{is nowhere dense in}T) \\<longrightarrow> A\\<lesssim>nat\"\n"}

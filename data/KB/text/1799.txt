@@ -1,0 +1,1 @@
+{"text": "text\\<open>Singletons are compact. Interestingly we do not have\n  to assume that $T$ is a topology for this.\n  Note singletons do not have to be closed, we need the\n  the space to be $T_1$ for that (see \\<open>Topology_ZF_1)\\<close>. \\<close>\n"}

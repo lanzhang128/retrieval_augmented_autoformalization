@@ -1,0 +1,1 @@
+{"text": "text\\<open>The topology\nwhich comes from a filter as in @{thm \"top_of_filter\"} is not $T_2$ generally.\n  We will see in this file later on, that the exceptions are a consequence of the spectrum.\\<close>\n"}

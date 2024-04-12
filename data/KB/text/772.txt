@@ -1,0 +1,1 @@
+{"text": "text\\<open>If two slopes are almost equal, then the difference has finite range.\n  This is the inverse of \\<open>Int_ZF_2_1_L9C\\<close>.\\<close>\n"}

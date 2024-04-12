@@ -1,0 +1,1 @@
+{"informal": " In the integer domain, the relation \"m + one = n\" is identical to \"m is an element of int(m + 1)\".", "statement": "lemma (in int0) Int_ZF_1_5_L3: shows \"m\\<in>\\<int>\\<^sub>+ \\<longleftrightarrow> \\<one>\\<lsq>m\"\n"}

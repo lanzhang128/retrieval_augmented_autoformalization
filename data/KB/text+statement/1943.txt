@@ -1,0 +1,1 @@
+{"text": "text\\<open>A base filter satisfies the filter base condition.\\<close>\n", "statement": "theorem basic_filter_2:\n  assumes \"C {is a base filter} \\<FF>\" and \"\\<FF> {is a filter on} \\<Union>\\<FF>\"\n  shows \"C {satisfies the filter base condition}\"\n"}

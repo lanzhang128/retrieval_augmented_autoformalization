@@ -1,0 +1,1 @@
+{"informal": " If sets A and B are closed under a function f, then the intersection of A and B is closed under f.", "statement": "lemma func_ZF_4_L7:\n  assumes \"A {is closed under} f\"\n  \"B {is closed under} f\"\n  shows \"A\\<inter>B {is closed under} f\"\n  "}

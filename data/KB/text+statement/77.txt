@@ -1,0 +1,1 @@
+{"text": "text\\<open>The (non strict) order on complex reals is antisymmetric,\n  transitive and total.\\<close>\n", "statement": "lemma (in complex0) cplx_ord_antsym_trans_tot: shows\n  \"antisym(CplxROrder(R,A,r))\"\n  \"trans(CplxROrder(R,A,r))\"\n  \"CplxROrder(R,A,r) {is total on} \\<real>\"\n"}

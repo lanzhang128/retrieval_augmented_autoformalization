@@ -1,0 +1,1 @@
+{"text": "text\\<open>The result of the monoid operation is in the monoid (carrier).\\<close>\n", "informal": " Assuming `a` and `b` belong to a monoid `G`, then `a + b` also belongs to `G`.", "statement": "lemma (in monoid0) group0_1_L1: \n  assumes \"a\\<in>G\"  \"b\\<in>G\" shows \"a\\<oplus>b \\<in> G\" \n  "}

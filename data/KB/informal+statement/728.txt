@@ -1,0 +1,1 @@
+{"informal": " Assuming A is a subset of the non-negative integers, we can prove that A is bounded below in the order of integers.", "statement": "lemma (in int0) Int_ZF_1_5_L1B: assumes A1: \"A \\<subseteq> \\<int>\\<^sub>+\" \n  shows \"IsBoundedBelow(A,IntegerOrder)\"\n  "}

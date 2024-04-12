@@ -1,0 +1,1 @@
+{"text": "text\\<open>A set is closed iff it is equal to its closure.\\<close>\n"}

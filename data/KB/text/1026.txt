@@ -1,0 +1,1 @@
+{"text": "text\\<open>For nonempty lists our $\\Sigma$ is the same as \\<open>Fold1\\<close>. \\<close>\n"}

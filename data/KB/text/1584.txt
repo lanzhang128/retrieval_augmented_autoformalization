@@ -1,0 +1,1 @@
+{"text": "text\\<open>The essential condition to claim that the candidate for supremum\n  of $S$ is greater or equal than all elements of $S$.\\<close>\n"}

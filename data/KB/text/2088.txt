@@ -1,0 +1,1 @@
+{"text": "text\\<open>The closure of a set is itself if it is closed or the whole space if it is not.\\<close>\n"}

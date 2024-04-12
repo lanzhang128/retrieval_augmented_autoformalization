@@ -1,0 +1,1 @@
+{"text": "text\\<open>Yet another way of expressing value of a function.\\<close>\n"}

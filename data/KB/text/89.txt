@@ -1,0 +1,1 @@
+{"text": "text\\<open>And the value belongs to the set the operation is defined on.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If an element of the domain of a function belongs to a set, \n  then its value belongs to the image of that set.\\<close>\n"}

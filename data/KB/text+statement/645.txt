@@ -1,0 +1,1 @@
+{"text": "text\\<open>A version \\<open>binom_prop\\<close> where we write $k+1$ instead of $k$.\\<close>\n", "statement": "lemma binom_prop2: assumes \"n\\<in>nat\" \"k \\<in> n #+ 1\"\n  shows \"Binom(n #+ 1,k #+ 1) = Binom(n,k #+ 1) #+ Binom(n,k)\"\n"}

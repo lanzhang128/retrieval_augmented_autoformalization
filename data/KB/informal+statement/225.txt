@@ -1,0 +1,1 @@
+{"informal": " Given natural numbers n, if function a maps n to X, and X contains an element x, then the initialized append of a and x equals a.", "statement": "lemma init_append: assumes A1: \"n \\<in> nat\" and A2: \"a:n\\<rightarrow>X\" and A3: \"x \\<in> X\"\n  shows \"Init(Append(a,x)) = a\"\n"}

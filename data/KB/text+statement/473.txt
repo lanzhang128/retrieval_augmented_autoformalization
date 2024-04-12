@@ -1,0 +1,1 @@
+{"text": "text\\<open> If $H,K$ are subgroups then $H\\cdot K$ is a subgroup iff $H\\cdot K = K\\cdot H$. \\<close>\n", "statement": "theorem (in group4) prod_subgr_subgr: \n  assumes \"IsAsubgroup(H,P)\" and \"IsAsubgroup(K,P)\"\n  shows \"IsAsubgroup(H\\<sdot>K,P) \\<longleftrightarrow>  H\\<sdot>K = K\\<sdot>H\"\n"}

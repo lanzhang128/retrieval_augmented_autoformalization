@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $X$ is a set with a binary operation $f:X\\times Y \\rightarrow X$ then \n  \\<open>Seq2TransSeqN(f,a)\\<close> converts a sequence $a$ of elements of $Y$  \n  into the sequence of corresponding transformations of $X$.\\<close>\n"}

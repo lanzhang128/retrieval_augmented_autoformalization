@@ -1,0 +1,1 @@
+{"text": "text\\<open>A somewhat generalized version of the above lemma.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_3_L8B:\n  assumes A1: \"a\\<in>G\" and A2: \"\\<bar>a\\<bar>\\<lsq>L\" and A3: \"\\<one>\\<lsq>c\"\n  shows \"(L\\<cdot>c)\\<inverse> \\<lsq> a\"\n"}

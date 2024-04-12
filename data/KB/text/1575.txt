@@ -1,0 +1,1 @@
+{"text": "text\\<open>The difference between the a number and the embedding of its floor\n  is (strictly) less than one.\\<close>\n"}

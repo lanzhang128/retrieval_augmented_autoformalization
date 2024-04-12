@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the image of a set is not empty, then the set is not empty.\n  Proof by contradiction.\\<close>\n", "informal": " If `f` of `A` is non-zero, then `A` is non-zero.", "statement": "lemma func1_1_L13A: assumes A1: \"f``(A)\\<noteq>0\" shows \"A\\<noteq>0\"\n  "}

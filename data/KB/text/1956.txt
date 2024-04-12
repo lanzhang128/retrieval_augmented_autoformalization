@@ -1,0 +1,1 @@
+{"text": "text\\<open>Filter of a net is indeed a filter\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " In the context of the \"field0\" theory, it is proven that \"K\" is a field for the set \"A\" with respect to the multiplication operation \"M\".", "statement": "lemma (in field0) Field_ZF_1_L1: shows \"IsAfield(K,A,M)\"\n  "}

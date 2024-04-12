@@ -1,0 +1,1 @@
+{"text": "text\\<open>The previous lemmas imply that the group of homeomorphisms of the included set topology\nis the same as the one of the excluded set topology.\\<close>\n", "statement": "lemma homeo_included:\n  assumes \"T\\<subseteq>X\"\n  shows \"HomeoG(IncludedSet(X,T))={f \\<in> bij(X, X) . f `` (X - T) = X - T}\"\n"}

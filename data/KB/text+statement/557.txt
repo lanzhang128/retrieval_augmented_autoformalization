@@ -1,0 +1,1 @@
+{"text": "text\\<open>A sufficient condition for two a. h. to be almost equal.\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_4_L12: assumes A1: \"s\\<in>AH\"  \"r\\<in>AH\"\n  and A2: \"{s`(n)\\<cdot>(r`(n))\\<inverse>. n\\<in>G} \\<in> Fin(G)\"\n  shows \"s\\<cong>r\"\n"}

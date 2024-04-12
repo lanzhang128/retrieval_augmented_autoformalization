@@ -1,0 +1,1 @@
+{"text": "text\\<open>The order relation in rings is transitive.\\<close>\n", "statement": "lemma (in ring1) ring_ord_transitive: assumes A1: \"a\\<lsq>b\"  \"b\\<lsq>c\"\n  shows \"a\\<lsq>c\"\n"}

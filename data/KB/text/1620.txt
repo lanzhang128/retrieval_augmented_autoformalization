@@ -1,0 +1,1 @@
+{"text": "text\\<open>Zero and one of the ring are elements of the ring. The negative of zero\n  is zero.\\<close>\n"}

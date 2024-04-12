@@ -1,0 +1,1 @@
+{"informal": " If a topology T is ultrametric (i.e., the Ultrametric Space axiom holds), then T is a T1 space (i.e., every point is closed and every two distinct points have disjoint open balls).", "statement": "theorem (in topology0) US_imp_T1:\n  assumes \"T{is US}\"\n  shows \"T{is T\\<^sub>1}\"\n"}

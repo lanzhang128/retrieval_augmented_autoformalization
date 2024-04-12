@@ -1,0 +1,1 @@
+{"informal": " If relation r is total on the entire set X, then it is also total on the subset A of X.", "statement": "lemma Order_ZF_1_L4: assumes \"r {is total on} X\" and \"A\\<subseteq>X\"\n  shows \"r {is total on} A\"\n  "}

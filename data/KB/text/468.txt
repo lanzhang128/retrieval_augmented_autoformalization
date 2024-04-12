@@ -1,0 +1,1 @@
+{"text": "text\\<open>The product of two subsets of a group is a subset of the group.\\<close>\n"}

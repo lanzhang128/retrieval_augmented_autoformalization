@@ -1,0 +1,1 @@
+{"informal": " In the theory `two_top_spaces0`, we have:\n\n Lemma `topol_cntxs_valid`: The sets `topology0(\\<tau>1)` and `topology0(\\<tau>2)` are valid topologies.", "statement": "lemma (in two_top_spaces0) topol_cntxs_valid:\n  shows \"topology0(\\<tau>\\<^sub>1)\" and \"topology0(\\<tau>\\<^sub>2)\"\n  "}

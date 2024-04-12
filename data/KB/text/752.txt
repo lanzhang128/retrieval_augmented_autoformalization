@@ -1,0 +1,1 @@
+{"text": "text\\<open>If an image of a set defined by separation \n  by a integer function with infinite negative limit \n  is bounded below, then the set itself is bounded above.\n  This is dual to \\<open> Int_ZF_1_6_L2\\<close>.\\<close>\n"}

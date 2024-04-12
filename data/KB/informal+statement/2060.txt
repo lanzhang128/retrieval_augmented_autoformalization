@@ -1,0 +1,1 @@
+{"informal": " \"CoCardinal(X, T) holds if and only if the power set of X minus a non-empty subset F of X is a proper subset of T.\"", "statement": "definition \n\"CoCardinal(X,T) \\<equiv> {F\\<in>Pow(X). X-F \\<prec> T}\\<union> {0}\"\n"}

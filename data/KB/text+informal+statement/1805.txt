@@ -1,0 +1,1 @@
+{"text": "text\\<open>Interior of a bigger set is bigger.\\<close>\n", "informal": " In the context of topology0, if event A is a subset of event B, then the interior of A is a subset of the interior of B.", "statement": "lemma (in topology0) interior_mono: \n  assumes A1: \"A\\<subseteq>B\" shows \"int(A) \\<subseteq> int(B)\"\n"}

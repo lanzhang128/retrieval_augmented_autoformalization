@@ -1,0 +1,1 @@
+{"text": "text\\<open>Let's recall that the relation of almost equality is an equivalence relation\n  on the set of slopes.\\<close>\n"}

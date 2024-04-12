@@ -1,0 +1,1 @@
+{"informal": " In the group3 theory, if a relation r is total on the group G, then relation r is a linear order on G.", "statement": "lemma (in group3) group_ord_total_is_lin:\n  assumes \"r {is total on} G\"\n  shows \"IsLinOrder(G,r)\"\n  "}

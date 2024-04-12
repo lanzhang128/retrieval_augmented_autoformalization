@@ -1,0 +1,1 @@
+{"text": "text\\<open>We define positive slopes as those that take an infinite number of \n  posititive values on the positive integers (see \\<open>Int_ZF_2\\<close> \n  for properties of positive slopes).\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A slice projection is a bijection between $X\\times\\{ y\\}$ and $X$.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the axiom of choice holds for some cardinal,\nthen we can drop the compact sets of that cardial are compact of the same cardinal\nas subspaces of every superspace.\\<close>\n"}

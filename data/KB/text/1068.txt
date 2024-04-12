@@ -1,0 +1,1 @@
+{"text": "text\\<open>For a natural $n$ if $k\\in n+1$ then $k+1\\leq n+1$.\\<close>\n"}

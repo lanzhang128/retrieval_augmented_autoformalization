@@ -1,0 +1,1 @@
+{"text": "text\\<open>Any maximal ideal is prime\\<close>\n", "statement": "theorem (in ring0) maximal_is_prime:\n  assumes \"Q\\<triangleleft>\\<^sub>mR\"\n  shows \"Q\\<triangleleft>\\<^sub>pR\"\n"}

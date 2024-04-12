@@ -1,0 +1,1 @@
+{"text": "text\\<open>A technical lemma about extending a list by values from a set.\\<close> \n"}

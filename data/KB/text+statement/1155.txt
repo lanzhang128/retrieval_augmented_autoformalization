@@ -1,0 +1,1 @@
+{"text": "text\\<open>Set that has a maximum is bounded above.\\<close>\n", "statement": "lemma Order_ZF_4_L7:\n  assumes \"HasAmaximum(r,A)\"\n  shows \"IsBoundedAbove(A,r)\"\n  "}

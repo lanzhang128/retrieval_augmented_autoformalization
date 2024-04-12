@@ -1,0 +1,1 @@
+{"text": "text\\<open>Intersection of sets that are\n  closed with respect to an operation is closed under \n  the operation.\\<close>\n", "statement": "lemma func_ZF_4_L7:\n  assumes \"A {is closed under} f\"\n  \"B {is closed under} f\"\n  shows \"A\\<inter>B {is closed under} f\"\n  "}

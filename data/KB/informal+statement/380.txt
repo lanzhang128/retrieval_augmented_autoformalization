@@ -1,0 +1,1 @@
+{"informal": " In general, if an object x belongs to the small set, then the result of embedding x using the zf_move function is equal to x itself.", "statement": "theorem (in generalization) zf_move_embed: \n  assumes \"x \\<in> small\" shows \"zf_move`(embed`(x)) = x\"\n  "}

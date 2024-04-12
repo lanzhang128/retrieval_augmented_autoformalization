@@ -1,0 +1,1 @@
+{"text": "text\\<open>The sum of monoid valued functions is a monoid valued function.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " In the group0 theory, if element a and element b belong to the group G, then the inverse of their product is equal to the product of their inverses.", "statement": "lemma (in group0) group_inv_of_two:\n  assumes A1: \"a\\<in>G\" and A2: \"b\\<in>G\" \n  shows \" b\\<inverse>\\<cdot>a\\<inverse> = (a\\<cdot>b)\\<inverse>\"\n"}

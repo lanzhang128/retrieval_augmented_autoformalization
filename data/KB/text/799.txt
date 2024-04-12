@@ -1,0 +1,1 @@
+{"text": "text\\<open>This is Lemma 8 in the Arthan's paper.\\<close>\n"}

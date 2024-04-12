@@ -1,0 +1,1 @@
+{"text": "text\\<open>For linearly ordered groups (where the order is total), the absolute\n  value maps the group into the positive set.\\<close>\n"}

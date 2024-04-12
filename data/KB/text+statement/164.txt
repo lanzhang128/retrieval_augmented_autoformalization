@@ -1,0 +1,1 @@
+{"text": "text\\<open>The sum of monoid valued functions is a monoid valued function.\\<close>\n", "statement": "lemma (in finsupp) lifted_op_closed: \n  assumes \"f:X \\<rightarrow>M\"  \"g:X \\<rightarrow>M\" \n  shows \"f\\<oplus>g : X\\<rightarrow>M\"\n"}

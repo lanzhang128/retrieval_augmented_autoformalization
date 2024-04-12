@@ -1,0 +1,1 @@
+{"text": "text\\<open>Equivalence classes are not empty.\\<close>\n"}

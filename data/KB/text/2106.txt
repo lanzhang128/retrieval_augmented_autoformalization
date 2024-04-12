@@ -1,0 +1,1 @@
+{"text": "text\\<open>There is a formula for the interior\ngiven by an intersection of sets of the dual base.\nIs the intersection of all the closed sets of the dual basis\nsuch that they do not complement $A$ to $X$.\nSince the interior of $X$ must be inside $X$, we have to \nenter $X$ as one of the sets to be intersected.\\<close>\n"}

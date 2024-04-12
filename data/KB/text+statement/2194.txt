@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every resolvable space is also perfect.\\<close>\n", "statement": "theorem (in topology0) resolvable_imp_perfect:\n  assumes \"T{is resolvable}\"\n  shows \"T{is perfect}\"\n"}

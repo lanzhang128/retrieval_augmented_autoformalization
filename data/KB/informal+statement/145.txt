@@ -1,0 +1,1 @@
+{"informal": " In the field K, if a and b are elements, b is non-zero, and c is also an element, then a times b times the multiplicative inverse of b equals a times c.", "statement": "lemma (in field0) Field_ZF_2_L6: assumes A1: \"a\\<in>K\"  \"b\\<in>K\"  \"b\\<noteq>\\<zero>\"  \"c\\<in>K\"\n  shows \"a\\<cdot>b\\<cdot>(c\\<cdot>b\\<inverse>) = a\\<cdot>c\"\n"}

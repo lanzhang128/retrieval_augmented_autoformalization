@@ -1,0 +1,1 @@
+{"text": "text\\<open>A reverse of  \\<open>cl_inter_neigh\\<close>: if every open neiboorhood of a point\n  has a nonempty intersection with a set, then that point belongs to the closure\n  of the set.\\<close>\n"}

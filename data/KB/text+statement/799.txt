@@ -1,0 +1,1 @@
+{"text": "text\\<open>This is Lemma 8 in the Arthan's paper.\\<close>\n", "statement": "lemma (in int1) Arthan_Lem_8: assumes A1: \"f\\<in>\\<S>\"\n  shows \"\\<exists>A B. A\\<in>\\<int> \\<and> B\\<in>\\<int> \\<and> (\\<forall>p\\<in>\\<int>. abs(f`(p)) \\<lsq> A\\<cdot>abs(p)\\<ra>B)\"\n"}

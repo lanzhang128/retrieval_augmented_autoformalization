@@ -1,0 +1,1 @@
+{"text": "text\\<open> Barycentric refinement of a barycentric refinement is a star refinement. \\<close>\n", "statement": "lemma bary_bary_star: \n  assumes \"P\\<in>Covers(X)\" \"Q\\<in>Covers(X)\" \"R\\<in>Covers(X)\" \"P <\\<^sup>B Q\" \"Q <\\<^sup>B R\" \"X\\<noteq>0\" \n  shows \"P <\\<^sup>* R\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>It happens quite often that we know what is (have a meta-function for) \n  the right inverse in a group. The next lemma shows that the value \n  of the group inverse (function) is equal to the right inverse \n  (meta-function).\\<close>\n"}

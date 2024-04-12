@@ -1,0 +1,1 @@
+{"text": "text\\<open>The ideals of the quotient ring are in bijection\nwith the ideals of the original ring that contain the ideal\nby which we made the quotient.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The boundary of a set is \\<open>0\\<close> if $A$ is \\<open>X\\<close> or \\<open>0\\<close>, and \\<open>X\\<inter>T\\<close> in other case. \\<close>\n", "statement": "lemma boundary_excludedset:\n  assumes \"A\\<subseteq>X\"\n  shows \"Boundary(A,ExcludedSet(X,T)) = (if A=0\\<or>A=X then 0 else X\\<inter>T)\"\n"}

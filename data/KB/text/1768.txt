@@ -1,0 +1,1 @@
+{"text": "text\\<open>Left translating an open set by a negative of a point that belongs to it\n  makes it a neighboorhood of zero.\\<close>\n"}

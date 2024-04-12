@@ -1,0 +1,1 @@
+{"informal": " For all natural numbers n not equal to zero, there exists a natural number m such that n is the successor of m.", "statement": "lemma nat_not0_succ: assumes \"n\\<in>nat\" \"n\\<noteq>0\"\n  shows \"\\<exists>m\\<in>nat. n = m #+1\"\n  "}

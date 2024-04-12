@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma about inclusion in cartesian products. Included here to remember\n  that we need the $U\\times V \\neq \\emptyset$ assumption.\\<close>\n", "statement": "lemma prod_subset: assumes \"U\\<times>V\\<noteq>0\" \"U\\<times>V \\<subseteq> X\\<times>Y\" shows \"U\\<subseteq>X\" and \"V\\<subseteq>Y\"\n  "}

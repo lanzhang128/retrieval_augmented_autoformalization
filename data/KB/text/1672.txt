@@ -1,0 +1,1 @@
+{"text": "text\\<open>The quotient map is a homomorphism of rings\\<close>\n"}

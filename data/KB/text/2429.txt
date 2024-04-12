@@ -1,0 +1,1 @@
+{"text": "text\\<open>A kind of induction for the identity: if a function\n  $f$ is the identity on a set with a fixpoint of $f$\n  removed, then it is the indentity on the whole set.\\<close>\n"}

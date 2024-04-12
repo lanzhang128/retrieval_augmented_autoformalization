@@ -1,0 +1,1 @@
+{"informal": " In the real numbers, if m and k are integers, then the real power m raised to the power k equals the real number result of multiplying m raised to the power of k.", "statement": "lemma (in real1) Real_ZF_1_4_L1A: assumes \"m \\<in> int\"  \"k \\<in> int\"\n  shows \"m\\<^sup>R \\<ra> k\\<^sup>R = ((m\\<za>k)\\<^sup>R)\"\n  "}

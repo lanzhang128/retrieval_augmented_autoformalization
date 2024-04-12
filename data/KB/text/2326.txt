@@ -1,0 +1,1 @@
+{"text": "text\\<open>A way of defining a function on a union of two possibly overlapping sets. We decompose the \nunion into two differences and the intersection and define a function separately on each part.\\<close>\n"}

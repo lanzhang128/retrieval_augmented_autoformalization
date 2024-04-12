@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can multiply the sides of an inequality with absolute value.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_3_L7C:\n  assumes \"P {is commutative on} G\" \n  and \"r {is total on} G\" \"a\\<in>G\" \"b\\<in>G\"\n  and \"\\<bar>a\\<bar> \\<lsq> c\"  \"\\<bar>b\\<bar> \\<lsq> d\"\n  shows \"\\<bar>a\\<cdot>b\\<bar> \\<lsq> c\\<cdot>d\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " Given a function f from X to Y (A1), the domain of its inverse image under A is a subsetsX of X.", "statement": "lemma func1_1_L6A: assumes A1: \"f:X\\<rightarrow>Y\" shows \"f-``(A)\\<subseteq>X\"\n"}

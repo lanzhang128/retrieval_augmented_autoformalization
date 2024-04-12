@@ -1,0 +1,1 @@
+{"text": "text\\<open>The family itself is in its supersets. \\<close>\n", "statement": "lemma superset_gen: assumes \"A\\<subseteq>X\" \"A\\<in>\\<A>\" shows \"A \\<in> Supersets(X,\\<A>)\"\n  "}

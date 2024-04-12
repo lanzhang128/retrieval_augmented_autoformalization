@@ -1,0 +1,1 @@
+{"text": "text\\<open>The strict version of the complex relation is a \n  relation on complex reals.\\<close>\n"}

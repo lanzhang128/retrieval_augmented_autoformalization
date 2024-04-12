@@ -1,0 +1,1 @@
+{"text": "text\\<open>All elements greater or equal than an element of \\<open>R\\<^sub>+\\<close>\n  belong to \\<open>R\\<^sub>+\\<close>. Property of ordered groups.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next two lemmas state that unless we multiply by \n  the neutral element, the result is always \n  different than any of the operands.\\<close>\n"}

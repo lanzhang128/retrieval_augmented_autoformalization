@@ -1,0 +1,1 @@
+{"text": "text\\<open>The absolute value of zero is zero.\\<close>\n", "statement": "lemma (in int0) Int_ZF_2_L18: shows \"abs(\\<zero>) = \\<zero>\"\n  "}

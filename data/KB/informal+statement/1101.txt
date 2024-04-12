@@ -1,0 +1,1 @@
+{"informal": " If relation r down-directs at X and is a subset of relation R, then R also down-directs at X.", "statement": "lemma down_dir_mono: assumes \"r {down-directs} X\" \"r\\<subseteq>R\"\n  shows \"R {down-directs} X\" "}

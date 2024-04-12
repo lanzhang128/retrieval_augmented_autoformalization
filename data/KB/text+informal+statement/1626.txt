@@ -1,0 +1,1 @@
+{"text": "text\\<open>Minus times minus is plus.\\<close>\n", "informal": " In the ring `R`, if `a` and `b` are elements, then `a * b` equals `a * b`.", "statement": "lemma (in ring0) Ring_ZF_1_L7A: assumes \"a\\<in>R\"  \"b\\<in>R\"\n  shows \"(\\<rm>a)\\<cdot>(\\<rm>b) = a\\<cdot>b\"\n  "}

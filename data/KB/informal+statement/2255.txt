@@ -1,0 +1,1 @@
+{"informal": " If U times V is non-empty and U times V is a subset of X times Y, then U is a subset of X and V is a subset of Y.", "statement": "lemma prod_subset: assumes \"U\\<times>V\\<noteq>0\" \"U\\<times>V \\<subseteq> X\\<times>Y\" shows \"U\\<subseteq>X\" and \"V\\<subseteq>Y\"\n  "}

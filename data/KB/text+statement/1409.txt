@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can add the sides of two inequalities,\n  the second of them strict and we get a strict inequality. \n  Property of ordered groups.\\<close>\n", "statement": "lemma (in ring1) OrdRing_ZF_1_L20:\n  assumes \"a\\<lsq>b\" and \"c\\<ls>d\"\n  shows \"a\\<ra>c \\<ls> b\\<ra>d\"\n  "}

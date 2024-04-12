@@ -1,0 +1,1 @@
+{"text": "text\\<open>For equivalence relations sets are contained in their images.\\<close> \n", "statement": "lemma EquivClass_3_L2: assumes A1: \"equiv(X,r)\" and A2: \"A\\<subseteq>X\"\n  shows \"A \\<subseteq> r``(A)\"\n"}

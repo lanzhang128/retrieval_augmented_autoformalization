@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma allows to prove statements about the values in the\n  domain of a function given a statement about values in the range.\\<close>\n", "statement": "lemma func1_1_L15B: \n  assumes \"f:X\\<rightarrow>Y\" and \"A\\<subseteq>X\" and \"\\<forall>y\\<in>f``(A). P(y)\"\n  shows \"\\<forall>x\\<in>A. P(f`(x))\"\n  "}

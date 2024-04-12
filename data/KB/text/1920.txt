@@ -1,0 +1,1 @@
+{"text": "text\\<open>Product topology base is closed with respect to intersections.\\<close>\n"}

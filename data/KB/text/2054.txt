@@ -1,0 +1,1 @@
+{"text": "text\\<open>We now give some lemmas that will help us compute \\<open>HomeoG(IncludedSet(X,T))\\<close>.\\<close>\n"}

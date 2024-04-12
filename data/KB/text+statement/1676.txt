@@ -1,0 +1,1 @@
+{"text": "text\\<open>Since the map is surjective, this bijection\nrestricts to prime ideals on both sides.\\<close>\n", "statement": "corollary (in ring_homo) prime_ideal_quot_3:\n  assumes \"K\\<triangleleft>R\\<^sub>t\" \"f:surj(R,S)\"\n  shows \"K\\<triangleleft>\\<^sub>pR\\<^sub>t \\<longleftrightarrow> ((f-``K)\\<triangleleft>\\<^sub>pR\\<^sub>o)\"\n"}

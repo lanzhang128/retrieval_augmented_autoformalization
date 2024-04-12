@@ -1,0 +1,1 @@
+{"text": "text\\<open>The class of the neutral element is the neutral element of the\n  projected monoid.\\<close>\n"}

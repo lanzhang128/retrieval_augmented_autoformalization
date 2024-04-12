@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma is about the strict version of an antisymmetric\n  relation.\\<close>\n", "statement": "lemma strict_of_antisym: \n  assumes A1: \"antisym(r)\" and A2: \"\\<langle>a,b\\<rangle> \\<in> StrictVersion(r)\"\n  shows \"\\<langle>b,a\\<rangle> \\<notin> StrictVersion(r)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>There are three types of cardinals, the zero one, the succesors\nof other cardinals and the limit cardinals.\\<close>\n"}

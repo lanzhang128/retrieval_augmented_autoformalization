@@ -1,0 +1,1 @@
+{"text": "text\\<open>The closure of a set is itself if it is closed or \\<open>X\\<close> if\nit isn't closed.\\<close>\n"}

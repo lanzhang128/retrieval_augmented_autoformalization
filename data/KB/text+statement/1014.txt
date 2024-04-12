@@ -1,0 +1,1 @@
+{"text": "text\\<open>The monoid carrier is not empty.\\<close>\n", "statement": "lemma (in monoid0) group0_1_L3A: shows \"G\\<noteq>0\"\n"}

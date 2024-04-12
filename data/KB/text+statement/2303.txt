@@ -1,0 +1,1 @@
+{"text": "text\\<open>The arguments belongs to the domain and values to the range.\\<close>\n", "statement": "lemma func1_1_L5: \n  assumes A1: \"\\<langle> x,y\\<rangle> \\<in> f\" and A2: \"f:X\\<rightarrow>Y\"  \n  shows \"x\\<in>X \\<and> y\\<in>Y\" \n"}

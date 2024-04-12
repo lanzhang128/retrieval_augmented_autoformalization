@@ -1,0 +1,1 @@
+{"text": "text\\<open>Group inverse is nilpotent, therefore a bijection and involution.\\<close>\n"}

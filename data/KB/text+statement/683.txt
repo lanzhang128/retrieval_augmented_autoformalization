@@ -1,0 +1,1 @@
+{"text": "text\\<open>Product of integers that are greater that one is greater than one.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_3_L3: \n  assumes A1: \"\\<one>\\<lsq>a\" \"\\<one>\\<lsq>b\"\n  shows \"\\<one> \\<lsq> a\\<cdot>b\"\n"}

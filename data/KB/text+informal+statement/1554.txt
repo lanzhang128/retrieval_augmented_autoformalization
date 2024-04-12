@@ -1,0 +1,1 @@
+{"text": "text\\<open>Embeddings of two integers are equal only if the integers are equal.\\<close>\n", "informal": " Assuming m and k are both integers and their real numbers representations are equal, m is equal to k.", "statement": "lemma (in real1) Real_ZF_1_4_L4: \n  assumes A1: \"m \\<in> int\"  \"k \\<in> int\" and A2: \"m\\<^sup>R = k\\<^sup>R\"\n  shows \"m=k\"\n"}

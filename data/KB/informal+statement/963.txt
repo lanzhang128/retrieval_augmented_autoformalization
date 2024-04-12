@@ -1,0 +1,1 @@
+{"informal": " If A is a non-zero complex number in the theory MMIsar0, then the reciprocal of its reciprocal equals A.", "statement": "lemma (in MMIsar0) MMI_recrect: \n   shows \"( A \\<in> \\<complex> \\<and> A \\<noteq> \\<zero> ) \\<longrightarrow> \n ( \\<one> \\<cdiv> ( \\<one> \\<cdiv> A ) ) = A\"\n"}

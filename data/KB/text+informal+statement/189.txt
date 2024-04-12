@@ -1,0 +1,1 @@
+{"text": "text\\<open>Cartesian product of finite sets is finite.\\<close>\n", "informal": " If A is a finite set and B is also a finite set, then their cartesian product A \u00d7 B is a finite set.", "statement": "lemma Finite1_L12: assumes A1: \"A \\<in> Fin(A)\" and A2: \"B \\<in> Fin(B)\"\n  shows \"A\\<times>B \\<in> Fin(A\\<times>B)\"\n"}

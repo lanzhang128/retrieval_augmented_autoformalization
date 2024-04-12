@@ -1,0 +1,1 @@
+{"text": "text\\<open>Subtracting one does not increase integers. This may be moved to a theory\n  about ordered rings one day.\\<close>\n"}

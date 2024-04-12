@@ -1,0 +1,1 @@
+{"text": "text\\<open>Subgroups are closed with respect to the group operation.\\<close>\n", "statement": "lemma (in group0) group0_3_L6: assumes A1: \"IsAsubgroup(H,P)\"\n  and A2: \"a\\<in>H\" \"b\\<in>H\"\n  shows \"a\\<cdot>b \\<in> H\"\n"}

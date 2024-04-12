@@ -1,0 +1,1 @@
+{"informal": " If set A is closed under function f and a subset of set B, then set A is closed under the restriction of function f to the Cartesian product B x B.", "statement": "lemma func_ZF_4_L5: \n  assumes A1: \"A {is closed under} f\"\n  and A2: \"A\\<subseteq>B\"\n  shows \"A {is closed under} restrict(f,B\\<times>B)\"\n"}

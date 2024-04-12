@@ -1,0 +1,1 @@
+{"informal": " The real number relation ROrd, which represents the down-directedness property, holds for every real number x.", "statement": "lemma (in reals) rord_down_directs: shows \"ROrd {down-directs} \\<real>\\<^sub>+\" \n  "}

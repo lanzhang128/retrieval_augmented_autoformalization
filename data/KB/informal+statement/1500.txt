@@ -1,0 +1,1 @@
+{"informal": " The lemma \"id\\_on\\_int\\_is\\_slope\" asserts that the identity function applied to integers is an element of the set \"S\" of slopes in the real number context \"real1\".", "statement": "lemma (in real1) id_on_int_is_slope: shows \"id(int) \\<in> \\<S>\"\n  "}

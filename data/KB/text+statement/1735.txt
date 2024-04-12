@@ -1,0 +1,1 @@
+{"text": "text\\<open> We can cancel an element on the right from both sides of an equation. \\<close>\n", "statement": "lemma (in topgroup) cancel_right_add: \n  assumes \"x\\<^sub>1 \\<in> G\"  \"x\\<^sub>2 \\<in> G\"  \"x\\<^sub>3 \\<in> G\" \"x\\<^sub>1\\<ra>x\\<^sub>2 = x\\<^sub>3\\<ra>x\\<^sub>2\" \n  shows \"x\\<^sub>1 = x\\<^sub>3\"\n  "}

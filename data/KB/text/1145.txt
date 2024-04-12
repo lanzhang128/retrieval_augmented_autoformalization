@@ -1,0 +1,1 @@
+{"text": "text\\<open>Elements greater or equal than any element of $B$ are \n  greater or equal than supremum of $B$.\\<close>\n"}

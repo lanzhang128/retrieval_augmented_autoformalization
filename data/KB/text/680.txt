@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of nonnegative integers is closed under  multiplication.\\<close>\n"}

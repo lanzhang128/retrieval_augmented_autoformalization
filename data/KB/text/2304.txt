@@ -1,0 +1,1 @@
+{"text": "text\\<open>Function is a subset of cartesian product.\\<close>\n"}

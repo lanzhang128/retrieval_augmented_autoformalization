@@ -1,0 +1,1 @@
+{"text": "text\\<open>From the previous results on intesertion and union,\nwe conclude that the D-sets we computed form a topology\\<close>\n"}

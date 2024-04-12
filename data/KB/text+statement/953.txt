@@ -1,0 +1,1 @@
+{"text": "text\\<open> A loop is a quasigroup with an identity elemen. \\<close>\n", "statement": "definition \"IsAloop(G,A) \\<equiv> IsAquasigroup(G,A) \\<and> (\\<exists>e\\<in>G. \\<forall>x\\<in>G. A`\\<langle>e,x\\<rangle> = x \\<and> A`\\<langle>x,e\\<rangle> = x)\"\n"}

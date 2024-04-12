@@ -1,0 +1,1 @@
+{"text": "text\\<open>Metamath defines the usual $<$ and $\\leq$ ordering relations for the\n  extended real line, including $+\\infty$ and $-\\infty$.\\<close>\n", "statement": "lemma (in complex0) xrrebndt: assumes A1: \"x \\<in> \\<real>\\<^sup>*\"\n  shows \"x \\<in> \\<real> \\<longleftrightarrow> ( \\<cmnf> \\<ls> x \\<and> x \\<ls> \\<cpnf> )\"\n"}

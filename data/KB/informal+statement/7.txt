@@ -1,0 +1,1 @@
+{"informal": " In the group0 theory, if commutative property holds on group G and elements a, b are in G, then a \\* b^(-1) = b^(-1).", "statement": "lemma (in group0) group0_4_L6AA: \n  assumes A1: \"P {is commutative on} G\" and A2: \"a\\<in>G\"  \"b\\<in>G\"\n  shows \"a\\<cdot>b\\<inverse>\\<cdot>a\\<inverse> = b\\<inverse>\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The following defines the notion of a saturated set. \n  Recall that in Isabelle \n  \\<open>r-``(A)\\<close> is the inverse image of $A$ with respect to relation $r$. \n  This definition is not specific to equivalence relations.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The order on complex reals is linear and complete.\\<close>\n", "statement": "lemma (in complex0) cmplx_reals_ord_lin_compl: shows\n  \"CplxROrder(R,A,r) {is complete}\"\n  \"IsLinOrder(\\<real>,CplxROrder(R,A,r))\"\n"}

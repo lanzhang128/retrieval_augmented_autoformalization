@@ -1,0 +1,1 @@
+{"text": "text\\<open>A composition of two functions is the same as \n  composition with a restriction.\\<close>\n", "statement": "lemma comp_restrict: \n  assumes A1: \"f : A\\<rightarrow>B\" and A2: \"g : X \\<rightarrow> C\" and A3: \"B\\<subseteq>X\"\n  shows \"g O f = restrict(g,B) O f\"\n"}

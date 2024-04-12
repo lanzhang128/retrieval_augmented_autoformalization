@@ -1,0 +1,1 @@
+{"text": "text\\<open>If exactly one of $p,q,r$ holds and $q$ is true, then \n  $r$ can not be true.\\<close>\n", "statement": "lemma Fol1_L7:\n  assumes A1: \"q\" and A2: \"Exactly_1_of_3_holds(p,q,r)\"\n  shows \"\\<not>r\"\n"}

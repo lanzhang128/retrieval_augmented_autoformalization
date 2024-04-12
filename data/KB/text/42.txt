@@ -1,0 +1,1 @@
+{"text": "text\\<open>The expression representing the real part of the\n  product of complex numbers.\\<close>\n"}

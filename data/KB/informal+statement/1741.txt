@@ -1,0 +1,1 @@
+{"informal": " Given a set V that is a subset of a group G, and an element x that is not in the complement of V, then x is in V.", "statement": "lemma (in topgroup) ginv_image_el_add: assumes \"V\\<subseteq>G\" \"x \\<in> (\\<sm>V)\"\n  shows \"(\\<rm>x) \\<in> V\"\n  "}

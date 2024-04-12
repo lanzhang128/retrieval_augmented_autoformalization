@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every $T_2$ space is anti-hyperconnected.\\<close>\n"}

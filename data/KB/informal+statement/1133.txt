@@ -1,0 +1,1 @@
+{"informal": " The interval between points a and b on the real number line r is bounded above, bounded below, and therefore, bounded by the real number r itself.", "statement": "lemma Order_ZF_3_L11: shows \n  \"IsBoundedAbove(Interval(r,a,b),r)\"\n  \"IsBoundedBelow(Interval(r,a,b),r)\"\n  \"IsBounded(Interval(r,a,b),r)\"\n"}

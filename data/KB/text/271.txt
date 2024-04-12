@@ -1,0 +1,1 @@
+{"text": "text\\<open>We conclude that this example constitutes\nthe language of binary strings starting in $0$\nand ending in $1$\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " If U is a subset of A and U is an element of a topology T, then U is a subset of the interior of A.", "statement": "lemma (in topology0) Top_2_L5: assumes \"U\\<subseteq>A\" and \"U\\<in>T\"\n  shows \"U \\<subseteq> int(A)\"\n  "}

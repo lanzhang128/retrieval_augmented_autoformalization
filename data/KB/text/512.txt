@@ -1,0 +1,1 @@
+{"text": "text\\<open>The following proves the essential condition to show that the set of \n  finite range functions is\n  closed with respect to the lifted group operation.\\<close>\n"}

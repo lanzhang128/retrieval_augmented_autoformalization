@@ -1,0 +1,1 @@
+{"text": "text\\<open>In nontrivial rings one is positive.\\<close>\n"}

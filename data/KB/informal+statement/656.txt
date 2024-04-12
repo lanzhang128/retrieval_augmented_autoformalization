@@ -1,0 +1,1 @@
+{"informal": " The lemma \"int_two_three_are_int\" states that the numbers two and three belong to the integer domain.", "statement": "lemma (in int0) int_two_three_are_int: shows \"\\<two> \\<in> \\<int>\"  \"\\<three> \\<in> \\<int>\"\n    "}

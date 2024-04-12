@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition of function moving the \\<open>small\\<close> set into \\<open>big\\<close>.\\<close>\n", "statement": "definition (in generalization) \n  \"zf_move_fun(x) \\<equiv> if x\\<in>small2 then spec`(x) else \\<langle>token,x\\<rangle>\"\n"}

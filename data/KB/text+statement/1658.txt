@@ -1,0 +1,1 @@
+{"text": "text\\<open>An ideal is very particular with the elements it may contain. If it contains\nany invertible element, it is in fact the whole ring and not a proper subset\\<close>\n", "statement": "theorem (in ring0) ideal_with_one:\n  assumes \"I\\<triangleleft>R\" \"\\<one>\\<in>I\"\n  shows \"I = R\"\n"}

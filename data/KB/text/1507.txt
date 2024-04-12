@@ -1,0 +1,1 @@
+{"text": "text\\<open>Bounded integer maps are not positive slopes.\\<close>\n"}

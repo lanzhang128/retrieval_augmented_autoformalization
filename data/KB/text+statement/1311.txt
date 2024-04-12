@@ -1,0 +1,1 @@
+{"text": "text\\<open> $a^{-1}\\leq |a|$ (in additive notation it would be $-a\\leq |a|$.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_3_L6: \n  assumes A1: \"a\\<in>G\" shows \"a\\<inverse> \\<lsq> \\<bar>a\\<bar>\"\n"}

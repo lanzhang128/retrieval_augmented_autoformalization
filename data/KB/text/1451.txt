@@ -1,0 +1,1 @@
+{"text": "text\\<open>An operation that has both left and right division is said to have the Latin square property. \\<close>\n"}

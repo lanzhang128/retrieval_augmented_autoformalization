@@ -1,0 +1,1 @@
+{"informal": " If function f is in the set S+ and the pair (f, g) is in the relation AlEqRel, then g is in the set S+.", "statement": "lemma (in int1) Int_ZF_2_3_L9: \n  assumes A1: \"f \\<in> \\<S>\\<^sub>+\" and A2: \"\\<langle>f,g\\<rangle> \\<in> AlEqRel\" shows \"g \\<in> \\<S>\\<^sub>+\"\n"}

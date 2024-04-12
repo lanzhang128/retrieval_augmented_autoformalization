@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma provides a condition that is satisfied by\n  the strict version of a relation if the original relation \n  is a complete linear order.\\<close>\n"}

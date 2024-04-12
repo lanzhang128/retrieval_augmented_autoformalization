@@ -1,0 +1,1 @@
+{"text": "text\\<open>The result of concatenating two languages is a language.\\<close>\n", "statement": "lemma concat_language:\n  assumes \"Finite(\\<Sigma>)\"\n  and \"L1 {is a language with alphabet}\\<Sigma>\"\n  and \"L2 {is a language with alphabet}\\<Sigma>\"\nshows \"concat(L1,L2) {is a language with alphabet}\\<Sigma>\"\n"}

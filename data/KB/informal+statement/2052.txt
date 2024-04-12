@@ -1,0 +1,1 @@
+{"informal": " If Q has infinite cardinality, then the homeomorphism of the co-cardinality of X with respect to Q equals the bijective function from X to X.", "statement": "theorem homeo_cocardinal:\n  assumes \"InfCard(Q)\"\n  shows \"HomeoG(CoCardinal(X,Q))=bij(X,X)\"\n"}

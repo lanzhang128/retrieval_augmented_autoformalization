@@ -1,0 +1,1 @@
+{"text": "text\\<open>A formula for sum of (complex) real numbers.\\<close>\n", "statement": "lemma (in complex0) sum_of_reals: assumes \"a\\<in>\\<real>\"  \"b\\<in>\\<real>\"\n  shows \n  \"a \\<ca> b = \\<langle>fst(a) \\<ra> fst(b),\\<zero>\\<^sub>R\\<rangle>\"\n  "}

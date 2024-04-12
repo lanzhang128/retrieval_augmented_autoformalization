@@ -1,0 +1,1 @@
+{"text": "text\\<open>The lifted monoid operation has a neutral element, namely\n  the constant function with the neutral element as the value.\\<close>\n"}

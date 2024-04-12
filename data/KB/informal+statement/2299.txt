@@ -1,0 +1,1 @@
+{"informal": " The lemma `image_converse` asserts that for all sets `r` and elements `A`, the image of `A` under the converse of `r` is equal to the image of `A` under `r`. In other words, `converse(r)(A)` is equal to `r(A)`.", "statement": "lemma image_converse: shows \"converse(r)-``(A) = r``(A)\"\n  "}

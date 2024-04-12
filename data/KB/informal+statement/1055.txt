@@ -1,0 +1,1 @@
+{"informal": " If a number n is in the natural numbers, then k is in n if and only if k is less than or equal to n. And, if k is less than n, then k is in the successor of n (i.e., n + 1).", "statement": "lemma nat_mem_lt: assumes \"n\\<in>nat\" \n  shows \"k<n \\<longleftrightarrow> k\\<in>n\" and \"k\\<le>n \\<longleftrightarrow> k \\<in> succ(n)\"\n  "}

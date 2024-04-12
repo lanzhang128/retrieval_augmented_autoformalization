@@ -1,0 +1,1 @@
+{"text": "text\\<open>A formula useful in showing that the composition of almost\n  homomorphisms is congruent with respect \n  to the quotient group relation.\\<close>\n"}

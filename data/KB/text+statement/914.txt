@@ -1,0 +1,1 @@
+{"text": "text\\<open>If an nonnegative integer is less or equal than another,\n  then so is its absolute value.\\<close>\n", "statement": "lemma (in int0) Int_ZF_2_L23: \n  assumes \"\\<zero>\\<lsq>m\"   \"m\\<lsq>k\"\n  shows \"abs(m) \\<lsq> k\"\n  "}

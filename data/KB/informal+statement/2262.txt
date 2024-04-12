@@ -1,0 +1,1 @@
+{"informal": " If the intersection of set A is not empty, then set A is not empty.", "statement": "lemma inter_nempty_nempty: assumes \"\\<Inter>A \\<noteq> 0\" shows \"A\\<noteq>0\"\n  "}

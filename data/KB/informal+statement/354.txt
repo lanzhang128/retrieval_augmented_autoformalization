@@ -1,0 +1,1 @@
+{"informal": " The statement \"lemma (in generalization) spec_fun: shows \"spec: small2 -> small\"\" in Isabelle/ZF can be translated into natural language as follows:\n\nLemma spec_fun: The function spec, which maps small2 to small, holds true.", "statement": "lemma (in generalization) spec_fun: shows \"spec: small2\\<rightarrow>small\"\n  "}

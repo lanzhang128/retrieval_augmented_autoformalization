@@ -1,0 +1,1 @@
+{"informal": " For all x, y in the direct product G \u00d7 H, R(x, y) belongs to G \u00d7 H.", "statement": "lemma (in direct0) DirectProduct_ZF_1_L3:\n  shows \"\\<forall>x\\<in>(G\\<times>H). \\<forall>y\\<in>(G\\<times>H). R`\\<langle>x,y\\<rangle> \\<in> G\\<times>H\"\n  "}

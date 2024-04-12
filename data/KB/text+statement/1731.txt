@@ -1,0 +1,1 @@
+{"text": "text\\<open>Negative of a group element is in group.\\<close>\n", "statement": "lemma (in topgroup) neg_in_tgroup: assumes \"g\\<in>G\" shows \"(\\<rm>g) \\<in> G\"\n  "}

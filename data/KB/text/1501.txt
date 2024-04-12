@@ -1,0 +1,1 @@
+{"text": "text\\<open>A result from \\<open>Int_ZF_2.thy\\<close>: the identity function on integers\n  is not almost equal to any bounded function.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The neutral element of the group (denoted $1$ in the group0 context)\n  belongs to every subgroup.\\<close>\n", "informal": " Assuming group H is a subgroup of set P in group0 theory, one element is in H.", "statement": "lemma (in group0) group0_3_L5: assumes A1: \"IsAsubgroup(H,P)\"\n  shows \"\\<one> \\<in> H\"\n"}

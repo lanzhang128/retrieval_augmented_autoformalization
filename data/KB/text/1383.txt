@@ -1,0 +1,1 @@
+{"text": "text\\<open>In the \\<open>ring1\\<close> context $a\\leq b$ implies that $a,b$ are\n  elements of the ring.\\<close>\n"}

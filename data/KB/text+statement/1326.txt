@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $b$ is between $a$ and $a\\cdot c$, then $b\\cdot a^{-1}\\leq c$.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_3_L8C:\n  assumes A1: \"a\\<lsq>b\" and A2: \"c\\<in>G\" and A3: \"b\\<lsq>c\\<cdot>a\"\n  shows \"\\<bar>b\\<cdot>a\\<inverse>\\<bar> \\<lsq> c\"\n"}

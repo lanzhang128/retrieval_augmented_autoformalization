@@ -1,0 +1,1 @@
+{"text": "text\\<open>The values of the metric are in the loop.\\<close>\n"}

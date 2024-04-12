@@ -1,0 +1,1 @@
+{"informal": " Given that i and j are natural numbers, i is inclusive of j or j is inclusive of i. \n\nIn other words, either i is less than or equal to j, or j is less than or equal to i.", "statement": "lemma nat_incl_total: assumes A1: \"i \\<in> nat\"  \"j \\<in> nat\"\n  shows \"i \\<subseteq> j \\<or> j \\<subseteq> i\"\n"}

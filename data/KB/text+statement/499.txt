@@ -1,0 +1,1 @@
+{"text": "text\\<open>The quotient group relation is reflexive.\\<close>\n", "statement": "lemma (in group0) Group_ZF_2_4_L1: \n  assumes \"IsAsubgroup(H,P)\"\n  shows \"refl(G,QuotientGroupRel(G,P,H))\"\n  "}

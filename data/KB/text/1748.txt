@@ -1,0 +1,1 @@
+{"text": "text\\<open> A corollary from \\<open>interval_add\\<close> \\<close>\n"}

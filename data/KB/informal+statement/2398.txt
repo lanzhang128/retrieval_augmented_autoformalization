@@ -1,0 +1,1 @@
+{"informal": " If function f : X \u00d7 Y \u2192 Z and y is an element in Y, then Fix2ndVar(f, y) is a function from X to Z.", "statement": "lemma fix_2nd_var_fun: assumes A1: \"f : X\\<times>Y \\<rightarrow> Z\" and A2: \"y\\<in>Y\"\n  shows \"Fix2ndVar(f,y) : X \\<rightarrow> Z\"\n"}

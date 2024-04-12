@@ -1,0 +1,1 @@
+{"informal": " Given a natural number n, there exists a number j such that n = j if and only if n is non-zero.", "statement": "lemma (in MMIsar0) nat_ge1_has_pred: assumes A1: \"n \\<in> \\<nat>\"\n  shows \"\\<one> \\<ls> n \\<longrightarrow> (\\<exists>j\\<in>\\<nat>. n = j\\<ca>\\<one>)\"\n"}

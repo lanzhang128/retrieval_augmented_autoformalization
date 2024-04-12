@@ -1,0 +1,1 @@
+{"text": "text\\<open>The symbol \\<open>\\<zero>\\<close> in the \\<open>real0\\<close> context is defined\n  as the neutral element of real addition. The next lemma shows that this\n  is the same as the neutral element of the appriopriate quotient group.\\<close>\n"}

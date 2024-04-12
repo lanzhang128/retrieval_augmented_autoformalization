@@ -1,0 +1,1 @@
+{"informal": " In the group3 theory, if a is less than b and a is not equal to b, then b is not less than a.", "statement": "lemma (in group3) OrderedGroup_ZF_1_L8AA: \n  assumes A1: \"a\\<lsq>b\" and A2: \"a\\<noteq>b\"\n  shows \"\\<not>(b\\<lsq>a)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $G$ is a nontrivial linearly ordered hroup, \n  then for every element of $G$ we can find one in \\<open>G\\<^sub>+\\<close> that is\n  greater or equal.\\<close>\n"}

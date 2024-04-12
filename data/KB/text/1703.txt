@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can use the \\<open>enums\\<close> locale in the \\<open>semigr0\\<close> \n  context.\\<close>\n"}

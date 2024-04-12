@@ -1,0 +1,1 @@
+{"informal": " A set G has the right division property with respect to another set A if and only if for all elements a in G, there exists exactly one element x in G such that the ordered pair (x, a) is in A.", "statement": "definition\n  \"HasRightDiv(G,A) \\<equiv> \\<forall>a\\<in>G.\\<forall>b\\<in>G.\\<exists>!x. (x\\<in>G \\<and> A`\\<langle>x,a\\<rangle> = b)\" \n"}

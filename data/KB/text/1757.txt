@@ -1,0 +1,1 @@
+{"text": "text\\<open>Left translations preserve interior.\\<close>\n"}

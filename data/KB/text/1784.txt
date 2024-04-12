@@ -1,0 +1,1 @@
+{"text": "text\\<open>A quotient of a topological group is just a quotient group with an appropiate\n topology that makes product and inverse continuous.\\<close>\n"}

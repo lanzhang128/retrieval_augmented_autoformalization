@@ -1,0 +1,1 @@
+{"informal": " If a is less than b in a group, then b is the inverse of a with respect to the group operation.", "statement": "lemma (in group3) OrderedGroup_ZF_1_L5:\n  assumes A1: \"a\\<lsq>b\" shows \"b\\<inverse>\\<lsq>a\\<inverse>\"\n"}

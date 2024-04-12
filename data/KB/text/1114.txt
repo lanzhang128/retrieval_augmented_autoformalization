@@ -1,0 +1,1 @@
+{"text": "text\\<open> \\<open>Order_ZF_2_L1\\<close>, implication from right to left.\\<close>\n"}

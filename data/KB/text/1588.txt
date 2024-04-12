@@ -1,0 +1,1 @@
+{"text": "text\\<open>A piece of the proof of the fact that the candidate for the supremum \n  of $S$ is not greater than any upper bound of $S$, done separately for \n  clarity (of mind).\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set comprehension form of negative of a set. The proof uses the \\<open>ginv_image\\<close> lemma from \n  \\<open>Group_ZF\\<close> theory which states the same thing in multiplicative notation. \\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma expresses the inverse image of a set by function with fixed \nsecond variable in terms of the original function.\\<close>\n", "statement": "lemma fix_2nd_var_vimage:\n  assumes A1: \"f : X\\<times>Y \\<rightarrow> Z\" and A2: \"y\\<in>Y\" \n  shows \"Fix2ndVar(f,y)-``(A) = {x\\<in>X. \\<langle>x,y\\<rangle> \\<in> f-``(A)}\"\n"}

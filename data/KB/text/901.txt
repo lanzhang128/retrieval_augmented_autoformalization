@@ -1,0 +1,1 @@
+{"text": "text\\<open>Absolute value is the same for an integer and its opposite.\\<close>\n"}

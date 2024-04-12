@@ -1,0 +1,1 @@
+{"informal": " Given a linear order Xwith relation r, an element c not equal to the empty ray, and a dense Xwith respect to r, then the left ray of X starting at c is infinite.", "statement": "theorem dense_order_inf_lrays:\n  assumes \"IsLinOrder(X,r)\" \"LeftRayX(X,r,c)\\<noteq>0\"\"c\\<in>X\"  \"X{is dense with respect to}r\"\n  shows \"\\<not>Finite(LeftRayX(X,r,c))\"\n"}

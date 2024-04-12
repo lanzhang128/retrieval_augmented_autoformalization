@@ -1,0 +1,1 @@
+{"text": "text\\<open>The interior of a set is itself if it is open or \\<open>0\\<close> if\nit isn't open.\\<close>\n", "statement": "lemma interior_set_cocardinal:\n  assumes noC: \"T\\<noteq>0\" and \"A\\<subseteq>X\"\n  shows \"Interior(A,CoCardinal(X,T))= (if ((X-A) \\<prec> T) then A else 0)\"\n"}

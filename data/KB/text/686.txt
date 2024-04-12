@@ -1,0 +1,1 @@
+{"text": "text\\<open>Double nonnegative is nonnegative. Property of ordered rings.\\<close>\n"}

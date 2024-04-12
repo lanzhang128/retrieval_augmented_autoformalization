@@ -1,0 +1,1 @@
+{"text": "text\\<open>A closed set is a set of primes containing a given\nideal\\<close>\n", "statement": "lemma (in ring0) closeBasic:\n  assumes \"U{is closed in}{D(J). J\\<in>\\<I>}\"\n  obtains J where \"J\\<in>\\<I>\" and \"U={K\\<in>Spec. J\\<subseteq>K}\"\n"}

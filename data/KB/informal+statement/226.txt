@@ -1,0 +1,1 @@
+{"informal": " If `n` is a natural number and `a` is a relation from `succ(n)` to `X`, then `Init(a)` equals the restriction of `a` to the natural numbers less than or equal to `n`.", "statement": "lemma init_def: assumes \"n \\<in> nat\" and \"a:succ(n)\\<rightarrow>X\"\n  shows \"Init(a) = restrict(a,n)\"\n  "}

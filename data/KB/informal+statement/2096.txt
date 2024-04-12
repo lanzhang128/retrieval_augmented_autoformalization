@@ -1,0 +1,1 @@
+{"informal": " If B is a base for the topology T, then B restricted to the subset Y is a base for the subtopology T restricted to Y.", "statement": "lemma subspace_base_topology:\n  assumes \"B {is a base for} T\"\n  shows \"(B {restricted to} Y) {is a base for} (T {restricted to} Y)\"\n"}

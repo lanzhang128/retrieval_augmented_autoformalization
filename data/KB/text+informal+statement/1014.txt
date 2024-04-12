@@ -1,0 +1,1 @@
+{"text": "text\\<open>The monoid carrier is not empty.\\<close>\n", "informal": " In the monoid0 theory, there is a lemma named group0_1_L3A, which asserts that the group G is non-empty, i.e., G is different from the empty set.", "statement": "lemma (in monoid0) group0_1_L3A: shows \"G\\<noteq>0\"\n"}

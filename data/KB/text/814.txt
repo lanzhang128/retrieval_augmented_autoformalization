@@ -1,0 +1,1 @@
+{"text": "text\\<open>If values of a slope are not bounded above, \n  then the slope is positive.\\<close>\n"}

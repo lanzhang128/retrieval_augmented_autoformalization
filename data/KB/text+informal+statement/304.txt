@@ -1,0 +1,1 @@
+{"text": "text\\<open>A subset of a finite subset is a finite subset.\\<close>\n", "informal": " If A is a finite power of a set X and B is a subset of A, then B is also a finite power of set X.", "statement": "lemma subset_finpow: assumes \"A \\<in> FinPow(X)\" and \"B \\<subseteq> A\"\n  shows \"B \\<in> FinPow(X)\"\n  "}

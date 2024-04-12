@@ -1,0 +1,1 @@
+{"text": "text\\<open>The discrete space is clearly scattered:\\<close>\n", "statement": "lemma pow_is_scattered:\n  shows \"Pow(A){is scattered}\"\n"}

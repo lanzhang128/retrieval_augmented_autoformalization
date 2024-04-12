@@ -1,0 +1,1 @@
+{"informal": " If a topology T is resolvable, then it is perfect.", "statement": "theorem (in topology0) resolvable_imp_perfect:\n  assumes \"T{is resolvable}\"\n  shows \"T{is perfect}\"\n"}

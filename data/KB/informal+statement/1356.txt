@@ -1,0 +1,1 @@
+{"informal": " If x is less than or equal to y, then both x and y belong to the set L.", "statement": "lemma (in loop1) lsq_members: assumes \"x\\<lsq>y\" shows \"x\\<in>L\" and \"y\\<in>L\" \n  "}

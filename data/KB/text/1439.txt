@@ -1,0 +1,1 @@
+{"text": "text\\<open>Bisection of $X$ is a pair of subsets of $X$.\\<close>\n"}

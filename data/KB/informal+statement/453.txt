@@ -1,0 +1,1 @@
+{"informal": " Given that `g` is an element in the group `G`, it holds that the right translation and the left translation functions, defined for group `G` and relation `P`, are bijections.", "statement": "lemma (in group0) trans_bij: assumes \"g\\<in>G\" shows\n  \"RightTranslation(G,P,g) \\<in> bij(G,G)\" and \"LeftTranslation(G,P,g) \\<in> bij(G,G)\"\n"}

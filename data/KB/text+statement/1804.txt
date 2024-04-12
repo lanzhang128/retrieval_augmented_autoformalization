@@ -1,0 +1,1 @@
+{"text": "text\\<open>Interior of the interior is the interior.\\<close>\n", "statement": "lemma (in topology0) Top_2_L4: shows \"int(int(A)) = int(A)\"\n"}

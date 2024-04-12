@@ -1,0 +1,1 @@
+{"text": "text\\<open>The preimage of an ideal is an ideal, so it applies to the\nquotient map; but the preimage ideal contains the quotient ideal.\\<close>\n", "statement": "lemma (in ring2) ideal_quot_preimage:\n  assumes \"J\\<triangleleft>R\\<^sub>I\"\n  shows \"(f\\<^sub>I-``J) \\<triangleleft>R\" \"I \\<subseteq> f\\<^sub>I-``J\"\n"}

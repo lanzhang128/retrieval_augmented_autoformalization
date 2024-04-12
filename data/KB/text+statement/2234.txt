@@ -1,0 +1,1 @@
+{"text": "text\\<open> In particular, every uniform cover has a barycentric refinement. \\<close>\n", "statement": "corollary unicov_has_bar_ref:\n  assumes \"\\<Theta> {are uniform covers of} X\" and \"P\\<in>\\<Theta>\"\n  shows \"\\<exists>Q\\<in>\\<Theta>. (Q <\\<^sup>B P)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open> The excluded set topology consists of subsets of $X$ that are disjoint with a fixed set $U$. \\<close>\n", "statement": "definition \"ExcludedSet(X,U) \\<equiv> {F\\<in>Pow(X). U \\<inter> F=0}\\<union> {X}\"\n"}

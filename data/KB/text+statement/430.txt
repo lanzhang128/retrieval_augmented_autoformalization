@@ -1,0 +1,1 @@
+{"text": "text\\<open>A sligtly weaker, but more convenient in applications,\n  reformulation of the above theorem.\\<close>\n", "statement": "theorem (in group0) group0_3_T2: \n  assumes \"IsAsubgroup(H,P)\" \n  and \"g = restrict(P,H\\<times>H)\"\n  shows \"\\<forall>h\\<in>H. GroupInv(H,g)`(h) = h\\<inverse>\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The absolue value of an element and its negative are the same.\\<close>\n", "statement": "lemma (in ring1) OrdRing_ZF_2_L2: assumes \"a\\<in>R\"\n  shows \"\\<bar>\\<rm>a\\<bar> = \\<bar>a\\<bar>\"\n  "}

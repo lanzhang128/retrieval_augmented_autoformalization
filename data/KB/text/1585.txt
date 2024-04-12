@@ -1,0 +1,1 @@
+{"text": "text\\<open>An obvious fact about odd extension\n  of a function $p\\mapsto \\Gamma(s,p)$ that is used a couple of times \n  in proofs.\\<close>\n"}

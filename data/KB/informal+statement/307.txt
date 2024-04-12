@@ -1,0 +1,1 @@
+{"informal": " There exists a natural number n such that the cardinality of set A, which is a finite power set of X and is not empty, is equal to the successor of n.", "statement": "lemma card_non_empty_succ: \n  assumes A1: \"A \\<in> FinPow(X)\" and A2: \"A \\<noteq> 0\"\n  shows \"\\<exists>n \\<in> nat. |A| = succ(n)\"\n"}

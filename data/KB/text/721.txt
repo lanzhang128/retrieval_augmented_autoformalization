@@ -1,0 +1,1 @@
+{"text": "text\\<open>Nonempty set of integers that is bounded below attains its minimum.\\<close>\n"}

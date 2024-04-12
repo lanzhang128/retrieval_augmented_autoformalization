@@ -1,0 +1,1 @@
+{"text": "text\\<open>An induction theorem for lists.\\<close>\n", "statement": "lemma list_induct: assumes A1: \"\\<forall>b\\<in>1\\<rightarrow>X. P(b)\" and \n  A2: \"\\<forall>b\\<in>NELists(X). P(b) \\<longrightarrow> (\\<forall>x\\<in>X. P(Append(b,x)))\" and\n  A3: \"d \\<in> NELists(X)\"\n  shows \"P(d)\"\n"}

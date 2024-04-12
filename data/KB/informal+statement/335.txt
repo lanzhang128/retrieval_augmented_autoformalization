@@ -1,0 +1,1 @@
+{"informal": " \"Xor (p cross q) is defined as (p or q) and not (p and q)\"", "statement": "definition\n  Xor (infixl \"Xor\" 66) where\n  \"p Xor q \\<equiv> (p\\<or>q) \\<and> \\<not>(p \\<and> q)\"\n"}

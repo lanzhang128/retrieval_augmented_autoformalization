@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can multiply an inequality by the inverse of a positive number.\\<close>\n", "statement": "lemma (in real1) Real_ZF_1_3_L6:\n  assumes \"a\\<lsq>b\"  and \"c\\<in>\\<real>\\<^sub>+\" shows \"a\\<cdot>c\\<inverse> \\<lsq> b\\<cdot>c\\<inverse>\"\n  "}

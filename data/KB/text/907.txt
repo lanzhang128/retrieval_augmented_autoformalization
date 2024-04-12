@@ -1,0 +1,1 @@
+{"text": "text\\<open>If one integer is greater or equal and not equal to another,\n  then it is not smaller or equal.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the homomorphism difference of a function defined \n  on positive integers is bounded, then the odd extension\n  of this function is a slope.\\<close>\n"}

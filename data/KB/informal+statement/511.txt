@@ -1,0 +1,1 @@
+{"informal": " In the ZF setting, X -> X is a monoid under the composition operation Composition, and the identity element of X -> X is equal to the neutral element of the monoid.", "statement": "lemma Group_ZF_2_5_L2: shows\n  \"IsAmonoid(X\\<rightarrow>X,Composition(X))\"\n  \"id(X) = TheNeutralElement(X\\<rightarrow>X,Composition(X))\"\n"}

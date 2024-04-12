@@ -1,0 +1,1 @@
+{"text": "text\\<open> Join is a binary operation whose value on a pair $\\langle x,y\\rangle$\n  is defined as the supremum of the set $\\{ x,y\\}$. \\<close>\n"}

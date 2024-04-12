@@ -1,0 +1,1 @@
+{"text": "text\\<open>A base of topology is a collection of open sets such that every \n  open set is a union of the sets from the base.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma states that composition has a neutral element, \n  namely the identity function on $X$ \n  (the one that maps $x\\in X$ into itself).\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open> We can reference the theorems proven in the \\<open>topology0\\<close> context when discussing\n  the included set topology.\\<close>\n", "statement": "theorem topology0_includedset:\n  shows \"topology0(IncludedSet(X,T))\"\n  "}

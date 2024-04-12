@@ -1,0 +1,1 @@
+{"text": "text\\<open>What is the image of a set defined by a meta-fuction?\\<close>\n", "statement": "lemma func1_1_L17: \n  assumes A1: \"f \\<in> X\\<rightarrow>Y\" and A2: \"\\<forall>x\\<in>A. b(x) \\<in> X\"\n  shows \"f``({b(x). x\\<in>A}) = {f`(b(x)). x\\<in>A}\"\n"}

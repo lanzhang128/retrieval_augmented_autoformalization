@@ -1,0 +1,1 @@
+{"informal": " In the group G, for all elements g, g belongs to G and is not equal to the identity element if and only if g is not the identity element and g is the additive inverse of some other element in G.", "statement": "lemma (in group3) OrderedGroup_ZF_1_L2A: \n  shows \"g\\<in>G\\<^sub>+ \\<longleftrightarrow> (\\<one>\\<lsq>g \\<and> g\\<noteq>\\<one>)\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Finitely supported functions form a submonoid\n  of all functions with pointwise operation.\\<close>\n"}

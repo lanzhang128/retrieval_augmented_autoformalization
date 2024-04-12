@@ -1,0 +1,1 @@
+{"text": "text\\<open>The neutral element is neutral.\\<close>\n", "statement": "lemma (in monoid0) unit_is_neutral:\n  assumes A1: \"e = TheNeutralElement(G,f)\"\n  shows \"e \\<in> G \\<and> (\\<forall>g\\<in>G. e \\<oplus> g = g \\<and> g \\<oplus> e = g)\"\n"}

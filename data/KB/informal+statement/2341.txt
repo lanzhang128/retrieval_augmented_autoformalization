@@ -1,0 +1,1 @@
+{"informal": " If function f maps X to Y, x is an element of set A that is a subset of X, then the image of x under function f is an element of the image of set A under function f.", "statement": "lemma func1_1_L15D: assumes \"f:X\\<rightarrow>Y\"  \"x\\<in>A\"  \"A\\<subseteq>X\"\n  shows \"f`(x) \\<in> f``(A)\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition of token.\\<close>\n", "statement": "definition (in generalization) \"token \\<equiv> Pow(\\<Union>(\\<Union>(small)))\"\n"}

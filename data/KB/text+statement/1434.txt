@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the right hand side of an inequality is positive we can multiply it \n  by a number that is greater than one.\\<close>\n", "statement": "lemma (in ring1) OrdRing_ZF_3_L17: \n   assumes A1: \"HasNoZeroDivs(R,A,M)\" and A2: \"b\\<in>R\\<^sub>+\" and \n  A3: \"a\\<lsq>b\"  and A4: \"\\<one>\\<ls>c\"\n  shows \"a\\<ls>b\\<cdot>c\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Any subgroup with non-empty interior is open.\\<close>\n", "informal": " In a topological group H, if H is a subgroup and the intersection of H with the integers is non-empty, then H belongs to the topology T.", "statement": "theorem (in topgroup) clopen_or_emptyInt:\n  assumes \"IsAsubgroup(H,f)\" \"int(H)\\<noteq>0\"\n  shows \"H\\<in>T\"\n"}

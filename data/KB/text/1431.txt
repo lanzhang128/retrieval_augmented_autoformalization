@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can multiply strict inequality by a positive element.\\<close>\n"}

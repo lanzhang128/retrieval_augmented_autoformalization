@@ -1,0 +1,1 @@
+{"text": "text\\<open>$0$  and $1$, as defined in \\<open>int0\\<close> context, are integers.\\<close>\n"}

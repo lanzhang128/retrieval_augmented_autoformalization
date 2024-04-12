@@ -1,0 +1,1 @@
+{"informal": " If function f maps X to Y and set A is a subset of X, then function restrict(f,A) maps A to Y.", "statement": "corollary restrict_fun: assumes A1: \"f:X\\<rightarrow>Y\" and A2: \"A\\<subseteq>X\"\n  shows \"restrict(f,A) : A \\<rightarrow> Y\"\n"}

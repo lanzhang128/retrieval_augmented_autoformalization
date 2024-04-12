@@ -1,0 +1,1 @@
+{"text": "text\\<open>If if the inverse of $b$ is different than $a$, then the\n  inverse of $a$ is different than $b$.\\<close>\n", "statement": "lemma (in field0) Field_ZF_2_L4:\n  assumes \"a\\<in>K\"  \"a\\<noteq>\\<zero>\" and \"b\\<inverse> \\<noteq> a\"\n  shows \"a\\<inverse> \\<noteq> b\"\n  "}

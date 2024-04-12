@@ -1,0 +1,1 @@
+{"text": "text\\<open>In abelian groups we can cancel an element with its inverse\n  even if separated by three other elements.\\<close>\n", "statement": "lemma (in group0) group0_4_L6C: assumes A1: \"P {is commutative on} G\"\n  and A2: \"a\\<in>G\" \"b\\<in>G\" \"c\\<in>G\" \"d\\<in>G\"\n  shows \"a\\<cdot>b\\<cdot>c\\<cdot>d\\<cdot>a\\<inverse> = b\\<cdot>c\\<cdot>d\" \n"}

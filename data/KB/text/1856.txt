@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can commute taking restriction (relative topology) and\n  product topology. The reason the two topologies are the same is\n  that they have the same base.\\<close>\n"}

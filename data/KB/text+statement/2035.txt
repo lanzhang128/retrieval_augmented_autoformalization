@@ -1,0 +1,1 @@
+{"text": "text\\<open>The quotient function is continuous.\\<close>\n", "statement": "lemma (in topology0) quotient_func_cont:\n  assumes \"f\\<in>surj(\\<Union>T,Y)\"\n  shows \"IsContinuous(T,({quotient topology in} Y {by} f),f)\"\n    unfolding IsContinuous_def "}

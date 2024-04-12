@@ -1,0 +1,1 @@
+{"text": "text\\<open>Existence and uniqueness of finite inductive sequences. The proof\n  is by induction and the next lemma is the inductive step.\\<close>\n"}

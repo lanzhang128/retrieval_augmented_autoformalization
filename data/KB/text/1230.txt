@@ -1,0 +1,1 @@
+{"text": "text\\<open>For linearly ordered groups elements in the nonnegative set are\n  greater than those in the complement.\\<close>\n"}

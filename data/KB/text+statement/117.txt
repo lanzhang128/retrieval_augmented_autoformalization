@@ -1,0 +1,1 @@
+{"text": "text\\<open>The projection of commutative operation is commutative.\\<close>\n", "statement": "lemma EquivClass_2_L1: assumes \n  A1: \"equiv(A,r)\" and A2: \"Congruent2(r,f)\"\n  and A3: \"f {is commutative on} A\"\n  and A4: \"c1 \\<in> A//r\"  \"c2 \\<in> A//r\"\n  shows \"ProjFun2(A,r,f)`\\<langle>c1,c2\\<rangle> = ProjFun2(A,r,f)`\\<langle>c2,c1\\<rangle>\"\n"}

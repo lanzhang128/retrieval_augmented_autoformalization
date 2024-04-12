@@ -1,0 +1,1 @@
+{"text": "text\\<open>For every $y\\in Y$ we can fix the second variable in a binary function\n  $f: X\\times Y \\rightarrow Z$ to get a function on $X$.\\<close>\n", "statement": "definition\n  \"Fix2ndVar(f,y) \\<equiv> {\\<langle>x,f`\\<langle>x,y\\<rangle>\\<rangle>. x \\<in> domain(domain(f))}\"\n"}

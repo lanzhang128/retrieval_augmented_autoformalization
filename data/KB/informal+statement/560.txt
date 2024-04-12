@@ -1,0 +1,1 @@
+{"informal": " In the group1 theory, if s1 is congruent to s2 and r1 is congruent to r2, then s1 composed with r1 is congruent to s2 composed with r2.", "statement": "lemma (in group1) Group_ZF_3_4_L13: \n  assumes A1: \"s1\\<cong>s2\"  \"r1\\<cong>r2\"\n  shows \"(s1\\<circ>r1) \\<cong> (s2\\<circ>r2)\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " In the quasigroup0 theory, if x and y belong to the group G, then x * y (multiplication operation) also belongs to the group G.", "statement": "lemma (in quasigroup0) qg_op_closed: assumes \"x\\<in>G\" \"y\\<in>G\"\n  shows \"x\\<cdot>y \\<in> G\"\n  "}

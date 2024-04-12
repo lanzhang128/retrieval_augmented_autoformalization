@@ -1,0 +1,1 @@
+{"text": "text\\<open>Odd functions are those that commute with the group inverse:\n  $f(a^{-1}) = (f(a))^{-1}.$\\<close>\n", "statement": "definition\n  \"IsOdd(G,P,f) \\<equiv> (\\<forall>a\\<in>G. f`(GroupInv(G,P)`(a)) = GroupInv(G,P)`(f`(a)) )\"\n"}

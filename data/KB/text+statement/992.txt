@@ -1,0 +1,1 @@
+{"text": "text\\<open>A disk is defined as set of points located less than the radius from the center.\\<close>\n", "statement": "definition \"Disk(X,d,r,c,R) \\<equiv> {x\\<in>X. \\<langle>d`\\<langle>c,x\\<rangle>,R\\<rangle> \\<in> StrictVersion(r)}\"\n"}

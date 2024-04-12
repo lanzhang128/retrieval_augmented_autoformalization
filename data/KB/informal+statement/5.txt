@@ -1,0 +1,1 @@
+{"informal": " Assuming group G is commutative, and elements a, b, and c are in G, if c is the inverse of a multiplied by b, then a is equal to b multiplied by c.", "statement": "lemma (in group0) group0_4_L5: assumes A1:\"P {is commutative on} G\" \n  and A2: \"a\\<in>G\"  \"b\\<in>G\"  \"c\\<in>G\"\n  and A3: \"c = a\\<cdot>b\\<inverse>\"\n  shows \"a = b\\<cdot>c\"\n"}

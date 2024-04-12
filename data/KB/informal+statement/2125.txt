@@ -1,0 +1,1 @@
+{"informal": " If K is a compact set and Q is an element in T, and R is a closed set in T, then the intersection of K and R is a compact set and contains Q.", "statement": "theorem compact_closed:\n  assumes \"K {is compact of cardinal} Q {in} T\"\n    and \"R {is closed in} T\"\n  shows \"(K\\<inter>R) {is compact of cardinal} Q {in} T\"\n"}

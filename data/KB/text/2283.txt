@@ -1,0 +1,1 @@
+{"text": "text\\<open> It's hard to believe but there are cases where we have to reference this rule. \\<close>\n"}

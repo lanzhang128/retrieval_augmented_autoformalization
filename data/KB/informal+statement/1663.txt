@@ -1,0 +1,1 @@
+{"informal": " Assuming that m is a maximal element in the ring, we want to show that p is also a prime element in the ring.", "statement": "theorem (in ring0) maximal_is_prime:\n  assumes \"Q\\<triangleleft>\\<^sub>mR\"\n  shows \"Q\\<triangleleft>\\<^sub>pR\"\n"}

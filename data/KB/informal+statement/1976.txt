@@ -1,0 +1,1 @@
+{"informal": " If N is a neighborhood of set A in the neighborhood system T, then both A and N are subsets of the union of all sets in T.", "statement": "lemma nei_val_subset: \n  assumes \"N \\<in> ({set neighborhood system of} T)`(A)\"\n  shows \"A \\<subseteq> \\<Union>T\" and \"N \\<subseteq> \\<Union>T\"\n"}

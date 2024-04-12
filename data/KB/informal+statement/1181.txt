@@ -1,0 +1,1 @@
+{"informal": " A relation r is strict if and only if it does not contain any loopback pairs, i.e., there is no x such that x is related to x through r.", "statement": "definition\n  \"StrictVersion(r) \\<equiv> r - {\\<langle>x,x\\<rangle>. x \\<in> domain(r)}\"\n"}

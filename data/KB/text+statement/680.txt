@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of nonnegative integers is closed under  multiplication.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_3_L2A: shows \n  \"\\<int>\\<^sup>+ {is closed under} IntegerMultiplication\"\n"}

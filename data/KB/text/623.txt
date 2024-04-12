@@ -1,0 +1,1 @@
+{"text": "text\\<open>Having the generating function we can define the expression\n  that we cen use to define the inductive sequence generates.\\<close>\n"}

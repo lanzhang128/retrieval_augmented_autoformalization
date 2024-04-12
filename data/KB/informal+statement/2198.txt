@@ -1,0 +1,1 @@
+{"informal": " Assuming that \"\\<Phi>\r\" is a uniformity onset \"X\", it is a filter on the Cartesian product \"X \u00d7 X\".", "statement": "lemma unif_filter: assumes \"\\<Phi> {is a uniformity on} X\"\n  shows \"\\<Phi> {is a filter on} (X\\<times>X)\"\n  "}

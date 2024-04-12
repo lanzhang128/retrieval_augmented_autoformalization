@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can add a nonnegative\n  integer to the right hand side of an inequality.\\<close>\n", "statement": "lemma (in int0) Int_ZF_2_L15F:  assumes \"m\\<lsq>k\"  and \"\\<zero>\\<lsq>n\"\n  shows \"m \\<lsq> k\\<ra>n\"  \"m \\<lsq> n\\<ra>k\"  \n  "}

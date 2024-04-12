@@ -1,0 +1,1 @@
+{"text": "text\\<open>This lemma supersedes the lemma \\<open>comp_eq_id_iff\\<close> \n  in Isabelle/ZF. Contributed by Victor Porton.\\<close>\n"}

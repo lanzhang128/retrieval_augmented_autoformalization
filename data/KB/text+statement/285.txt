@@ -1,0 +1,1 @@
+{"text": "text\\<open>The transition function of the deterministic\nautomata we will construct\\<close>\n", "statement": "definition (in NonDetFinStateAuto) tPow where\n  \"tPow \\<equiv> {\\<langle>\\<langle>U,u\\<rangle>,(\\<Union>v\\<in>U. t ` \\<langle>v, u\\<rangle>)\\<rangle>. \\<langle>U,u\\<rangle>\\<in>Pow(S)\\<times>\\<Sigma>}\"\n"}

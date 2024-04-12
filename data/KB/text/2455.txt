@@ -1,0 +1,1 @@
+{"text": "text\\<open>A property of order isomorphisms that is missing from\n  standard Isabelle's \\<open>Order.thy\\<close>.\\<close>\n"}

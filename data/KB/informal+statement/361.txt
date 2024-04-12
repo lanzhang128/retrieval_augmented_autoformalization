@@ -1,0 +1,1 @@
+{"informal": " In the context of the theory \"generalization1\", the statement \"move_fun\" asserts that the function \"move\" from \"big\" to \"newbig\" types is defined. In natural language:\n\nmove_fun: The function move is defined from big to newbig types.", "statement": "lemma (in generalization1) move_fun: shows \"move: big\\<rightarrow>newbig\" \n  "}

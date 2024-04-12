@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image of a nonempty subset of domain is nonempty.\\<close>\n"}

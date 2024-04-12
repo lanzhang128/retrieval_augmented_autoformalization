@@ -1,0 +1,1 @@
+{"text": "text\\<open>The top of the Pascal's triangle is equal to 1 (i.e. ${0\\choose 0}=1$).\n  This is an easy fact that it is useful to have handy as it  is at the start of a \n  couple of inductive arguments. \\<close>\n"}

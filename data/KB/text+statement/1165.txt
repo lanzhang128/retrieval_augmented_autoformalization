@@ -1,0 +1,1 @@
+{"text": "text\\<open>Elements of the set of upper bounds are indeed upper bounds.\n  Isabelle also thinks it is obvious.\\<close>\n", "statement": "lemma Order_ZF_5_L1: assumes \"u \\<in> (\\<Inter>a\\<in>A. r``{a})\" and \"a\\<in>A\"\n  shows \"\\<langle>a,u\\<rangle> \\<in> r\"\n  "}

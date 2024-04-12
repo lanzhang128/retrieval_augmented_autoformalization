@@ -1,0 +1,1 @@
+{"informal": " Assuming T is a topology, ProductTopBase(I,T) satisfies the base condition in the sense of a topology base.", "statement": "theorem prod_top_base_is_base: assumes \"T {is a topology}\" \n  shows \"ProductTopBase(I,T) {satisfies the base condition}\"\n  "}

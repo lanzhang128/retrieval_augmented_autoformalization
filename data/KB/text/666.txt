@@ -1,0 +1,1 @@
+{"text": "text\\<open>A formula with a nonpositive integer.\\<close>\n"}

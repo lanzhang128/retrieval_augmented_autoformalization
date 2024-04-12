@@ -1,0 +1,1 @@
+{"text": "text\\<open>Absolute values of elements of a finite image of a nonempty set are \n  bounded by an element of the group.\\<close>\n"}

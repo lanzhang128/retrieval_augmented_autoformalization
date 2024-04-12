@@ -1,0 +1,1 @@
+{"informal": " In the semigroup \"G\", if x, y, and z are elements, then x times y times z equals x times (y times z).", "statement": "lemma (in semigr0) semigr_assoc: assumes \"x \\<in> G\"  \"y \\<in> G\"  \"z \\<in> G\"\n  shows \"x\\<cdot>y\\<cdot>z = x\\<cdot>(y\\<cdot>z)\"\n  "}

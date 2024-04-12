@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the radius is positive then the center is in disk.\\<close>\n", "statement": "lemma (in pmetric_space) center_in_disk: assumes \"c\\<in>X\" and \"R\\<in>L\\<^sub>+\" shows \"c \\<in> disk(c,R)\"\n  "}

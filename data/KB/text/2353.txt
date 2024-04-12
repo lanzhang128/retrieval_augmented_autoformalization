@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma about a value of a function that is a union of \n  some collection of functions.\\<close>\n"}

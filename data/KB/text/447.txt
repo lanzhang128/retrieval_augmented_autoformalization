@@ -1,0 +1,1 @@
+{"text": "text\\<open>Composition of right translations is a right translation by \n  the product.\\<close>\n"}

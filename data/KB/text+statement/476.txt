@@ -1,0 +1,1 @@
+{"text": "text\\<open>The lifted operation is an operation on the function space.\\<close>\n", "statement": "lemma (in monoid0) Group_ZF_2_1_L0A:\n  assumes A1: \"F = f {lifted to function space over} X\"\n  shows \"F : (X\\<rightarrow>G)\\<times>(X\\<rightarrow>G)\\<rightarrow>(X\\<rightarrow>G)\"\n"}

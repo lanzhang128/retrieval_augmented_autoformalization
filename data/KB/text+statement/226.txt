@@ -1,0 +1,1 @@
+{"text": "text\\<open>A reformulation of definition of \\<open>Init\\<close>.\\<close>\n", "statement": "lemma init_def: assumes \"n \\<in> nat\" and \"a:succ(n)\\<rightarrow>X\"\n  shows \"Init(a) = restrict(a,n)\"\n  "}

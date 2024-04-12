@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition of product over a set expressed\n  in notation of the \\<open>semigr0\\<close> locale.\\<close>\n", "statement": "lemma (in semigr1) setproddef: \n  shows \"\\<pr>(\\<Lambda>,a) = \\<Prod> (a O \\<sigma>(\\<Lambda>))\"\n  "}

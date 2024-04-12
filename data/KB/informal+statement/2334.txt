@@ -1,0 +1,1 @@
+{"informal": " Assuming `f` is a function defined on the set `{a}`, then `f` equals the singleton set `{{\\<langle>a, f(a)\\<rangle>}}`.", "statement": "lemma func_singleton_pair: assumes A1: \"f : {a}\\<rightarrow>X\"\n  shows \"f = {\\<langle>a, f`(a)\\<rangle>}\"\n"}

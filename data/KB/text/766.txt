@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $f$ maps integers into integers and \n  for all $m,n\\in Z$ we have $|f(m+n) - f(m) - f(n)| \\leq L$ for some $L$,\n  then $f$ is a slope.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a\\in G^+$, then $|a| = a$.\\<close>\n"}

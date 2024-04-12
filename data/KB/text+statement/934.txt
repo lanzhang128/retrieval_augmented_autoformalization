@@ -1,0 +1,1 @@
+{"text": "text\\<open>If for every integer we can find one in $A$ that is greater or equal,\n  then $A$ is is not bounded above, hence infinite.\\<close>\n", "statement": "lemma (in int0) Int_ZF_4_L9: assumes A1: \"\\<forall>m\\<in>\\<int>. \\<exists>k\\<in>A. m\\<lsq>k\"\n  shows \n  \"\\<not>IsBoundedAbove(A,IntegerOrder)\"\n  \"A \\<notin> Fin(\\<int>)\"\n"}

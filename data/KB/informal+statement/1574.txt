@@ -1,0 +1,1 @@
+{"informal": " Assuming m and n are integers, the square roots of m and n, respectively, rounded down to the nearest integers, are equal to the product of the integers m and n.", "statement": "lemma (in real1) Real_ZF_1_4_L17: assumes \"m \\<in> int\"  \"n \\<in> int\"\n  shows \"\\<lfloor>(m\\<^sup>R) \\<ra> n\\<^sup>R\\<rfloor> = m \\<za> n\"\n  "}

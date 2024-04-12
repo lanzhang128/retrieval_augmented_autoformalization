@@ -1,0 +1,1 @@
+{"informal": " If x belongs to the closure of subset U with respect to x and U is a subset of another set C, then the closure of the union of U and C with respect to x equals C.", "statement": "lemma image_greater_rel: \n  assumes  \"x \\<in> U``{x}\"  and \"U``{x} \\<subseteq> C\"\n  shows \"(U \\<union> C\\<times>C)``{x} = C\"\n  "}

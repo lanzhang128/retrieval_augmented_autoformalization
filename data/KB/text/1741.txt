@@ -1,0 +1,1 @@
+{"text": "text\\<open> The additive notation version of \\<open>ginv_image_el\\<close> lemma from \\<open>Group_ZF\\<close> theory \\<close>\n"}

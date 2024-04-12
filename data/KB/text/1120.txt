@@ -1,0 +1,1 @@
+{"text": "text\\<open>For reflexive relations singletons are bounded.\\<close>\n"}

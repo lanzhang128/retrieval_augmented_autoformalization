@@ -1,0 +1,1 @@
+{"text": "text\\<open>If an element belongs to an equivalence class, then its image\n  under relation is this equivalence class.\\<close>\n", "statement": "lemma EquivClass_1_L2: \n  assumes A1: \"equiv(A,r)\"  \"C \\<in> A//r\" and A2: \"x\\<in>C\"\n  shows \"r``{x} = C\"\n"}

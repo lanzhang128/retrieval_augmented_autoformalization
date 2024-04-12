@@ -1,0 +1,1 @@
+{"informal": " In the ring0 context, if I is an ideal and J is an ideal, then the product of I and J is an ideal.", "statement": "lemma (in ring0) sum_elements_is_ideal:\n  assumes \"I \\<triangleleft>R\" \"J \\<triangleleft>R\"\n  shows \"(A``(I\\<times>J)) \\<triangleleft>R\"\n"}

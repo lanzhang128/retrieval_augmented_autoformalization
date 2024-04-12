@@ -1,0 +1,1 @@
+{"informal": " Given a list `i` of length 2 and `i` reduces to a sequence in the range 0.*1, then the first element `i(0)` is equal to 0 and the last element `Last i` is equal to 1.", "statement": "theorem starts1ends0_DFSA_reduce_rev:\n  fixes i\n  assumes \"i\\<in>Lists(2)\" and \"i {reduces in 0.*1}\"\n  shows \"i`0=0\" and \"Last(i) = 1\"\n"}

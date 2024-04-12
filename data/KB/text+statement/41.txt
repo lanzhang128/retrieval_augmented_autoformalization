@@ -1,0 +1,1 @@
+{"text": "text\\<open>The expression representing the imaginary part of the\n  product of complex numbers.\\<close>\n", "statement": "definition\n  \"ImCxMul(R,A,M,a,b) \\<equiv> A`\\<langle>M`\\<langle>fst(a),snd(b)\\<rangle>, M`\\<langle>snd(a),fst(b)\\<rangle> \\<rangle>\"\n"}

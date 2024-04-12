@@ -1,0 +1,1 @@
+{"text": "text\\<open>The sets $\\{m\\cdot x. x\\in R\\}$ and  $\\{-m\\cdot x. x\\in R\\}$\n  are the same.\\<close>\n"}

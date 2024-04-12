@@ -1,0 +1,1 @@
+{"text": "text\\<open>The value of the neighborhood system of $T$ at $x\\in \\bigcup T$ \n  is the collection of supersets of open sets containing $x$.\\<close>\n", "statement": "lemma neigh_val: assumes \"x\\<in>\\<Union>T\"\n  shows \"({neighborhood system of} T)`(x) = {N\\<in>Pow(\\<Union>T).\\<exists>U\\<in>T.(x\\<in>U \\<and> U\\<subseteq>N)}\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another version of \\<open>sum_comm_distrib0\\<close> written in terms of the expressions\n  defining the sequences, shows that for commutative monoids we have \n  $\\sum_{k=0}^{n-1}q(k) \\oplus p(k) = (\\sum_{k=0}^{n-1} p(k))\\oplus (\\sum_{k=0}^{n-1} q(k))$. \\<close>\n"}

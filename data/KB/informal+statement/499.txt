@@ -1,0 +1,1 @@
+{"informal": " In the group0 theory, if H is a subgroup of P, then the reflexive property holds for the quotient group G/P using the subgroup H.", "statement": "lemma (in group0) Group_ZF_2_4_L1: \n  assumes \"IsAsubgroup(H,P)\"\n  shows \"refl(G,QuotientGroupRel(G,P,H))\"\n  "}

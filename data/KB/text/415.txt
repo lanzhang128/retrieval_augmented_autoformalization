@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can cancel an element with its inverse that is written next to it.\\<close>\n"}

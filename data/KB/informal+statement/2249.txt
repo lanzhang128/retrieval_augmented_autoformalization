@@ -1,0 +1,1 @@
+{"informal": " The statement \"x not member of x\" holds true. This can be derived using the reflexivity rule for the not member relation (mem_not_refl).", "statement": "lemma mem_self: shows \"x\\<notin>x\" by (rule mem_not_refl)\n"}

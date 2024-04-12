@@ -1,0 +1,1 @@
+{"text": "text\\<open>Elements of base are open.\\<close>\n", "statement": "lemma base_sets_open: \n  assumes \"B {is a base for} T\" and \"U \\<in> B\"\n  shows \"U \\<in> T\"\n  "}

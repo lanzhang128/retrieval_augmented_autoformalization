@@ -1,0 +1,1 @@
+{"text": "text\\<open>A closed subspace of a compact space of any cardinality, is also\ncompact of the same cardinality.\\<close>\n", "statement": "theorem compact_closed:\n  assumes \"K {is compact of cardinal} Q {in} T\"\n    and \"R {is closed in} T\"\n  shows \"(K\\<inter>R) {is compact of cardinal} Q {in} T\"\n"}

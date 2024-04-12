@@ -1,0 +1,1 @@
+{"informal": " If function `f` maps X to Y, then the inverse image of X under `f` intersected with `f`'s image of X equals `f`'s image of the set X.", "statement": "lemma inv_im_inter_im: assumes \"f:X\\<rightarrow>Y\" \n  shows \"f-``(A \\<inter> f``(X)) = f-``(A)\"\n  "}

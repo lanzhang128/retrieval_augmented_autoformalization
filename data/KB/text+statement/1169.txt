@@ -1,0 +1,1 @@
+{"text": "text\\<open>Infimum is greater or equal than any upper bound. \\<close>\n", "statement": "lemma inf_geq_lo_bnd: assumes \"antisym(r)\" \"HasAnInfimum(r,A)\" \"\\<forall>a\\<in>A. \\<langle>u,a\\<rangle> \\<in> r\"\n  shows \"\\<langle>u,Infimum(r,A)\\<rangle> \\<in> r\"\n"}

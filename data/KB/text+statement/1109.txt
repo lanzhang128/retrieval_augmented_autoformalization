@@ -1,0 +1,1 @@
+{"text": "text\\<open> We can restrict a total order relation to the domain. \\<close>\n", "statement": "lemma total_ord_restr: assumes \"r {is total on} X\"\n  shows \"(r \\<inter> X\\<times>X) {is total on} X\"\n  "}

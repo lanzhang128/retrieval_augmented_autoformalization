@@ -1,0 +1,1 @@
+{"text": "text\\<open>The binomial term is $1$ when the $n=0$ and $k=0$. \n  Somehow we do not need the assumption that $x,y$ are ring elements. \\<close>\n", "statement": "lemma (in ring3) bt_at_zero: shows \"BT(0,0,x,y) = \\<one>\"\n  "}

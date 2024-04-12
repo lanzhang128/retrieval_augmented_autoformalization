@@ -1,0 +1,1 @@
+{"text": "text\\<open> The collection of sets constructed in the \\<open> UniformTopology \\<close> definition\n  is indeed a topology on $X$. \\<close>\n", "statement": "theorem uniform_top_is_top:\n  assumes \"\\<Phi> {is a uniformity on} X\"\n  shows \n  \"UniformTopology(\\<Phi>,X) {is a topology}\" and \"\\<Union> UniformTopology(\\<Phi>,X) = X\"\n  "}

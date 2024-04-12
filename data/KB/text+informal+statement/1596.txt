@@ -1,0 +1,1 @@
+{"text": "text\\<open>Of course the set of positive real numbers is nonempty as one is there.\\<close>\n", "informal": " In the real numbers, the set of non-zero real numbers is non-empty.", "statement": "lemma (in reals) pos_non_empty: shows \"\\<real>\\<^sub>+\\<noteq>0\"\n  "}

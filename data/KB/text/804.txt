@@ -1,0 +1,1 @@
+{"text": "text\\<open>We want to show that if $f$ is a slope and neither $f$ nor $-f$ are in \\<open>\\<S>\\<^sub>+\\<close>, \n  then $f$ is bounded. The next lemma is the first step towards that goal and \n  shows that if slope is not in \\<open>\\<S>\\<^sub>+\\<close> then $f($\\<open>\\<int>\\<^sub>+\\<close>$)$ is bounded above.\\<close>\n"}

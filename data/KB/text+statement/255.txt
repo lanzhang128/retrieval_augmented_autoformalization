@@ -1,0 +1,1 @@
+{"text": "text\\<open>Destruction lemma about deterministic finite\nstate automata.\\<close>\n", "statement": "lemma (in DetFinStateAuto) DFSA_dest:\n  shows \"s\\<^sub>0\\<in>S\" \"F\\<subseteq>S\" \"t:S\\<times>\\<Sigma> \\<rightarrow> S\" \"Finite(S)\" "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The closed sets are the open sets.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Negative of a real number is a real number. Property of groups.\\<close>\n", "statement": "lemma (in real1) Real_ZF_1_1_L8: assumes \"a\\<in>\\<real>\" shows \"(\\<rm>a) \\<in> \\<real>\"\n  "}

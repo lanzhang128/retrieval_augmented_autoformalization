@@ -1,0 +1,1 @@
+{"informal": " Given that y belongs to the set {x | p(x) is an element of X}, there exists an x in X such that y is equal to p(x).", "statement": "lemma comprehension_repl: assumes \"y \\<in> {p(x). x\\<in>X}\"\n  shows \"\\<exists>x\\<in>X. y = p(x)\" "}

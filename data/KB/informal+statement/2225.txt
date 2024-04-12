@@ -1,0 +1,1 @@
+{"informal": " If an element x belongs to a set U, then the set of all stars (i.e., closed sets) of x with respect to property P is a subset of the set of all stars of U with respect to property P.", "statement": "corollary star_single_mono: assumes \"x\\<in>U\" shows \"Star({x},P) \\<subseteq> Star(U,P)\"\n  "}

@@ -1,0 +1,1 @@
+{"informal": " Assuming H is a subgroup of set P in group0 theory, the neutral element of H with respect to the restriction of P to the product of H with itself is the identity element.", "statement": "lemma (in group0) group0_3_L4: assumes A1: \"IsAsubgroup(H,P)\"\n  shows \"TheNeutralElement(H,restrict(P,H\\<times>H)) = \\<one>\"\n"}

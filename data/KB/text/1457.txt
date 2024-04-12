@@ -1,0 +1,1 @@
+{"text": "text\\<open> A couple of properties of right and left division: \\<close>\n"}

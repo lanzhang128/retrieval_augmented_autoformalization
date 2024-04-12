@@ -1,0 +1,1 @@
+{"text": "text\\<open>The function (set) that represents the binary operation of \n  multiplication of complex numbers.\\<close>\n", "statement": "definition\n  \"CplxMul(R,A,M) \\<equiv> \n  { \\<langle>p, \\<langle>ReCxMul(R,A,M,fst(p),snd(p)),ImCxMul(R,A,M,fst(p),snd(p))\\<rangle> \\<rangle>. \n  p \\<in> (R\\<times>R)\\<times>(R\\<times>R)}\"\n"}

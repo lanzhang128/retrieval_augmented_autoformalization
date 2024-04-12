@@ -1,0 +1,1 @@
+{"text": "text\\<open>An implication between two forms of induction steps.\\<close>\n"}

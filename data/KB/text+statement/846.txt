@@ -1,0 +1,1 @@
+{"text": "text\\<open>Integer addition and multiplication are commutative.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_L4:\n  assumes \"x\\<in>\\<int>\"  \"y\\<in>\\<int>\"\n  shows \"x\\<ra>y = y\\<ra>x\"  \"x\\<cdot>y = y\\<cdot>x\"\n  "}

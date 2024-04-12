@@ -1,0 +1,1 @@
+{"informal": " If n is a natural number and x is a function that maps succ(n) to elements in a group G, then the sum of the elements in the domain of x is an element in G.", "statement": "lemma (in topgroup) sum_list_in_group:\n  assumes \"n \\<in> nat\" and \"x: succ(n)\\<rightarrow>G\"\n  shows \"(\\<Sum>x) \\<in> G\"\n"}

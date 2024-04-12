@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>Int_ZF_2_L9B\\<close> with weaker assumptions.\\<close>\n", "statement": "lemma (in int0) Int_ZF_2_L9C: \n  assumes \"i\\<in>\\<int>\"  \"m\\<in>\\<int>\" and \"i\\<rs>m \\<lsq> k\" \n  shows \"i \\<lsq> k\\<ra>m\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image of a group under a homomorphism is a subgroup of the target group.\\<close>\n", "statement": "corollary image_group:\n  assumes \"IsAgroup(G,P)\" \"IsAgroup(H,F)\" \"Homomor(f,G,P,H,F)\" \"f:G\\<rightarrow>H\"\n  shows \"IsAsubgroup(f``(G),F)\"\n"}

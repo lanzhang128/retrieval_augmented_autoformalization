@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma tells us where the induced relation is defined\\<close>\n"}

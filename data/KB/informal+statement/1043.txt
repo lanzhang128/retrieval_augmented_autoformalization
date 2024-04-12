@@ -1,0 +1,1 @@
+{"informal": " The lemma \"succ\\_explained\" claims that the successor of a natural number n can be expressed as the set ofall integers less than or equal to n, written as n \\ Union {n}. In other words, the successor of n is n itself together with all numbers strictly less than n.", "statement": "lemma succ_explained: shows \"succ(n) = n \\<union> {n}\"\n  "}

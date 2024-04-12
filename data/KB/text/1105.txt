@@ -1,0 +1,1 @@
+{"text": "text\\<open>A linear order is partial order.\\<close>\n"}

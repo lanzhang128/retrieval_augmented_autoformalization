@@ -1,0 +1,1 @@
+{"informal": " Assuming that `X` is a linear order relation `r`, it follows that `X` is a partial order relation.\n\nIn other words, every linear order is a type of partial order.", "statement": "lemma Order_ZF_1_L2: assumes \"IsLinOrder(X,r)\" \n  shows \"IsPartOrder(X,r)\" \n  "}

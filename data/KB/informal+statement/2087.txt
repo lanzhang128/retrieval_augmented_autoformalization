@@ -1,0 +1,1 @@
+{"informal": " If A is a subset of X, then the interior of A in the topology T is equal to A itself if T is a subset of A, and is equal to the empty set otherwise.", "statement": "lemma interior_set_includedset:\n  assumes \"A\\<subseteq>X\"\n  shows \"Interior(A,IncludedSet(X,T))= (if T\\<subseteq>A then A else 0)\"\n"}

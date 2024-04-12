@@ -1,0 +1,1 @@
+{"text": "text\\<open>A one side version of the previous lemma with weaker assuptions.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L9B:\n  assumes A1: \"a\\<in>G\"  \"b\\<in>G\" and A2: \"a\\<cdot>b\\<inverse> \\<lsq> c\"\n  shows \"a \\<lsq> c\\<cdot>b\"\n"}

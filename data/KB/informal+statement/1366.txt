@@ -1,0 +1,1 @@
+{"informal": " In the context of loop1, it is shown that the subset L+ is a subsets of L.", "statement": "lemma (in loop1) positive_subset: shows \"L\\<^sub>+ \\<subseteq> L\"\n  "}

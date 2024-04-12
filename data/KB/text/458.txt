@@ -1,0 +1,1 @@
+{"text": "text\\<open>Right and left translations of a set are subsets of the group. \n  Interestingly, we do not have to assume the set is a subset of the group. \\<close>\n"}

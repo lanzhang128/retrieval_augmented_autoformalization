@@ -1,0 +1,1 @@
+{"text": "text\\<open>Integer intervals are finite - induction step.\\<close>\n", "statement": "lemma (in int0) Int_ZF_4_L4: \n  assumes A1: \"i\\<lsq>m\" and A2: \"i..m \\<in> Fin(\\<int>)\"\n  shows \"i..(m $+ $#1) \\<in> Fin(\\<int>)\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>An open subset of any set is a subset of the interior of that set.\\<close>\n", "statement": "lemma (in topology0) Top_2_L5: assumes \"U\\<subseteq>A\" and \"U\\<in>T\"\n  shows \"U \\<subseteq> int(A)\"\n  "}

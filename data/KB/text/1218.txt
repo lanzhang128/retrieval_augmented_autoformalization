@@ -1,0 +1,1 @@
+{"text": "text\\<open>In \\<open>group3\\<close> context we can use the theorems proven in the \n  \\<open>group0\\<close> context.\\<close>\n"}

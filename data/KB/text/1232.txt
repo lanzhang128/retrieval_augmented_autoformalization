@@ -1,0 +1,1 @@
+{"text": "text\\<open>An element smaller than an element in $G\\setminus G^+$ is in \n  $G\\setminus G^+$.\\<close>\n"}

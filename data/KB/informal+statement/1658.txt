@@ -1,0 +1,1 @@
+{"informal": " If I is an ideal in ring0 that contains the multiplicative identity one, then I equals the entire ring ring0.", "statement": "theorem (in ring0) ideal_with_one:\n  assumes \"I\\<triangleleft>R\" \"\\<one>\\<in>I\"\n  shows \"I = R\"\n"}

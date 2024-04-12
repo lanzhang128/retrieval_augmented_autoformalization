@@ -1,0 +1,1 @@
+{"informal": " Assuming `a` and `b` are elements in group `G`, and `a * b^(-1)` is less than `c`, then `a` is less than `c * b`.", "statement": "lemma (in group3) OrderedGroup_ZF_1_L12B:  \n  assumes A1: \"a\\<in>G\"  \"b\\<in>G\" and  A2: \"a\\<cdot>b\\<inverse> \\<ls> c\"\n  shows \"a \\<ls> c\\<cdot>b\"\n"}

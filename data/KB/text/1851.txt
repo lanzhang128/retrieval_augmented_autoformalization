@@ -1,0 +1,1 @@
+{"text": "text\\<open>Each point of a set open in the product topology has a neighborhood\n  which is a cartesian product of open sets.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " The set of open balls in the order topology of natural numbers with respect to the less-than relation is equal to the set of left rays at every natural number, together with the set of natural numbers and the empty set.", "statement": "theorem lord_nat:\n  shows \"(LOrdTopology nat Le)={LeftRayX(nat,Le,n). n\\<in>nat} \\<union>{nat} \\<union>{0}\"\n"}

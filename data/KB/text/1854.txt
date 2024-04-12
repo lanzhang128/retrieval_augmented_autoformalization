@@ -1,0 +1,1 @@
+{"text": "text\\<open>A reverse of \\<open>prod_top_point_neighb\\<close>: if each point of set has an neighborhood in the set\n  that is a cartesian product of open sets, then the set is open.\\<close>\n"}

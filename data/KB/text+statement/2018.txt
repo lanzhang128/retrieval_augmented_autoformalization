@@ -1,0 +1,1 @@
+{"text": "text\\<open>First, the closure of a point in every topological space is always hyperconnected.\nThis is the reason why every anti-hyperconnected space must be $T_1$: every singleton\nmust be closed.\\<close>\n", "statement": "lemma (in topology0)cl_point_imp_HConn:\n  assumes \"x\\<in>\\<Union>T\"\n  shows \"(T{restricted to}Closure({x},T)){is hyperconnected}\"\n"}

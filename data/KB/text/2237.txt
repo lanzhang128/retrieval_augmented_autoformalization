@@ -1,0 +1,1 @@
+{"text": "text\\<open>An identity related to square (in the sense of composition) of a relation of the \n  form $\\bigcup \\{U\\times U : U\\in P\\}$. \n  I am amazed that Isabelle can see that this is true without an explicit proof, I can't. \\<close>\n"}

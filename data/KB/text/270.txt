@@ -1,0 +1,1 @@
+{"text": "text\\<open>Any list that reduces starts with 0 and ends in 1\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Result of adding an element of $k$ is smaller than of adding $k$.\\<close>\n"}

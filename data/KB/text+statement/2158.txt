@@ -1,0 +1,1 @@
+{"text": "text\\<open>A first example of an anti-compact space is the discrete space.\\<close>\n", "statement": "lemma pow_compact_imp_finite:\n  assumes \"B{is compact in}Pow(A)\"\n  shows \"Finite(B)\"\n"}

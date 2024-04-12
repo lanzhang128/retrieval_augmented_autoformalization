@@ -1,0 +1,1 @@
+{"text": "text\\<open>In linearly ordered groups the unit is not greater than the absolute \n  value of any element.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_3_L3E: \n  assumes \"r {is total on} G\" and \"a\\<in>G\"\n  shows \"\\<one> \\<lsq> \\<bar>a\\<bar>\"\n  "}

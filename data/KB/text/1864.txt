@@ -1,0 +1,1 @@
+{"text": "text\\<open>The product of regular spaces is regular.\\<close>\n"}

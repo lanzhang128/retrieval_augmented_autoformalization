@@ -1,0 +1,1 @@
+{"text": "text\\<open>Set that has a minimum is bounded below.\\<close>\n", "statement": "lemma Order_ZF_4_L8A:\n  assumes \"HasAminimum(r,A)\"\n  shows \"IsBoundedBelow(A,r)\"\n  "}

@@ -1,0 +1,1 @@
+{"informal": " A structure (K, A, M, r) is a model of the real numbers if it is an ordered field and its real part is complete.", "statement": "definition\n  \"IsAmodelOfReals(K,A,M,r) \\<equiv> IsAnOrdField(K,A,M,r) \\<and> (r {is complete})\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The whole space is a neighborhood of zero.\\<close>\n", "statement": "lemma (in topgroup) zneigh_not_empty: shows \"G \\<in> \\<N>\\<^sub>0\"\n  "}

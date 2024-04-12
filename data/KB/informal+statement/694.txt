@@ -1,0 +1,1 @@
+{"informal": " Assuming integers a and b are in the set of integers, b is non-zero, and the product of a and b is less than zero, then a is less than zero.", "statement": "lemma (in int0) Int_ZF_1_3_L9:\n  assumes A1: \"a\\<in>\\<int>\"  \"b\\<in>\\<int>\"\n  and A2:  \"\\<not>(b\\<lsq>\\<zero>)\" and A3: \"a\\<cdot>b \\<lsq> \\<zero>\" \n  shows \"a\\<lsq>\\<zero>\"\n"}

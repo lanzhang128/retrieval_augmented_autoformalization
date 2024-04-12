@@ -1,0 +1,1 @@
+{"text": "text\\<open>Inverse and square of a subgroup is this subgroup.\\<close>\n", "statement": "lemma (in group4) subgroup_inv_sq: assumes \"IsAsubgroup(H,P)\" \n   shows \"H\\<sinv> = H\" and \"H\\<sdot>H = H\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>\\<open>embed\\<close> is a restriciton of \\<open>ret\\<close> to \\<open>small\\<close>.\\<close>\n"}

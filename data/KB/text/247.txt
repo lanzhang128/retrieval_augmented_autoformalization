@@ -1,0 +1,1 @@
+{"text": "text\\<open>There is a natural bijection between the space $(n+1)\\rightarrow X$ of lists of length \n$n+1$ of elements of $X$ and the cartesian product $(n\\rightarrow X)\\times X$.\\<close>\n"}

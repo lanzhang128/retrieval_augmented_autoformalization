@@ -1,0 +1,1 @@
+{"informal": " The lemma \"int_two_is_real_two\" asserts that the integer two has the same real value as the constant two in the real number domain real1. In other words, 2 (as an integer) equals the constant 2 (as a real number) in the real1 context.", "statement": "lemma (in real1) int_two_is_real_two: shows \"\\<two>\\<^sub>Z\\<^sup>R = \\<two>\"\n"}

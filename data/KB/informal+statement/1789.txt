@@ -1,0 +1,1 @@
+{"informal": " In the topological group H, if H is a subgroup, the restriction of T to H is locally compact, and T is a T0 (separable) space, then H is closed in T.", "statement": "theorem (in topgroup) loc_compact_T0_closed:\n  assumes \"IsAsubgroup(H,f)\" \"(T{restricted to}H){is locally-compact}\" \"T{is T\\<^sub>0}\"\n  shows \"H{is closed in}T\"\n"}

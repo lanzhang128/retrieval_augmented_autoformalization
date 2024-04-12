@@ -1,0 +1,1 @@
+{"text": "text\\<open>If every element of a nontrivial ordered ring can be dominated\n  by an element from $B$, then we $B$ is not bounded and not finite.\\<close>\n"}

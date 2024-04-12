@@ -1,0 +1,1 @@
+{"informal": " If \"token\" is not an element of \"small\" list (or set), then the statement holds.", "statement": "lemma (in generalization) token_not_small: shows \"\\<langle>token,x\\<rangle>\\<notin>small\"\n"}

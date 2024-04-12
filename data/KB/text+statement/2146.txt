@@ -1,0 +1,1 @@
+{"text": "text\\<open>The original topology is an open subspace of the new topology.\\<close>\n", "statement": "theorem (in topology0) open_subspace:\n  shows \"\\<Union>T\\<in>{one-point compactification of}T\" and \"({one-point compactification of}T){restricted to}\\<Union>T=T\"\n"}

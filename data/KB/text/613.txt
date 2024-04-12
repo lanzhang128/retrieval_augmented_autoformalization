@@ -1,0 +1,1 @@
+{"text": "text\\<open>The first theorem about properties of infinite inductive sequences:\n  inductive sequence is a indeed a sequence (i.e. a function on the set of \n  natural numbers.\\<close>\n"}

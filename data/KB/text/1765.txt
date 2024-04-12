@@ -1,0 +1,1 @@
+{"text": "text\\<open>Any element belongs to the interior of any neighboorhood of zero\n  left translated by that element.\\<close>\n"}

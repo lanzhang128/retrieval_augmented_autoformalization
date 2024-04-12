@@ -1,0 +1,1 @@
+{"text": "text\\<open>$1$ is nonnegative.\\<close>\n", "informal": " In the ring1 context, it can be shown that one is non-negative with respect to the ordering relation, i.e., one is greater than or equal to zero.", "statement": "corollary (in ring1) ordring_one_is_nonneg: shows \"\\<zero> \\<lsq> \\<one>\"\n"}

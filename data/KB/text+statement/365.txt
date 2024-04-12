@@ -1,0 +1,1 @@
+{"text": "text\\<open>\\<open>ret\\<close> is a bijection from \\<open>newbig\\<close>newbig to \\<open>big\\<close>.\\<close>\n", "statement": "lemma (in generalization1) ret_bij: shows \"ret\\<in>bij(newbig, big)\" \n  "}

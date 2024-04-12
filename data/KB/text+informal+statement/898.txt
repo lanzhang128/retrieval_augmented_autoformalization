@@ -1,0 +1,1 @@
+{"text": "text\\<open>$0\\leq 1$, so $|1| = 1$.\\<close>\n", "informal": " In the integer ZeroFiver world, we have two facts: the succession zero is less than one, and the absolute value of one is equal to one.", "statement": "lemma (in int0) Int_ZF_2_L16A: shows \"\\<zero>\\<lsq>\\<one>\" and \"abs(\\<one>) = \\<one>\"\n"}

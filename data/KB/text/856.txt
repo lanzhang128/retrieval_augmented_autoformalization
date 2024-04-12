@@ -1,0 +1,1 @@
+{"text": "text\\<open>Integers with addition form an abelian group. This also shows\n  that we can apply all theorems proven in the proof contexts (locales) \n  that require the assumpion that some pair of sets form a group like \n  locale \\<open>group0\\<close>.\\<close>\n"}

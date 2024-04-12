@@ -1,0 +1,1 @@
+{"text": "text\\<open>Any list that reduces starts with 0 and ends in 1\\<close>\n", "statement": "theorem starts1ends0_DFSA_reduce_rev:\n  fixes i\n  assumes \"i\\<in>Lists(2)\" and \"i {reduces in 0.*1}\"\n  shows \"i`0=0\" and \"Last(i) = 1\"\n"}

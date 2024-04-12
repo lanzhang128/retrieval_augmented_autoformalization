@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the homomorphism difference is bounded on \\<open>\\<int>\\<^sub>+\\<times>\\<int>\\<^sub>+\\<close>, \n  then it is bounded on \\<open>\\<int>\\<^sup>+\\<times>\\<int>\\<^sup>+\\<close>.\\<close>\n"}

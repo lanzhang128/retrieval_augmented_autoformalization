@@ -1,0 +1,1 @@
+{"informal": " Assuming x is an element of a set X, Appending an empty list to x results in a list that is a subset of X and has x as its first element.", "statement": "lemma empty_append1: assumes A1: \"x\\<in>X\"\n  shows \"Append(0,x): 1 \\<rightarrow> X\" and \"Append(0,x)`(0) = x\"\n"}

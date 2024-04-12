@@ -1,0 +1,1 @@
+{"text": "text\\<open>A simple lemma about multiplication and cancelling of a positive field\n   element.\\<close>\n", "statement": "lemma (in field1) OrdField_ZF_1_L7A: \n  assumes A1: \"a\\<in>R\"  \"b \\<in> R\\<^sub>+\"\n  shows \n  \"a\\<cdot>b\\<cdot>b\\<inverse> = a\"\n  \"a\\<cdot>b\\<inverse>\\<cdot>b = a\"\n"}

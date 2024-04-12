@@ -1,0 +1,1 @@
+{"text": "text\\<open>Order isomoprhisms preserve transitivity.\\<close>\n", "statement": "lemma ord_iso_pres_trans: assumes A1: \"f \\<in> ord_iso(A,r,B,R)\" and \n  A2: \"r \\<subseteq> A\\<times>A\" and A3: \"trans(R)\"\n  shows \"trans(r)\"\n"}

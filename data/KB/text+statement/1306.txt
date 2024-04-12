@@ -1,0 +1,1 @@
+{"text": "text\\<open>In linearly ordered groups the absolute value of any element \n  is in $G^+$.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_3_L3B: \n  assumes A1: \"r {is total on} G\" and A2: \"a\\<in>G\"\n  shows \"\\<bar>a\\<bar> \\<in> G\\<^sup>+\"\n"}

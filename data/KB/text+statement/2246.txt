@@ -1,0 +1,1 @@
+{"text": "text\\<open> If $\\Phi$ is a (diagonal) uniformity on $X$, then \\<open>UniCovFromUniformity(X,\\<Phi>)\\<close> is \n  a family of uniform covers.\\<close>\n", "statement": "theorem unicov_from_uniformity: assumes \"\\<Phi> {is a uniformity on} X\" and \"X\\<noteq>0\" \n  shows \"UniCovFromUniformity(X,\\<Phi>) {are uniform covers of} X\"\n"}

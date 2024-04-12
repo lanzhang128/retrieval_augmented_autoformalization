@@ -1,0 +1,1 @@
+{"text": "text\\<open>A different take on decomposition: we can have $a=b$ or $a<b$\n  or $b<a$.\\<close>\n"}

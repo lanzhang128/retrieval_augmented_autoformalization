@@ -1,0 +1,1 @@
+{"text": "text\\<open>In the next result we will prove that if the space $(\\kappa,Pow(\\kappa))$,\nfor $\\kappa$ an infinite cardinal, is compact of its successor cardinal; then all\ntopologycal spaces which are of second type of the successor cardinal of $\\kappa$\nare also compact of that cardinal.\\<close>\n"}

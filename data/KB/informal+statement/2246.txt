@@ -1,0 +1,1 @@
+{"informal": " Given a uniformity `\u03a6` on a non-empty set `X`, `UniCovFromUniformity(X, \u03a6)` are the uniform covers of `X`.", "statement": "theorem unicov_from_uniformity: assumes \"\\<Phi> {is a uniformity on} X\" and \"X\\<noteq>0\" \n  shows \"UniCovFromUniformity(X,\\<Phi>) {are uniform covers of} X\"\n"}

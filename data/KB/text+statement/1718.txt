@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition of right uniformity\\<close>\n", "statement": "definition (in topgroup) rightUniformity\n where \"rightUniformity \\<equiv> {V\\<in>Pow(G\\<times>G).\\<exists>U\\<in> \\<N>\\<^sub>0. {\\<langle>s,t\\<rangle>\\<in>G\\<times>G. s\\<ra>(\\<rm>t) \\<in>U}\\<subseteq> V}\"\n"}

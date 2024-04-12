@@ -1,0 +1,1 @@
+{"informal": " An interval in the relation r is defined as the SET union of all relations r with argument a and all relations r without argument b. In other words, an interval is the set of all elements related to a and not related to b via relation r.", "statement": "definition\n  \"Interval(r,a,b) \\<equiv> r``{a} \\<inter> r-``{b}\"\n"}

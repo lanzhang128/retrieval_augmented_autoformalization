@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group operation lifted to the function space over $G$ preserves\n  almost homomorphisms.\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_2_L2: assumes A1: \"s \\<in> AH\" \"r \\<in> AH\"\n  and A2: \"F = P {lifted to function space over} G\"\n  shows \"F`\\<langle> s,r\\<rangle> \\<in> AH\"\n"}

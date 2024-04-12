@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma shows our assumption on the associativity\n  of the semigroup operation in the notation defined in in the \n  \\<open>semigr0\\<close> context.\\<close>\n", "statement": "lemma (in semigr0) semigr_assoc: assumes \"x \\<in> G\"  \"y \\<in> G\"  \"z \\<in> G\"\n  shows \"x\\<cdot>y\\<cdot>z = x\\<cdot>(y\\<cdot>z)\"\n  "}

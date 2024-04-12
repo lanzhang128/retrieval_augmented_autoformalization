@@ -1,0 +1,1 @@
+{"text": "text\\<open>For linearly ordered groups (where the order is total), the absolute\n  value maps the group into the positive set.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_3_L3C:\n  assumes A1: \"r {is total on} G\"\n  shows \"AbsoluteValue(G,P,r) : G\\<rightarrow>G\\<^sup>+\"\n"}

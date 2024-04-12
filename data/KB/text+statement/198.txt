@@ -1,0 +1,1 @@
+{"text": "text\\<open>Constant functions have finite range.\\<close>\n", "statement": "lemma Finite1_L17: assumes \"c\\<in>Y\" and \"X\\<noteq>0\"\n  shows \"ConstantFunction(X,c) \\<in> FinRangeFunctions(X,Y)\"\n  "}

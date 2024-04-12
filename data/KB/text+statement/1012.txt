@@ -1,0 +1,1 @@
+{"text": "text\\<open>There is only one neutral element in a monoid.\\<close>\n", "statement": "lemma (in monoid0) group0_1_L2: shows\n  \"\\<exists>!e. e\\<in>G \\<and> (\\<forall> g\\<in>G. ( (e\\<oplus>g = g) \\<and> g\\<oplus>e = g))\"\n"}

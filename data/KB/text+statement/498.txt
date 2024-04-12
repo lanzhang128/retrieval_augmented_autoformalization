@@ -1,0 +1,1 @@
+{"text": "text\\<open>Next we define the operation in the quotient group as the\n  projection of the group operation on the classses of the\n  quotient group relation.\\<close>\n", "statement": "definition\n  \"QuotientGroupOp(G,P,H) \\<equiv> ProjFun2(G,QuotientGroupRel(G,P,H ),P)\"\n"}

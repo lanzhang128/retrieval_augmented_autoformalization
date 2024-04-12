@@ -1,0 +1,1 @@
+{"text": "text\\<open>Sets that are open in the product topology are contained in the product\n  of the carrier.\\<close>\n"}

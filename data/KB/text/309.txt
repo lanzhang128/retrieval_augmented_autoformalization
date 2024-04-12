@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another type of induction (or, maybe recursion).\n  In the induction step  we try to find a point in the set that\n  if we remove it, the fact that the property holds for the \n  smaller set implies that the property holds for the whole set. \n\\<close>\n"}

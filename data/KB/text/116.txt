@@ -1,0 +1,1 @@
+{"text": "text\\<open>The projection diagram commutes. I wish I knew how to draw this diagram\n  in LaTeX.\\<close>\n"}

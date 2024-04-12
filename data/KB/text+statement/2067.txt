@@ -1,0 +1,1 @@
+{"text": "text\\<open>The closure of a set is itself if it is closed or \\<open>X\\<close> if\nit isn't closed.\\<close>\n", "statement": "lemma closure_set_cocardinal:\n  assumes \"T\\<noteq>0\"\"A\\<subseteq>X\"\n  shows \"Closure(A,CoCardinal(X,T))=(if (A \\<prec> T) then A else X)\"\n"}

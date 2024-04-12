@@ -1,0 +1,1 @@
+{"text": "text\\<open>An injection is a bijection on its range. Suggested by Victor Porton.\\<close>\n", "statement": "lemma inj_bij_range: assumes \"f \\<in> inj(A,B)\" \n  shows \"f \\<in> bij(A,range(f))\"\n"}

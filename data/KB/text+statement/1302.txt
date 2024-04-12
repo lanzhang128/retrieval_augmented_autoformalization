@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a\\in G^+$, then $|a| = a$.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_3_L2:\n  assumes A1: \"a\\<in>G\\<^sup>+\" shows \"\\<bar>a\\<bar> = a\"\n"}

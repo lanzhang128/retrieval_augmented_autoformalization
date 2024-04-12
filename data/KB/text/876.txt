@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can put any integer on the other side of an inequality reversing\n  its sign.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " Given that g is an element of the group G and A is a subset of G, the interior of the set g intersect A is equal to the interior of the set g intersect the subset A.", "statement": "lemma (in topgroup) ltrans_interior: assumes A1: \"g\\<in>G\" and A2: \"A\\<subseteq>G\" \n  shows \"g \\<ltr> int(A) = int(g\\<ltr>A)\"\n"}

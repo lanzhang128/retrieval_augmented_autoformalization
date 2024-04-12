@@ -1,0 +1,1 @@
+{"informal": " A set S is a subset of the image of function f over set T if and only if for all elements A in T, the application of f to A is in S.", "statement": "definition\n  \"PresColl(f,S,T) \\<equiv> \\<forall> A\\<in>T. f-``(A)\\<in>S\"\n"}

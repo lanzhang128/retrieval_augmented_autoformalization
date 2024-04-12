@@ -1,0 +1,1 @@
+{"text": "text\\<open>And the value belongs to the set the operation is defined on.\\<close>\n", "statement": "lemma (in direct0) DirectProduct_ZF_1_L3:\n  shows \"\\<forall>x\\<in>(G\\<times>H). \\<forall>y\\<in>(G\\<times>H). R`\\<langle>x,y\\<rangle> \\<in> G\\<times>H\"\n  "}

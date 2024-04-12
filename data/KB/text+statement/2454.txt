@@ -1,0 +1,1 @@
+{"text": "text\\<open>A reformulation of the definition of the relation induced by\n  a function.\\<close>\n", "statement": "lemma def_of_ind_relA: \n  assumes \"\\<langle>x,y\\<rangle> \\<in> InducedRelation(f,R)\"\n  shows \"\\<langle>f`(x),f`(y)\\<rangle> \\<in> R\"\n  "}

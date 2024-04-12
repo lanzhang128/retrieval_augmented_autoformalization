@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse of the neutral element is the neutral element.\\<close>\n", "statement": "lemma (in group0) group_inv_of_one: shows \"\\<one>\\<inverse> = \\<one>\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Let's build now a net from a filter, such that both converge to the same points.\\<close>\n"}

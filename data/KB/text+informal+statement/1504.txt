@@ -1,0 +1,1 @@
+{"text": "text\\<open>Positive slopes are slopes and positive reals are real.\\<close>\n", "informal": " The set of PositiveSlopes is a subset of Slopes, and the set of PositiveReals is a subset of RealNumbers.", "statement": "lemma Real_ZF_1_2_L1: shows \n  \"PositiveSlopes \\<subseteq> Slopes\"\n  \"PositiveReals \\<subseteq> RealNumbers\"\n"}

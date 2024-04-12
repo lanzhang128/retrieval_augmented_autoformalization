@@ -1,0 +1,1 @@
+{"text": "text\\<open>Shifted sequence is a function on a the interval of natural numbers.\\<close>\n"}

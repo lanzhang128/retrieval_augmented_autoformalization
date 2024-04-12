@@ -1,0 +1,1 @@
+{"text": "text\\<open>A space is called perfect if it has no isolated points.\nThis definition may vary in the literature to similar, but not equivalent definitions.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A subset of a set that is bounded above is bounded above.\\<close>\n", "statement": "lemma Order_ZF_3_L13: assumes A1: \"IsBoundedAbove(A,r)\" and A2: \"B\\<subseteq>A\"\n  shows \"IsBoundedAbove(B,r)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another rearrangement lemma with three elements and equation.\\<close>\n"}

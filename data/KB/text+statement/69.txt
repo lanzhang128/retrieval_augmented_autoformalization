@@ -1,0 +1,1 @@
+{"text": "text\\<open>The formula for the product of (complex) real numbers.\\<close>\n", "statement": "lemma (in complex0) prod_of_reals: assumes A1: \"a\\<in>\\<real>\"  \"b\\<in>\\<real>\"\n  shows \"a \\<cdot> b = \\<langle>fst(a)\\<rmu>fst(b),\\<zero>\\<^sub>R\\<rangle>\"\n"}

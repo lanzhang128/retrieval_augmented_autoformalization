@@ -1,0 +1,1 @@
+{"informal": " Assuming j is less than k, we have j is less than or equal to k plus one, and j is less than or equal to k in reverse order.", "statement": "lemma (in int0) Int_ZF_2_L12A: assumes A1: \"j\\<lsq>k\"\n  shows \"j \\<lsq> k $+ $#1\"  \"j \\<lsq> k\\<ra>\\<one>\"\n"}

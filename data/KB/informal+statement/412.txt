@@ -1,0 +1,1 @@
+{"informal": " If a, b, and c are elements in group G, and a * b^(-1) = c^(-1), then c = b * a^(-1).", "statement": "lemma (in group0) simple_equation0: \n  assumes \"a\\<in>G\"  \"b\\<in>G\" \"c\\<in>G\" \"a\\<cdot>b\\<inverse> = c\\<inverse>\"\n  shows \"c = b\\<cdot>a\\<inverse>\" \n"}

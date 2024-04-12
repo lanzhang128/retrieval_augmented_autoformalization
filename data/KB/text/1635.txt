@@ -1,0 +1,1 @@
+{"text": "text\\<open>In rings with no zero divisors if two elements are different, \n  then after multiplying by a nonzero element they are still different.\\<close>\n"}

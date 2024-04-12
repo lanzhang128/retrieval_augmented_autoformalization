@@ -1,0 +1,1 @@
+{"text": "text\\<open>Left and right translations of an open set are open.\\<close>\n"}

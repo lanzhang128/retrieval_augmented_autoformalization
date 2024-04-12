@@ -1,0 +1,1 @@
+{"text": "text\\<open>If an element belongs to the positive set, then it is not the unit\n  and its inverse does not belong to the positive set.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L15:\n   assumes A1: \"a\\<in>G\\<^sub>+\"  shows \"a\\<noteq>\\<one>\"  \"a\\<inverse>\\<notin>G\\<^sub>+\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " In the ring1 context, if a < b and b < c hold, then a < (2 * c).", "statement": "lemma (in ring1) OrdRing_ZF_2_L6:\n  assumes \"a\\<lsq>c\"  \"b\\<lsq>c\" shows \"a\\<ra>b \\<lsq> \\<two>\\<cdot>c\"\n  "}

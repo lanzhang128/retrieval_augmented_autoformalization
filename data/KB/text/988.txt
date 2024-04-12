@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a real number is smaller that the supremum of $A$, then \n  we can find an element of $A$ greater than it.\\<close>\n"}

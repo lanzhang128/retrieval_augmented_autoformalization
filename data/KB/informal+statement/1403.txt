@@ -1,0 +1,1 @@
+{"informal": " Assuming `a` and `b` are elements of a ring `R`, and `a` is less than `b` in the order relation, we have that `a` is less than `b`.", "statement": "lemma (in ring1) OrdRing_ZF_1_L15: \n  assumes \"a\\<in>R\" \"b\\<in>R\" and \"\\<zero> \\<lsq> b\\<rs>a\"\n  shows \"a\\<lsq>b\"\n  "}

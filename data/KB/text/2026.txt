@@ -1,0 +1,1 @@
+{"text": "text\\<open>The previous topology in not $T_2$, but is anti-hyperconnected.\\<close>\n"}

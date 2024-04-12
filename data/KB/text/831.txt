@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every positive slope that is at least $2$ on positive integers\n  almost has an inverse.\\<close>\n"}

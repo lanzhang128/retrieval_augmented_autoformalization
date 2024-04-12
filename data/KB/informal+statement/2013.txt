@@ -1,0 +1,1 @@
+{"informal": " A set is totally-disconnected if and only if it is not connected.", "statement": "definition IsTotDis (\"_ {is totally-disconnected}\" 70)\n  where \"IsTotDis \\<equiv> ANTI(IsConnected)\"\n"}

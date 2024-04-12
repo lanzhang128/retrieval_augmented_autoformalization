@@ -1,0 +1,1 @@
+{"text": "text\\<open>Yet another form of stating that there are nointegers between\n  $m$ and $m+1$.\\<close>\n", "statement": "lemma (in int0) no_int_between1: \n  assumes A1: \"a\\<lsq>b\"  and A2: \"a\\<noteq>b\"\n  shows \n  \"a\\<ra>\\<one> \\<lsq> b\"\n  \"a \\<lsq> b\\<rs>\\<one>\"\n"}

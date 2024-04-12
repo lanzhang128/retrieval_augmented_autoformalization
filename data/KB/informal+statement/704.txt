@@ -1,0 +1,1 @@
+{"informal": " Assuming m and n are integers, and m is not absolutely smaller than n, it follows that n is absolutely smaller than the absolute value of m, and m is non-zero.", "statement": "lemma (in int0) Int_ZF_1_3_L15: assumes A1: \"m\\<in>\\<int>\" \"n\\<in>\\<int>\"\n  and A2: \"\\<not>(abs(m) \\<lsq> abs(n))\"\n  shows \"n \\<lsq> abs(m)\"  \"m\\<noteq>\\<zero>\" \n"}

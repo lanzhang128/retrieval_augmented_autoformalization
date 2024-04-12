@@ -1,0 +1,1 @@
+{"text": "text\\<open>Bounded nonempty integer subsets attain maximum and minimum.\\<close>\n"}

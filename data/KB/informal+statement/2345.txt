@@ -1,0 +1,1 @@
+{"informal": " If function `f` from non-empty set `X` to set `Y` is defined, then `Y` is also non-empty.", "statement": "lemma codomain_nonempty: assumes \"f:X\\<rightarrow>Y\" \"X\\<noteq>0\" shows \"Y\\<noteq>0\"\n  "}

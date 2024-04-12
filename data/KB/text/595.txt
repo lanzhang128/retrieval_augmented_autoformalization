@@ -1,0 +1,1 @@
+{"text": "text\\<open>A group homomorphism sends the neutral element to the neutral element.\\<close>\n"}

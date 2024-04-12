@@ -1,0 +1,1 @@
+{"text": "text\\<open>Since both are relations, they are equal\\<close>\n", "statement": "corollary (in NonDetFinStateAuto) relation_NFSA_to_DFSA:\n  shows \"r\\<^sub>N = rPow\" "}

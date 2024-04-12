@@ -1,0 +1,1 @@
+{"text": "text\\<open>If every point of a set has a an open neighbourhood \n  contained in the set then the set is open.\\<close>\n"}

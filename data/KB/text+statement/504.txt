@@ -1,0 +1,1 @@
+{"text": "text\\<open>The quotient group is indeed a group.\\<close>\n", "statement": "theorem Group_ZF_2_4_T1:\n  assumes \"IsAgroup(G,P)\" and \"IsAnormalSubgroup(G,P,H)\"\n  shows   \n  \"IsAgroup(G//QuotientGroupRel(G,P,H),QuotientGroupOp(G,P,H))\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another way of expressing that lambda expression is a function.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Integer addition and multiplication are associative.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_L3: \n  assumes \"x\\<in>\\<int>\"  \"y\\<in>\\<int>\"  \"z\\<in>\\<int>\"\n  shows \"x\\<ra>y\\<ra>z = x\\<ra>(y\\<ra>z)\"  \"x\\<cdot>y\\<cdot>z = x\\<cdot>(y\\<cdot>z)\"\n  "}

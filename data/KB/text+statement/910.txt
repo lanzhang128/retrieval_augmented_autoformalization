@@ -1,0 +1,1 @@
+{"text": "text\\<open>An integer is not greater than its absolute value.\\<close>\n", "statement": "lemma (in int0) Int_ZF_2_L19C: assumes A1: \"m\\<in>\\<int>\"\n  shows \n  \"m \\<lsq> abs(m)\"\n  \"(\\<rm>m) \\<lsq> abs(m)\"\n  "}

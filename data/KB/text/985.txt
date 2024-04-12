@@ -1,0 +1,1 @@
+{"text": "text\\<open>Some simple arithmetics.\\<close>\n"}

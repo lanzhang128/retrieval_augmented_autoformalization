@@ -1,0 +1,1 @@
+{"text": "text\\<open>In natural numbers less $a+1$ implies less or equal $a$.\\<close>\n"}

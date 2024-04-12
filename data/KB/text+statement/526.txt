@@ -1,0 +1,1 @@
+{"text": "text\\<open>What are the values of the inverse of an almost homomorphism?\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_2_L5:\n  assumes \"s \\<in> AH\" and \"n\\<in>G\"\n  shows \"(\\<sim>s)`(n) = (s`(n))\\<inverse>\"\n  "}

@@ -1,0 +1,1 @@
+{"informal": " If `G` is a loop and `A` is an element, then `loop0(G,A)` holds.", "statement": "lemma loop_loop0_valid: assumes \"IsAloop(G,A)\" shows \"loop0(G,A)\"\n  "}

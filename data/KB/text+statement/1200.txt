@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of positive field elements is closed under multiplication:\n  the explicit version.\\<close>\n", "statement": "lemma (in field1) pos_mul_closed: \n  assumes A1: \"\\<zero> \\<ls> a\"  \"\\<zero> \\<ls> b\"\n  shows \"\\<zero> \\<ls> a\\<cdot>b\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " In the group0 theory, if elements a and b belong to the group G, and the inverse of a multiplied by b equals the identity element, then a and b are equal.", "statement": "lemma (in group0) group0_2_L11:\n  assumes A1: \"a\\<in>G\"  \"b\\<in>G\" and A2: \"a\\<inverse>\\<cdot>b = \\<one>\"\n  shows \"a=b\"\n"}

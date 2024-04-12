@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of positive complex reals is closed with respect to \n  multiplication.\\<close>\n", "statement": "lemma (in complex0) pre_axmulgt0: assumes A1: \"\\<zero> \\<lsr> a\"   \"\\<zero> \\<lsr> b\"\n  shows \"\\<zero> \\<lsr> a\\<cdot>b\"\n"}

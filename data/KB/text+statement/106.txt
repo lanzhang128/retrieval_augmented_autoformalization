@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a function is congruent then the equivalence classes of the values\n  that come from the arguments from the same class are the same.\\<close>\n", "statement": "lemma EquivClass_1_L3: \n  assumes A1: \"equiv(A,r)\" and A2: \"Congruent(r,f)\" \n  and A3: \"C \\<in> A//r\"  \"x\\<in>C\"  \"y\\<in>C\" \n  shows \"r``{f`(x)} = r``{f`(y)}\"\n"}

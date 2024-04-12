@@ -1,0 +1,1 @@
+{"text": "text\\<open>Finally, let's compute part of the group of homeomorphisms of an order topology.\\<close>\n", "statement": "lemma homeo_order:\n  assumes \"IsLinOrder(X,r)\"\"\\<exists>x y. x\\<noteq>y\\<and>x\\<in>X\\<and>y\\<in>X\"\n  shows \"ord_iso(X,r,X,r)\\<subseteq>HomeoG(OrdTopology X r)\"\n"}

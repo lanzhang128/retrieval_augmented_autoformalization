@@ -1,0 +1,1 @@
+{"text": "text\\<open>Something a bit more interesting: infimum of a set that is bounded\n  below is real and equal to the\n  minus supremum of the set flipped around zero.\\<close>\n"}

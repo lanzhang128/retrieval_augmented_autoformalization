@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the set defined by a meta-function is finite, then every set \n  defined by a composition of this meta function with another one is finite.\\<close>\n", "statement": "lemma Finite1_L6B: \n  assumes A1: \"\\<forall>x\\<in>X. a(x) \\<in> Y\" and A2: \"{b(y).y\\<in>Y} \\<in> Fin(Z)\"\n  shows \"{b(a(x)).x\\<in>X} \\<in> Fin(Z)\"\n"}

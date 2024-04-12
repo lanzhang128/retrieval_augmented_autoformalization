@@ -1,0 +1,1 @@
+{"text": "text\\<open>Regularity can be rewritten in terms of existence of certain neighboorhoods.\\<close>\n"}

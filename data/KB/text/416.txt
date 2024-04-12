@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another lemma about cancelling with two group elements.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The value of the inverse of an injection on a point of the image \n  of a set belongs to that set.\\<close>\n", "statement": "lemma inj_inv_back_in_set: \n  assumes A1: \"f \\<in> inj(A,B)\" and A2: \"C\\<subseteq>A\" and A3: \"y \\<in> f``(C)\"\n  shows \n  \"converse(f)`(y) \\<in> C\"\n  \"f`(converse(f)`(y)) = y\"\n"}

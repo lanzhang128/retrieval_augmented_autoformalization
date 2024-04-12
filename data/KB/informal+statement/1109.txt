@@ -1,0 +1,1 @@
+{"informal": " Given a total relation \"r\" on set X, the intersection of \"r\" with the cartesian product X x X is also a total relation on X.", "statement": "lemma total_ord_restr: assumes \"r {is total on} X\"\n  shows \"(r \\<inter> X\\<times>X) {is total on} X\"\n  "}

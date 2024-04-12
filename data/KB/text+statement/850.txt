@@ -1,0 +1,1 @@
+{"text": "text\\<open>Zero is the neutral element of the integers with addition\n  and one is the neutral element of the integers with multiplication.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_L8: shows \"($# 0) = \\<zero>\"  \"($# 1) = \\<one>\"\n"}

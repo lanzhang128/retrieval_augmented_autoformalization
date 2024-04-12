@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma allows to prove statements about the values in the\n  domain of a function given a statement about values in the range.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " If `f` is a function from X to Y, then `function(f)` holds.", "statement": "lemma fun_is_fun: assumes \"f:X\\<rightarrow>Y\" shows \"function(f)\"\n  "}

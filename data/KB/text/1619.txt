@@ -1,0 +1,1 @@
+{"text": "text\\<open>The additive operation in a ring is distributive with respect to the\n  multiplicative operation.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A cover of a nonempty set must have a nonempty member.\\<close>\n"}

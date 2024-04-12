@@ -1,0 +1,1 @@
+{"informal": " In an abelian group, the inverse of an element belongs to the closure of the group, i.e., End(G,P) contains the group inverse of each element in G.", "statement": "lemma (in abelian_group) end_inverse_group:\n  shows \"GroupInv(G,P) \\<in> End(G,P)\"\n  "}

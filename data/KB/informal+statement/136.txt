@@ -1,0 +1,1 @@
+{"informal": " In the field0 theory, the subset K0 is closed under the operation M.", "statement": "lemma (in field0) Field_ZF_1_L2: \n  shows \"K\\<^sub>0 {is closed under} M\"\n  "}

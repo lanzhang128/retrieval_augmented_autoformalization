@@ -1,0 +1,1 @@
+{"text": "text\\<open>A subcollection of a partition is a partition\nof its union.\\<close>\n", "statement": "lemma subpartition:\n  assumes \"U {is a partition of} X\" \"V\\<subseteq>U\"\n  shows \"V{is a partition of}\\<Union>V\" \n  "}

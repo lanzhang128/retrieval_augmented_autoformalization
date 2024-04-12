@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a ring element $a\\neq 0$, and it is not positive, then \n  $-a$ is positive.\\<close>\n"}

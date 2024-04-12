@@ -1,0 +1,1 @@
+{"text": "text\\<open>Group inverse of a set is a subset of the group. \n  Interestingly we don't need to assume the set is a subset of the group.\\<close>\n", "informal": " In the group4 theory, it holds that the inverse image of set A under the group operation is included in set G.", "statement": "lemma (in group4) interval_inv_cl: shows \"A\\<sinv> \\<subseteq> G\"\n"}

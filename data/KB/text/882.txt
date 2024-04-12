@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the opposite of an integers is nonnegative, then the integer \n  is nonpositive.\\<close>\n"}

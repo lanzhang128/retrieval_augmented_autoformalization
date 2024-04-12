@@ -1,0 +1,1 @@
+{"text": "text\\<open>Let's recall that the neutral element of the monoid is an element of the monoid (carrier) $G$\n  and the monoid operation ($f$ in our notation) is a function that maps $G\\times G$\n  to $G$.\\<close>\n", "statement": "lemma (in monoid1) zero_monoid_oper: shows \"\\<zero>\\<in>G\" and \"f:G\\<times>G \\<rightarrow> G\"\n  "}

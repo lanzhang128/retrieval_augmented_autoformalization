@@ -1,0 +1,1 @@
+{"informal": " In the group G, if a and b are elements, then a is less than b and the product a * b is also an element of G, while a is not equal to a * b.", "statement": "lemma (in group3) OrderedGroup_ZF_1_L22:\n  assumes A1: \"a\\<in>G\"  \"b\\<in>G\\<^sub>+\"\n  shows \"a\\<lsq>a\\<cdot>b\"  \"a \\<noteq> a\\<cdot>b\"  \"a\\<cdot>b \\<in> G\"\n"}

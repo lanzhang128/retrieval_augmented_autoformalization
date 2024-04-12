@@ -1,0 +1,1 @@
+{"text": "text\\<open>The cocountable topology on $\\mathbb{N}^+$ is anti-compact.\\<close>\n", "statement": "theorem cocountable_in_csucc_nat_antiCompact:\n  shows \"(CoCountable csucc(nat)){is anti-compact}\"\n"}

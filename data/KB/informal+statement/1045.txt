@@ -1,0 +1,1 @@
+{"informal": " Given a natural number n, there exists a successor number, which includes 0.", "statement": "lemma empty_in_every_succ: assumes A1: \"n \\<in> nat\"\n  shows \"0 \\<in> succ(n)\"\n"}

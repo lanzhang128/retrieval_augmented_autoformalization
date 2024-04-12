@@ -1,0 +1,1 @@
+{"text": "text\\<open>In a topological group, all local properties depend only on the neighbourhoods\nof the neutral element; when considering topological properties. The next result\nof regularity, will use this idea, since translations preserve closed sets.\\<close>\n"}

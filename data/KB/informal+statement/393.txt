@@ -1,0 +1,1 @@
+{"informal": " In the group0 theory, if element a is in the group, element b is in the group, and the product of a and b equals a, then b is the identity element (one).", "statement": "lemma (in group0) group0_2_L7: \n  assumes A1: \"a\\<in>G\" and A2: \"b\\<in>G\" and A3: \"a\\<cdot>b = a\"\n  shows \"b=\\<one>\"\n"}

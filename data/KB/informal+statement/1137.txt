@@ -1,0 +1,1 @@
+{"informal": " Assuming set A is bounded below by real number r, the set of pairs {<xy> | x is in A and y is equal to a} is also bounded by real number r.", "statement": "lemma Order_ZF_3_L16: assumes A1: \"IsBoundedBelow(A,r)\"\n  shows \"IsBounded({x\\<in>A. \\<langle>x,a\\<rangle> \\<in> r},r)\"\n"}

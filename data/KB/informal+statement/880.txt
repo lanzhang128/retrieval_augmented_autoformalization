@@ -1,0 +1,1 @@
+{"informal": " Given integers m, n, and k, if m is less than n and less than k, then k is less than n.", "statement": "lemma (in int0) Int_ZF_2_L10AB: \n  assumes \"m\\<in>\\<int>\"  \"n\\<in>\\<int>\"  \"k\\<in>\\<int>\" and \"m\\<rs>n \\<lsq> m\\<rs>k\"\n  shows \"k\\<lsq>n\"\n  "}

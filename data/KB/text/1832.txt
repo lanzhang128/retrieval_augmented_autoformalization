@@ -1,0 +1,1 @@
+{"text": "text\\<open>In a $T_0$ space two points that can not be separated \n  by an open set are equal. Proof by contradiction.\\<close>\n"}

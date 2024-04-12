@@ -1,0 +1,1 @@
+{"text": "text\\<open>The essential condition to prove that composition of \\<open>zf_move\\<close> \n  and \\<open>embed\\<close> is identity.\\<close>\n"}

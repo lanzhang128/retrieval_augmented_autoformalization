@@ -1,0 +1,1 @@
+{"text": "text\\<open>The properties of numerability deal with cardinals of some sets\nbuilt from the topology. The properties which are normally used\nare the ones related to the cardinal of the natural numbers or its successor.\\<close>\n"}

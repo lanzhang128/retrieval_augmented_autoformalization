@@ -1,0 +1,1 @@
+{"text": "text\\<open>Intersection of a nonempty family of closed sets is closed.\\<close>\n", "statement": "lemma (in topology0) Top_3_L4: assumes A1: \"K\\<noteq>0\" and\n  A2: \"\\<forall>D\\<in>K. D {is closed in} T\"\n  shows \"(\\<Inter>K) {is closed in} T\"\n"}

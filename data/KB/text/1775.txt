@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next theorem provides a characterization of closure in topological\n  groups in terms of neighborhoods of zero.\\<close>\n"}

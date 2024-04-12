@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every set is equipollent with its conjugates.\\<close>\n", "statement": "theorem (in group0) conj_set_is_eqpoll:\n  assumes \"H\\<subseteq>G\" \"g\\<in>G\"\n  shows \"H\\<approx>{g\\<cdot>(h\\<cdot>g\\<inverse>). h\\<in>H}\"\n"}

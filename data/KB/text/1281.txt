@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse of an element of \\<open>G\\<^sub>+\\<close> cannot be in \\<open>G\\<^sub>+\\<close>.\\<close>\n"}

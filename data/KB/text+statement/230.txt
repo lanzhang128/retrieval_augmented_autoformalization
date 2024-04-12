@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma rephrases the definition of \\<open>Last\\<close>.\n  Recall that in ZF we have $\\{0,1,2,..,n\\} = n+1=$\\<open>succ\\<close>$(n)$.\\<close>\n", "statement": "lemma last_seq_elem: assumes \"a: succ(n) \\<rightarrow> X\" shows \"Last(a) = a`(n)\"\n  "}

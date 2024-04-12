@@ -1,0 +1,1 @@
+{"text": "text\\<open>The usual compact property is the one defined over the cardinal\nof the natural numbers.\\<close>\n"}

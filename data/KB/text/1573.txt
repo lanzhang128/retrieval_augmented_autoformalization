@@ -1,0 +1,1 @@
+{"text": "text\\<open>Floor of the difference of a number and the embedding of an\n  integer is the floor of the number minus the integer.\\<close>\n"}

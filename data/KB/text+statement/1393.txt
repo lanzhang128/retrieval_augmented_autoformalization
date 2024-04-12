@@ -1,0 +1,1 @@
+{"text": "text\\<open>Negative times positive is negative.\\<close>\n", "statement": "lemma (in ring1) OrdRing_ZF_1_L8:\n  assumes A1: \"a\\<lsq>\\<zero>\"  and A2: \"\\<zero>\\<lsq>b\"\n  shows \"a\\<cdot>b \\<lsq> \\<zero>\"\n"}

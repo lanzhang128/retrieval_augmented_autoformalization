@@ -1,0 +1,1 @@
+{"text": "text\\<open>The reduction relation is then extended\nby considering any such transitions.\\<close>\n"}

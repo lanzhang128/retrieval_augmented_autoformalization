@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the axiom of \\<open>Q\\<close> choice holds, then any topology\nof second type of cardinal \\<open>csucc(Q)\\<close> is compact of cardinal \\<open>csucc(Q)\\<close>\\<close>\n"}

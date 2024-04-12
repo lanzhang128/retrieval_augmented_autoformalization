@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set is of second type of cardinal \\<open>Q\\<close>, then it is of\nfirst type of that same cardinal.\\<close>\n"}

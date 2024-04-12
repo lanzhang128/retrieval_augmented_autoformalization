@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group inverse is a function that maps G into G.\\<close>\n", "informal": " Assuming group G and function f make up a group in ZF set theory, prove that the function representing the inverse in G is indeed a function from G to G.", "statement": "theorem group0_2_T2: \n  assumes A1: \"IsAgroup(G,f)\" shows \"GroupInv(G,f) : G\\<rightarrow>G\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another way of expressing the fact that odd extensions are odd.\\<close>\n", "statement": "lemma (in int0) int_oddext_is_odd_alt:\n  assumes \"f : \\<int>\\<^sub>+\\<rightarrow>\\<int>\" and \"a\\<in>\\<int>\" and\n  \"g = OddExtension(\\<int>,IntegerAddition,IntegerOrder,f)\"\n  shows \"(\\<rm>g`(\\<rm>a)) = g`(a)\"\n  "}

@@ -1,0 +1,1 @@
+{"informal": " If B is a subset of the union of a collection T, and A is a subset of B, then the closure of A (denoted cl(A)) is a subset of the closure of B (denoted cl(B)).", "statement": "lemma (in topology0) top_closure_mono: \n  assumes A1: \"B \\<subseteq> \\<Union>T\"  and A2:\"A\\<subseteq>B\"\n  shows \"cl(A) \\<subseteq> cl(B)\"\n"}

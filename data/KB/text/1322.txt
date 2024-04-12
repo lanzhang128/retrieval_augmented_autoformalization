@@ -1,0 +1,1 @@
+{"text": "text\\<open>An application of the triangle inequality with four group\n  elements.\\<close>\n"}

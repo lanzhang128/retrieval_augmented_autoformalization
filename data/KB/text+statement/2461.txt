@@ -1,0 +1,1 @@
+{"text": "text\\<open>Order isomorphisms preserve linearity.\\<close>\n", "statement": "lemma ord_iso_pres_lin: assumes \"f \\<in> ord_iso(A,r,B,R)\" and \n  \"r \\<subseteq> A\\<times>A\" and \"IsLinOrder(B,R)\"\n  shows \"IsLinOrder(A,r)\"\n  "}

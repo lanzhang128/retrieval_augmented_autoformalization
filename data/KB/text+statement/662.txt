@@ -1,0 +1,1 @@
+{"text": "text\\<open>A formula with two integers, one positive.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_2_L2: assumes A1: \"a\\<in>\\<int>\" and A2: \"\\<zero>\\<lsq>b\"\n  shows \"a\\<ra>(abs(b)\\<ra>\\<one>)\\<cdot>a = (abs(b\\<ra>\\<one>)\\<ra>\\<one>)\\<cdot>a\"\n"}

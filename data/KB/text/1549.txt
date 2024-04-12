@@ -1,0 +1,1 @@
+{"text": "text\\<open>The negative of the real embedding of an integer is the embedding\n  of the negative of the integer.\\<close>\n"}

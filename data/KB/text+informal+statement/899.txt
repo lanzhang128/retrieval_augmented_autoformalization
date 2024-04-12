@@ -1,0 +1,1 @@
+{"text": "text\\<open>$1\\leq 2$.\\<close>\n", "informal": " In the int0 theory of Isabelle/ZF, there is a lemma named Int_ZF_2_L16B, which proves that one is less than two.", "statement": "lemma (in int0) Int_ZF_2_L16B: shows \"\\<one>\\<lsq>\\<two>\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Singletons are in the finite powerset.\\<close>\n", "statement": "lemma Finite1_L16: assumes \"x\\<in>X\" shows \"{x} \\<in> Fin(X)\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If an integer $a$ is between $b$ and $b+c$, then\n  $|b-a| \\leq c$. Property of ordered groups.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_3_L22: \n  assumes \"a\\<lsq>b\" and \"c\\<in>\\<int>\" and \"b\\<lsq> c\\<ra>a\"\n  shows \"abs(b\\<rs>a) \\<lsq> c\"\n  "}

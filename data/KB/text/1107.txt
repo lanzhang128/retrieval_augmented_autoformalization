@@ -1,0 +1,1 @@
+{"text": "text\\<open>Relation that is total on a set is total on any subset.\\<close>\n"}

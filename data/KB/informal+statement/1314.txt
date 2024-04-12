@@ -1,0 +1,1 @@
+{"informal": " In the group3 theory, if r is a total relation on the group G and a is an element of G, then the inverse of a under the relation r is equal to a itself.", "statement": "lemma (in group3) OrderedGroup_ZF_3_L7A:\n  assumes A1: \"r {is total on} G\" and A2: \"a\\<in>G\"\n  shows \"\\<bar>a\\<inverse>\\<bar> = \\<bar>a\\<bar>\"\n"}

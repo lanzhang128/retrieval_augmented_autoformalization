@@ -1,0 +1,1 @@
+{"text": "text\\<open>In every locally compact space, by definition, every point has a compact neighbourhood.\\<close>\n"}

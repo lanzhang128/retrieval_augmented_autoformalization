@@ -1,0 +1,1 @@
+{"text": "text\\<open>A member of the value of the set neighborhood system of $T$ at $A$ is\n  a subset of $\\bigcup T$. The interesting part is that we can show it without any\n  assumption on $A$. \\<close>\n"}

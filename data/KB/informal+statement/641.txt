@@ -1,0 +1,1 @@
+{"informal": " If n is a natural number, then Binom(n, k) is also a natural number.", "statement": "lemma binom_in_nat: assumes \"n\\<in>nat\" shows \"Binom(n,k) \\<in> nat\"\n"}

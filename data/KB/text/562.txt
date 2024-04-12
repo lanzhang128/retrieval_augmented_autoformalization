@@ -1,0 +1,1 @@
+{"text": "text\\<open>The homomorphism difference for the identity function is equal to\n  the neutral element of the group (denoted $e$ in the group1 context).\\<close>\n"}

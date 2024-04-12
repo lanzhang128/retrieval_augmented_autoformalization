@@ -1,0 +1,1 @@
+{"text": "text\\<open>Integer intervals are finite.\\<close>\n", "statement": "lemma (in int0) Int_ZF_4_L5: assumes A1: \"i\\<in>\\<int>\" \"k\\<in>\\<int>\"\n  shows \"i..k \\<in> Fin(\\<int>)\"\n"}

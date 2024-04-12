@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set is bounded, then the absolute values of the elements of that\n  set are bounded.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " Assuming `a` is an element in the ring `R` and `a` is not the zero element, we have that the zero element is less than `a` and `zero` is not equal to `a`.", "statement": "lemma (in ring1) OrdRing_ZF_2_L4: assumes \"a\\<in>R\" and \"\\<not>(\\<zero>\\<lsq>a)\" \n  shows \"\\<zero> \\<lsq> (\\<rm>a)\"  \"\\<zero>\\<noteq>a\"\n  "}

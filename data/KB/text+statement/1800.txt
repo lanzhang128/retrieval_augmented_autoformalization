@@ -1,0 +1,1 @@
+{"text": "text\\<open>Intersection of a finite nonempty collection of open sets is open.\\<close>\n", "statement": "lemma (in topology0) fin_inter_open_open: assumes \"N\\<noteq>0\" \"N \\<in> FinPow(T)\"\n  shows \"\\<Inter>N \\<in> T\"\n  "}

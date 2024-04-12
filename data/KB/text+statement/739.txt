@@ -1,0 +1,1 @@
+{"text": "text\\<open>One and two are in \\<open>\\<int>\\<^sub>+\\<close>.\\<close>\n", "statement": "lemma (in int0) int_one_two_are_pos: shows \"\\<one> \\<in> \\<int>\\<^sub>+\"  \"\\<two> \\<in> \\<int>\\<^sub>+\"\n  "}

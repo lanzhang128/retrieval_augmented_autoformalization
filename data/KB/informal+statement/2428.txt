@@ -1,0 +1,1 @@
+{"informal": " The lemma \"single\\_bij\\_id\" states that the function that maps each element to its identity is equivalent to the bijection that maps each element to itself. In simpler terms, for all elements x, the identity function id(x) is the same as the bijection that maps x to x.", "statement": "lemma single_bij_id: shows \"bij({x},{x}) = {id({x})}\"\n"}

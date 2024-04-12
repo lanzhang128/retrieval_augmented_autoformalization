@@ -1,0 +1,1 @@
+{"text": "text\\<open>The original topology is an open subspace of the new topology.\\<close>\n"}

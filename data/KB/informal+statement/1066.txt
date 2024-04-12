@@ -1,0 +1,1 @@
+{"informal": " If natural number n is non-zero, then n minus one is equal to the predecessor of n.", "statement": "lemma pred_minus_one: assumes \"n\\<in>nat\" \"n\\<noteq>0\" \n  shows \"n #- 1 = pred(n)\"\n"}

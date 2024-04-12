@@ -1,0 +1,1 @@
+{"text": "text\\<open>Codomain of a nonempty list is nonempty.\\<close>\n", "informal": " If \"a\" is a successor of a natural number \"n\" and \"Y\" is a list that is non-empty when \"a\" is assumed, then \"Y\" is not the empty list.", "statement": "lemma nelist_vals_nonempty: assumes \"a:succ(n)\\<rightarrow>Y\"\n  shows \"Y\\<noteq>0\" "}

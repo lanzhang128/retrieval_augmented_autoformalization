@@ -1,0 +1,1 @@
+{"text": "text\\<open>Right and left uniformities are indeed uniformities. \\<close>\n", "informal": " In the topological group G, both the left uniformity and right uniformity are uniformities.", "statement": "lemma (in topgroup) side_uniformities:\n    shows \"leftUniformity {is a uniformity on} G\" and \"rightUniformity {is a uniformity on} G\"\n"}

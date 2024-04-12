@@ -1,0 +1,1 @@
+{"text": "text\\<open>What is the inverse of a product?\\<close>\n", "statement": "lemma (in group0) group_inv_of_two:\n  assumes A1: \"a\\<in>G\" and A2: \"b\\<in>G\" \n  shows \" b\\<inverse>\\<cdot>a\\<inverse> = (a\\<cdot>b)\\<inverse>\"\n"}

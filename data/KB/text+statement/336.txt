@@ -1,0 +1,1 @@
+{"text": "text\\<open>The \"exclusive or\" is the same as negation of equivalence.\\<close>\n", "statement": "lemma Fol1_L9: shows \"p Xor q \\<longleftrightarrow> \\<not>(p\\<longleftrightarrow>q)\"\n  "}

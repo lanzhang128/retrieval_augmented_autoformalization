@@ -1,0 +1,1 @@
+{"text": "text\\<open>if $a^{-1} = 1$, then $a=1$.\\<close>\n", "statement": "lemma (in group0) group0_2_L8A:  \n  assumes A1: \"a\\<in>G\" and A2: \"a\\<inverse> = \\<one>\"\n  shows \"a = \\<one>\"\n"}

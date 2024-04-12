@@ -1,0 +1,1 @@
+{"text": "text\\<open>Embed maps \\<open>small\\<close>small to \\<open>big\\<close>.\\<close>\n", "statement": "lemma (in generalization) embed_fun: shows \"embed: small\\<rightarrow>big\"\n  "}

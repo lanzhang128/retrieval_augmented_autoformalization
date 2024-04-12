@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next two lemmas state that unless we multiply by \n  the neutral element, the result is always \n  different than any of the operands.\\<close>\n", "statement": "lemma (in group0) group0_2_L7: \n  assumes A1: \"a\\<in>G\" and A2: \"b\\<in>G\" and A3: \"a\\<cdot>b = a\"\n  shows \"b=\\<one>\"\n"}

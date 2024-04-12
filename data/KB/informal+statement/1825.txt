@@ -1,0 +1,1 @@
+{"informal": " If A is a subset of the union of a set T, and U is an element of T, and x is an element of the closure of A intersect U, then the intersection of A and U is not the empty set.", "statement": "lemma (in topology0) cl_inter_neigh:\n  assumes \"A \\<subseteq> \\<Union>T\" and \"U\\<in>T\" and \"x \\<in> cl(A) \\<inter> U\"\n  shows \"A\\<inter>U \\<noteq> 0\" "}

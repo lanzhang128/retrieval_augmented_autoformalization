@@ -1,0 +1,1 @@
+{"text": "text\\<open>The images of finite subsets by a meta-function are finite. \n  For example in topology if we have a finite collection of sets, then closing \n  each of them results in a finite collection of closed sets. This is a very \n  useful lemma with many unexpected applications.\n  The proof is by induction. The next lemma is the induction step.\\<close>\n"}

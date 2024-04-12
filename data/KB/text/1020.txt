@@ -1,0 +1,1 @@
+{"text": "text\\<open>Under the assumptions of \\<open>group0_1_T1\\<close>\n  the neutral element of a \n  submonoid is the same as that of the monoid.\\<close>\n"}

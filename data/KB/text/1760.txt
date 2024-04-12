@@ -1,0 +1,1 @@
+{"text": "text\\<open>Inverse of an open set is open.\\<close>\n"}

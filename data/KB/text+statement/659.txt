@@ -1,0 +1,1 @@
+{"text": "text\\<open>One more property with three integers.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_1_L6A: assumes \"a\\<in>\\<int>\"  \"b\\<in>\\<int>\"  \"c\\<in>\\<int>\"\n  shows \"a\\<ra>(b\\<rs>c) = a\\<ra>b\\<rs>c\"\n  "}

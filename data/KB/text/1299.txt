@@ -1,0 +1,1 @@
+{"text": "text\\<open>In linearly ordered groups if $A\\cap G_+$ is finite, \n  then $A$ is bounded above.\\<close>\n"}

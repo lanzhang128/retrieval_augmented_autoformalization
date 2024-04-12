@@ -1,0 +1,1 @@
+{"text": "text\\<open>In the next theorem we show the collection of sets defined above as \n\\<open>ProductTopBase(\\<X>,T)\\<close> satisfies the base condition. This is a condition, defined in \n\\<open>Topology_ZF_1\\<close> that allows to claim that this collection is a base for some topology.\\<close>\n"}

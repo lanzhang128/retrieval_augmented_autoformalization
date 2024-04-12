@@ -1,0 +1,1 @@
+{"text": "text\\<open>The projection of the first group operation on almost homomorphisms\n  is distributive with respect to the second group operation.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>For $n>0$ the Pascal's triangle values at $(n,k)$ are given by the \\<open>BinomElem\\<close> expression. \\<close>\n"}

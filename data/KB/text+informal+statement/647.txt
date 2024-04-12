@@ -1,0 +1,1 @@
+{"text": "text\\<open>The binomial coefficients are 1 on the right boundary of the Pascal's triangle.\\<close> \n", "informal": " The theorem \"binom_right_boundary\" states that for all natural numbers n, the binomial coefficient Binom(n, n) equals 1.", "statement": "theorem binom_right_boundary: assumes \"n\\<in>nat\" shows \"Binom(n,n) = 1\"\n"}

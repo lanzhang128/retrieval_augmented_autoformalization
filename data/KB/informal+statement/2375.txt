@@ -1,0 +1,1 @@
+{"informal": " If function f is a bijection from set X to set Y, then the domain of f is equal to X.", "statement": "lemma domain_of_bij: \n  assumes A1: \"f \\<in> bij(X,Y)\" shows \"domain(f) = X\"\n"}

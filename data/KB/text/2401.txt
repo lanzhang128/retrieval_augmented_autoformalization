@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma expresses the inverse image of a set by function with fixed \nfirst variable in terms of the original function.\\<close>\n"}

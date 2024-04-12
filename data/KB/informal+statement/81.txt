@@ -1,0 +1,1 @@
+{"informal": " If a is less than b, and b is less than c, then a is less than c.", "statement": "lemma (in complex0) pre_axlttrn: \n  assumes A1: \"a \\<lsr> b\"   \"b \\<lsr> c\"\n  shows \"a \\<lsr> c\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " In the setting of the semigroup 0, the function f maps the Cartesian product of G with itself to the set G.", "statement": "lemma (in semigr0) semigr_binop: shows \"f : G\\<times>G \\<rightarrow> G\"\n  "}

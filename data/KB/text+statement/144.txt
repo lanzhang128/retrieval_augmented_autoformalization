@@ -1,0 +1,1 @@
+{"text": "text\\<open>An identity with two field elements, one and an inverse.\\<close>\n", "statement": "lemma (in field0) Field_ZF_2_L5:\n  assumes \"a\\<in>K\"  \"b\\<in>K\" \"b\\<noteq>\\<zero>\"\n  shows \"(\\<one> \\<ra> a\\<cdot>b)\\<cdot>b\\<inverse> = a \\<ra> b\\<inverse>\"\n  "}

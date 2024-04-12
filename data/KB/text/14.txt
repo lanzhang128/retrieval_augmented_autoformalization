@@ -1,0 +1,1 @@
+{"text": "text\\<open>Some rearrangements with four elements and inverse\n  that are applications of \\<open>rearr_ab_gr_4_elem\\<close> \n\\<close>\n"}

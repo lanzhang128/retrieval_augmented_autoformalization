@@ -1,0 +1,1 @@
+{"text": "text\\<open>The first theorem about properties of infinite inductive sequences:\n  inductive sequence is a indeed a sequence (i.e. a function on the set of \n  natural numbers.\\<close>\n", "statement": "theorem indseq_seq: assumes  A1: \"f: X\\<rightarrow>X\" and A2: \"x\\<in>X\"\n  shows \"InductiveSequence(x,f) : nat \\<rightarrow> X\"\n"}

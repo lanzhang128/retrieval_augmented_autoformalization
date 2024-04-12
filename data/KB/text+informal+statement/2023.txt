@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every anti-hyperconnected space is $T_1$.\\<close>\n", "informal": " If a set T is anti-isolatedly connected in ZF set theory, then T is connected (i.e., T is T\u2081).", "statement": "theorem anti_HConn_imp_T1:\n  assumes \"T{is anti-}IsHConnected\"\n  shows \"T{is T\\<^sub>1}\"\n"}

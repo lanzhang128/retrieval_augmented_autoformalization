@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma shows the definition of real and imaginary part of\n  complex sum and product in a more readable form using notation defined\n  in \\<open>complex0\\<close> locale.\\<close>\n"}

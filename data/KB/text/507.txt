@@ -1,0 +1,1 @@
+{"text": "text\\<open>A group element is in $H$ iff its class is the neutral element of\n  $G/H$.\\<close>\n"}

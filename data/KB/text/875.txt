@@ -1,0 +1,1 @@
+{"text": "text\\<open>A small technical lemma about putting one on the other side\n  of an inequality.\\<close>\n"}

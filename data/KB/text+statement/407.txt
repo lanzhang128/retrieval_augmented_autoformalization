@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a^{-1}\\cdot b=1$, then $a=b$.\\<close>\n", "statement": "lemma (in group0) group0_2_L11:\n  assumes A1: \"a\\<in>G\"  \"b\\<in>G\" and A2: \"a\\<inverse>\\<cdot>b = \\<one>\"\n  shows \"a=b\"\n"}

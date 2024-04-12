@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can turn every injection into a partition.\\<close>\n", "statement": "lemma inj_partition: \n  assumes A1: \"b \\<in> inj(X,Y)\" \n  shows \n  \"\\<forall>x \\<in> X. {\\<langle>x, {b`(x)}\\<rangle>. x \\<in> X}`(x) = {b`(x)}\" and\n  \"{\\<langle>x, {b`(x)}\\<rangle>. x \\<in> X} {is partition}\"\n"}

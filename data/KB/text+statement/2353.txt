@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma about a value of a function that is a union of \n  some collection of functions.\\<close>\n", "statement": "lemma fun_Union_apply: assumes A1: \"\\<Union>F : X\\<rightarrow>Y\" and \n  A2: \"f\\<in>F\" and A3: \"f:A\\<rightarrow>B\" and A4: \"x\\<in>A\"\n  shows \"(\\<Union>F)`(x) = f`(x)\"\n"}

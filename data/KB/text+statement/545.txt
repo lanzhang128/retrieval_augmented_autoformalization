@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group inverse of a class of an almost homomorphism $f$\n  is the class of the inverse of $f$.\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_3_L6: \n  assumes A1: \"s \\<in> AH\"  and \n  \"r = QuotientGroupRel(AH,Op1,FR)\" and \n  \"F = ProjFun2(AH,r,Op1)\"\n  shows \"r``{\\<sim>s} = GroupInv(AH//r,F)`(r``{s})\"\n"}

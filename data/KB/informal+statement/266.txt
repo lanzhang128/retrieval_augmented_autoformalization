@@ -1,0 +1,1 @@
+{"informal": " In Isabelle/ZF, the definition \"states\" is set equal to the following options: empty, starts0, starts1, and ends0. \n\nIn natural language:\n\nThe concept of \"states\" is equivalent to {empty, starts0, starts1, ends0}.", "statement": "definition states where\n  \"states \\<equiv> {empty, starts0, starts1, ends0}\"\n"}

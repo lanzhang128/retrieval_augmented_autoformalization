@@ -1,0 +1,1 @@
+{"text": "text\\<open> If the neutral element is in a set, then it is in the sum of the sets. \\<close>\n", "statement": "lemma (in topgroup) interval_add_zero: assumes \"A\\<subseteq>G\" \"\\<zero>\\<in>A\"\n  shows \"\\<zero> \\<in> A\\<sad>A\"\n"}

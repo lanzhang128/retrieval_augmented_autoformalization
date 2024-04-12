@@ -1,0 +1,1 @@
+{"text": "text\\<open>A slightly more general version of the previous lemma, stating the same\n  fact for a set defined by separation.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_3_L11:\n  assumes \"r {is total on} G\"\n  and \"IsBounded({b(x).x\\<in>X},r)\"\n  shows \"\\<exists>L. \\<forall>x\\<in>X. \\<bar>b(x)\\<bar> \\<lsq> L\"\n  "}

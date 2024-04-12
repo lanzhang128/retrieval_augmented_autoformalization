@@ -1,0 +1,1 @@
+{"text": "text\\<open>Since every subgroup is normal in abelian\ngroups, it follows that commutative simple groups\ndo not have subgroups.\\<close>\n", "statement": "corollary (in abelian_group) abelian_simple_noSubgroups:\n  assumes \"[G,P]{is a simple group}\"\n  shows \"\\<forall>H. IsAsubgroup(H,P)\\<longrightarrow> H=G\\<or>H={\\<one>}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Maximum of a set has desired properties.\\<close>\n", "statement": "lemma Order_ZF_4_L3: assumes A1: \"antisym(r)\" and A2: \"HasAmaximum(r,A)\"\n  shows \"Maximum(r,A) \\<in> A\" \"\\<forall>x\\<in>A. \\<langle>x,Maximum(r,A)\\<rangle> \\<in> r\"\n"}

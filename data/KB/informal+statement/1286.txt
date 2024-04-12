@@ -1,0 +1,1 @@
+{"informal": " If an element `a` is in the group `G+`, then its inverse is also in `G+`. \n\nOr in other words, the inverse of an element in the sum of two groups is still an element in the sum of those groups.", "statement": "lemma (in group3) OrderedGroup_ZF_1_L27:\n  assumes \"a \\<in> (\\<sm>G\\<^sub>+)\"\n  shows \"a\\<inverse> \\<in> G\\<^sub>+\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Finite range functions are almost homomorphisms.\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_3_L1: shows \"FR \\<subseteq> AH\"\n"}

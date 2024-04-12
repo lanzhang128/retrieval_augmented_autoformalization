@@ -1,0 +1,1 @@
+{"informal": " Assuming N is a finite non-empty subset of a topological space T, the intersection of N with T is also an element of T.", "statement": "lemma (in topology0) fin_inter_open_open: assumes \"N\\<noteq>0\" \"N \\<in> FinPow(T)\"\n  shows \"\\<Inter>N \\<in> T\"\n  "}

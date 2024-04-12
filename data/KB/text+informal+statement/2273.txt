@@ -1,0 +1,1 @@
+{"text": "text\\<open>Simple substitution in membership, has to be used by rule\n  in very rare cases.\\<close>\n", "informal": " If x is an element of set A and x equals y, then y is also an element of set A.", "statement": "lemma eq_mem: assumes \"x\\<in>A\" and \"y=x\" shows \"y\\<in>A\" \n  "}

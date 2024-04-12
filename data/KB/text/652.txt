@@ -1,0 +1,1 @@
+{"text": "text\\<open>Integers form a commutative ring, hence we can use theorems proven \n  in \\<open>ring0\\<close> context (locale).\\<close>\n"}

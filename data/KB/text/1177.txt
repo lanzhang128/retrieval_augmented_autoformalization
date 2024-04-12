@@ -1,0 +1,1 @@
+{"text": "text\\<open>A sufficient condition for the infimum to be in the space.\\<close>\n"}

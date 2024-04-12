@@ -1,0 +1,1 @@
+{"text": "text\\<open>Next we define what it means that a set is closed with \n  respect to an operation.\\<close>\n", "statement": "definition\n  IsOpClosed (infix \"{is closed under}\" 65) where\n  \"A {is closed under} f \\<equiv> \\<forall>x\\<in>A. \\<forall>y\\<in>A. f`\\<langle>x,y\\<rangle> \\<in> A\"\n"}

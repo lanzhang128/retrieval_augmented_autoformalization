@@ -1,0 +1,1 @@
+{"text": "text\\<open>Closure of a bigger sets is bigger.\\<close>\n"}

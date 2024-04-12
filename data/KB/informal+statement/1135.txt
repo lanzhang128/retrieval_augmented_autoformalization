@@ -1,0 +1,1 @@
+{"informal": " Assuming set A is bounded above by real number r and set B is a subset of A, it follows that set B is also bounded above by r.", "statement": "lemma Order_ZF_3_L13: assumes A1: \"IsBoundedAbove(A,r)\" and A2: \"B\\<subseteq>A\"\n  shows \"IsBoundedAbove(B,r)\"\n"}

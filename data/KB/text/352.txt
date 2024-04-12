@@ -1,0 +1,1 @@
+{"text": "text\\<open>We define \\<open>spec\\<close> as the converse of \\<open>embed\\<close>.\\<close>\n"}

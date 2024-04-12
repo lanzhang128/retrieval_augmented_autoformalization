@@ -1,0 +1,1 @@
+{"informal": " In the field1 setting, if a and b are elements of R, then a * b * b^(-1) = a and a * b^(-1) * b = a.", "statement": "lemma (in field1) OrdField_ZF_1_L7A: \n  assumes A1: \"a\\<in>R\"  \"b \\<in> R\\<^sub>+\"\n  shows \n  \"a\\<cdot>b\\<cdot>b\\<inverse> = a\"\n  \"a\\<cdot>b\\<inverse>\\<cdot>b = a\"\n"}

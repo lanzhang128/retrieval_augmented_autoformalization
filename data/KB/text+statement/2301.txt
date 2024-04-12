@@ -1,0 +1,1 @@
+{"text": "text\\<open>A version of \\<open>vimage_comp\\<close> for three functions.\\<close>\n", "statement": "lemma vimage_comp3: shows \"(r O s O t)-``(A) = t-``(s-``(r-``(A)))\"\n  "}

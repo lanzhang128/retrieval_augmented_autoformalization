@@ -1,0 +1,1 @@
+{"text": "text\\<open>The string ends with $0$ state\\<close>\n", "statement": "definition starts0 where\n  \"starts0 \\<equiv> 0\"\n"}

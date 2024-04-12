@@ -1,0 +1,1 @@
+{"text": "text\\<open>Subtracting the beginning af the interval results in a number from\n  the length of the interval. It may sound weird, but note that the length of\n  such interval is a natural number, hence a set.\\<close>\n"}

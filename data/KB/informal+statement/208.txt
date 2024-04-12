@@ -1,0 +1,1 @@
+{"informal": " In Isabelle/ZF, the definition \"Append(a, x) is equivalent to set a union {<x, domain(a)>}.\"\n\nTranslated into natural language:\n\nAppending x to set a is equivalent to the union of set a with the singleton set {x, domain(a)}.", "statement": "definition\n  \"Append(a,x) \\<equiv> a \\<union> {\\<langle>domain(a),x\\<rangle>}\"\n"}

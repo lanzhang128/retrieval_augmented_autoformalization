@@ -1,0 +1,1 @@
+{"text": "text\\<open>Lemma \\<open>append_1elem\\<close> written in the notation used in \n  the \\<open>semigr0\\<close> context.\\<close>\n", "statement": "lemma (in semigr0) append_1elem_nice: \n  assumes \"n \\<in> nat\" and \"a: n \\<rightarrow> X\" and \"b : 1 \\<rightarrow> X\"\n  shows \"a \\<squnion> b = a \\<hookleftarrow> b`(0)\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open> The excluded set topology consists of subsets of $X$ that are disjoint with a fixed set $U$. \\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The absolute value of an integer is an integer.\\<close>\n", "statement": "lemma (in int0) Int_ZF_2_L14: assumes A1: \"m\\<in>\\<int>\"\n  shows \"abs(m) \\<in> \\<int>\"\n"}

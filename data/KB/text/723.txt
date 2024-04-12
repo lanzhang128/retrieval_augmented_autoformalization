@@ -1,0 +1,1 @@
+{"text": "text\\<open>A set defined by separation over a bounded set attains its maximum\n  and minimum.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The generated subgroup contains the original set\\<close>\n", "statement": "theorem (in group0) subgroupGen_contains_set:\n  assumes \"X\\<subseteq>G\"\n  shows \"X \\<subseteq> \\<langle>X\\<rangle>\\<^sub>G\"\n"}

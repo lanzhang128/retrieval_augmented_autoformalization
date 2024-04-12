@@ -1,0 +1,1 @@
+{"informal": " If net N converges to the union of set T in the topology, then net N converges to its own limit point x.", "statement": " theorem (in topology0) filter_of_net_conver_net_conver:\n  assumes \"N {is a net on} \\<Union>T\" and \"(Filter N..(\\<Union>T)) \\<rightarrow>\\<^sub>F x\"\n  shows \"N \\<rightarrow>\\<^sub>N x\"\n"}

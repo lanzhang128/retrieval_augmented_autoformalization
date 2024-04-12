@@ -1,0 +1,1 @@
+{"text": "text\\<open>Subgroups are closed with respect to the group operation.\\<close>\n"}

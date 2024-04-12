@@ -1,0 +1,1 @@
+{"text": "text\\<open>Taking one more multiple of $x$ adds $x$. \\<close>\n", "statement": "lemma (in monoid1) nat_mult_add_one: assumes \"n\\<in>nat\" \"x\\<in>G\" \n  shows \"(n #+ 1)\\<cdot>x = n\\<cdot>x \\<oplus> x\" and \"(n #+ 1)\\<cdot>x = x \\<oplus> n\\<cdot>x\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Somewhat technical lemma about inverse image of a set by a \\<open>ProdFunction(f,f)\\<close>. \\<close>\n", "statement": "lemma prodFunVimage: assumes \"x\\<in>X\" \"f:X\\<rightarrow>Y\"\n  shows \"\\<langle>x,t\\<rangle> \\<in> ProdFunction(f,f)-``(V) \\<longleftrightarrow> t\\<in>X \\<and> \\<langle>f`x,f`t\\<rangle> \\<in> V\"\n"}

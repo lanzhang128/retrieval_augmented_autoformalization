@@ -1,0 +1,1 @@
+{"text": "text\\<open>The spectrum of Luzin spaces is the class of countable sets, so there\nare lots of examples of Luzin spaces.\\<close>\n", "statement": "lemma spectrum_Luzin:\n  shows \"(A{is in the spectrum of}IsLuzin) \\<longleftrightarrow> A\\<lesssim>nat\"\n"}

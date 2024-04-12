@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can multiply the right hand side of an inequality by a nonnegative\n  element.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L5G: assumes A1: \"a\\<lsq>b\"\n  and A2: \"\\<one>\\<lsq>c\" shows \"a\\<lsq>b\\<cdot>c\"  \"a\\<lsq>c\\<cdot>b\" \n"}

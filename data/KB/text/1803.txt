@@ -1,0 +1,1 @@
+{"text": "text\\<open>A set is open iff it is equal to its interior.\\<close>\n"}

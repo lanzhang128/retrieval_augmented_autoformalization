@@ -1,0 +1,1 @@
+{"text": "text\\<open>An identity with three field elements, inverse and cancelling.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition of function moving the \\<open>small\\<close> set into \\<open>big\\<close>.\\<close>\n"}

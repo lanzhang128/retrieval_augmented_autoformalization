@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every open subgroup is also closed.\\<close>\n", "statement": "theorem (in topgroup) open_subgroup_closed:\n  assumes \"IsAsubgroup(H,f)\" \"H\\<in>T\"\n  shows \"H{is closed in}T\"\n"}

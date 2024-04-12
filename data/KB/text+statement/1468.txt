@@ -1,0 +1,1 @@
+{"text": "text\\<open>Multiplication is defined as the projection of composition\n  of slopes on the quotient. The fact that it works is probably the\n  most surprising part of the construction.\\<close>\n", "statement": "definition\n  \"RealMultiplication \\<equiv> ProjFun2(Slopes,SlopeEquivalenceRel,SlopeOp2)\"\n"}

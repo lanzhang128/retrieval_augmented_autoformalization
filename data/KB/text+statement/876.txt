@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can put any integer on the other side of an inequality reversing\n  its sign.\\<close>\n", "statement": "lemma (in int0) Int_ZF_2_L9B: assumes \"i\\<in>\\<int>\"  \"m\\<in>\\<int>\"  \"k\\<in>\\<int>\"\n  shows \"i\\<ra>m \\<lsq> k  \\<longleftrightarrow> i \\<lsq> k\\<rs>m\"\n  "}

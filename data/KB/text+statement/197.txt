@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition of finite range functions.\\<close>\n", "statement": "definition\n  \"FinRangeFunctions(X,Y) \\<equiv> {f:X\\<rightarrow>Y. f``(X) \\<in> Fin(Y)}\"\n"}

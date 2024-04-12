@@ -1,0 +1,1 @@
+{"informal": " In the group0 theory, if H is a subgroup of P and h is an element in H, then h's inverse is also an element in H.", "statement": "theorem (in group0) group0_3_T3A: \n  assumes A1: \"IsAsubgroup(H,P)\" and A2: \"h\\<in>H\"\n  shows \"h\\<inverse>\\<in> H\"\n"}

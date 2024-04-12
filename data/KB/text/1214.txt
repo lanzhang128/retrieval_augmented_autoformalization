@@ -1,0 +1,1 @@
+{"text": "text\\<open>A technical lemma about solving a strict inequality with three\n  field elements and inverse of a difference.\\<close>\n"}

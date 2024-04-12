@@ -1,0 +1,1 @@
+{"text": "text\\<open>Finitely supported functions form a submonoid\n  of all functions with pointwise operation.\\<close>\n", "statement": "theorem (in finsupp) fin_supp_monoid:\n  shows \"IsAmonoid(\\<M>,restrict(\\<A>,\\<M>\\<times>\\<M>))\"\n"}

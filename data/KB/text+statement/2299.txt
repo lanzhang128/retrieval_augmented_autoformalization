@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image is the inverse image of converse.\\<close>\n", "statement": "lemma image_converse: shows \"converse(r)-``(A) = r``(A)\"\n  "}

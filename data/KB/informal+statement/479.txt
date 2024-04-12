@@ -1,0 +1,1 @@
+{"informal": " Assuming F is a function from X to a group G, show that X -> G is a monoid under function composition using the given F.", "statement": "lemma (in monoid0) Group_ZF_2_1_T1: \n  assumes A1: \"F = f {lifted to function space over} X\"\n  shows \"IsAmonoid(X\\<rightarrow>G,F)\"\n"}

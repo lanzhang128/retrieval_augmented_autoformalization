@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can actually use this definition of a prime ring,\nas a condition to check for prime ideals.\\<close>\n"}

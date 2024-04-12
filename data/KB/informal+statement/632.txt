@@ -1,0 +1,1 @@
+{"informal": " \"GenBinom is the set of all pairs (r, k), where r is a natural number list and k is a natural number greater than the length of r.\"", "statement": "definition \n  \"GenBinom \\<equiv> {\\<langle>r,{\\<langle>k,BinomElem(r,k)\\<rangle>. k\\<in>succ(domain(r))}\\<rangle>. r\\<in>NELists(nat)}\"\n"}

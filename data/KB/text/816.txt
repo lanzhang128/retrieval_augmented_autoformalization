@@ -1,0 +1,1 @@
+{"text": "text\\<open>The sum of positive slopes is a positive slope.\\<close>\n"}

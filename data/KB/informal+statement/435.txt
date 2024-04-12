@@ -1,0 +1,1 @@
+{"informal": " If H is a non-empty subset of a group P such that every H element is also a subset of P, then the intersection of all such H subsets is also a subset of P.", "statement": "lemma (in group0) subgroup_inter: assumes \"\\<H>\\<noteq>0\"\n  and \"\\<forall>H\\<in>\\<H>. IsAsubgroup(H,P)\"\n  shows \"IsAsubgroup(\\<Inter>\\<H>,P)\"\n"}

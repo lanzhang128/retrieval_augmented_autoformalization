@@ -1,0 +1,1 @@
+{"text": "text\\<open>A base of topology is a collection of open sets such that every \n  open set is a union of the sets from the base.\\<close>\n", "statement": "definition\n  IsAbaseFor (infixl \"{is a base for}\" 65) where \n  \"B {is a base for} T \\<equiv> B\\<subseteq>T \\<and> T = {\\<Union>A. A\\<in>Pow(B)}\"\n"}

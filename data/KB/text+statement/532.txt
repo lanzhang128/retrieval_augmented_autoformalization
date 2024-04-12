@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group of almost homomorphisms is abelian\\<close>\n", "statement": "lemma Group_ZF_3_2_L11: assumes A1: \"IsAgroup(G,f)\"\n  and A2: \"f {is commutative on} G\"\n  shows \n  \"IsAgroup(AlmostHoms(G,f),AlHomOp1(G,f))\"\n  \"AlHomOp1(G,f) {is commutative on} AlmostHoms(G,f)\"\n"}

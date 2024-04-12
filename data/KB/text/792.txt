@@ -1,0 +1,1 @@
+{"text": "text\\<open>By definition functions $f,g$ are almost equal if $f-g$* is bounded. \n  In the next lemma we show it is sufficient to check the boundedness on positive\n  integers.\\<close>\n"}

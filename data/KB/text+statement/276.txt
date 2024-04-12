@@ -1,0 +1,1 @@
+{"text": "text\\<open>The complement of a regular language\nis a regular language.\\<close>\n", "statement": "theorem regular_opp:\n  assumes \"Finite(\\<Sigma>)\"\n  and \"L{is a regular language on}\\<Sigma>\"\n  shows \"(Lists(\\<Sigma>)-L) {is a regular language on}\\<Sigma>\"\n"}

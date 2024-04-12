@@ -1,0 +1,1 @@
+{"text": "text\\<open>A base filter for a collection satisfies the filter base condition iff that collection\nis in fact a filter.\\<close>\n"}

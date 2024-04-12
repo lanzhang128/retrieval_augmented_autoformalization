@@ -1,0 +1,1 @@
+{"text": "text\\<open>If one embedding is less or equal than another, then the integers\n  are also less or equal.\\<close>\n", "statement": "lemma (in real1) Real_ZF_1_4_L6: \n  assumes A1: \"k \\<in> int\"  \"m \\<in> int\" and A2: \"m\\<^sup>R \\<lsq> k\\<^sup>R\"\n  shows \"m\\<zlq>k\"\n"}

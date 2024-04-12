@@ -1,0 +1,1 @@
+{"text": "text\\<open>The candidate for supremum is an integer mapping with values \n  given by $\\Gamma$.\\<close>\n"}

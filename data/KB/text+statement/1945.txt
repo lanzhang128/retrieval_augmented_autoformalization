@@ -1,0 +1,1 @@
+{"text": "text\\<open>A base for a filter determines a filter up to the underlying set.\\<close>\n", "statement": "theorem base_unique_filter:\n  assumes \"C {is a base filter} \\<FF>1\"and \"C {is a base filter} \\<FF>2\"\n  shows \"\\<FF>1=\\<FF>2 \\<longleftrightarrow> \\<Union>\\<FF>1=\\<Union>\\<FF>2\"\n"}

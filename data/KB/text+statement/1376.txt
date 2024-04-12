@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can add sides of inequalities.\\<close>\n", "statement": "lemma (in loop1) add_ineq: assumes \"x\\<lsq>y\" \"z\\<lsq>t\" \n  shows \"x\\<ra>z \\<lsq> y\\<ra>t\"\n"}

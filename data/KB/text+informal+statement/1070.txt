@@ -1,0 +1,1 @@
+{"text": "text\\<open>Adding and subtracting a natural number cancel each other.\\<close>\n", "informal": " For any natural number m, m plus n equals m minus n plus n, which simplifies to m.", "statement": "lemma add_subctract: assumes \"m\\<in>nat\" shows \"(m #+ n) #- n = m\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Given a subgroup that contains a set, the generated subgroup\nfrom that set is smaller than this subgroup\\<close>\n"}

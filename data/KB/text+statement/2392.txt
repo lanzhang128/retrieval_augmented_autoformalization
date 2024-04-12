@@ -1,0 +1,1 @@
+{"text": "text\\<open>Product of two surjections is a surjection.\\<close>\n", "statement": "theorem prod_functions_surj:\n  assumes \"f\\<in>surj(A,B)\" \"g\\<in>surj(C,D)\"\n  shows \"{\\<langle>\\<langle>a1,a2\\<rangle>,\\<langle>f`a1,g`a2\\<rangle>\\<rangle>.\\<langle>a1,a2\\<rangle>\\<in>A\\<times>C} \\<in> surj(A\\<times>C,B\\<times>D)\"\n"}

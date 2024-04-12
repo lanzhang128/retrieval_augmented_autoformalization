@@ -1,0 +1,1 @@
+{"text": "text\\<open>A reformulation of \\<open>prod_comm_distr\\<close> that is more\n  convenient in applications.\\<close>\n"}

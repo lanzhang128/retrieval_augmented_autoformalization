@@ -1,0 +1,1 @@
+{"text": "text\\<open>The only order automorphism of a linearly ordered\n  finite set is the identity.\\<close>\n"}

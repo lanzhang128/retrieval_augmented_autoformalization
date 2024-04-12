@@ -1,0 +1,1 @@
+{"informal": " A function projects onto a relation if and only if the relation is in the quotient of the domain by the equivalence relation, where the equivalence classes contain elements with equal images under the function.", "statement": "definition\n  \"ProjFun(A,r,f) \\<equiv>\n  {\\<langle>c,\\<Union>x\\<in>c. r``{f`(x)}\\<rangle>. c \\<in> (A//r)}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Inverse (converse) of a homeomorphism is a homeomorphism.\\<close>\n", "statement": "lemma homeo_inv: assumes \"IsAhomeomorphism(T,S,f)\"\n  shows \"IsAhomeomorphism(S,T,converse(f))\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The class of the inverse is a right inverse of the class.\\<close>\n", "statement": "lemma (in group0) Group_ZF_2_2_L3:\n  assumes A1: \"equiv(G,r)\" and A2: \"Congruent2(r,P)\"\n  and A3: \"F = ProjFun2(G,r,P)\"\n  and A4: \"a\\<in>G\"\n  shows \"F`\\<langle>r``{a},r``{a\\<inverse>}\\<rangle> = TheNeutralElement(G//r,F)\"\n"}

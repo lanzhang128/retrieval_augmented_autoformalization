@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition of the right inverse as a function on $G$: \\<close>\n", "statement": "definition\n  \"RightInv(G,A) \\<equiv> {\\<langle>x,\\<Union>{y\\<in>G. A`\\<langle>x,y\\<rangle> = TheNeutralElement(G,A)}\\<rangle>. x\\<in>G}\"\n"}

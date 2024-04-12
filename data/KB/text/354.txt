@@ -1,0 +1,1 @@
+{"text": "text\\<open>Spec maps range of \\<open>embed\\<close> to \\<open>small\\<close>.\\<close>\n"}

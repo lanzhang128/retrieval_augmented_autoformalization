@@ -1,0 +1,1 @@
+{"informal": " In the group0 theory, if an element x belongs to the group G, then there exists an element y in G such that x * y equals the identity element (one).", "statement": "lemma (in group0) group0_2_L4: \n  assumes A1: \"x\\<in>G\" shows \"\\<exists>!y. y\\<in>G \\<and> x\\<cdot>y = \\<one>\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Theorems proven in \\<open>field0\\<close> (about fields) context are valid\n  in the \\<open>field1\\<close> context (about ordered fields).\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>In the one-point compactification of an anti-compact space,\never subspace that contains the infinite point is compact.\\<close>\n"}

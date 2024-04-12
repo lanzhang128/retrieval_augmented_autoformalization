@@ -1,0 +1,1 @@
+{"informal": " In the MMISar0 theory, given a real number a, we have a <= a + 1.", "statement": "lemma (in MMIsar0) num_le_numplus1: assumes \"a\\<in>\\<real>\"\n  shows \"a \\<ls> a\\<ca>\\<one>\"\n  "}

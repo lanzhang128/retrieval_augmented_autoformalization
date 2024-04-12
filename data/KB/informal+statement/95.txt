@@ -1,0 +1,1 @@
+{"informal": " Assuming A is a finite subset of X, function sigma (sum or summation) over A maps to X with A's cardinality as the domain.", "statement": "lemma (in enums) enum_fun: assumes \"A \\<in> FinPow(X)\"\n  shows \"\\<sigma>(A) : |A| \\<rightarrow> X\"\n"}

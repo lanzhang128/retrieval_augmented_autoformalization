@@ -1,0 +1,1 @@
+{"text": "text\\<open>If two elements are greater or equal than the unit, then the inverse\n  of one is not greater than the other.\\<close>\n"}

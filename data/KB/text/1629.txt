@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the difference of two element is zero, then those elements\n  are equal.\\<close>\n"}

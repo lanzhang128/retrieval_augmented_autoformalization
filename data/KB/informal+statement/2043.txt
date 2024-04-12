@@ -1,0 +1,1 @@
+{"informal": " Given a relation r over a set T such that T is equal to the quotient of T by r, it follows that the quotient space by r is a topology.", "statement": "theorem (in topology0) equiv_quo_is_top:\n  assumes \"equiv(\\<Union>T,r)\"\n  shows \"({quotient by}r){is a topology}\"\n  "}

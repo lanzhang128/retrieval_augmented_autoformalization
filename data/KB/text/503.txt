@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the subgroup is normal, the group operation is congruent \n  with respect to the quotient group relation.\\<close>\n"}

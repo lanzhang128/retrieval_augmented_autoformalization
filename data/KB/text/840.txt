@@ -1,0 +1,1 @@
+{"text": "text\\<open>A somewhat technical condition for a embedding of an integer \n  to be \"less  or equal\" (in the sense apriopriate for slopes) than \n  the composition of a slope and another integer (embedding).\\<close>\n"}

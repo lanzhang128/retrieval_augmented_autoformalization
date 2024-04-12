@@ -1,0 +1,1 @@
+{"text": "text\\<open>\\<open>spec\\<close> is a bijection beween \\<open>small2\\<close> and \\<open>small\\<close>.\\<close>\n", "statement": "theorem (in generalization) spec_bij: shows \"spec \\<in> bij(small2, small)\"\n  "}

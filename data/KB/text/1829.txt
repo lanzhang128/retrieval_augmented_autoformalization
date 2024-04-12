@@ -1,0 +1,1 @@
+{"text": "text\\<open>A topology is regular if every closed set can be separated from a point in its complement\n  by (disjoint) opens sets.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " A set T is scattered if and only if it is not perfect.", "statement": "definition\n  IsScatt (\"_ {is scattered}\") where\n  \"T{is scattered} \\<equiv> T{is anti-}IsPerf\"\n"}

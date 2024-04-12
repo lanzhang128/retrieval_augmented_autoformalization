@@ -1,0 +1,1 @@
+{"informal": " Assuming \"a < b\", it follows that \"b < a\" and its inverse is an element of the relation R+. \n\nOr in simpler terms: \n\nGiven \"a < b\", it implies that \"b > a\" and the inverse of this relation belongs to the relation R+.", "statement": "lemma (in field1) OrdField_ZF_1_L9: assumes \"a\\<ls>b\"\n  shows  \"(b\\<rs>a)\\<inverse> \\<in> R\\<^sub>+\"  \n  "}

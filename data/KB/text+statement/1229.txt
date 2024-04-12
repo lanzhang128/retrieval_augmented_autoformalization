@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the group order is total, then the group is ordered linearly.\\<close>\n", "statement": "lemma (in group3) group_ord_total_is_lin:\n  assumes \"r {is total on} G\"\n  shows \"IsLinOrder(G,r)\"\n  "}

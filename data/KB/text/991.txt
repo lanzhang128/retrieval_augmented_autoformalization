@@ -1,0 +1,1 @@
+{"text": "text\\<open>We add the full axiom of identity of indiscernibles to the definition of a pseudometric\n  to get the definition of metric.\\<close>\n"}

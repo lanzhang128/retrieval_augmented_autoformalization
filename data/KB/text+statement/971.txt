@@ -1,0 +1,1 @@
+{"text": "text\\<open>In natural numbers less $a+1$ implies less or equal $a$.\\<close>\n", "statement": "lemma (in MMIsar0) nat_ls_plus_one_imp_lsq:\n  assumes A1: \"n \\<in> \\<nat>\"  \"m \\<in> \\<nat>\" and A2: \"n \\<ls> m\\<ca>\\<one>\" \n  shows \"n \\<lsq> m\"\n"}

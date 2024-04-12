@@ -1,0 +1,1 @@
+{"informal": " If k is a natural number and is a subset of n, then the successor of k is a subset of the successor of n.", "statement": "lemma succ_subset: assumes A1: \"k \\<in> nat\"  \"n \\<in> nat\" and A2: \"k\\<subseteq>n\" \n  shows \"succ(k) \\<subseteq> succ(n)\"\n"}

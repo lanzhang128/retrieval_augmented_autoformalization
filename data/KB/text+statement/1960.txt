@@ -1,0 +1,1 @@
+{"text": "text\\<open>Each point of a the union of a filter is a limit of that filter.\\<close>\n", "statement": "lemma lim_filter_top_of_filter:\n  assumes \"\\<FF> {is a filter on} \\<Union>\\<FF>\" and \"x\\<in>\\<Union>\\<FF>\"\n  shows \"\\<FF> \\<rightarrow>\\<^sub>F x {in} (\\<FF>\\<union>{0})\"\n"}

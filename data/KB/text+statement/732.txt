@@ -1,0 +1,1 @@
+{"text": "text\\<open>An integer is zero, positive, or it's inverse is positive.\\<close>\n", "statement": "lemma (in int0) int_decomp_cases: assumes \"m\\<in>\\<int>\"\n  shows \"m=\\<zero> \\<or> m\\<in>\\<int>\\<^sub>+ \\<or> (\\<rm>m) \\<in> \\<int>\\<^sub>+\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>An anti-perfect space is called scattered.\\<close>\n", "statement": "definition\n  IsScatt (\"_ {is scattered}\") where\n  \"T{is scattered} \\<equiv> T{is anti-}IsPerf\"\n"}

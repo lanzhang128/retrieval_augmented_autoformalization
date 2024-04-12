@@ -1,0 +1,1 @@
+{"informal": " Assuming `a` is an element of the list `X` in the non-empty list data type `NELists(X)`, then the last element of `a` is in `X`.", "statement": "lemma last_type: assumes \"a \\<in> NELists(X)\" shows \"Last(a) \\<in> X\"\n  "}

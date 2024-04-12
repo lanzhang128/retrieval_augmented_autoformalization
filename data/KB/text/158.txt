@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every two finite linearly ordered sets are order \n  isomorphic. The statement is formulated to make the \n  proof by induction on the size of the set easier, \n  see \\<open>fin_ord_iso_ex\\<close> for an alternative formulation.\n\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we fix the first variable, we get a function of the second variable.\\<close>\n", "statement": "lemma fix_1st_var_fun: assumes A1: \"f : X\\<times>Y \\<rightarrow> Z\" and A2: \"x\\<in>X\"\n  shows \"Fix1stVar(f,x) : Y \\<rightarrow> Z\"\n"}

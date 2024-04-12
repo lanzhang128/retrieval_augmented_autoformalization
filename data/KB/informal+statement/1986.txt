@@ -1,0 +1,1 @@
+{"informal": " If Q1 is strictly smaller than Q2 in a set X, then the co-cardinality of Q1 is a subset of the co-cardinality of Q2.", "statement": "lemma order_cocardinal_top:\n  fixes X\n  assumes \"Q1\\<lesssim>Q2\"\n  shows \"CoCardinal(X,Q1) \\<subseteq> CoCardinal(X,Q2)\"\n"}

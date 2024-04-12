@@ -1,0 +1,1 @@
+{"text": "text\\<open>Inverse of a product two sets is a product of inverses with the reversed order.\\<close>\n"}

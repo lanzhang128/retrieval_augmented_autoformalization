@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can create functions of two variables by combining functions of one variable.\\<close>\n"}

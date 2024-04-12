@@ -1,0 +1,1 @@
+{"text": "text\\<open>However, if the topology has not many open sets, then the topological\nspace is indeed compact.\\<close>\n"}

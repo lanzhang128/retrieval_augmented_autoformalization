@@ -1,0 +1,1 @@
+{"text": "text\\<open>A function restricted to its domain is itself.\\<close>\n", "informal": " If `f` is a function from set `X` to set `Y`, then the restriction of `f` to `X`, denoted as `restrict(f, X)`, is equal to `f` itself.", "statement": "lemma restrict_domain: assumes \"f:X\\<rightarrow>Y\"\n  shows \"restrict(f,X) = f\"\n"}

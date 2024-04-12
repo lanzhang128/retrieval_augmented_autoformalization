@@ -1,0 +1,1 @@
+{"text": "text\\<open>The carrier of the base and topology are the same.\\<close>\n", "statement": "lemma Top_1_2_L5: assumes \"B {is a base for} T\"\n  shows \"\\<Union>T = \\<Union>B\"\n  "}

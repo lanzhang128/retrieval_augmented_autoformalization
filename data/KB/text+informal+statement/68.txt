@@ -1,0 +1,1 @@
+{"text": "text\\<open>The sum of real numbers is real.\\<close>\n", "informal": " Assuming that both a and b are real numbers, the result a ca b is also a real number.", "statement": "lemma (in complex0) axaddrcl: assumes A1: \"a\\<in>\\<real>\"  \"b\\<in>\\<real>\"\n  shows \"a \\<ca> b \\<in> \\<real>\" \n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The strict version of totality.\\<close>\n"}

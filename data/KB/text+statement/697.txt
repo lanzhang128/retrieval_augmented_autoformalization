@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can simplify out a positive element on both sides of an \n  inequality.\\<close>\n", "statement": "lemma (in int0) Int_ineq_simpl_positive: \n  assumes A1: \"a\\<in>\\<int>\"  \"b\\<in>\\<int>\"  \"c\\<in>\\<int>\" \n  and A2: \"a\\<cdot>c \\<lsq> b\\<cdot>c\" and A4: \"\\<not>(c\\<lsq>\\<zero>)\"\n  shows \"a \\<lsq> b\"\n"}

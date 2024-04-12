@@ -1,0 +1,1 @@
+{"text": "text\\<open>Transitivity for the strict order: if $a<b$ and $b\\leq c$, then $a<c$. \n  Property of ordered groups.\\<close>\n", "statement": "lemma (in ring1) ring_strict_ord_trans:  \n  assumes A1: \"a\\<ls>b\" and A2: \"b\\<lsq>c\"\n  shows \"a\\<ls>c\"\n"}

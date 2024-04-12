@@ -1,0 +1,1 @@
+{"text": "text\\<open>Two real numbers are equal iff the slopes that represent them are \n  almost equal. This is proven in \\<open>Real_ZF_1_L13\\<close>, here we just \n  rewrite it in the notation used in the \\<open>real1\\<close> context.\\<close>\n"}

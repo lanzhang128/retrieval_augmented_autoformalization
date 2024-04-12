@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set does not have a maximum, then for any its element we can\n  find one that is (strictly) greater.\\<close>\n"}

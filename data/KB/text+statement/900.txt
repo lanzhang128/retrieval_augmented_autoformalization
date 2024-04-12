@@ -1,0 +1,1 @@
+{"text": "text\\<open>Integers greater or equal one are greater or equal zero.\\<close>\n", "statement": "lemma (in int0) Int_ZF_2_L16C: \n  assumes A1: \"\\<one>\\<lsq>a\" shows \n  \"\\<zero>\\<lsq>a\"  \"a\\<noteq>\\<zero>\"\n  \"\\<two> \\<lsq> a\\<ra>\\<one>\"\n  \"\\<one> \\<lsq> a\\<ra>\\<one>\"\n  \"\\<zero> \\<lsq> a\\<ra>\\<one>\"\n"}

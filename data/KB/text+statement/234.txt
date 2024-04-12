@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $x\\in X$ then the singleton set with the pair $\\langle 0,x\\rangle$\n  as the only element is a list of length 1 and hence a nonempty list. \\<close>\n", "statement": "lemma list_len1_singleton: assumes \"x\\<in>X\" \n  shows \"{\\<langle>0,x\\<rangle>} : 1 \\<rightarrow> X\" and \"{\\<langle>0,x\\<rangle>} \\<in> NELists(X)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Next we show a technical identity that is used to prove sufficiency \n  of some condition for a collection of sets to be a base for a topology.\\<close>\n"}

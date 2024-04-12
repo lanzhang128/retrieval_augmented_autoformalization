@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next theorem states that a nonempty subset of \n  a group $G$ that is closed under the group operation and \n  taking the inverse is a subgroup of the group.\\<close>\n"}

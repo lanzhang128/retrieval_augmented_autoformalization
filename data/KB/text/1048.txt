@@ -1,0 +1,1 @@
+{"text": "text\\<open>If one natural number is less than another then their successors\n  are in the same relation.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Existence and uniqueness of order isomorphism for two\n  linearly ordered sets with the same number of elements.\\<close>\n"}

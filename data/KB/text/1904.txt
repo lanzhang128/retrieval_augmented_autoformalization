@@ -1,0 +1,1 @@
+{"text": "text\\<open>For partial function defined on open sets continuity in the whole\n  and relative topologies are the same.\\<close>\n"}

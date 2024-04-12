@@ -1,0 +1,1 @@
+{"text": "text\\<open>Cartesian product of finite subsets is a finite subset of \n  cartesian product.\\<close>\n"}

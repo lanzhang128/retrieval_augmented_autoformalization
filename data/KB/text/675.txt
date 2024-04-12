@@ -1,0 +1,1 @@
+{"text": "text\\<open>A rearrangement with four integers. \n  Again we have to use the generic set notation to use a theorem proven in \n  different context.\\<close>\n"}

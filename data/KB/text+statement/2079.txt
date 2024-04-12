@@ -1,0 +1,1 @@
+{"text": "text\\<open>The excluded set topology is equal in the sets \\<open>T\\<close> and \\<open>X\\<inter>T\\<close>.\\<close>\n", "statement": "lemma smaller_excludedset:\n  shows \"ExcludedSet(X,T) = ExcludedSet(X,(X\\<inter>T))\"\n"}

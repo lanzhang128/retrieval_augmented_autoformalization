@@ -1,0 +1,1 @@
+{"text": "text\\<open>Adding zero to a set that is closed under multiplication results\n  in a set that is also closed under multiplication.\\<close>\n"}

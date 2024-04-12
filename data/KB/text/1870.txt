@@ -1,0 +1,1 @@
+{"text": "text\\<open>If an order topology is connected, then the order is complete.\nIt is equivalent to assume that $r\\subseteq X\\times X$ or prove that\n$r\\cap X\\times X$ is complete.\\<close>\n"}

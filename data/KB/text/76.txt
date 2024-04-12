@@ -1,0 +1,1 @@
+{"text": "text\\<open>A more readable version of the definition of the strict order\n  relation on the real axis. Recall that in the \\<open>complex0\\<close>\n  context $r$ denotes the (non-strict) order relation on the underlying\n  model of real numbers.\\<close>\n"}

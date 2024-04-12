@@ -1,0 +1,1 @@
+{"text": "text\\<open>Induction on integers, version with ZF increment function.\\<close>\n"}

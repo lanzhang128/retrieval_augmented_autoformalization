@@ -1,0 +1,1 @@
+{"informal": " Assuming `k < i` and `P(i)` hold, and for all `m`, if `i < m` and `P(m)` then `P(m - 1)`, it follows that `P(k)` holds.", "statement": "lemma (in int0) Int_ZF_3_L8: assumes A1: \"k\\<lsq>i\" and A2: \"P(i)\" \n  and A3: \"\\<forall>m. $-i\\<lsq>m \\<and> P($-m) \\<longrightarrow> P($-(m $+ ($# 1)))\"\n  shows \"P(k)\"\n"}

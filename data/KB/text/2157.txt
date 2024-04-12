@@ -1,0 +1,1 @@
+{"text": "text\\<open>This topology, from the previous result, gives a counter-example for\nanti-hyperconnected implies locally-$T_2$.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The definition of the disk in the notation used in the \\<open>pmetric_space\\<close> context:\\<close>\n"}

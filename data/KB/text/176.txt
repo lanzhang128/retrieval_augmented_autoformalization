@@ -1,0 +1,1 @@
+{"text": "text\\<open>Now we are ready to prove the statement we need.\\<close>\n"}

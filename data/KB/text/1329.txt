@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special form of the previous lemma stating a similar fact for an\n  image of a set by a function with values in a linearly ordered group.\\<close>\n"}

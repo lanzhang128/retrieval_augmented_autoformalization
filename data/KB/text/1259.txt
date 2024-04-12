@@ -1,0 +1,1 @@
+{"text": "text\\<open>An element is greater or equal than another iff the difference is \n  nonpositive.\\<close>\n"}

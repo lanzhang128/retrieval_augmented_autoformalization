@@ -1,0 +1,1 @@
+{"text": "text\\<open>We now define congruent functions of two variables (binary funtions). \n  The predicate \\<open>Congruent2\\<close> corresponds to \\<open>congruent2\\<close> \n  in Isabelle's standard \\<open>EquivClass\\<close> theory, \n  but uses ZF-functions rather than meta-functions.\\<close>\n"}

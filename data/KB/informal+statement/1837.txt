@@ -1,0 +1,1 @@
+{"informal": " Given a base `B` for a set `T` and an element `U` in `T`, there exists a subset `A` of `B` such that `U` is the union of `A`.", "statement": "lemma Top_1_2_L1: assumes \"B {is a base for} T\"  and \"U\\<in>T\" \n  shows \"\\<exists>A\\<in>Pow(B). U = \\<Union>A\"\n  "}

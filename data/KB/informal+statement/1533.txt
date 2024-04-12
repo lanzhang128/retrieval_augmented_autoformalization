@@ -1,0 +1,1 @@
+{"informal": " If real numbers a and b are less than another real number c, then a is less than c.", "statement": "lemma (in real1) int_order_transitive: \n  assumes A1: \"a\\<zlq>b\"  \"b\\<zlq>c\"\n  shows \"a\\<zlq>c\"\n"}

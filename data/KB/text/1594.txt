@@ -1,0 +1,1 @@
+{"text": "text\\<open> The assumptions of the  \\<open>metric_space\\<close> locale hold in the \\<open>reals\\<close> locale. \\<close>\n"}

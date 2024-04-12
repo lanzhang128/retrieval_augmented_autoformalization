@@ -1,0 +1,1 @@
+{"text": "text\\<open>The basic set that defines the topoogy is given\nby the D operator\\<close>\n"}

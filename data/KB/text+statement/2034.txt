@@ -1,0 +1,1 @@
+{"text": "text\\<open>The quotient topology is indeed a topology.\\<close>\n", "statement": "theorem (in topology0) quotientTop_is_top:\n  assumes \"f\\<in>surj(\\<Union>T,Y)\"\n  shows \"({quotient topology in} Y {by} f) {is a topology}\"\n"}

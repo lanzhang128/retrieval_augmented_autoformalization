@@ -1,0 +1,1 @@
+{"text": "text\\<open>A sligtly weaker, but more convenient in applications,\n  reformulation of the above theorem.\\<close>\n"}

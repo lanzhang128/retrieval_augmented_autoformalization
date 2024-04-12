@@ -1,0 +1,1 @@
+{"text": "text\\<open>The order on integers is antisymmetric.\\<close>\n", "informal": " In the integer domain, the relation IntegerOrder is antisymmetric.", "statement": "lemma (in int0) Int_ZF_2_L4: shows \"antisym(IntegerOrder)\"\n"}

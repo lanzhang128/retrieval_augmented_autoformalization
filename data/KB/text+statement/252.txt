@@ -1,0 +1,1 @@
+{"text": "text\\<open>A language is a subset of words.\\<close>\n", "statement": "definition \n  IsALanguage (\"_{is a language with alphabet}_\") where\n  \"Finite(\\<Sigma>) \\<Longrightarrow> L {is a language with alphabet} \\<Sigma> \\<equiv> L \\<subseteq> Lists(\\<Sigma>)\"\n"}

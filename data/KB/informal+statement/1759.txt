@@ -1,0 +1,1 @@
+{"informal": " If element g is in set G and set A is a subset of G, then g applies to the inverse image of A under g gives set A itself.", "statement": "lemma (in topgroup) trans_inverse_elem: assumes \"g\\<in>G\" and \"A\\<subseteq>G\"\n  shows \"g\\<ltr>((\\<rm>g)\\<ltr>A) = A\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A sufficient condition for the infimum to be in the space.\\<close>\n", "statement": "lemma inf_in_space: \n  assumes \"r \\<subseteq> X\\<times>X\" \"antisym(r)\" \"HasAmaximum(r,\\<Inter>a\\<in>A. r-``{a})\"\n  shows \"Infimum(r,A) \\<in> X\" and \"\\<forall>x\\<in>A. \\<langle>Infimum(r,A),x\\<rangle> \\<in> r\"\n"}

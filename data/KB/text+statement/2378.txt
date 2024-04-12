@@ -1,0 +1,1 @@
+{"text": "text\\<open>For injections the image of intersection is \n  the intersection of images.\\<close>\n", "statement": "lemma inj_image_of_Inter: assumes A1: \"f \\<in> inj(A,B)\" and\n  A2: \"I\\<noteq>0\" and A3: \"\\<forall>i\\<in>I. P(i) \\<subseteq> A\"\n  shows \"f``(\\<Inter>i\\<in>I. P(i)) = ( \\<Inter>i\\<in>I. f``(P(i)) )\"\n"}

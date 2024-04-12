@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>comp_inv_id_eq\\<close> - \n  the $a^{-1}b = 1$ implies $a=b$ law for bijections.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " If function `f` is in the finite range functions from set `X` to `Y` and set `A` is a subset of `X`, then the image of `A` under `f` is a finite subset of `Y`.", "statement": "lemma Finite1_L21: \n  assumes \"f \\<in> FinRangeFunctions(X,Y)\" and \"A\\<subseteq>X\"\n  shows \"f``(A) \\<in> Fin(Y)\" \n"}

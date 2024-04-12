@@ -1,0 +1,1 @@
+{"informal": " The \"Last\" predicate for a given set \"a\" is defined to be equivalent to an element in \"a\" having the property that it belongs to the set's domain and is preceded by no other element in that set. In other words, it's the last element in the set, if it exists.", "statement": "definition\n  \"Last(a) \\<equiv> a`(pred(domain(a)))\"\n"}

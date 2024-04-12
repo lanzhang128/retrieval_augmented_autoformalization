@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every resolvable space is also perfect.\\<close>\n"}

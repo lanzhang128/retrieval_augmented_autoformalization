@@ -1,0 +1,1 @@
+{"text": "text\\<open>A simple corollary to the theorem \\<open>binop_gen_set\\<close>: a set\n  that contains all iterations of the application of a binary operation\n  exists.\\<close>\n"}

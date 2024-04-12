@@ -1,0 +1,1 @@
+{"text": "text\\<open>Taking minus on both sides reverses an inequality.\\<close>\n", "statement": "lemma (in ring1) OrdRing_ZF_1_L4B: assumes \"a\\<lsq>b\"\n  shows \"(\\<rm>b) \\<lsq> (\\<rm>a)\"\n  "}

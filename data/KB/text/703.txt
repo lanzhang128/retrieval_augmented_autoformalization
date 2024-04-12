@@ -1,0 +1,1 @@
+{"text": "text\\<open>A rearrangement with four integers and absolute value.\\<close>\n"}

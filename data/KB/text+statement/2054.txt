@@ -1,0 +1,1 @@
+{"text": "text\\<open>We now give some lemmas that will help us compute \\<open>HomeoG(IncludedSet(X,T))\\<close>.\\<close>\n", "statement": "lemma cont_in_cont_ex:\n  assumes \"IsContinuous(IncludedSet(X,T),IncludedSet(X,T),f)\" \"f:X\\<rightarrow>X\" \"T\\<subseteq>X\"\n  shows \"IsContinuous(ExcludedSet(X,T),ExcludedSet(X,T),f)\"\n"}

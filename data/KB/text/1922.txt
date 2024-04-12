@@ -1,0 +1,1 @@
+{"text": "text\\<open>The (sequence) product topology is indeed a topology on the space of sequences.\nIn the proof we are using the fact that $(\\emptyset\\rightarrow X) = \\{\\emptyset\\}$.\\<close>\n"}

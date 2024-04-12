@@ -1,0 +1,1 @@
+{"text": "text\\<open>A base filter for a collection satisfies the filter base condition iff that collection\nis in fact a filter.\\<close>\n", "statement": "theorem basic_filter:\n  assumes \"C {is a base filter} \\<FF>\"\n  shows \"(C {satisfies the filter base condition}) \\<longleftrightarrow> (\\<FF> {is a filter on} \\<Union>\\<FF>)\"\n"}

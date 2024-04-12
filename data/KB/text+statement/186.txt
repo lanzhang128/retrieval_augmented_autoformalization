@@ -1,0 +1,1 @@
+{"text": "text\\<open>The lemma:\\<close>\n", "statement": "lemma fin_image_fin: \n  assumes A1: \"\\<forall>V\\<in>B. K(V)\\<in>C\" and A2: \"N\\<in>Fin(B)\"\n  shows \"{K(V). V\\<in>N} \\<in> Fin(C)\"\n"}

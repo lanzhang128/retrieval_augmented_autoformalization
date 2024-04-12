@@ -1,0 +1,1 @@
+{"text": "text\\<open>Induction for integers, the induction step.\\<close>\n", "statement": "lemma (in int0) Int_ZF_3_L6: assumes A1: \"i\\<in>\\<int>\" \n  and A2: \"\\<forall>m. i\\<lsq>m \\<and> Q(m) \\<longrightarrow> Q(m $+ ($# 1))\"\n  shows \"\\<forall>k\\<in>nat. Q(i $+ ($# k)) \\<longrightarrow> Q(i $+ ($# succ(k)))\"\n"}

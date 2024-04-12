@@ -1,0 +1,1 @@
+{"text": "text\\<open> In an ordered loop the strict order is translation invariant. \\<close>\n"}

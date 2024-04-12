@@ -1,0 +1,1 @@
+{"informal": " In the \"loop1\" context, the following holds: an element x is in the set L+ if and only if it is the successeor of zero.", "statement": "lemma (in loop1) posset_definition1: \n  shows \"x \\<in> L\\<^sub>+ \\<longleftrightarrow> \\<zero>\\<ls>x\" \n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The closure of a normal subgroup is normal.\\<close>\n", "statement": "theorem (in topgroup) normal_subg:\n  assumes \"IsAnormalSubgroup(G,f,H)\"\n  shows \"IsAnormalSubgroup(G,f,cl(H))\"\n"}

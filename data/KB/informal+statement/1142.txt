@@ -1,0 +1,1 @@
+{"informal": " If relation R totally orders set A, then R is an order relation for A.", "statement": "lemma tot_ord_imp_orders: assumes A1: \"tot_ord(A,R)\"\n  shows \"R Orders A\"\n"}

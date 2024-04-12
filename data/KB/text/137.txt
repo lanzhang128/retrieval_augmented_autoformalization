@@ -1,0 +1,1 @@
+{"text": "text\\<open>Any nonzero element has a right inverse that is nonzero.\\<close>\n"}

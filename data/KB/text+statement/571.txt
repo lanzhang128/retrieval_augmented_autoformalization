@@ -1,0 +1,1 @@
+{"text": "text\\<open>The trivial subgroup is then a normal subgroup.\\<close>\n", "statement": "corollary (in group0) trivial_normal_subgroup:\n  shows \"IsAnormalSubgroup(G,P,{\\<one>})\"\n"}

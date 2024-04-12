@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another reformulation of the definition of \\<open>Init\\<close>, starting with the\n  expression defining the list.\\<close>\n", "statement": "lemma init_def_alt: assumes \"n\\<in>nat\" and \"\\<forall>k\\<in>n #+ 1. q(k) \\<in> X\"\n  shows \"Init({\\<langle>k,q(k)\\<rangle>. k\\<in>n #+ 1}) = {\\<langle>k,q(k)\\<rangle>. k\\<in>n}\"\n"}

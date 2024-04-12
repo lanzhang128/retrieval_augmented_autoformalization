@@ -1,0 +1,1 @@
+{"text": "text\\<open>A more general version of \\<open> binop_gen_set\\<close> where the generating\n  binary operation acts on a larger set.\\<close>\n"}

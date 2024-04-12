@@ -1,0 +1,1 @@
+{"informal": " The relation \"GreaterOf\" is defined as the following: for all pairs (a, b) in a given relation r, if (a, b) is an element of r, then b is the greater value; otherwise, a is the greater value.", "statement": "definition\n  \"GreaterOf(r,a,b) \\<equiv> (if \\<langle> a,b\\<rangle> \\<in> r then b else a)\"\n"}

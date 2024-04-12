@@ -1,0 +1,1 @@
+{"text": "text\\<open>Cocountable topology in fact consists of the empty set and all cocountable subsets of $X$.\\<close>\n", "statement": "definition\n  Cocountable (\"CoCountable _\" 90) where\n  \"CoCountable X \\<equiv> CoCardinal(X,csucc(nat))\"\n"}

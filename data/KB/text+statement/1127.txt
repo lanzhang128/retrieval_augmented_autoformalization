@@ -1,0 +1,1 @@
+{"text": "text\\<open>For total and transitive relation the union of two sets bounded \n  below is bounded below.\\<close>\n", "statement": "lemma Order_ZF_3_L6: \n  assumes A1: \"r {is total on} X\" and A2: \"trans(r)\"\n  and A3: \"IsBoundedBelow(A,r)\" \"IsBoundedBelow(B,r)\"\n  and A4: \"r \\<subseteq> X\\<times>X\"\n  shows \"IsBoundedBelow(A\\<union>B,r)\"\n"}

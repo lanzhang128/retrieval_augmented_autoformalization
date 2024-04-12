@@ -1,0 +1,1 @@
+{"text": "text\\<open>Floor of a product of embeddings of integers is equal to the\n  product of integers.\\<close>\n"}

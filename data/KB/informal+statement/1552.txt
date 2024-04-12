@@ -1,0 +1,1 @@
+{"informal": " In the real numbers, if m and k are integers, then the product of their real numbers representations is equal to the real number representation of the product of their integer values.", "statement": "lemma (in real1) Real_ZF_1_4_L1C: assumes \"m \\<in> int\"  \"k \\<in> int\"\n  shows \"m\\<^sup>R \\<cdot> k\\<^sup>R = (m\\<zmu>k)\\<^sup>R\"\n  "}

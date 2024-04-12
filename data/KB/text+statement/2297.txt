@@ -1,0 +1,1 @@
+{"text": "text\\<open>A variant of \\<open>func1_1_L1A\\<close>.\\<close>\n", "statement": "lemma func1_1_L1B: assumes A1: \"f:X\\<rightarrow>Y\" and A2: \"Y\\<subseteq>Z\"\n  shows \"f:X\\<rightarrow>Z\"\n"}

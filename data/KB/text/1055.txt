@@ -1,0 +1,1 @@
+{"text": "text\\<open>For natural numbers membership and inequality are the same\n  and $k \\leq n$ is the same as $k \\in \\textrm{succ}(n)$. \n  The proof relies on lemmas in the standard Isabelle's \\<open>Nat\\<close> and \\<open>Ordinal\\<close> theories. \\<close>\n"}

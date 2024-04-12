@@ -1,0 +1,1 @@
+{"text": "text\\<open> The \\<open>UniCovFromUniformity\\<close> operation is the inverse of \\<open>UniformityFromUniCov\\<close>. \\<close>\n"}

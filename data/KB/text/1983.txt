@@ -1,0 +1,1 @@
+{"text": "text\\<open>The Cartesian product of two neighborhoods is a neighborhood in the \n  product topology. Similar to the Metamath's theorem with the same name. \\<close>\n"}

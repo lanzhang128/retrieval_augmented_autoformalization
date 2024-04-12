@@ -1,0 +1,1 @@
+{"text": "text\\<open>An expression representing the imaginary part of the sum\n  of two complex numbers.\\<close>\n", "informal": " \"ImCxAdd(R, A, a, b) holds if and only if the second components of pairs a and b are equal in relation R.\"", "statement": "definition\n  \"ImCxAdd(R,A,a,b) \\<equiv> A`\\<langle>snd(a),snd(b)\\<rangle>\"\n"}

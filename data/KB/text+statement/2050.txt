@@ -1,0 +1,1 @@
+{"text": "text\\<open>The identity function is a homeomorphism.\\<close>\n", "statement": "lemma (in topology0) homeo_id:\n  shows \"id(\\<Union>T)\\<in>HomeoG(T)\"\n"}

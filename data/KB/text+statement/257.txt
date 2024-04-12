@@ -1,0 +1,1 @@
+{"text": "text\\<open>The relation is an actual relation, but even\nmore it is a function (hence the adjective deterministic).\\<close>\n", "statement": "lemma (in DetFinStateAuto) reduce_is_relation_function:\n  shows \"relation(r\\<^sub>D)\" \"function(r\\<^sub>D)\" unfolding DFSAExecutionRelation_def[OF finite_alphabet DFSA]\n   relation_def function_def by auto\n"}

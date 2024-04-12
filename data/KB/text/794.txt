@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma about adding a constant to slopes. This is actually proven in\n  \\<open>Group_ZF_3_5_L1\\<close>, in \\<open>Group_ZF_3.thy\\<close> here we just refer to \n  that lemma to show it in notation used for integers. Unfortunately we have\n  to use raw set notation in the proof.\\<close>\n"}

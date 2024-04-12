@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of nonempty $X$-value listst will be called \\<open>NELists(X)\\<close>.\\<close>\n"}

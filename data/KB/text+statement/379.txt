@@ -1,0 +1,1 @@
+{"text": "text\\<open>\\<open>zf_move\\<close> is a bijection from \\<open>big\\<close> to  \\<open>zf_newbig\\<close>.\\<close>\n", "statement": "theorem (in generalization) zf_move_bij: shows \"zf_move \\<in> bij(big, zf_newbig)\"\n  "}

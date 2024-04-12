@@ -1,0 +1,1 @@
+{"text": "text\\<open>A frequently used property of filters is that they are \"upward closed\" i.e.  supersets \n  of a filter element are also in the filter. The next lemma makes this explicit\n  for easy reference as applied to the natural filter created from a uniformity.\\<close>\n"}

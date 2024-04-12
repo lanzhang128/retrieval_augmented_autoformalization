@@ -1,0 +1,1 @@
+{"text": "text\\<open>For linearly ordered nonempty finite sets the \n  maximum is in the set and indeed it is the greatest\n  element of the set.\\<close>\n"}

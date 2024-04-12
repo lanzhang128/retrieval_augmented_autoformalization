@@ -1,0 +1,1 @@
+{"text": "text\\<open>Translation by neutral element does not move sets. \\<close>\n", "statement": "lemma (in group0) trans_neutral_image: assumes \"V\\<subseteq>G\"\n  shows \"RightTranslation(G,P,\\<one>)``(V) = V\" and \"LeftTranslation(G,P,\\<one>)``(V) = V\"\n  "}

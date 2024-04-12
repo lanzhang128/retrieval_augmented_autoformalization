@@ -1,0 +1,1 @@
+{"text": "text\\<open>By definition, the language in the locale\nis regular.\\<close>\n"}

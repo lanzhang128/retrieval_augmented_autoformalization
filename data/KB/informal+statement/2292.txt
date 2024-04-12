@@ -1,0 +1,1 @@
+{"informal": " The set fstdom of a function f is equivalent to the domain of its domain. In other words, fstdom(f) = domain(domain(f)).", "statement": "definition\n  \"fstdom(f) \\<equiv> domain(domain(f))\"\n"}

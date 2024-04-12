@@ -1,0 +1,1 @@
+{"text": "text\\<open>A technical lemma that allows to use $1$ as the neutral element of \n  the group without referencing a list of lemmas and definitions.\\<close>\n", "statement": "lemma (in group0) group0_2_L2: \n  shows \"\\<one>\\<in>G \\<and> (\\<forall>g\\<in>G.(\\<one>\\<cdot>g = g \\<and> g\\<cdot>\\<one> = g))\"\n  "}

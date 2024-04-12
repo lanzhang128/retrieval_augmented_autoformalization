@@ -1,0 +1,1 @@
+{"text": "text\\<open>Bisection of $X$ is a pair of subsets of $X$.\\<close>\n", "statement": "lemma bisec_is_pair: assumes \"Q \\<in> Bisections(X)\"\n  shows \"Q = \\<langle>fst(Q), snd(Q)\\<rangle>\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>An identity involving concatenating with init\n  and appending the last element.\\<close>\n"}

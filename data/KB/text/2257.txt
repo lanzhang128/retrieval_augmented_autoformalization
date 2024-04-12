@@ -1,0 +1,1 @@
+{"text": "text\\<open>If two meta-functions are the same on a set, then they define the same\n  set by separation.\\<close>\n"}

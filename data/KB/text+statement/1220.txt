@@ -1,0 +1,1 @@
+{"text": "text\\<open>For total order if $g$ is not in $G^{+}$, then it has to be \n  less or equal the unit.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L2B: \n  assumes A1: \"r {is total on} G\" and A2: \"a\\<in>G-G\\<^sup>+\"\n  shows \"a\\<lsq>\\<one>\"\n"}

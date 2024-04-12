@@ -1,0 +1,1 @@
+{"informal": " Given any set A and element u such that every element in A is related to u via the relation r, then the set A is bounded above in the sense of ZF set theory.", "statement": "lemma Order_ZF_3_L10: assumes A1: \"\\<forall>a\\<in>A. \\<langle>a,u\\<rangle> \\<in> r\"\n  shows \"IsBoundedAbove(A,r)\"\n"}

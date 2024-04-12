@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every bounded set is an image of a subset of an interval that starts at \n  $1$.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_2_L2:\n  assumes A1: \"IsBounded(A,r)\" \n  shows \"\\<exists>B.\\<exists>g\\<in>G\\<^sup>+.\\<exists>T\\<in>G\\<rightarrow>G. A = T``(B) \\<and> B \\<subseteq> Interval(r,\\<one>,g)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma explains what \\<open>fstdom\\<close> is for.\\<close>\n", "statement": "lemma fstdomdef: assumes A1: \"f: X\\<times>Y \\<rightarrow> Z\" and A2: \"Y\\<noteq>0\" \n  shows \"fstdom(f) = X\"\n"}

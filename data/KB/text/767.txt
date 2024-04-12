@@ -1,0 +1,1 @@
+{"text": "text\\<open>The absolute value of homomorphism difference \n  of a slope $s$ does not exceed \\<open>max\\<delta>(s)\\<close>.\\<close>\n"}

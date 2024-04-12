@@ -1,0 +1,1 @@
+{"text": "text\\<open>The binomial coefficients are 1 on the left boundary of the Pascal's triangle.\\<close>\n", "statement": "theorem binom_left_boundary: assumes \"n\\<in>nat\" shows \"Binom(n,0) = 1\"\n"}

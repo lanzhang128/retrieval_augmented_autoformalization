@@ -1,0 +1,1 @@
+{"text": "text\\<open>Subtracting the beginning af the interval results in a number from\n  the length of the interval. It may sound weird, but note that the length of\n  such interval is a natural number, hence a set.\\<close>\n", "statement": "lemma inter_diff_in_len: \n  assumes A1: \"k \\<in> nat\" and A2: \"i \\<in> NatInterval(n,k)\"\n  shows \"i #- n \\<in> k\"\n"}

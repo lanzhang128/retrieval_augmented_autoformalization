@@ -1,0 +1,1 @@
+{"informal": " The binary relation \"CplxROrder\" over a set \"R\" and an element \"A\" in it is defined as the relation induced by the slice projection of the complex reals over \"R\" and \"A.\"", "statement": "definition\n  \"CplxROrder(R,A,r) \\<equiv> \n  InducedRelation(SliceProjection(ComplexReals(R,A)),r)\"\n"}

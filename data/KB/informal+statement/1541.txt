@@ -1,0 +1,1 @@
+{"informal": " Assuming \"a < b\" in the context of real numbers, the inverse of thestrictly greater relation holds between b and a, and this inverse relation is an element of the real number line with the addition operation.", "statement": "lemma (in real1) Real_ZF_1_3_L3: assumes \"a\\<ls>b\"\n  shows \"(b\\<rs>a)\\<inverse> \\<in> \\<real>\\<^sub>+\" \n  "}

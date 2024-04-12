@@ -1,0 +1,1 @@
+{"informal": " If m and k are both in the integers, and (m + 1) equals (k + 1), then m equals k.", "statement": "lemma (in int1) Int_ZF_2_5_L6: \n  assumes A1: \"m\\<in>\\<int>\"  \"k\\<in>\\<int>\" and A2: \"(m\\<^sup>S) \\<sim> (k\\<^sup>S)\"\n  shows \"m=k\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A set is closed iff it is equal to its closure.\\<close>\n", "statement": "lemma (in topology0) Top_3_L8: assumes A1: \"A \\<subseteq> \\<Union>T\"\n  shows \"A {is closed in} T \\<longleftrightarrow> cl(A) = A\"\n"}

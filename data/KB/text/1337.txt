@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set has a maximum and a minimum, then all absolute values are\n  bounded by the maximum of the set of absolute values.\\<close>\n"}

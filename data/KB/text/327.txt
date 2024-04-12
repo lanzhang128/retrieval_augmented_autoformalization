@@ -1,0 +1,1 @@
+{"text": "text\\<open>If for every element of $X$ we can find one in $A$ \n  that is greater, then the $A$ can not be finite. Works for relations\n  that are total, transitive and antisymmetric.\\<close>\n"}

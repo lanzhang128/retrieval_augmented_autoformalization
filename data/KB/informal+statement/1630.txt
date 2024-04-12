@@ -1,0 +1,1 @@
+{"informal": " In the ring0 theory, if a, b, and c are members of the ring R, then their product in the ring follows the distributive property: a * (b * c) = a * b * c.", "statement": "lemma (in ring0) Ring_ZF_1_L10: \n  assumes \"a\\<in>R\"  \"b\\<in>R\"  \"c\\<in>R\"\n  shows \n  \"a\\<ra>(b\\<ra>c) = a\\<ra>b\\<ra>c\"\n"}

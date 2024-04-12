@@ -1,0 +1,1 @@
+{"text": "text\\<open>Some estimates for the homomorphism difference of the floor\n  function.\\<close>\n", "statement": "lemma (in real1) Real_ZF_1_4_L18: assumes A1: \"x\\<in>\\<real>\"  \"y\\<in>\\<real>\"\n  shows \n  \"abs(\\<lfloor>x\\<ra>y\\<rfloor> \\<zs> \\<lfloor>x\\<rfloor> \\<zs> \\<lfloor>y\\<rfloor>) \\<zlq> \\<two>\\<^sub>Z\"\n"}

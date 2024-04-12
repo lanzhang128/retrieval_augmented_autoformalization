@@ -1,0 +1,1 @@
+{"text": "text\\<open>A necessary condition for a collection of sets to be a base for some \n  topology : every point in the intersection\n  of two sets in the base has a neighboorhood from the base contained\n  in the intersection.\\<close>\n"}

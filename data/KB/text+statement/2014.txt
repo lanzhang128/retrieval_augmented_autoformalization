@@ -1,0 +1,1 @@
+{"text": "text\\<open>The discrete space is a first example of totally-disconnected space.\\<close>\n", "statement": "lemma discrete_tot_dis:\n  shows \"Pow(X) {is totally-disconnected}\"\n"}

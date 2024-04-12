@@ -1,0 +1,1 @@
+{"text": "text\\<open>Cancellation of an element on both sides of equality. \n  This is a property of groups, written in the (additive) notation\n  we use for the additive operation in rings.\n\\<close>\n", "statement": "lemma (in ring0) ring_cancel_add: \n  assumes A1: \"a\\<in>R\" \"b\\<in>R\" and A2: \"a \\<ra> b = a\"\n  shows \"b = \\<zero>\"\n  "}

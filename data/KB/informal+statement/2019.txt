@@ -1,0 +1,1 @@
+{"informal": " If a topology is totally disconnected, then it is T1.", "statement": "lemma (in topology0) tot_dis_imp_T1:\n  assumes \"T{is totally-disconnected}\"\n  shows \"T{is T\\<^sub>1}\"\n"}

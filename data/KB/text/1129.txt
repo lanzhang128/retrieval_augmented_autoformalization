@@ -1,0 +1,1 @@
+{"text": "text\\<open>For total and transitive relations unions of two bounded sets are \n  bounded.\\<close>\n"}

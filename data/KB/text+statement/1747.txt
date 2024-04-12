@@ -1,0 +1,1 @@
+{"text": "text\\<open> Right and left translations of a set are subsets of the group. \n  This is of course typically applied to the subsets of the group, but formally we don't\n  need to assume that. \\<close>\n", "statement": "lemma (in topgroup) lrtrans_in_group_add: assumes \"x\\<in>G\" \n  shows  \"x\\<ltr>V \\<subseteq> G\" and \"V\\<rtr>x \\<subseteq>G\"\n  "}

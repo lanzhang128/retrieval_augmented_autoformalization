@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set has a maximum implies that it is not empty. \\<close>\n", "informal": " If a relation `r` has a minimum for the set `A`, then `A` is non-empty.", "statement": "lemma set_min_not_empty: assumes \"HasAminimum(r,A)\" shows \"A\\<noteq>0\"\n  "}

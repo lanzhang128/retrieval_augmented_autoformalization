@@ -1,0 +1,1 @@
+{"text": "text\\<open>Infimum is greater or equal than any lower bound. \n  This lemma is obsolete and will be removed. Use \\<open>inf_geq_lo_bnd\\<close> instead.\\<close>\n"}

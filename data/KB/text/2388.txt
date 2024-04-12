@@ -1,0 +1,1 @@
+{"text": "text\\<open>A version of \\<open>comp_id_conv\\<close> with weaker assumptions.\\<close>\n"}

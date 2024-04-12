@@ -1,0 +1,1 @@
+{"informal": " Assuming `a` is a non-zero element and `b` is the one in a commutative ring, we have `a * b` is less than or equal to `a`.", "statement": "lemma (in ring1) OrdRing_ZF_1_L16: \n  assumes A1: \"\\<zero>\\<lsq>a\" and A2: \"\\<one>\\<lsq>b\"\n  shows \"a\\<lsq>a\\<cdot>b\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open> We can move an element to the other side of a strict inequality. \\<close>\n", "statement": "lemma (in loop1) ls_other_side: assumes \"x\\<ls>y\" \n  shows \"\\<zero> \\<ls> \\<rm>x\\<ad>y\"  \"(\\<rm>x\\<ad>y) \\<in> L\\<^sub>+\" \"\\<zero> \\<ls> y\\<rs>x\" \"(y\\<rs>x) \\<in> L\\<^sub>+\"\n"}

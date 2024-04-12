@@ -1,0 +1,1 @@
+{"text": "text\\<open>Taking negative on both sides reverses the inequality, case with\n  an inverse on one side.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L5AD:\n  assumes A1: \"b \\<in> G\" and A2: \"a\\<lsq>b\\<inverse>\"\n  shows \"b \\<lsq> a\\<inverse>\"\n"}

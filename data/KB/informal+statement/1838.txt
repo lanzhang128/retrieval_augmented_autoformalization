@@ -1,0 +1,1 @@
+{"informal": " If B is a base for set T and U is an element of B, then U is an element of T.", "statement": "lemma base_sets_open: \n  assumes \"B {is a base for} T\" and \"U \\<in> B\"\n  shows \"U \\<in> T\"\n  "}

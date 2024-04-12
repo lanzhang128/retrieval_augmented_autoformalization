@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $A$ is bounded above by $u$, $B$ is bounded above by $w$,\n  then $A\\cup B$ is bounded above by the greater of $u,w$.\\<close>\n"}

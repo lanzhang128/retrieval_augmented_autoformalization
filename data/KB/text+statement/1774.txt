@@ -1,0 +1,1 @@
+{"text": "text\\<open>Closure of a set is contained in the sum of the set and any\n  neighboorhood of zero.\\<close>\n", "statement": "lemma (in topgroup) cl_contains_zneigh:\n  assumes A1: \"A\\<subseteq>G\" and A2: \"H \\<in> \\<N>\\<^sub>0\"\n  shows \"cl(A) \\<subseteq> A\\<sad>H\"\n"}

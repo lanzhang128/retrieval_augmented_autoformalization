@@ -1,0 +1,1 @@
+{"text": "text\\<open>The essential condition to show that composition is associative.\\<close>\n", "statement": "lemma func_ZF_5_L4: assumes A1: \"f:X\\<rightarrow>X\" \"g:X\\<rightarrow>X\" \"h:X\\<rightarrow>X\"\n  and A2: \"C = Composition(X)\"\n  shows \"C`\\<langle>C`\\<langle>f,g\\<rangle>,h\\<rangle> = C`\\<langle> f,C`\\<langle>g,h\\<rangle>\\<rangle>\"\n"}

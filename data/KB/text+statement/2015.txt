@@ -1,0 +1,1 @@
+{"text": "text\\<open>An space is hyperconnected iff every two non-empty open sets meet.\\<close>\n", "statement": "definition IsHConnected (\"_{is hyperconnected}\"90)\n  where \"T{is hyperconnected} \\<equiv>\\<forall>U V. U\\<in>T \\<and> V\\<in>T \\<and> U\\<inter>V=0 \\<longrightarrow> U=0\\<or>V=0\"\n"}

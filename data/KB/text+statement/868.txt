@@ -1,0 +1,1 @@
+{"text": "text\\<open>The essential condition to show that the order on integers is \n  transitive.\\<close>\n", "statement": "lemma Int_ZF_2_L5: \n  assumes A1: \"\\<langle>m,n\\<rangle> \\<in> IntegerOrder\"  \"\\<langle>n,k\\<rangle> \\<in> IntegerOrder\"\n  shows \"\\<langle>m,k\\<rangle> \\<in> IntegerOrder\"\n"}

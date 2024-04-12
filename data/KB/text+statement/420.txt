@@ -1,0 +1,1 @@
+{"text": "text\\<open> We can cancel an element on the right from both sides of an equation. \\<close>\n", "statement": "lemma (in group0) cancel_right: assumes \"a\\<in>G\"  \"b\\<in>G\"  \"c\\<in>G\" \"a\\<cdot>b = c\\<cdot>b\"\n  shows \"a = c\" \n"}

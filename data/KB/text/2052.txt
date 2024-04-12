@@ -1,0 +1,1 @@
+{"text": "text\\<open>As a first example, we show that the group of homeomorphisms of the cocardinal\ntopology is the group of bijective functions.\\<close>\n"}

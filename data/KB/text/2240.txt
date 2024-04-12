@@ -1,0 +1,1 @@
+{"text": "text\\<open>For any member $P$ of a cover $\\Theta$ the set $\\bigcup \\{U\\times U : U\\in P\\}$ \n  is a member of \\<open>UniformityFromUniCov(X,\\<Theta>)\\<close>. \\<close>\n"}

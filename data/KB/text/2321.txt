@@ -1,0 +1,1 @@
+{"text": "text\\<open>The range of a function defined by set comprehension is the set of its values.\"\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Complex $1$ is a right neutral element for multiplication.\\<close>\n", "statement": "lemma (in complex0) ax1id: assumes A1: \"a \\<in> \\<complex>\"\n  shows \"a\\<cdot>\\<one> = a\"\n  "}

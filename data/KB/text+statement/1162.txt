@@ -1,0 +1,1 @@
+{"text": "text\\<open>If an element belongs to a set and is greater or equal\n  than all elements of that set, then it is the maximum of that set.\\<close>\n", "statement": "lemma Order_ZF_4_L14: \n  assumes A1: \"antisym(r)\" and A2: \"M \\<in> A\" and \n  A3: \"\\<forall>a\\<in>A. \\<langle>a,M\\<rangle> \\<in> r\"\n  shows \"Maximum(r,A) = M\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Complex addition is associative.\\<close>\n", "statement": "lemma (in complex0) axaddass: assumes A1: \"a \\<in> \\<complex>\"  \"b \\<in> \\<complex>\"  \"c \\<in> \\<complex>\"\n  shows \"a \\<ca> b \\<ca> c = a \\<ca> (b \\<ca> c)\"\n"}

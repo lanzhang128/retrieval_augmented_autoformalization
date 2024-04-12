@@ -1,0 +1,1 @@
+{"informal": " Given a topology T and an element c in the union of a set S, the set of points in T with c as their limit point is a element of the continuity relation between T and S.", "statement": "lemma const_cont_sp: assumes \"T {is a topology}\" \"c\\<in>\\<Union>S\"\n  shows \"{\\<langle>x,c\\<rangle>. x\\<in>\\<Union>T} \\<in> Cont(T,S)\"\n  "}

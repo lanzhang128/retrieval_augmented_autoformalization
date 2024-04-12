@@ -1,0 +1,1 @@
+{"informal": " In the group `G`: if `b` is an element, `a` is less than `b` multiplied by `c`, and `c` is less than the inverse of `b`, then `a` is less than `b` squared.", "statement": "lemma (in group3) OrderedGroup_ZF_1_L5D: \n  assumes A1: \"b\\<in>G\" and A2: \"a \\<lsq> b\\<cdot>c\" and A3: \"c\\<lsq>b\\<^sub>1\" \n  shows \"a \\<lsq> b\\<cdot>b\\<^sub>1\"\n"}

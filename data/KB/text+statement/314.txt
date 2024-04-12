@@ -1,0 +1,1 @@
+{"text": "text\\<open>Singleton is in the finite powerset.\\<close>\n", "statement": "lemma singleton_in_finpow: assumes \"x \\<in> X\"\n  shows \"{x} \\<in> FinPow(X)\" "}

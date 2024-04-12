@@ -1,0 +1,1 @@
+{"text": "text\\<open>The D operator preserves subsets\\<close>\n", "statement": "lemma (in ring0) D_operator_preserve_subset:\n  assumes \"S \\<subseteq> T\" \"T\\<subseteq>R\"\n  shows \"D(S) \\<subseteq> D(T)\"\n"}

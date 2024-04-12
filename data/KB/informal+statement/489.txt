@@ -1,0 +1,1 @@
+{"informal": " Given that F is a function from X to functions on G, and P is a commutative relation on G, then F is a commutative relation on the function space X \u2192 G.", "statement": "lemma (in group0) Group_ZF_2_1_L7: \n  assumes A1: \"F = P {lifted to function space over} X\"\n  and A2: \"P {is commutative on} G\"\n  shows \"F {is commutative on} (X\\<rightarrow>G)\"\n"}

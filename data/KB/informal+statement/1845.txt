@@ -1,0 +1,1 @@
+{"informal": " Given a base B for a topology T, the union of T is equal to the union of B.", "statement": "lemma Top_1_2_L5: assumes \"B {is a base for} T\"\n  shows \"\\<Union>T = \\<Union>B\"\n  "}

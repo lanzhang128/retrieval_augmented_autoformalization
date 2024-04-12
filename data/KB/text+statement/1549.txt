@@ -1,0 +1,1 @@
+{"text": "text\\<open>The negative of the real embedding of an integer is the embedding\n  of the negative of the integer.\\<close>\n", "statement": "lemma (in real1) Real_ZF_1_4_L1: assumes \"m \\<in> int\"\n  shows \"(\\<zm>m)\\<^sup>R = \\<rm>(m\\<^sup>R)\"\n  "}

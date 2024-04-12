@@ -1,0 +1,1 @@
+{"text": "text\\<open>A dual notion to \\<open>Tail\\<close> is the list\n  of all elements of a list except the last one. Borrowing\n  the terminology from Haskell again, we will call this \\<open>Init\\<close>.\\<close>\n", "statement": "definition\n  \"Init(a) \\<equiv> restrict(a,pred(domain(a)))\"\n"}

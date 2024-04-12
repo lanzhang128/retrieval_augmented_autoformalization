@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $k$ is in the successor of $n$, then the predecessor of $k$ is in $n$.\\<close>\n", "informal": " If n is a natural number not equal to zero, and k is the successor of n, then the preceding number of k is an element of n.", "statement": "lemma pred_succ_mem: assumes \"n\\<in>nat\" \"n\\<noteq>0\" \"k\\<in>succ(n)\" shows \"pred(k)\\<in>n\"\n"}

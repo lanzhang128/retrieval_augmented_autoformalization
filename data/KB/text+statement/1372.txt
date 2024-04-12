@@ -1,0 +1,1 @@
+{"text": "text\\<open> Another form of mixed transitivity for the strict order: \\<close>\n", "statement": "lemma (in loop1) loop_strict_ord_trans1: assumes \"x\\<ls>y\" and \"y\\<lsq>z\"\n  shows \"x\\<ls>z\"\n"}

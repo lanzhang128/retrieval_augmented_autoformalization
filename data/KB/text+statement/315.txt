@@ -1,0 +1,1 @@
+{"text": "text\\<open>Union of two finite subsets is a finite subset.\\<close>\n", "statement": "lemma union_finpow: assumes \"A \\<in> FinPow(X)\" and \"B \\<in> FinPow(X)\"\n  shows \"A \\<union> B \\<in> FinPow(X)\"\n  "}

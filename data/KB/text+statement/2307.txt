@@ -1,0 +1,1 @@
+{"text": "text\\<open>The range of function that maps $X$ into $Y$ is contained in $Y$.\\<close>\n", "statement": "lemma func1_1_L5B: \n  assumes  A1: \"f:X\\<rightarrow>Y\" shows \"range(f) \\<subseteq> Y\"\n"}

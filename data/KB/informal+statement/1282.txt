@@ -1,0 +1,1 @@
+{"informal": " In the group3 theory, if r is a total function on a non-empty group G, then the group operation + does not equal the identity element (zero).", "statement": "lemma (in group3) OrderedGroup_ZF_1_L21:\n  assumes A1: \"r {is total on} G\" and A2: \"G \\<noteq> {\\<one>}\"\n  shows \"G\\<^sub>+ \\<noteq> 0\"\n"}

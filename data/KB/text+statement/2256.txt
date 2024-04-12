@@ -1,0 +1,1 @@
+{"text": "text\\<open>A technical lemma about sections in cartesian products.\\<close>\n", "statement": "lemma section_proj: assumes \"A \\<subseteq> X\\<times>Y\" and \"U\\<times>V \\<subseteq> A\" and \"x \\<in> U\"  \"y \\<in> V\"\n  shows \"U \\<subseteq> {t\\<in>X. \\<langle>t,y\\<rangle> \\<in> A}\" and \"V \\<subseteq> {t\\<in>Y. \\<langle>x,t\\<rangle> \\<in> A}\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>By definition, the language in the locale\nis regular.\\<close>\n", "statement": "corollary (in DetFinStateAuto) regular_intersect:\n  shows \"LanguageDFSA{is a regular language on}\\<Sigma>\"\n  "}

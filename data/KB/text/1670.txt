@@ -1,0 +1,1 @@
+{"text": "text \\<open>This section studies the ideals of quotient rings,\nand defines ring homomorphisms.\\<close>\n"}

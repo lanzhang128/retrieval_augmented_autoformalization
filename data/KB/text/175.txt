@@ -1,0 +1,1 @@
+{"text": "text\\<open>Now we show the main induction step in a separate lemma. This will make \n  the proof of the theorem FinRestr below look short and nice. \n  The premises of the \\<open>ind_step\\<close> lemma are those needed by \n  the main induction step in \n  lemma \\<open>Fin_induct\\<close> (see standard Isabelle's Finite.thy).\\<close>\n"}

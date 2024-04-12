@@ -1,0 +1,1 @@
+{"text": "text\\<open>Properties of bisections.\\<close>\n", "statement": "lemma bisec_props: assumes \"\\<langle>A,B\\<rangle> \\<in> Bisections(X)\" shows\n  \"A\\<noteq>0\"  \"B\\<noteq>0\" \"A \\<subseteq> X\"  \"B \\<subseteq> X\"  \"A \\<inter> B = 0\"  \"A \\<union> B = X\"  \"X \\<noteq> 0\"\n  "}

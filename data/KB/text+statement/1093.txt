@@ -1,0 +1,1 @@
+{"text": "text\\<open>A similar definition what it means that a set has a minimum.\\<close>\n", "statement": "definition\n  \"HasAminimum(r,A) \\<equiv> \\<exists>m\\<in>A.\\<forall>x\\<in>A. \\<langle>m,x\\<rangle> \\<in> r\"\n"}

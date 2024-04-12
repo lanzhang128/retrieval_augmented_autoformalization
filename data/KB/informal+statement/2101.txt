@@ -1,0 +1,1 @@
+{"informal": " If U is a partition of set X and V is a subset of U, then V is a partition of the union of V.", "statement": "lemma subpartition:\n  assumes \"U {is a partition of} X\" \"V\\<subseteq>U\"\n  shows \"V{is a partition of}\\<Union>V\" \n  "}

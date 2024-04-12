@@ -1,0 +1,1 @@
+{"informal": " For any set V in the topology T, if every element of V belongs to some set U in T that is a subset of V, then V itself is an element of T.", "statement": "lemma (in topology0) open_neigh_open: \n  assumes A1: \"\\<forall>x\\<in>V. \\<exists>U\\<in>T. (x\\<in>U \\<and> U\\<subseteq>V)\" \n  shows \"V\\<in>T\"\n"}

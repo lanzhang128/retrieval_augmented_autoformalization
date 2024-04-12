@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a point $x$ is inside a disk $B$ and $m\\leq R-d(c,x)$ then the disk centered \n  at the point $x$ and with radius $m$ is contained in the disk $B$. \\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Adding one increases integers, yet one more version.\\<close>\n", "statement": "lemma (in int0) Int_ZF_2_L12B: assumes A1: \"m\\<in>\\<int>\" shows \"m \\<lsq> m\\<ra>\\<one>\"\n  "}

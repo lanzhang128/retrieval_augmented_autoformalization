@@ -1,0 +1,1 @@
+{"text": "text\\<open>The definition real numbers embedded in the complex plane.\\<close>\n", "informal": " \"ComplexReals of ring R and additive abelian group A are defined as the ring R together with its neutral element.\"", "statement": "definition\n  \"ComplexReals(R,A) \\<equiv> R\\<times>{TheNeutralElement(R,A)}\"\n"}

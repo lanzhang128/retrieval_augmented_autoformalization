@@ -1,0 +1,1 @@
+{"text": "text\\<open>A function restricted to its domain is itself.\\<close>\n"}

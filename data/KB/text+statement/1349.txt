@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another way of saying that odd extensions are odd.\\<close>\n", "statement": "lemma (in group3) oddext_is_odd_alt:\n  assumes A1: \"r {is total on} G\" and A2: \"f: G\\<^sub>+\\<rightarrow>G\"\n  and A3: \"a\\<in>G\"\n  shows \"((f\\<degree>)`(a\\<inverse>))\\<inverse> = (f\\<degree>)`(a)\"\n"}

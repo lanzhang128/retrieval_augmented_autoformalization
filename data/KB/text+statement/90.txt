@@ -1,0 +1,1 @@
+{"text": "text\\<open>Direct product of commutative operations is commutative.\\<close>\n", "statement": "lemma (in direct0) DirectProduct_ZF_2_L1:\n  assumes \"P {is commutative on} G\" and \"Q {is commutative on} H\"\n  shows \"R {is commutative on} G\\<times>H\"\n"}

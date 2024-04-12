@@ -1,0 +1,1 @@
+{"text": "text\\<open> In the loop context the pair \\<open>(G,A)\\<close> forms a loop. \\<close>\n"}

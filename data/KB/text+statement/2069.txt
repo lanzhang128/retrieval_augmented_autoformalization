@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the cardinal is taken as \\<open> T=1 \\<close> then the topology is indiscrete.\\<close>\n", "statement": "lemma indiscrete_cocardinal:\n  shows \"CoCardinal(X,1) = {0,X}\"\n"}

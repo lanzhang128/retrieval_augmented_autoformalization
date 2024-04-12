@@ -1,0 +1,1 @@
+{"text": "text\\<open>Equivalence relations are symmetric.\\<close>\n"}

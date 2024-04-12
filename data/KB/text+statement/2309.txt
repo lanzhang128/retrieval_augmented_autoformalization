@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse image of any set is contained in the domain.\\<close>\n", "statement": "lemma func1_1_L6A: assumes A1: \"f:X\\<rightarrow>Y\" shows \"f-``(A)\\<subseteq>X\"\n"}

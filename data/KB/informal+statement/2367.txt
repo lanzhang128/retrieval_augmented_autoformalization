@@ -1,0 +1,1 @@
+{"informal": " Given that `c` is an element of set `A`, the domain of the constant function `ConstantFunction(X, c)` from set `A` to itself is equivalent to the original set `X`.", "statement": "lemma const_vimage_domain: assumes \"c\\<in>A\" \n  shows \"ConstantFunction(X,c)-``(A) = X\"\n"}

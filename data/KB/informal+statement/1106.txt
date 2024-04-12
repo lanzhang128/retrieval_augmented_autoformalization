@@ -1,0 +1,1 @@
+{"informal": " If X is a set and r is arelation on X that is both a part order and total on X, then r is a linear order on X.", "statement": "lemma Order_ZF_1_L3: \n  assumes \"IsPartOrder(X,r)\" and \"r {is total on} X\"\n  shows \"IsLinOrder(X,r)\"\n  "}

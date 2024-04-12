@@ -1,0 +1,1 @@
+{"text": "text\\<open>A space is ultraconnected iff every two non-empty closed sets meet.\\<close>\n"}

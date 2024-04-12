@@ -1,0 +1,1 @@
+{"text": "text\\<open>For total and transitive relations unions of two bounded sets are \n  bounded.\\<close>\n", "statement": "theorem Order_ZF_3_T1: \n  assumes \"r {is total on} X\" and \"trans(r)\" \n  and \"IsBounded(A,r)\" \"IsBounded(B,r)\"\n  and \"r \\<subseteq> X\\<times>X\"\n  shows \"IsBounded(A\\<union>B,r)\"\n  "}

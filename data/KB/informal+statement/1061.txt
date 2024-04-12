@@ -1,0 +1,1 @@
+{"informal": " If natural numbers k and j are in the set of natural numbers, and j is less than k, then the sum of natural numbers n with j is less than the sum of natural numbers n with k, and both sums are natural numbers.", "statement": "lemma add_lt_mono: \n  assumes \"k \\<in> nat\" and \"j\\<in>k\"\n  shows \n  \"(n #+ j) < (n #+ k)\"\n  \"(n #+ j) \\<in> (n #+ k)\"\n"}

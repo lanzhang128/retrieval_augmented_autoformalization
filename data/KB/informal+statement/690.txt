@@ -1,0 +1,1 @@
+{"informal": " Assuming a is less than b and a is not equal to b, then a is less than b plus one, and b minus one is less than a.", "statement": "lemma (in int0) no_int_between1: \n  assumes A1: \"a\\<lsq>b\"  and A2: \"a\\<noteq>b\"\n  shows \n  \"a\\<ra>\\<one> \\<lsq> b\"\n  \"a \\<lsq> b\\<rs>\\<one>\"\n"}

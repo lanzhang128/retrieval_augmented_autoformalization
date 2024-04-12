@@ -1,0 +1,1 @@
+{"text": "text\\<open>A disk is defined as set of points located less than the radius from the center.\\<close>\n"}

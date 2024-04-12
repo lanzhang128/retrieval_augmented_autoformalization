@@ -1,0 +1,1 @@
+{"text": "text\\<open>A negative element can not be nonnegative.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L8B:\n  assumes A1: \"a\\<lsq>\\<one>\"  and A2: \"a\\<noteq>\\<one>\" shows \"\\<not>(\\<one>\\<lsq>a)\"\n"}

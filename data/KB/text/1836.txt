@@ -1,0 +1,1 @@
+{"text": "text\\<open>A collection that is closed with respect to intersection\n  satisfies the base condition.\\<close>\n"}

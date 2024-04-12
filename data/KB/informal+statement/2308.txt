@@ -1,0 +1,1 @@
+{"informal": " If function f from X to Y is defined, then the image of set B under f is a subset of the range of f and also a subset of Y.", "statement": "lemma func1_1_L6: assumes A1: \"f:X\\<rightarrow>Y\" \n  shows \"f``(B) \\<subseteq> range(f)\" and \"f``(B) \\<subseteq> Y\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A definition that allows to get the first factor of the\n  domain of a binary function $f: X\\times Y \\rightarrow Z$.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another way of looking at the constant function - it's a set of pairs\n  $\\langle x,c\\rangle$ as $x$ ranges over $X$. \\<close>\n"}

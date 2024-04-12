@@ -1,0 +1,1 @@
+{"text": "text\\<open>For surjections the image of an inverse image is the same set.\\<close>\n", "statement": "lemma surj_image_vimage: assumes A1: \"f \\<in> surj(X,Y)\" and A2: \"A\\<subseteq>Y\"\n  shows \"f``(f-``(A)) = A\"\n"}

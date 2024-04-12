@@ -1,0 +1,1 @@
+{"text": "text\\<open>The induction step.\\<close>\n", "statement": "lemma Finite1_L4_IndStep:\n  assumes A1: \"\\<forall>A B. ((A\\<in>T \\<and> B\\<in>T) \\<longrightarrow> A\\<inter>B\\<in>T)\"\n  and A2: \"A\\<in>T\" and A3:\"N\\<in>Fin(T)\" and A4:\"A\\<notin>N\" and A5:\"IntPr(T,N)\"\n  shows \"IntPr(T,cons(A,N))\"\n"}

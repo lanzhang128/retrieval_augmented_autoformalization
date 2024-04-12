@@ -1,0 +1,1 @@
+{"text": "text\\<open>Propositions proven in the \\<open>semigr0\\<close> locale are valid in the \\<open>monoid0\\<close> locale.\\<close>\n"}

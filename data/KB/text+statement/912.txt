@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can add the sides of inequalities with absolute values.\\<close>\n", "statement": "lemma (in int0) Int_ZF_2_L21: \n  assumes A1: \"m\\<in>\\<int>\" \"n\\<in>\\<int>\"\n  and A2: \"abs(m) \\<lsq> k\"  \"abs(n) \\<lsq> l\"\n  shows \n  \"abs(m\\<ra>n) \\<lsq> k \\<ra> l\"\n  \"abs(m\\<rs>n) \\<lsq> k \\<ra> l\"\n  "}

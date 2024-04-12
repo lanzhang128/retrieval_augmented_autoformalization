@@ -1,0 +1,1 @@
+{"text": "text\\<open>\\<open>big\\<close> is the domain of \\<open>move\\<close>.\\<close>\n", "statement": "lemma (in generalization1) move_domain: shows \"domain(move) = big\" \n  "}

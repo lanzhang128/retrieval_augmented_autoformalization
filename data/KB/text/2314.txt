@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $f\\subseteq X\\times Y$ and for every $x\\in X$ there is exactly \none $y\\in Y$ such that $(x,y)\\in f$ then $f$ maps $X$ to $Y$.\\<close>\n"}

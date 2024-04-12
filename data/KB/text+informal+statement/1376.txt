@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can add sides of inequalities.\\<close>\n", "informal": " If x is less than y and z is less than t, then z plus x is less than or equal to t plus y.", "statement": "lemma (in loop1) add_ineq: assumes \"x\\<lsq>y\" \"z\\<lsq>t\" \n  shows \"x\\<ra>z \\<lsq> y\\<ra>t\"\n"}

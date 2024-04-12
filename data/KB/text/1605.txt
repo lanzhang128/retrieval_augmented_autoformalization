@@ -1,0 +1,1 @@
+{"text": "text\\<open>When we multiply an expression whose value belongs to a ring by a ring element \n  and we get an expression whose value belongs to a ring.\\<close>\n"}

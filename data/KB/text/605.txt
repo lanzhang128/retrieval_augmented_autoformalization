@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma combines \\<open>indseq_exun0\\<close> and \\<open>indseq_exun_ind\\<close> \n  to show the existence and uniqueness of finite sequences defined by induction.\\<close>\n"}

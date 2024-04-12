@@ -1,0 +1,1 @@
+{"informal": " In the set theory of Isabelle/ZF, the union of a set X with its complement relative to a set T is equal to X, if and only if, X is a subset of T. (Or, stated another way, X is an excluded set in T.)", "statement": "lemma union_excludedset:\n  shows \"\\<Union>ExcludedSet(X,T) = X\"\n"}

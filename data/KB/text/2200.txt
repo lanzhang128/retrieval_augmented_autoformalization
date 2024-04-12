@@ -1,0 +1,1 @@
+{"text": "text\\<open>The definition of uniformity states (among other things) that for every member $U$\n  of uniformity $\\Phi$ there is another one, say $V$ such that $V\\circ V\\subseteq U$. Sometimes such $V$\n  is said to be half the size of $U$. The next lemma states that $V$ can be taken to be symmetric. \\<close>\n"}

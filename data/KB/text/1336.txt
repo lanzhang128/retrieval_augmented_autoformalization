@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set has a maximum and minimum, then the set of absolute values \n  also has a maximum.\\<close>\n"}

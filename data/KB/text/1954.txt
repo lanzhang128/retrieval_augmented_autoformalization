@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a net converges to a point, then a filter also converges to a point.\\<close>\n"}

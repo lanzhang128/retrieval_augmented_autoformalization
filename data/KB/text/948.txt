@@ -1,0 +1,1 @@
+{"text": "text\\<open> Join of the elements of the lattice is in the lattice. \\<close>\n"}

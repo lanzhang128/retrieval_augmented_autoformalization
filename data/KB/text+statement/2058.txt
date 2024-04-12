@@ -1,0 +1,1 @@
+{"text": "text\\<open>The continuous image of a compact space is compact.\\<close>\n", "statement": "theorem (in two_top_spaces0) cont_image_com:\n  assumes \"IsContinuous(\\<tau>\\<^sub>1,\\<tau>\\<^sub>2,f)\" \"f\\<in>surj(X\\<^sub>1,X\\<^sub>2)\" \"X\\<^sub>1{is compact of cardinal}K{in}\\<tau>\\<^sub>1\"\n  shows \"X\\<^sub>2{is compact of cardinal}K{in}\\<tau>\\<^sub>2\"\n"}

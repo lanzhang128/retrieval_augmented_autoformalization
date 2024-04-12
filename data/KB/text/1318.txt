@@ -1,0 +1,1 @@
+{"text": "text\\<open>A version of the \\<open>OrderedGroup_ZF_3_L7C\\<close> \n  but with multiplying by the inverse.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " \"IntegerOrder is the relation equal to the set of integer pairs where the first element is less than or equal to the second element.\"", "statement": "definition\n  \"IntegerOrder \\<equiv> {p \\<in> int\\<times>int. fst(p) $\\<le> snd(p)}\"\n"}

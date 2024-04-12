@@ -1,0 +1,1 @@
+{"text": "text\\<open>A small technical lemma to simplify the proof of the next theorem.\\<close>\n"}

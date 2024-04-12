@@ -1,0 +1,1 @@
+{"text": "text\\<open>A technical lemma that allows us to shorten some proofs: \\<close>\n", "statement": "lemma (in pmetric_space) radius_in_loop: assumes \"c\\<in>X\" and \"x \\<in> disk(c,R)\"\n  shows \"R\\<in>L\" \"\\<zero>\\<ls>R\" \"R\\<in>L\\<^sub>+\" \"(\\<rm>d`\\<langle>c,x\\<rangle> \\<ad> R) \\<in> L\\<^sub>+\"\n"}

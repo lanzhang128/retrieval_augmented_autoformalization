@@ -1,0 +1,1 @@
+{"text": "text\\<open>There are no integers between $k$ and $k+1$, another formulation.\\<close>\n"}

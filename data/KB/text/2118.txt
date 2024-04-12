@@ -1,0 +1,1 @@
+{"text": "text\\<open>It is already defined what is a compact topological space, but the is a\ngeneralization which may be useful sometimes.\\<close>\n"}

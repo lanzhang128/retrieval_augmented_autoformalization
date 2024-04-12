@@ -1,0 +1,1 @@
+{"text": "text\\<open>If two sets are order isomorphic and \n  we remove $x$ and $f(x)$, respectively, from the sets, \n  then they are still order isomorphic.\\<close>\n"}

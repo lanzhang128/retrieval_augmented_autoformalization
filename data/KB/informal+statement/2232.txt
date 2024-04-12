@@ -1,0 +1,1 @@
+{"informal": " If every subset in $\\Theta$ uniformly covers the set $X$, then $X$ is the union of all the unions in $\\Theta$.", "statement": "lemma space_from_unicov: assumes \"\\<Theta> {are uniform covers of} X\" shows \"X = \\<Union>\\<Union>\\<Theta>\"\n"}

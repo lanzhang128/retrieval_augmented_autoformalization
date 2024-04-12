@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a relation is a linear order, then the relation induced\n  on another set by a bijection is also a linear order.\\<close>\n"}

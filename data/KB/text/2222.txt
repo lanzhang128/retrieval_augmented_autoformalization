@@ -1,0 +1,1 @@
+{"text": "text\\<open>An element of $\\mathcal{R}$ is a subset of its star with respect to $\\mathcal{R}$. \\<close>\n"}

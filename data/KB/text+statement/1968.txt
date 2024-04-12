@@ -1,0 +1,1 @@
+{"text": "text\\<open> Another fact we will need is that for every $x\\in X=\\bigcup T$ the neighborhoods of $x$\n  form a filter \\<close>\n", "statement": "lemma neighs_is_filter:\n  assumes \"T {is a topology}\" and \"x \\<in> \\<Union>T\" \n  defines Mdef: \"\\<M> \\<equiv> {neighborhood system of} T\"\n  shows \"\\<M>`(x) {is a filter on} (\\<Union>T)\"\n"}

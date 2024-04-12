@@ -1,0 +1,1 @@
+{"text": "text\\<open>The first operation on slopes (pointwise addition) is a special case \n  of the first operation on almost homomorphisms.\\<close>\n", "statement": "definition\n  \"SlopeOp1 \\<equiv> AlHomOp1(int,IntegerAddition)\"\n"}

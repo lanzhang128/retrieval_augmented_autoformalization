@@ -1,0 +1,1 @@
+{"text": "text\\<open>Finite range functions have finite range.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can prove a theorem about integers by proving that\n  it holds for $m=0$, $m\\in$\\<open>\\<int>\\<^sub>+\\<close> and $-m\\in$\\<open>\\<int>\\<^sub>+\\<close>.\\<close>\n"}

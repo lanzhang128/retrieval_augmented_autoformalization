@@ -1,0 +1,1 @@
+{"text": "text\\<open>Properties that require two elements of a ring.\\<close>\n", "statement": "lemma (in ring0) Ring_ZF_1_L4: assumes A1: \"a\\<in>R\" \"b\\<in>R\"\n  shows \n  \"a\\<ra>b \\<in> R\" \n  \"a\\<rs>b \\<in> R\" \n  \"a\\<cdot>b \\<in> R\" \n  \"a\\<ra>b = b\\<ra>a\"\n  "}

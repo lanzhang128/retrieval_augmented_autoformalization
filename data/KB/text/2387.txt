@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a composition of bijections is identity, then one is the inverse\n  of the other.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The subgroup of a finite group is finite.\\<close>\n", "statement": "lemma (in group0) finite_subgroup:\n  assumes \"Finite(G)\" \"IsAsubgroup(H,P)\"\n  shows \"Finite(H)\"\n  "}

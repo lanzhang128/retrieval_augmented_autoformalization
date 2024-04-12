@@ -1,0 +1,1 @@
+{"text": "text\\<open>Constant function is a function (i.e. belongs to a function space).\\<close>\n"}

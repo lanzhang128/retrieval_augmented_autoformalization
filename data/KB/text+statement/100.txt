@@ -1,0 +1,1 @@
+{"text": "text\\<open>Elements of equivalence classes belong to the set.\\<close>\n", "statement": "lemma EquivClass_1_L1: \n  assumes A1: \"equiv(A,r)\" and A2: \"C \\<in> A//r\" and A3: \"x\\<in>C\"\n  shows \"x\\<in>A\"\n"}

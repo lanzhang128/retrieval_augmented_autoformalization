@@ -1,0 +1,1 @@
+{"informal": " The neighborhood system of set T is a subset of the power set of the power set of T.\n\nOr more briefly: The neighborhood system of T is a subset of (Power (Power (T))).", "statement": "lemma neigh_fun: shows \"({neighborhood system of} T): \\<Union>T \\<rightarrow> Pow(Pow(\\<Union>T))\"\n"}

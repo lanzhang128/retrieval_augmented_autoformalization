@@ -1,0 +1,1 @@
+{"text": "text\\<open>A pair $(H,P)$ is a subgroup if $H$ forms a group with the \n  operation $P$ restricted to $H\\times H$. It may be surprising that \n  we don't require $H$ to be a subset of $G$. This however can be inferred\n  from the definition if the pair $(G,P)$ is a group, \n  see lemma \\<open>group0_3_L2\\<close>.\\<close>\n"}

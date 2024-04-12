@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group inverse of a class of an almost homomorphism $f$\n  is the class of the inverse of $f$.\\<close>\n"}

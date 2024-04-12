@@ -1,0 +1,1 @@
+{"informal": " If K equipped with the relation r is an ordered field for the set A and the multiplication M, then K is a field for the set A and the multiplication M.", "statement": "lemma OrdField_ZF_1_L1A: assumes \"IsAnOrdField(K,A,M,r)\"\n  shows \"IsAfield(K,A,M)\"\n  "}

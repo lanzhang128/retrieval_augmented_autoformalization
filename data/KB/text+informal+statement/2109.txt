@@ -1,0 +1,1 @@
+{"text": "text\\<open>The discrete and the indiscrete topologies appear as special\ncases of this partition topologies.\\<close>\n", "informal": " The set of elements in X that are less than any other element in X forms a partition of X.", "statement": "lemma discrete_partition:\n  shows \"{{x}.x\\<in>X} {is a partition of}X\"\n  "}

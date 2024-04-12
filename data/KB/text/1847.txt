@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $B$ is a base for $T$ and $B$ is a topology, then $B=T$.\\<close>\n"}

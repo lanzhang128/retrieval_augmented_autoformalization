@@ -1,0 +1,1 @@
+{"text": "text\\<open>This is a different form of the above theorem:\\<close>\n"}

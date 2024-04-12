@@ -1,0 +1,1 @@
+{"text": "text\\<open>A space is Hausdorff if and only if the diagonal $\\Delta = \\{\\langle x,x\\rangle : x\\in X\\}$\n  is closed in the product topology on $X\\times X$. \\<close>\n"}

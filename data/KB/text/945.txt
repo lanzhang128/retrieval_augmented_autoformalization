@@ -1,0 +1,1 @@
+{"text": "text\\<open> The value of \\<open>Meet(L,r)\\<close> on a pair $\\langle x,y\\rangle$ is the infimum\n  of the set $\\{ x,y\\}$, hence is less or equal than both. \\<close>\n"}

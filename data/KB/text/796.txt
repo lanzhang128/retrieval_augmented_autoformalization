@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $f$ is a slope, then \n  $|f(p\\cdot q)-p\\cdot f(q)|\\leq (|p|+1)\\cdot$\\<open>max\\<delta>(f)\\<close>. \n  The proof is by induction on $p$ and the next lemma is the induction step for the case when $0\\leq p$.\\<close>\n"}

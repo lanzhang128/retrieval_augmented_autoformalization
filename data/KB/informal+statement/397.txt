@@ -1,0 +1,1 @@
+{"informal": " Assuming `a` is an element in `G` group and `a` has an inverse that is not the identity (one), then `a` is not the identity itself.", "statement": "lemma (in group0) group0_2_L8C:\n  assumes \"a\\<in>G\" and \"a\\<inverse> \\<noteq> \\<one>\"\n  shows \"a\\<noteq>\\<one>\"\n  "}

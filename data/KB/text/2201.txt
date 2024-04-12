@@ -1,0 +1,1 @@
+{"text": "text\\<open>Inside every member $W$ of the uniformity $\\Phi$ we can find one that is symmetric and \n  smaller than a third of size $W$. Compare with the Metamath's theorem with the same name.\\<close>\n"}

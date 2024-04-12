@@ -1,0 +1,1 @@
+{"text": "text\\<open>In totally ordered groups the absolute value of a \n  nonunit element is in \\<open>G\\<^sub>+\\<close>.\\<close>\n"}

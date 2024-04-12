@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next elegant result is Lemma 7 in the Arthan's paper \\cite{Arthan2004}.\\<close>\n"}

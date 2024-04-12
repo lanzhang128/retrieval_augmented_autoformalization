@@ -1,0 +1,1 @@
+{"text": "text\\<open>The (candidate for) inverse of a positive slope is a (well defined) \n  function on \\<open>\\<int>\\<^sub>+\\<close>.\\<close>\n"}

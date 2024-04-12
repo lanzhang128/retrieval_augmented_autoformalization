@@ -1,0 +1,1 @@
+{"informal": " \"Exactly one of p, q, and r holds, and neither p nor q holds if the other does.\"", "statement": "definition\n  \"Exactly_1_of_3_holds(p,q,r) \\<equiv> \n  (p\\<or>q\\<or>r) \\<and> (p \\<longrightarrow> \\<not>q \\<and> \\<not>r) \\<and> (q \\<longrightarrow> \\<not>p \\<and> \\<not>r) \\<and> (r \\<longrightarrow> \\<not>p \\<and> \\<not>q)\"\n"}

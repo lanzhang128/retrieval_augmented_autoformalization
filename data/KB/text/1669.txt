@@ -1,0 +1,1 @@
+{"text": "text\\<open>For noetherian rings the arbitrary sum can be reduced\nto the sum of a finite subset of the initial set of ideals\\<close>\n"}

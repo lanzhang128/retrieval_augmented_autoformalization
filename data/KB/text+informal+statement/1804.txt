@@ -1,0 +1,1 @@
+{"text": "text\\<open>Interior of the interior is the interior.\\<close>\n", "informal": " In the context of topology0 theory, the lemma Top_2_L4 asserts that the double integral of a set A equals the integral of A.", "statement": "lemma (in topology0) Top_2_L4: shows \"int(int(A)) = int(A)\"\n"}

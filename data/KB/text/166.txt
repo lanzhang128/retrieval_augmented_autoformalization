@@ -1,0 +1,1 @@
+{"text": "text\\<open>The support of the sum of functions is contained in the union of\n  supports.\\<close>\n"}

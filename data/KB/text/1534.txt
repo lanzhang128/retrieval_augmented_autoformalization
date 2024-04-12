@@ -1,0 +1,1 @@
+{"text": "text\\<open>A property of nonempty subsets of real numbers that don't\n  have a maximum: for any element we can find one that is (strictly) greater.\\<close>\n"}

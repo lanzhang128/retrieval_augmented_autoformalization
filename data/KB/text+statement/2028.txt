@@ -1,0 +1,1 @@
+{"text": "text\\<open>A space is ultraconnected iff every two non-empty closed sets meet.\\<close>\n", "statement": "definition IsUConnected (\"_{is ultraconnected}\"80)\n  where \"T{is ultraconnected}\\<equiv> \\<forall>A B. A{is closed in}T\\<and>B{is closed in}T\\<and>A\\<inter>B=0 \\<longrightarrow> A=0\\<or>B=0\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The \\<open>CplxROrder\\<close> thing is a relation on the complex reals.\n  Here this is formulated as a statement that in \\<open>complex0\\<close> context\n  $a<b$ implies that $a,b$ are complex reals\\<close>\n", "statement": "lemma (in complex0) strict_cplx_ord_type: assumes \"a \\<lsr> b\"\n  shows \"a\\<in>\\<real>\"  \"b\\<in>\\<real>\"\n  "}

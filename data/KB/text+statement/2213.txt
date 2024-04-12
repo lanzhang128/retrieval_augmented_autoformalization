@@ -1,0 +1,1 @@
+{"text": "text\\<open>Images of singletons by entourages are neighborhoods of those singletons.\\<close>\n", "statement": "lemma image_singleton_ent_nei: \n  assumes \"\\<Phi> {is a uniformity on} X\" \"V\\<in>\\<Phi>\" \"x\\<in>X\"\n  defines \"\\<M> \\<equiv> {neighborhood system of} UniformTopology(\\<Phi>,X)\"\n  shows \"V``{x} \\<in> \\<M>`(x)\"\n"}

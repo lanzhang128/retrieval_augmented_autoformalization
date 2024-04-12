@@ -1,0 +1,1 @@
+{"text": "text\\<open>Absolute vaues of integers from a finite image of integers are bounded\n  by an integer.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_3_L20AA: \n  assumes A1: \"{b(x). x\\<in>\\<int>} \\<in> Fin(\\<int>)\"\n  shows \"\\<exists>L\\<in>\\<int>. \\<forall>x\\<in>\\<int>. abs(b(x)) \\<lsq> L\"\n  "}

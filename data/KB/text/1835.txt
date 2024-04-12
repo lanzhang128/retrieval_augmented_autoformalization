@@ -1,0 +1,1 @@
+{"text": "text\\<open>Below we formulate a condition that we will prove to be necessary and \n  sufficient for a collection $B$ of open sets to form a base. \n  It says that for any two sets $U,V$ from the collection $B$ we can\n  find a point $x\\in U\\cap V$ with a neighboorhod \n  from $B$ contained in $U\\cap V$.\\<close>\n"}

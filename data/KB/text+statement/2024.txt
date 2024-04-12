@@ -1,0 +1,1 @@
+{"text": "text\\<open>There is at least one topological space that is $T_1$, but not anti-hyperconnected.\nThis space is the cofinite topology on the natural numbers.\\<close>\n", "statement": "lemma Cofinite_not_anti_HConn:\n  shows \"\\<not>((CoFinite nat){is anti-}IsHConnected)\" and \"(CoFinite nat){is T\\<^sub>1}\"\n"}

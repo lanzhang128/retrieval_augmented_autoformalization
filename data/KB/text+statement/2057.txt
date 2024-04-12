@@ -1,0 +1,1 @@
+{"text": "text\\<open>The continuous image of a connected space is connected.\\<close>\n", "statement": "theorem (in two_top_spaces0) cont_image_conn:\n  assumes \"IsContinuous(\\<tau>\\<^sub>1,\\<tau>\\<^sub>2,f)\" \"f\\<in>surj(X\\<^sub>1,X\\<^sub>2)\" \"\\<tau>\\<^sub>1{is connected}\"\n  shows \"\\<tau>\\<^sub>2{is connected}\"\n"}

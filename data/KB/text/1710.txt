@@ -1,0 +1,1 @@
+{"text": "text\\<open>A rearrangement with 3 elements.\\<close>\n"}

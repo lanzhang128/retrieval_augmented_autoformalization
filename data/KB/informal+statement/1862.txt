@@ -1,0 +1,1 @@
+{"informal": " If T and S are T1 topologies, then their product is also a T1 topology.", "statement": "theorem T1_product:\n  assumes \"T{is a topology}\"\"S{is a topology}\"\"T{is T\\<^sub>1}\"\"S{is T\\<^sub>1}\"\n  shows \"ProductTopology(T,S){is T\\<^sub>1}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>This way we arrive at the following definition of a predicate that\n  states that pair of sets is a topological group.\\<close>\n", "statement": "definition\n  \"IsAtopologicalGroup(T,f) \\<equiv> (T {is a topology}) \\<and> IsAgroup(\\<Union>T,f) \\<and>\n  IsContinuous(ProductTopology(T,T),T,f) \\<and> \n  IsContinuous(T,T,GroupInv(\\<Union>T,f))\"\n"}

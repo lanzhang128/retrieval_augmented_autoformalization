@@ -1,0 +1,1 @@
+{"text": "text\\<open>The intersection of to D-sets is the D-set on the \nproduct of ideals\\<close>\n"}

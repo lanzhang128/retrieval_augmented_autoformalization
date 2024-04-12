@@ -1,0 +1,1 @@
+{"text": "text\\<open>The previous result drives us to define what a maximal ideal would be:\n  an ideal such that any bigger ideal is the whole ring\\<close>\n"}

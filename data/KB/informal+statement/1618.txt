@@ -1,0 +1,1 @@
+{"informal": " In the ring0 context, it is shown that:\n\nR is a monoid with empty identity M.\nR is a group with respect to some set A.\nA is a commutative relation on R.", "statement": "lemma (in ring0) Ring_ZF_1_L1: shows \n  \"monoid0(R,M)\"\n  \"group0(R,A)\" \n  \"A {is commutative on} R\"\n  "}

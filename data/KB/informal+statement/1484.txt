@@ -1,0 +1,1 @@
+{"informal": " In ZF set theory, the identity function applied to integers is an element of the set \"Slopes\".", "statement": "lemma Real_ZF_1_L14: shows \"id(int) \\<in> Slopes\"\n"}

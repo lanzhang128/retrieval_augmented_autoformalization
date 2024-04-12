@@ -1,0 +1,1 @@
+{"text": "text\\<open>Double nonnegative is nonnegative. Property of ordered rings.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_3_L5A: assumes \"\\<zero>\\<lsq>a\"\n  shows \"\\<zero>\\<lsq>\\<two>\\<cdot>a\"\n  "}

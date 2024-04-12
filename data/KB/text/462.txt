@@ -1,0 +1,1 @@
+{"text": "text\\<open>The neutral element belongs to the translation of a set by the inverse\n  of an element that belongs to it.\\<close>\n"}

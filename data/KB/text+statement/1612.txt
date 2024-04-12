@@ -1,0 +1,1 @@
+{"text": "text\\<open>The binomial term is $x^n$ when $k=0$. \\<close>\n", "statement": "lemma (in ring3) bt_at_zero1: assumes \"n\\<in>nat\" \"x\\<in>R\"\n  shows \"BT(n,0,x,y) = pow(n,x)\" \n  unfolding BT_def "}

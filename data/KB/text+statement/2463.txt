@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image by an order isomorphism \n  of a bounded above and nonempty set is bounded above.\\<close>\n", "statement": "lemma ord_iso_pres_bound_above: \n  assumes A1: \"f \\<in> ord_iso(A,r,B,R)\" and A2: \"r \\<subseteq> A\\<times>A\" and\n  A3: \"IsBoundedAbove(C,r)\"   \"C\\<noteq>0\"\n  shows \"IsBoundedAbove(f``(C),R)\"   \"f``(C) \\<noteq> 0\"\n"}

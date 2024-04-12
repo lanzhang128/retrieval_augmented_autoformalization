@@ -1,0 +1,1 @@
+{"text": "text\\<open>Exclusive or definition. There is one also defined in the standard \n  Isabelle, denoted \\<open>xor\\<close>, but it relates to boolean values, \n  which are sets. Here we define a logical functor.\\<close>\n", "statement": "definition\n  Xor (infixl \"Xor\" 66) where\n  \"p Xor q \\<equiv> (p\\<or>q) \\<and> \\<not>(p \\<and> q)\"\n"}

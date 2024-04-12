@@ -1,0 +1,1 @@
+{"text": "text\\<open>An space is hyperconnected iff every two non-empty open sets meet.\\<close>\n"}

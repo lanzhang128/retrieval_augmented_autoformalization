@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a pair of sets $(T,f)$ forms a topological group, then\n all theorems proven in the \\<open>topgroup\\<close> context are valid as applied to \n $(T,f)$.\\<close>\n"}

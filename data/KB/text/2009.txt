@@ -1,0 +1,1 @@
+{"text": "text\\<open>A function that is continuous at every point of its domain is continuous.\\<close>\n"}

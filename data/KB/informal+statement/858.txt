@@ -1,0 +1,1 @@
+{"informal": " If m and n are integers, then m minus n equals adding m to the negation of n.", "statement": "lemma (in int0) Int_ZF_1_L10: assumes A1: \"m\\<in>\\<int>\"  \"n\\<in>\\<int>\"\n  shows \"m\\<rs>n = m $+ $-n\"\n  "}

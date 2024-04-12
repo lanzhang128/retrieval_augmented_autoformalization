@@ -1,0 +1,1 @@
+{"text": "text\\<open>The way we defined the neighborhood system of $T$ means that\n  it is a function on $\\bigcup T$. \\<close>\n"}

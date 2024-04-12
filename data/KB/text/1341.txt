@@ -1,0 +1,1 @@
+{"text": "text\\<open>The relation defined by a positive set is translation invariant.\n  With our definition this step requires the group to be abelian.\\<close>\n"}

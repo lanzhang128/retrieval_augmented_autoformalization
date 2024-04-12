@@ -1,0 +1,1 @@
+{"informal": " Given the axiom of choice for subsets of natural numbers, the one-point compactification of the power set of natural numbers is anti-Lindel\u00f6f.", "statement": "theorem no_choice_imp_anti_lindeloef_is_anti_comp:\n  assumes \"({the axiom of} nat {choice holds for subsets}(Pow(nat)))\"\n  shows \"({one-point compactification of}Pow(nat)){is anti-lindeloef}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The candidate for the supremum of $S$ is not smaller than \n  any element of $S$.\\<close>\n"}

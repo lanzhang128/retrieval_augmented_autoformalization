@@ -1,0 +1,1 @@
+{"text": "text\\<open>Distance of different points is greater than zero. \\<close>\n", "statement": "lemma (in metric_space) dist_pos: assumes \"x\\<in>X\" \"y\\<in>X\" \"x\\<noteq>y\"\n  shows \"\\<zero>\\<ls>d`\\<langle>x,y\\<rangle>\" \"d`\\<langle>x,y\\<rangle> \\<in> L\\<^sub>+\"\n"}

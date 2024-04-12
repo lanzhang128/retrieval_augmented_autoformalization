@@ -1,0 +1,1 @@
+{"informal": " \"Define BoundedIntMaps as equivalent to functions ranging over integers with finite domains, named FinRangeFunctions, with int as the domain and int as the codomain.\"", "statement": "definition\n  \"BoundedIntMaps \\<equiv> FinRangeFunctions(int,int)\"\n"}

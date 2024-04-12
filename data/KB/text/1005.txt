@@ -1,0 +1,1 @@
+{"text": "text\\<open>Topology on a metric space is defined as the collection of sets that are unions\n  of open balls of the (p)metric. \\<close>\n"}

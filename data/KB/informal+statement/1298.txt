@@ -1,0 +1,1 @@
+{"informal": " In the group3 theory, assume that \"r\" is a total function on the group \"G\". Then, show that the additive inverse operation on \"G\" is bounded above by \"r\".", "statement": "lemma (in group3) OrderedGroup_ZF_2_L3:\n  assumes A1: \"r {is total on} G\" shows \"IsBoundedAbove(G-G\\<^sub>+,r)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another lemma about rearranging a product of four group\n  elements.\\<close>\n", "statement": "lemma (in group0) group0_2_L15:\n  assumes A1: \"a\\<in>G\"  \"b\\<in>G\"  \"c\\<in>G\"  \"d\\<in>G\"\n  shows \"(a\\<cdot>b)\\<cdot>(c\\<cdot>d)\\<inverse> = a\\<cdot>(b\\<cdot>d\\<inverse>)\\<cdot>a\\<inverse>\\<cdot>(a\\<cdot>c\\<inverse>)\"\n"}

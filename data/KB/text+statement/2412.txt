@@ -1,0 +1,1 @@
+{"text": "text\\<open>The commutativity is inherited when restricting a function to a set.\\<close>\n", "statement": "lemma func_ZF_4_L1: \n  assumes A1: \"f:X\\<times>X\\<rightarrow>Y\" and A2: \"A\\<subseteq>X\"\n  and A3: \"f {is commutative on} X\"\n  shows \"restrict(f,A\\<times>A) {is commutative on} A\"\n"}

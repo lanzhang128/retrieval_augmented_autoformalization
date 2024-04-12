@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another useful rearrangement.\\<close>\n", "statement": "lemma (in group0) group0_4_L4B: \n  assumes \"P {is commutative on} G\"\n  and \"a\\<in>G\"  \"b\\<in>G\"  \"c\\<in>G\"\n  shows \"a\\<cdot>b\\<inverse>\\<cdot>(b\\<cdot>c\\<inverse>) = a\\<cdot>c\\<inverse>\"  \n  "}

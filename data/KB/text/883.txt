@@ -1,0 +1,1 @@
+{"text": "text\\<open>Adding one to an integer corresponds to taking a successor for a natural\n  number.\\<close>\n"}

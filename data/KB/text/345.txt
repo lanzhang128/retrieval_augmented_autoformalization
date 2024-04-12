@@ -1,0 +1,1 @@
+{"text": "text\\<open>What we really will be using is the notion of the fold\n  of a sequence, which we define as the last element of\n  (inductively defined) sequence of partial folds. The next theorem \n  lists some properties of the product of the fold operation.\\<close>\n"}

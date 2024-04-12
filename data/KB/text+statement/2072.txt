@@ -1,0 +1,1 @@
+{"text": "text\\<open>For any set; we prove that\n\\<open>ExcludedSet(X,Q)\\<close> forms a topology.\\<close>\n", "statement": "theorem excludedset_is_topology:\n  shows \"ExcludedSet(X,Q) {is a topology}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of integers is not empty, of course.\\<close>\n", "statement": "lemma (in int0) int_not_empty: shows \"\\<int> \\<noteq> 0\"\n  "}

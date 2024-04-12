@@ -1,0 +1,1 @@
+{"text": "text\\<open>For linearly ordered groups if a set is bounded then the absolute \n  values are bounded.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_3_L10A:\n  assumes A1: \"r {is total on} G\"\n  and A2: \"IsBounded(A,r)\"\n  shows \"\\<exists>L. \\<forall>a\\<in>A. \\<bar>a\\<bar> \\<lsq> L\"\n"}

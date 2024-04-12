@@ -1,0 +1,1 @@
+{"text": "text\\<open>In the \\<open>ring1\\<close> context $a\\leq b$ implies that $a,b$ are\n  elements of the ring.\\<close>\n", "statement": "lemma (in  ring1) OrdRing_ZF_1_L3: assumes \"a\\<lsq>b\"\n  shows \"a\\<in>R\"  \"b\\<in>R\"\n  "}

@@ -1,0 +1,1 @@
+{"informal": " A Pascal Triangle is defined as an InductiveSequence, starting with the pair (0, 1), generated using the GenBinom function.", "statement": "definition\n  \"PascalTriangle \\<equiv> InductiveSequence({\\<langle>0,1\\<rangle>},GenBinom)\"\n"}

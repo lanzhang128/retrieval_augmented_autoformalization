@@ -1,0 +1,1 @@
+{"informal": " Given real numbers a and b, their product a * b is commutative, i.e., equals b * a.", "statement": "theorem (in real1) real_mult_commute: assumes A1: \"a\\<in>\\<real>\"  \"b\\<in>\\<real>\"\n  shows \"a\\<cdot>b = b\\<cdot>a\"\n"}

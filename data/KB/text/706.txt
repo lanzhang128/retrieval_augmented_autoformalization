@@ -1,0 +1,1 @@
+{"text": "text\\<open>The greater of two integers is indeed greater than both, \n  and the smaller one is smaller that both.\\<close>\n"}

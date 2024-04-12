@@ -1,0 +1,1 @@
+{"text": "text\\<open>We rewrite the theorem from \\<open>Int_ZF_2.thy\\<close> that shows\n  that for every positive slope we can find one that is almost equal and\n  has an inverse.\\<close>\n"}

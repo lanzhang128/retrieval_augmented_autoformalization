@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every set of a filter contains a set from the filter's base.\\<close>\n", "statement": "lemma basic_element_filter:\n  assumes \"A\\<in>\\<FF>\" and \"C {is a base filter} \\<FF>\"\n  shows \"\\<exists>D\\<in>C. D\\<subseteq>A\"\n"}

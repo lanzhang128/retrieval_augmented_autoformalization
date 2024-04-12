@@ -1,0 +1,1 @@
+{"text": "text\\<open>Net of a filter is indeed a net.\\<close>\n", "statement": "theorem net_of_filter_is_net:\n  assumes \"\\<FF> {is a filter on} X\"\n  shows \"(Net(\\<FF>)) {is a net on} X\"\n"}

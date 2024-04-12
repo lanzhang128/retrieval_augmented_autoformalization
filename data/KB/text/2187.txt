@@ -1,0 +1,1 @@
+{"text": "text\\<open>A subset of a topological space is nowhere-dense if\nthe interior of its closure is empty.\\<close>\n"}

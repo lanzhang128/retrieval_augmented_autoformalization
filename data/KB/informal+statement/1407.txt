@@ -1,0 +1,1 @@
+{"informal": " Assuming `a` and `b` are elements in a ring `R`, if `a` is less than `b` and `b` is less than or equal to `c`, then `a` is less than or equal to `c` with `b` between `a` and `c`.", "statement": "lemma (in ring1) OrdRing_ZF_1_L18:\n  assumes \"a\\<in>R\"  \"b\\<in>R\" and  \"a\\<rs>b \\<ls> c\"\n  shows \"a \\<ls> c\\<ra>b\"\n  "}

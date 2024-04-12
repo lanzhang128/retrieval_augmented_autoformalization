@@ -1,0 +1,1 @@
+{"text": "text\\<open>Filter of a net is indeed a filter\\<close>\n", "statement": "theorem filter_of_net_is_filter:\n  assumes \"N {is a net on} X\"\n  shows \"(Filter N..X) {is a filter on} X\" and \n    \"{{fst(N)`snd(s). s\\<in>{s\\<in>domain(fst(N))\\<times>domain(fst(N)). s\\<in>snd(N) \\<and> fst(s)=t0}}. t0\\<in>domain(fst(N))} {is a base filter} (Filter N..X)\"\n"}

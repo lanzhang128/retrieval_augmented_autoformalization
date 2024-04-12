@@ -1,0 +1,1 @@
+{"text": "text\\<open>The order on integers is reflexive.\\<close>\n", "informal": " In the int0 theory, prove that the reflexivity property holds for the integer order relation.", "statement": "lemma (in int0) int_ord_is_refl: shows \"refl(\\<int>,IntegerOrder)\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A subset $A$ of the group is closed with respect to the group operation \n  iff $A\\cdot A \\subseteq A$. \\<close>\n", "statement": "lemma (in group4) subset_gr_op_cl: assumes \"A\\<subseteq>G\" \n  shows \"(A {is closed under} P) \\<longleftrightarrow> A\\<sdot>A \\<subseteq> A\"\n"}

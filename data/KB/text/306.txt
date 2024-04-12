@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we remove a point from a finites subset,\n  we get a finite subset.\\<close>\n"}

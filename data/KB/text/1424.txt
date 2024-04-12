@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $m$ is greater or equal the multiplicative unit, then the set\n  $\\{m\\cdot n: n\\in R\\}$ is infinite (unless the ring is trivial).\\<close>\n"}

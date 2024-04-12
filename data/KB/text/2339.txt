@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image of a set contained in domain under identity is the same set.\\<close>\n"}

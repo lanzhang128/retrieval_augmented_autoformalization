@@ -1,0 +1,1 @@
+{"informal": " Let T and X be non-empty sets, and A be a subset of X. Then, the closure of A with respect to the co-cardinality of X under T equals A if and only if A is a proper subset of T.", "statement": "lemma closure_set_cocardinal:\n  assumes \"T\\<noteq>0\"\"A\\<subseteq>X\"\n  shows \"Closure(A,CoCardinal(X,T))=(if (A \\<prec> T) then A else X)\"\n"}

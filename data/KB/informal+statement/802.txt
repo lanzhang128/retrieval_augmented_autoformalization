@@ -1,0 +1,1 @@
+{"informal": " Given a set S+ containing element f, there exists an integer M such that for all integers n, the product n * M is a multiple of f.", "statement": "corollary (in int1) Arthan_L_3_spec: assumes A1: \"f \\<in> \\<S>\\<^sub>+\"\n  shows \"\\<exists>M\\<in>\\<int>\\<^sub>+.\\<forall>n\\<in>\\<int>\\<^sub>+. n\\<ra>\\<one> \\<lsq> f`(n\\<cdot>M)\"\n"}

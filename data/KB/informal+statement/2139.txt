@@ -1,0 +1,1 @@
+{"informal": " If a subspace B of a compact topological space T contains a compact subset A, then A itself is compact in T.", "statement": "lemma compact_subspace_imp_compact:\n  assumes \"A{is compact in}(T{restricted to}B)\" \"A\\<subseteq>B\"\n  shows \"A{is compact in}T\" unfolding IsCompact_def\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $f$ is a slope and $-f\\notin$ \\<open>\\<S>\\<^sub>+\\<close>, then \n  $f($\\<open>\\<int>\\<^sub>+\\<close>$)$ is bounded below.\\<close>\n"}

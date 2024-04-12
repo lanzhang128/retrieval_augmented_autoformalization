@@ -1,0 +1,1 @@
+{"informal": " The CoFinite set of natural numbers is not an unbounded set.", "statement": "theorem cofinite_not_US:\n  shows \"\\<not>((CoFinite nat){is US})\"\n"}

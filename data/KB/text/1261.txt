@@ -1,0 +1,1 @@
+{"text": "text\\<open>A one side version of the previous lemma with weaker assuptions.\\<close>\n"}

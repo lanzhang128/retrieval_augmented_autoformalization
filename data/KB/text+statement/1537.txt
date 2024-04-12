@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of real numbers we are constructing is an ordered field.\\<close>\n", "statement": "theorem (in real1) reals_are_ord_field: shows \n  \"IsAnOrdField(RealNumbers,RealAddition,RealMultiplication,OrderOnReals)\"\n"}

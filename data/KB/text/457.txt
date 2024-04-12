@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma demonstrating what is the left translation of a set\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The \\<open>GenBinom\\<close> function creates the next row of the Pascal's triangle\n  from the previous one. \\<close>\n", "statement": "lemma binom_gen: assumes \"n\\<in>nat\"\n  shows \"PascalTriangle`(succ(n)) = GenBinom`(PascalTriangle`(n))\"\n  "}

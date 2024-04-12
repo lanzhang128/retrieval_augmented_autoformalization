@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image of a maximum by an order isomorphism\n  is a maximum. Note that from the fact the $r$ is \n  antisymmetric and $f$ is an order isomorphism between\n  $(A,r)$ and $(B,R)$ we can not conclude that $R$ is\n  antisymmetric (we can only show that $R\\cap (B\\times B)$ is).\n\\<close>\n"}

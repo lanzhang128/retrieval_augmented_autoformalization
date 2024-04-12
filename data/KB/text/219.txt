@@ -1,0 +1,1 @@
+{"text": "text\\<open>A nonempty list can be decomposed into concatenation of its first element and \n  the tail.\\<close>\n"}

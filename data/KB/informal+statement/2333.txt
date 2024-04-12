@@ -1,0 +1,1 @@
+{"informal": " The set of pairs {<x, p(x)> | x \u2208 X} is equal to the set of all x \u2208 X mapped to p(x) by the lambda function \u03bbx \u2208 X. p(x).", "statement": "lemma lambda_fun_alt: shows \"{\\<langle>x,p(x)\\<rangle>. x\\<in>X} = (\\<lambda>x\\<in>X. p(x))\"\n"}

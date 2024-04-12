@@ -1,0 +1,1 @@
+{"text": "text\\<open>Induction - on (real) natural numbers -  version for humans.\\<close>\n", "statement": "corollary (in MMIsar0) nnind1: \n  assumes A1: \"\\<psi>(\\<one>)\" and \n  A2: \"\\<forall>k \\<in> \\<nat>. \\<psi>(k) \\<longrightarrow> \\<psi>(k\\<ca>\\<one>)\" and\n  A3: \"n \\<in> \\<nat>\"\n  shows \"\\<psi>(n)\"\n"}

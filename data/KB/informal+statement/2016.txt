@@ -1,0 +1,1 @@
+{"informal": " If a graph T is hyperconnected, then T is connected.", "statement": "lemma HConn_imp_Conn:\n  assumes \"T{is hyperconnected}\"\n  shows \"T{is connected}\"\n"}

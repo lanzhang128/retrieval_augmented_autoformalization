@@ -1,0 +1,1 @@
+{"text": "text\\<open>A subgroup is contained in the group.\\<close>\n", "statement": "lemma (in group0) group0_3_L2: \n  assumes A1: \"IsAsubgroup(H,P)\"\n  shows \"H \\<subseteq> G\"\n"}

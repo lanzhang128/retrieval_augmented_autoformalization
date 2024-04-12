@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the string starts in $0$ and has\nreached states @{term starts0} or @{term starts1};\nthen it reduces to @{term starts0}.\\<close>\n"}

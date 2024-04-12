@@ -1,0 +1,1 @@
+{"informal": " The lemma \"int_zero_not_one\" states that zero is not equal to one in the context of the int0 theory.", "statement": "lemma (in int0) int_zero_not_one: shows \"\\<zero> \\<noteq> \\<one>\"\n"}

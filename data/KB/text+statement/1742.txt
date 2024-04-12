@@ -1,0 +1,1 @@
+{"text": "text\\<open>Of course the product topology is a topology (on $G\\times G$).\\<close>\n", "statement": "lemma (in topgroup) prod_top_on_G:\n  shows \"\\<tau> {is a topology}\" and \"\\<Union>\\<tau> = G\\<times>G\"\n  "}

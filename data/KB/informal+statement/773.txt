@@ -1,0 +1,1 @@
+{"informal": " Given integers s, r, and m in set S, and s and r are in set S, then (s operand r) applied to m equals s applied to (r applied to m), and the result is an integer.", "statement": "lemma (in int1) Int_ZF_2_1_L10: \n  assumes \"s\\<in>\\<S>\"  \"r\\<in>\\<S>\" and \"m\\<in>\\<int>\"\n  shows \"(s\\<circ>r)`(m) = s`(r`(m))\"  \"s`(r`(m)) \\<in> \\<int>\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every integer is equal to the floor of its embedding.\\<close>\n", "informal": " Assuming m is an integer, the floor of its real number representation equals m itself.", "statement": "lemma (in real1) Real_ZF_1_4_L14: assumes A1: \"m \\<in> int\"\n  shows \"\\<lfloor>m\\<^sup>R\\<rfloor> = m\"\n"}

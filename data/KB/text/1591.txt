@@ -1,0 +1,1 @@
+{"text": "text\\<open> The distance function \\<open>dist\\<close> defined in the \\<open>reals\\<close> locale is a metric. \\<close>\n"}

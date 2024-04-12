@@ -1,0 +1,1 @@
+{"informal": " In ZF set theory, RealNumbers form a ring under the operations of RealAddition and RealMultiplication.", "statement": "theorem Real_ZF_1_T1: shows \"IsAring(RealNumbers,RealAddition,RealMultiplication)\"\n"}

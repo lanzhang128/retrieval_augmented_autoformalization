@@ -1,0 +1,1 @@
+{"text": "text\\<open>The trichotomy law for the (potential) order on reals: if $a\\neq 0$,\n  then either $a$ is positive or $-a$ is potitive.\\<close>\n"}

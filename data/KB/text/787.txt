@@ -1,0 +1,1 @@
+{"text": "text\\<open>A formula expressing the difference between $f(m-n-k)$ and\n  $f(m)-f(n)-f(k)$ in terms of $\\gamma$.\\<close>\n"}

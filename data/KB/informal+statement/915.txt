@@ -1,0 +1,1 @@
+{"informal": " If i is less than m in the standard order of integers, then there exists a natural number n such that m is equal to the sum of i and the cardinality of n.", "statement": "lemma (in int0) Int_ZF_3_L2: assumes A1: \"i \\<lsq> m\"\n  shows \"\\<exists>n\\<in>nat. m = i $+ $# n\"\n"}

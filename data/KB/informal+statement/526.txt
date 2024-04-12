@@ -1,0 +1,1 @@
+{"informal": " In the group1 theory, if an element s is in the set AH and a natural number n is in the group G, then the left and right translations of n by s are inverse elements.", "statement": "lemma (in group1) Group_ZF_3_2_L5:\n  assumes \"s \\<in> AH\" and \"n\\<in>G\"\n  shows \"(\\<sim>s)`(n) = (s`(n))\\<inverse>\"\n  "}

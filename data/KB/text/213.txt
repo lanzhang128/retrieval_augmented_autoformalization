@@ -1,0 +1,1 @@
+{"text": "text\\<open>Basis properties of the contatenation of two finite sequences.\\<close>\n"}

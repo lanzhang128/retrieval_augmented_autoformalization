@@ -1,0 +1,1 @@
+{"text": "text\\<open>The defining property of an endomorphism written in notation used in \\<open>group0\\<close> context:\\<close>\n"}

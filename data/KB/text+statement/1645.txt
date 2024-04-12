@@ -1,0 +1,1 @@
+{"text": "text\\<open>Rerrangement about adding linear functions.\\<close>\n", "statement": "lemma (in ring0) Ring_ZF_2_L3: \n  assumes A1: \"a\\<in>R\"  \"b\\<in>R\"  \"c\\<in>R\"  \"d\\<in>R\"  \"x\\<in>R\"\n  shows \"(a\\<cdot>x \\<ra> b) \\<ra> (c\\<cdot>x \\<ra> d) = (a\\<ra>c)\\<cdot>x \\<ra> (b\\<ra>d)\"\n"}

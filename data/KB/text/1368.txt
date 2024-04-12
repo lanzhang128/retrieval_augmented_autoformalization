@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another form of the definition of the positive set in the notation used in the \\<open>loop1\\<close> locale: \\<close>\n"}

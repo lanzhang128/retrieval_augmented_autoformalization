@@ -1,0 +1,1 @@
+{"informal": " For all sets C, if every element U of C is the union of some element A in B, then the union of all such U's and the union of all elements in C is equal.", "statement": "lemma ZF1_1_L10: assumes A1: \"\\<forall>U\\<in>C. \\<exists>A\\<in>B. U = \\<Union>A\" \n  shows \"\\<Union>\\<Union> {\\<Union>{A\\<in>B. U = \\<Union>A}. U\\<in>C} = \\<Union>C\"\n"}

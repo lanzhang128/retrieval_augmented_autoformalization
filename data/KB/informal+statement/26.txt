@@ -1,0 +1,1 @@
+{"informal": " If j is infinite and csucc(j) is also infinite (where j is a set and csucc is the successor function in the context of Zermelo-Fraenkel set theory in Isabelle), then j itself is infinite.", "statement": "lemma csucc_inf_imp_inf:\n  assumes \"Card(j)\" and \"InfCard(csucc(j))\"\n  shows \"InfCard(j)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma shows what can we say about bisections of a set\n  with another element added.\\<close>\n"}

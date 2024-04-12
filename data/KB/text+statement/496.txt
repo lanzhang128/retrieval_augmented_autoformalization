@@ -1,0 +1,1 @@
+{"text": "text\\<open>A normal subgorup $N$ of a group $G$ is such that $aba^{-1}$ belongs to \n  $N$ if $a\\in G, b\\in N$.\\<close>\n", "statement": "definition\n  \"IsAnormalSubgroup(G,P,N) \\<equiv> IsAsubgroup(N,P) \\<and> \n  (\\<forall>n\\<in>N.\\<forall>g\\<in>G. P`\\<langle>  P`\\<langle>  g,n \\<rangle>,GroupInv(G,P)`(g) \\<rangle> \\<in> N)\"\n"}

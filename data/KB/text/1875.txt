@@ -1,0 +1,1 @@
+{"text": "text\\<open>The conclusion is that an order topology is $\\kappa$-separable\niff there is a set $A$ with cardinality strictly less than $\\kappa$\nwhich is weakly-dense in $X$.\\<close>\n"}

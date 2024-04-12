@@ -1,0 +1,1 @@
+{"informal": " If functions f from T to S, g from S to R, and h from R to P are continuous, then the composition h o g o f from T to P is also continuous.", "statement": "lemma comp_cont3: \n  assumes \"IsContinuous(T,S,f)\" and \"IsContinuous(S,R,g)\" and \"IsContinuous(R,P,h)\"\n  shows \"IsContinuous(T,P,h O g O f)\"\n  "}

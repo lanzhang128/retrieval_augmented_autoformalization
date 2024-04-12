@@ -1,0 +1,1 @@
+{"text": "text\\<open>Transitivity for the strict order: if $a < b$ and $b\\leq c$, then $a < c$.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L4A:\n  assumes A1: \"a\\<ls>b\"  and A2: \"b\\<lsq>c\"\n  shows \"a\\<ls>c\"\n"}

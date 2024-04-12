@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition of a sequence of partial folds.\\<close>\n", "statement": "definition\n  \"FoldSeq(f,x,a) \\<equiv> \n  InductiveSeqVarFN(x,fstdom(f),Seq2TrSeq(f,a),domain(a))\" \n"}

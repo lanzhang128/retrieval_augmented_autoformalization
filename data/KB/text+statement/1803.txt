@@ -1,0 +1,1 @@
+{"text": "text\\<open>A set is open iff it is equal to its interior.\\<close>\n", "statement": "lemma (in topology0) Top_2_L3: shows \"U\\<in>T \\<longleftrightarrow> int(U) = U\"\n"}

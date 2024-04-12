@@ -1,0 +1,1 @@
+{"informal": " Assuming integers k and m with m being smaller than k by at least one, it holds that m is smaller than or equal to k.", "statement": "lemma (in int0) Int_ZF_2_L9A: \n  assumes A1: \"k\\<in>\\<int>\" and A2: \"m \\<lsq> k $- ($# 1)\"\n  shows \"m\\<ra>\\<one> \\<lsq> k\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can use \\<open>semigr0\\<close> locale in the context of \\<open>topgroup\\<close>.\\<close>\n", "statement": "lemma (in topgroup) semigr0_valid_in_tgroup: shows \"semigr0(G,f)\"\n  "}

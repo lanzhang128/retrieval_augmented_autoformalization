@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we know that a pair \\<open>(G,A)\\<close> forms a loop then the assumptions of the \\<open>loop0\\<close> locale hold. \\<close>\n", "informal": " If `G` is a loop and `A` is an element, then `loop0(G,A)` holds.", "statement": "lemma loop_loop0_valid: assumes \"IsAloop(G,A)\" shows \"loop0(G,A)\"\n  "}

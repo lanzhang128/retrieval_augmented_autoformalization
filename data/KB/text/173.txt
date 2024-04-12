@@ -1,0 +1,1 @@
+{"text": "text\\<open>Finitely supported functions form a subgroup\n  with pointwise addition of group-valued functions.\n\\<close>\n"}

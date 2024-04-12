@@ -1,0 +1,1 @@
+{"informal": " The function Seq2TrSeq, taking functions f and an initial sequence a as arguments, is defined to be equivalent to the sequence of pairs {<k, v> | k is in the domain of a and v is the application of function f to the sequence element a(k)}.", "statement": "definition\n  \"Seq2TrSeq(f,a) \\<equiv> {\\<langle>k,Fix2ndVar(f,a`(k))\\<rangle>. k \\<in> domain(a)}\"\n"}

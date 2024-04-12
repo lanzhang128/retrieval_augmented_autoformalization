@@ -1,0 +1,1 @@
+{"informal": " If B is a subset of group G, g is an element of G, q is an element of B, and t is the right transpose of q with respect to g, then t is an element of the right transpose of g with respect to B.", "statement": "lemma (in topgroup) elements_in_rtrans_inv:\n  assumes \"B\\<subseteq>G\" \"g\\<in>G\" \"q\\<in>B\" \"t=q\\<ra>g\"\n  shows \"t \\<in> B\\<rtr>g\"\n  "}

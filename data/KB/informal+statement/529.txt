@@ -1,0 +1,1 @@
+{"informal": " In the group1 theory, it is proven that the constant function from G to one, and the set AH, are related such that the constant function is an element of AH, and AH is not equal to the empty set.", "statement": "lemma (in group1) Group_ZF_3_2_L9: shows\n  \"ConstantFunction(G,\\<one>) \\<in> AH\" and \"AH\\<noteq>0\"\n"}

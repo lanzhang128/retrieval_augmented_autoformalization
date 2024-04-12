@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the set which is excluded is disjoint with \\<open>X\\<close>,\nthen the topology is discrete.\\<close>\n", "statement": "lemma empty_excludedset:\n  assumes \"T\\<inter>X=0\"\n  shows \"ExcludedSet(X,T) = Pow(X)\"\n"}

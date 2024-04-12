@@ -1,0 +1,1 @@
+{"text": "text\\<open>Floor of the sum of a number and the embedding of an\n  integer is the floor of the number plus the integer.\\<close>\n"}

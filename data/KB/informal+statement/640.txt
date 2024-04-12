@@ -1,0 +1,1 @@
+{"informal": " The binary notation of the Binomial coefficient for n and k is equivalent to the value of the PascalTriangle function at index k, for the n-th row.", "statement": "definition\n  \"Binom(n,k) \\<equiv> (PascalTriangle`(n))`(k)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>We defined \\<open>Fix1stVar\\<close> and \\<open>Fix2ndVar\\<close> so that\n  the domain of the function is not listed in the arguments, but is recovered \n  from the function. The next lemma is a technical fact that makes it easier\n  to use this definition.\\<close>\n"}

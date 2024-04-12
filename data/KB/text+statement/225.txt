@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we take init of the result of append, we get back the same list.\\<close> \n", "statement": "lemma init_append: assumes A1: \"n \\<in> nat\" and A2: \"a:n\\<rightarrow>X\" and A3: \"x \\<in> X\"\n  shows \"Init(Append(a,x)) = a\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A subset of a topological space is nowhere-dense if\nthe interior of its closure is empty.\\<close>\n", "statement": "definition\n  IsNowhereDense (\"_ {is nowhere dense in} _\") where\n  \"A{is nowhere dense in}T \\<equiv> A\\<subseteq>\\<Union>T \\<and> Interior(Closure(A,T),T)=0\"\n"}

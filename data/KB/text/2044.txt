@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next theorem is the main result of this section: \n  all quotient topologies arise from an equivalence relation given by the quotient \n  function $f:X\\to Y$. This means that any quotient topology is homeomorphic to a topology\n  given by an equivalence relation quotient.\\<close>\n"}

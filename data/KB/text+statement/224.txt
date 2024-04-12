@@ -1,0 +1,1 @@
+{"text": "text\\<open>The initial part of a non-empty list\n  is a list, and the domain of the original list\n  is the successor of its initial part.\\<close>\n", "statement": "theorem init_NElist: \n  assumes \"a \\<in> NELists(X)\"\n  shows \"Init(a) \\<in> Lists(X)\" and \"succ(domain(Init(a))) = domain(a)\"\n"}

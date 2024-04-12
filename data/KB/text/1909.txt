@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>cart_prod_cont\\<close> when the function acting on the second \n  axis is the identity.\\<close>\n"}

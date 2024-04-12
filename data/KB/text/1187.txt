@@ -1,0 +1,1 @@
+{"text": "text\\<open>For an antisymmetric relation if a pair is in relation then\n  the reversed pair is not in the strict version of the relation. \n\\<close>\n"}

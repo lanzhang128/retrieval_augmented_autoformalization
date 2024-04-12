@@ -1,0 +1,1 @@
+{"text": "text\\<open>Let's recall from \\<open>Int_ZF_2.thy\\<close> that the sum and composition \n  of positive slopes is a positive slope.\\<close>\n", "statement": "lemma (in real1) Real_ZF_1_2_L3:\n  assumes \"f\\<in>\\<S>\\<^sub>+\"  \"g\\<in>\\<S>\\<^sub>+\"\n  shows \n  \"f\\<fp>g \\<in> \\<S>\\<^sub>+\"\n  \"f\\<circ>g \\<in> \\<S>\\<^sub>+\"\n  "}

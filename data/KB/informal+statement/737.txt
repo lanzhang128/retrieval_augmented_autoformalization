@@ -1,0 +1,1 @@
+{"informal": " In ZF theory, the natural number addition (+) is equal to the sum of two sets: the ordinary addition and the empty set. \\\n\nOr even more briefly: \\\n\nZF's natural number addition is equal to the sum of standard addition and the empty set.", "statement": "lemma (in int0) Int_ZF_1_5_L3A: shows \"\\<int>\\<^sup>+ = \\<int>\\<^sub>+ \\<union> {\\<zero>}\"\n  "}

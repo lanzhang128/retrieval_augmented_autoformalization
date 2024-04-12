@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set is disjoint with an open set, then we can close it\n  and it will still be disjoint.\\<close>\n"}

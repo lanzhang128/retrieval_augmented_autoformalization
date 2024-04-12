@@ -1,0 +1,1 @@
+{"text": "text\\<open>For equivalence relations sets are contained in their images.\\<close> \n"}

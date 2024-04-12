@@ -1,0 +1,1 @@
+{"text": "text\\<open>The quotient by an equivalence relation is indeed a topology. \\<close>\n", "statement": "theorem (in topology0) equiv_quo_is_top:\n  assumes \"equiv(\\<Union>T,r)\"\n  shows \"({quotient by}r){is a topology}\"\n  "}

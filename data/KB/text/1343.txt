@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the set defined as in \\<open>OrderedGroup_ZF_5_L4\\<close> does not \n  contain the neutral element, then it is the positive set for the resulting\n  order.\\<close>\n"}

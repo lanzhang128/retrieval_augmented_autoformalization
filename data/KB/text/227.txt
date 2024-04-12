@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another reformulation of the definition of \\<open>Init\\<close>, starting with the\n  expression defining the list.\\<close>\n"}

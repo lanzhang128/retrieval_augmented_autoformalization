@@ -1,0 +1,1 @@
+{"informal": " A binary function f is odd with respect to a group G and a proposition P if and only if applying the group inverse with respect to P to the image of any element a under f yields the group inverse of a with respect to P.", "statement": "definition\n  \"IsOdd(G,P,f) \\<equiv> (\\<forall>a\\<in>G. f`(GroupInv(G,P)`(a)) = GroupInv(G,P)`(f`(a)) )\"\n"}

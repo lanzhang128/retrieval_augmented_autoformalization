@@ -1,0 +1,1 @@
+{"text": "text\\<open>Other basic properties involving two elements of a ring.\\<close>\n", "statement": "lemma (in ring0) Ring_ZF_1_L9: assumes \"a\\<in>R\"  \"b\\<in>R\"\n  shows \n  \"(\\<rm>b)\\<rs>a = (\\<rm>a)\\<rs>b\" \n  \"(\\<rm>(a\\<ra>b)) = (\\<rm>a)\\<rs>b\"  \n  \"(\\<rm>(a\\<rs>b)) = ((\\<rm>a)\\<ra>b)\"\n  \"a\\<rs>(\\<rm>b) = a\\<ra>b\"\n  "}

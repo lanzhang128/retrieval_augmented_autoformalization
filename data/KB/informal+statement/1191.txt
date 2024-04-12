@@ -1,0 +1,1 @@
+{"informal": " If relation r is a subset of the Cartesian product of A and A, then the strict version of relation r is also a subset of the Cartesian product of A and A.", "statement": "lemma strict_ver_rel: assumes A1: \"r \\<subseteq> A\\<times>A\"\n  shows \"StrictVersion(r) \\<subseteq> A\\<times>A\"\n  "}

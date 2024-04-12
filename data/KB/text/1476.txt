@@ -1,0 +1,1 @@
+{"text": "text\\<open>Addition is distributive with respect to multiplication.\\<close>\n"}

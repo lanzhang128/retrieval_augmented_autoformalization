@@ -1,0 +1,1 @@
+{"informal": " If an integer `a` is in the set of integers, then `a` is strictly positive if and only if `1` is astrictly less than `a`.", "statement": "lemma (in int0) Int_ZF_1_3_L7: assumes \"a\\<in>\\<int>\" \n  shows \"\\<not>(a\\<lsq>\\<zero>) \\<longleftrightarrow> \\<one> \\<lsq> a\"\n  "}

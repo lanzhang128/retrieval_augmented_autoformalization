@@ -1,0 +1,1 @@
+{"text": "text\\<open>Negative of zero is zero.\\<close>\n", "informal": " In the integers of ZF theory, zero is equal to the additive identity, which is often denoted as zero as well. \n\nOr, in simpler terms, the additive identity (zero) is equal to itself in the integers of ZF theory.", "statement": "lemma (in int0) Int_ZF_1_L11: shows \"(\\<rm>\\<zero>) = \\<zero>\"\n  "}

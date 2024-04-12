@@ -1,0 +1,1 @@
+{"text": "text\\<open>Similarly in this context $a \\le b$ implies that both $a$ and $b$ belong \n  to $G$.\\<close>\n", "statement": "lemma (in group3) less_are_members: \n  assumes \"a\\<ls>b\" shows \"a\\<in>G\" \"b\\<in>G\"\n  "}

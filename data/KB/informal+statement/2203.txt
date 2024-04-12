@@ -1,0 +1,1 @@
+{"informal": " Given a uniformity `Phi` on a set `X` and an element `x` in `X`, the set `W` in `Phi` containing `x` is a subset of `X`.", "statement": "lemma ustimasn: \n  assumes \"\\<Phi> {is a uniformity on} X\" \"W\\<in>\\<Phi>\" and \"x\\<in>X\"\n  shows \"W``{x} \\<subseteq> X\"\n  "}

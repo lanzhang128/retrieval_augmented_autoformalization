@@ -1,0 +1,1 @@
+{"text": "text\\<open>A first example of an anti-compact space is the discrete space.\\<close>\n"}

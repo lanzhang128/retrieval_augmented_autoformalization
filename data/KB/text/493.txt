@@ -1,0 +1,1 @@
+{"text": "text\\<open>The projected operation can be defined in terms of the group operation\n  on representants in a natural way.\\<close>\n"}

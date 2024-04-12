@@ -1,0 +1,1 @@
+{"text": "text\\<open>The closed sets are the open sets.\\<close>\n", "statement": "lemma closed_sets_ptopology:\n  assumes \"T {is a partition of} X\"\n  shows\"D {is closed in} (PTopology X T) \\<longleftrightarrow> D\\<in>(PTopology X T)\"\n"}

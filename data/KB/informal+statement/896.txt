@@ -1,0 +1,1 @@
+{"informal": " Assuming m is smaller than k and n is zero, we have m is smaller than k-n and n-k is smaller than m.", "statement": "lemma (in int0) Int_ZF_2_L15F:  assumes \"m\\<lsq>k\"  and \"\\<zero>\\<lsq>n\"\n  shows \"m \\<lsq> k\\<ra>n\"  \"m \\<lsq> n\\<ra>k\"  \n  "}

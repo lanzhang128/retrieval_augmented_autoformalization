@@ -1,0 +1,1 @@
+{"text": "text\\<open> Minimum is the infimum if it exists.\\<close>\n", "statement": "lemma min_is_inf: assumes \"antisym(r)\" \"A\\<noteq>0\" \"HasAminimum(r,A)\"\n  shows \"HasAnInfimum(r,A)\" and \"Minimum(r,A) = Infimum(r,A)\"\n"}

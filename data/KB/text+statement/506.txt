@@ -1,0 +1,1 @@
+{"text": "text\\<open>A group element is equivalent to the neutral element iff it is in the\n  subgroup we divide the group by.\\<close>\n", "statement": "lemma (in group0) Group_ZF_2_4_L5C: assumes \"a\\<in>G\"\n  shows \"\\<langle>a,\\<one>\\<rangle> \\<in> QuotientGroupRel(G,P,H) \\<longleftrightarrow> a\\<in>H\"\n  "}

@@ -1,0 +1,1 @@
+{"informal": " Assuming zero less than both a and b in the ring1, it holds that zero is less than their product a * b.", "statement": "lemma (in  ring1) OrdRing_ZF_1_L5: \n  assumes \"\\<zero>\\<lsq>a\"  \"\\<zero>\\<lsq>b\"\n  shows \"\\<zero> \\<lsq> a\\<cdot>b\"\n  "}

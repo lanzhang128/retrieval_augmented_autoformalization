@@ -1,0 +1,1 @@
+{"informal": " Given integers a, b, and c, the product of the pairs b-c and a is equal to the product of a and b, followed by the product of a and c.", "statement": "lemma (in int0) Int_ZF_1_2_L12: \n  assumes \"a\\<in>\\<int>\"  \"b\\<in>\\<int>\"  \"c\\<in>\\<int>\"\n  shows \n  \"(b\\<rs>c)\\<cdot>a = a\\<cdot>b \\<rs> a\\<cdot>c\"\n  "}

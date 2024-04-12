@@ -1,0 +1,1 @@
+{"text": "text\\<open>For total and transitive relations A union a of two sets that have \n  minima has a minimum.\\<close>\n", "statement": "lemma Order_ZF_4_L6: \n  assumes A1: \"r {is total on} (A\\<union>B)\" and A2: \"trans(r)\"\n  and A3: \"HasAminimum(r,A)\" \"HasAminimum(r,B)\"\n  shows \"HasAminimum(r,A\\<union>B)\"\n"}

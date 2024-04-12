@@ -1,0 +1,1 @@
+{"text": "text\\<open>Embed is a surjection from \\<open>small\\<close> to \\<open>small2\\<close>.\\<close>\n", "statement": "lemma (in generalization) embed_surj: shows \"embed \\<in> surj(small, small2)\"\n  "}

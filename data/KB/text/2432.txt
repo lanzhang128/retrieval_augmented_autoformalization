@@ -1,0 +1,1 @@
+{"text": "text\\<open>A sufficient condition for a point to belong to a result of\n  lifting to subsets.\\<close>\n"}

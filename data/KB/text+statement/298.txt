@@ -1,0 +1,1 @@
+{"text": "text\\<open>Finite powerset is the union of sets of cardinality\n  bounded by natural numbers.\\<close>\n", "statement": "lemma finpow_union_card_nat: \n  shows \"FinPow(X) = (\\<Union>n \\<in> nat. {A \\<in> Pow(X). A \\<lesssim> n})\"\n"}

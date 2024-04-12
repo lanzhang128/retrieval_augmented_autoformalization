@@ -1,0 +1,1 @@
+{"text": "text\\<open>The homomorphism difference of any integer function is integer.\\<close>\n"}

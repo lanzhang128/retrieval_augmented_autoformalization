@@ -1,0 +1,1 @@
+{"text": "text\\<open>Absolute value is the same for an integer and its opposite.\\<close>\n", "informal": " Assuming \"m\" is an integer, the absolute value of \"m\" is equal to the absolute value of its magnitude (denoted by \"rm\" in the code).", "statement": "lemma (in int0) Int_ZF_2_L17: \n  assumes \"m\\<in>\\<int>\" shows \"abs(\\<rm>m) = abs(m)\"\n  "}

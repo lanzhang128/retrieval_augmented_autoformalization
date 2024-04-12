@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of endomorphisms is closed under pointwise addition (derived from the group operation).\n   This is so because the group is abelian.\\<close>\n"}

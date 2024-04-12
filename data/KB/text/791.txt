@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $s$ is a slope, then we can find integers $M,K$ such that\n  $s(m-n-k) \\leq s(m)-s(n)-s(k) + M$ and $s(m)-s(n)-s(k) + K \\leq s(m-n-k)$, \n  for all integer $m,n,k$.\\<close>\n"}

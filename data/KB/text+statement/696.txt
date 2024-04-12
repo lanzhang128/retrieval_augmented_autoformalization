@@ -1,0 +1,1 @@
+{"text": "text\\<open>Some conclusions from the fact that one integer\n  is less or equal than another.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_3_L10A: assumes \"a\\<lsq>b\"\n  shows \"\\<zero> \\<lsq> b\\<rs>a\"\n  "}

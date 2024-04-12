@@ -1,0 +1,1 @@
+{"text": "text\\<open>If an element is greater or equal than another then the difference is \n  nonnegative.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L9D: assumes A1: \"a\\<lsq>b\"\n  shows \"\\<one> \\<lsq> b\\<cdot>a\\<inverse>\"\n"}

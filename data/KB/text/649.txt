@@ -1,0 +1,1 @@
+{"text": "text\\<open>$(m\\cdot k)$ div $k = m$.\\<close>\n"}

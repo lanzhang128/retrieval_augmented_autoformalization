@@ -1,0 +1,1 @@
+{"informal": " If m is an integer, then subtracting the length of 1 and adding it back equals m.", "statement": "lemma Int_ZF_1_L12: \n  assumes \"m\\<in>int\" shows \"m $- $#1 $+ $#1 = m\"\n  "}

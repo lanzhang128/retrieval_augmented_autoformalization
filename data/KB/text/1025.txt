@@ -1,0 +1,1 @@
+{"text": "text\\<open>The reason we start from $0$ in the definition of the summation sign in the \\<open>monoid1\\<close> locale\n  is that we want to be able to sum the empty list. Such sum of the empty list is $0$. \\<close>\n"}

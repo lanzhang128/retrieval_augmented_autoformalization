@@ -1,0 +1,1 @@
+{"text": "text\\<open>Adding a neutral element to a set that is \n  closed under the group operation results in a set that is closed under the \n  group operation.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Adding zero to a set that is closed under addition results\n  in a set that is also closed under addition. This is a property of groups.\\<close>\n", "statement": "lemma (in ring0) Ring_ZF_1_L15: \n  assumes \"H \\<subseteq> R\" and \"H {is closed under} A\"\n  shows \"(H \\<union> {\\<zero>}) {is closed under} A\"\n  "}

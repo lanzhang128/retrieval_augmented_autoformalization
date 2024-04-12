@@ -1,0 +1,1 @@
+{"informal": " Assume `n` is a natural number and for every `i` such that `i` is the successor of `n`, `a(i)` is an element of `X`. Then `a` is the concatenation of the pair `<0, a(0)>` and the tail of `a`.", "statement": "lemma first_concat_tail: assumes \"n\\<in>nat\" \"a:succ(n)\\<rightarrow>X\"\n  shows \"a = Concat({\\<langle>0,a`(0)\\<rangle>},Tail(a))\"\n"}

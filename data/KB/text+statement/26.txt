@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the successor of a cardinal is infinite, so is the original\ncardinal.\\<close>\n", "statement": "lemma csucc_inf_imp_inf:\n  assumes \"Card(j)\" and \"InfCard(csucc(j))\"\n  shows \"InfCard(j)\"\n"}

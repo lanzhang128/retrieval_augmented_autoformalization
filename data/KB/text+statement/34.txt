@@ -1,0 +1,1 @@
+{"text": "text\\<open>The difference with the previous result is that in this one\n\\<open>A\\<close> is not a subset of an ordinal, it is only injective\nwith one.\\<close>\n", "statement": "theorem surj_fun_inv_2:\n  assumes \"f:surj(A,B)\" \"A\\<lesssim>Q\" \"Ord(Q)\"\n  shows \"B\\<lesssim>A\"\n"}

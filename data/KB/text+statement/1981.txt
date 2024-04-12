@@ -1,0 +1,1 @@
+{"text": "text\\<open>An open set is a set neighborhood of itself.\\<close>\n", "statement": "corollary open_is_nei: assumes \"V\\<in>T\"\n  shows \"V \\<in> ({set neighborhood system of} T)`(V)\"\n  "}

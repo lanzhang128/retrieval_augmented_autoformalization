@@ -1,0 +1,1 @@
+{"text": "text\\<open>A consequence is that every totally-disconnected space is $T_1$.\\<close>\n"}

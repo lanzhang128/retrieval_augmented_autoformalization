@@ -1,0 +1,1 @@
+{"text": "text\\<open>A technical lemma involving a projection of a saturated set and a \n  logical epression with exclusive or. Note that we don't really care \n  what \\<open>Xor\\<close> is here, this is true for any predicate.\\<close>\n"}

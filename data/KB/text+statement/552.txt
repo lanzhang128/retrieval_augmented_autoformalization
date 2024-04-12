@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of almost homomorphisms is closed under composition.\n  The second operation on almost homomorphisms is associative.\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_4_L6: shows \n  \"AH {is closed under} Composition(G)\"\n  \"AlHomOp2(G,P) {is associative on} AH\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>For unbounded slope $f$ either $f\\in$\\<open>\\<S>\\<^sub>+\\<close> of \n  $-f\\in$\\<open>\\<S>\\<^sub>+\\<close>.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Subsets of \\<open>\\<int>\\<^sup>+\\<close> are bounded below.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_5_L1A: assumes \"A \\<subseteq> \\<int>\\<^sup>+\" \n  shows \"IsBoundedBelow(A,IntegerOrder)\"\n  "}

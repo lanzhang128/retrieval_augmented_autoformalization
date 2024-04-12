@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next theorem shows that if the monoid operation is closed\n  on a subset of $G$ then this set is a (sub)monoid (although \n  we do not define this notion). This fact will be \n  useful when we study subgroups.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>For unbounded slope $f$ either $f\\in$\\<open>\\<S>\\<^sub>+\\<close> of \n  $-f\\in$\\<open>\\<S>\\<^sub>+\\<close>.\\<close>\n", "statement": "theorem (in int1) Int_ZF_2_3_L8:\n  assumes A1: \"f\\<in>\\<S>\" and A2: \"f \\<notin> FinRangeFunctions(\\<int>,\\<int>)\"\n  shows \"(f \\<in> \\<S>\\<^sub>+) Xor ((\\<fm>f) \\<in> \\<S>\\<^sub>+)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A composition of a finite range function with the group inverse is\n  a finite range function.\\<close>\n"}

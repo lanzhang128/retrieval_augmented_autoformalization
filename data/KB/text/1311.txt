@@ -1,0 +1,1 @@
+{"text": "text\\<open> $a^{-1}\\leq |a|$ (in additive notation it would be $-a\\leq |a|$.\\<close>\n"}

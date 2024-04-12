@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image of a finite set is finite.\\<close>\n", "statement": "lemma Finite1_L6A: assumes A1: \"f:X\\<rightarrow>Y\" and A2: \"N \\<in> Fin(X)\"\n  shows \"f``(N) \\<in> Fin(Y)\"\n"}

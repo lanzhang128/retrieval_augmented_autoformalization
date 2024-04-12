@@ -1,0 +1,1 @@
+{"informal": " If `a` is an integer and `a` is less than `b`, then `b` is an integer.", "statement": "lemma (in int0) Int_ZF_1_5_L7:  assumes \"a \\<in> \\<int>\\<^sub>+\" and \"a\\<lsq>b\"\n  shows \"b \\<in> \\<int>\\<^sub>+\"\n"}

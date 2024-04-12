@@ -1,0 +1,1 @@
+{"text": "text\\<open>A real number is smaller than its half iff it is positive.\\<close>\n"}

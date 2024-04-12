@@ -1,0 +1,1 @@
+{"text": "text\\<open>The usual properties of multiples and powers: $(n+1)x = nx+x$ and \n  $x^n+1=x^n x$. These are just versions of \\<open>nat_mult_add_one\\<close> from \\<open>Monoid_ZF_1\\<close>\n  writtent in the notation defined in the \\<open>ring3\\<close> locale.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " Given a function `f` from integers to X, it does not equal zero when applied to the sum of two integers.", "statement": "lemma (in int0) Int_ZF_1_5_L5: assumes A1: \"f : \\<int>\\<rightarrow>X\"\n  shows \"f``(\\<int>\\<^sub>+) \\<noteq> 0\"\n"}

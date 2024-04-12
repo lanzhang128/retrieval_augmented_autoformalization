@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $c\\in Y =  \\bigcup S$, then the constant function defined on $X=\\bigcup T $ \n  that is equal to $c$ is in the the space of continuous functions from $X$ to $Y$.  \\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>What are the values of the inverse of an almost homomorphism?\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the successor is smaller, then the number is smaller.\\<close>\n", "statement": "lemma (in MMIsar0) succ_le_imp_le: assumes A1: \"a\\<in>\\<real>\"   \"b\\<in>\\<real>\" and A2: \"a\\<ca>\\<one> \\<ls> b\"\n  shows \"a\\<ls>b\"\n"}

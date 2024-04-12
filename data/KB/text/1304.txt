@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a\\in G\\setminus G^+$, then $|a| = a^{-1}$.\\<close>\n"}

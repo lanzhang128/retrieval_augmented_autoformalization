@@ -1,0 +1,1 @@
+{"text": "text\\<open>\\<open>ret\\<close> is a bijection from \\<open>newbig\\<close>newbig to \\<open>big\\<close>.\\<close>\n", "informal": " The statement in natural language form could be:\n\nThe function \"ret\" is a bijection from \"newbig\" to \"big\".", "statement": "lemma (in generalization1) ret_bij: shows \"ret\\<in>bij(newbig, big)\" \n  "}

@@ -1,0 +1,1 @@
+{"informal": " If function `f` is an injection from set `A` to set `B`, then `f` is a bijection from `A` to the range of `f`.", "statement": "lemma inj_bij_range: assumes \"f \\<in> inj(A,B)\" \n  shows \"f \\<in> bij(A,range(f))\"\n"}

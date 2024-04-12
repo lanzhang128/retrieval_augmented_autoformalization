@@ -1,0 +1,1 @@
+{"informal": " The lemma `pair_val` asserts that for all pairs `<xy>`, the first element `x` is equal to the value that the pair `<xy>` takes when it is applied to itself. In other words, `x` is equal to the second element `y` in the pair `<xy>`.", "statement": "lemma pair_val: shows \"{\\<langle>x,y\\<rangle>}`(x) = y\"\n  "}

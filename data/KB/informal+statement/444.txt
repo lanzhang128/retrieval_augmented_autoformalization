@@ -1,0 +1,1 @@
+{"informal": " A binary relation G between elements a and b satisfies \"LeftTranslation(P, g)\" if and only if there exists an element x in G such that P(g, x) equals b.", "statement": "definition\n  \"LeftTranslation(G,P,g) \\<equiv> {\\<langle>a,b\\<rangle> \\<in> G\\<times>G. P`\\<langle>g,a\\<rangle> = b}\"\n"}

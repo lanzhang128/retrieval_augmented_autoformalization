@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $\\Theta$ is a family of uniform covers of $X$ then \n  \\<open>UniformityFromUniCov(X,\\<Theta>)\\<close> is a uniformity on $X$ \\<close> \n", "statement": "theorem uniformity_from_unicov: \n  assumes \"\\<Theta> {are uniform covers of} X\" \"X\\<noteq>0\"\n  shows \"UniformityFromUniCov(X,\\<Theta>) {is a uniformity on} X\"\n"}

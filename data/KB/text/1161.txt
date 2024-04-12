@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set has a minimum and $L$ is less or equal than \n  all elements of the set, then $L$ is less or equal than the minimum.\\<close>\n"}

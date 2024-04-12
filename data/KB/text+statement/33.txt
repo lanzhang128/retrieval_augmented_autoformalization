@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we have a surjective function from a set which is injective to a set \n  of ordinals, then we can find an injection which goes the other way.\\<close>\n", "statement": "lemma surj_fun_inv:\n  assumes \"f \\<in> surj(A,B)\" \"A\\<subseteq>Q\" \"Ord(Q)\"\n  shows \"B\\<lesssim>A\"\n"}

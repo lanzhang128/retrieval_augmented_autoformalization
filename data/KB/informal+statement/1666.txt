@@ -1,0 +1,1 @@
+{"informal": " In the ring0 theory, given that I is an ideal that is contained in the ring R, we have that I is a normal subgroup of R.", "statement": "lemma (in ring0) ideal_normal_add_subgroup:\n  assumes \"I\\<triangleleft>R\"\n  shows \"IsAnormalSubgroup(R,A,I)\"\n  "}

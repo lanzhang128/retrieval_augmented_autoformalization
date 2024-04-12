@@ -1,0 +1,1 @@
+{"informal": " If <phi> is true and <phi> implies <psi>, then <psi> is true.", "statement": "lemma MMI_ax_mp: assumes \"\\<phi>\" and \"\\<phi> \\<longrightarrow> \\<psi>\" shows \"\\<psi>\"\n  "}

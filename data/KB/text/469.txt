@@ -1,0 +1,1 @@
+{"text": "text\\<open> A simple rearrangement following from associativity of the product of sets operation.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open> The neutral element as defined in the \\<open>loop0\\<close> locale is indeed neutral. \\<close>\n"}

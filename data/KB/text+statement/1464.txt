@@ -1,0 +1,1 @@
+{"text": "text\\<open>Bounded integer maps are functions from integers\n  to integers that have finite range. They play a role of \n  zero in the set of real numbers we are constructing.\\<close>\n", "statement": "definition\n  \"BoundedIntMaps \\<equiv> FinRangeFunctions(int,int)\"\n"}

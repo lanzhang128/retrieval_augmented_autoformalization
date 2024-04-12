@@ -1,0 +1,1 @@
+{"text": "text\\<open>A version of \\<open>Group_ZF_3_2_L15\\<close> formulated in notation\n  used in \\<open>group1\\<close> context. States that the product of almost\n  homomorphisms is an almost homomorphism and the the product\n  of an almost homomorphism with a (pointwise) inverse of an almost \n  homomorphism is an almost homomorphism.\\<close>\n"}

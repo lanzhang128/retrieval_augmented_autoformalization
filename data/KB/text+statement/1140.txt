@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition of infimum for a linear order. \n  It is defined in terms of supremum.\\<close>\n", "statement": "definition\n  \"Infim(B,A,R) \\<equiv> Sup(B,A,converse(R))\"\n"}

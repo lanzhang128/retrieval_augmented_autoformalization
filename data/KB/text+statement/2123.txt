@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set is compact of cardinality \\<open>Q\\<close> for some topology,\nit is compact of cardinality \\<open>Q\\<close> for every coarser topology.\\<close>\n", "statement": "theorem compact_coarser:\n  assumes \"T1\\<subseteq>T\" and \"\\<Union>T1=\\<Union>T\" and \"(K){is compact of cardinal}Q{in}T\"\n  shows \"(K){is compact of cardinal}Q{in}T1\"\n"}

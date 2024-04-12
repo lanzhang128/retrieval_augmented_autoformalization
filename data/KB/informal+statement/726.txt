@@ -1,0 +1,1 @@
+{"informal": " The \"int0\" lemma states that the set of positive integers is closed under addition.", "statement": "lemma (in int0) pos_int_closed_add: \n  shows \"\\<int>\\<^sub>+ {is closed under} IntegerAddition\"\n  "}

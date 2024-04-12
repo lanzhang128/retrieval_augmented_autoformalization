@@ -1,0 +1,1 @@
+{"text": "text\\<open>Semigroup operation is closed.\\<close>\n", "statement": "lemma (in semigr0) semigr_closed: \n  assumes \"a\\<in>G\"  \"b\\<in>G\" shows \"a\\<cdot>b \\<in> G\"\n  "}

@@ -1,0 +1,1 @@
+{"informal": " If Y is the set of all x in X such that property b holds for x, then Y is a subset of X.", "statement": "lemma subset_with_property: assumes \"Y = {x\\<in>X. b(x)}\"\n  shows \"Y \\<subseteq> X\" \n  "}

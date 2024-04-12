@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we remove a point from a finites subset,\n  we get a finite subset.\\<close>\n", "statement": "corollary fin_rem_point_fin: assumes \"A \\<in> FinPow(X)\"\n  shows \"A - {a} \\<in> FinPow(X)\"\n  "}

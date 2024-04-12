@@ -1,0 +1,1 @@
+{"text": "text\\<open>Let's define some anti-properties that we'll use in the future.\\<close>\n"}

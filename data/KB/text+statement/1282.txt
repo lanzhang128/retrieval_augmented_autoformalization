@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of positive elements of a \n  nontrivial linearly ordered group is not empty.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L21:\n  assumes A1: \"r {is total on} G\" and A2: \"G \\<noteq> {\\<one>}\"\n  shows \"G\\<^sub>+ \\<noteq> 0\"\n"}

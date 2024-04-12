@@ -1,0 +1,1 @@
+{"text": "text\\<open>A technical lemma about extending a list by values from a set.\\<close> \n", "statement": "lemma list_append_from: assumes A1: \"n \\<in> nat\" and A2: \"U \\<subseteq> n\\<rightarrow>X\" and A3: \"V \\<subseteq> X\"\n  shows \n  \"{x \\<in> succ(n)\\<rightarrow>X. Init(x) \\<in> U \\<and> x`(n) \\<in> V} = (\\<Union>y\\<in>V.{Append(x,y).x\\<in>U})\"\n"}

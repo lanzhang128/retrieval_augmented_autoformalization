@@ -1,0 +1,1 @@
+{"text": "text\\<open>Semigroup operation is closed.\\<close>\n", "informal": " In the semigroup `G`, if `a` and `b` are elements, then their product `a * b` is also an element.", "statement": "lemma (in semigr0) semigr_closed: \n  assumes \"a\\<in>G\"  \"b\\<in>G\" shows \"a\\<cdot>b \\<in> G\"\n  "}

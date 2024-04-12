@@ -1,0 +1,1 @@
+{"text": "text\\<open> If $\\Phi$ is a uniformity on $X$, then the every element $V$ of $\\Phi$ \n  is a certain relation on $X$ (a subset of $X\\times X$) and is called \n  an ''entourage''. For an $x\\in X$ we call $V\\{ x\\}$ a neighborhood of $x$. \n  The first useful fact we will show is that neighborhoods are non-empty. \\<close>\n"}

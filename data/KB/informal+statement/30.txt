@@ -1,0 +1,1 @@
+{"informal": " The statement in natural language equivalent to the given Isabelle/ZF code is:\n\nAssuming n is a natural number, the axiom of choice holds.", "statement": "theorem finite_choice:\n  assumes \"n\\<in>nat\"\n  shows \"{the axiom of} n {choice holds}\"\n"}

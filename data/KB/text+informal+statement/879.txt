@@ -1,0 +1,1 @@
+{"text": "text\\<open>Taking minus on both sides of inequality reverses it, \n  version with a negative on one side.\\<close>\n", "informal": " Given an integer `n`, if `m` is a positive integer dividing `n`, then `n` is a multiple of `m`.", "statement": "lemma (in int0) Int_ZF_2_L10AA: assumes \"n\\<in>\\<int>\"  \"m\\<lsq>(\\<rm>n)\"\n  shows \"n\\<lsq>(\\<rm>m)\"\n  "}

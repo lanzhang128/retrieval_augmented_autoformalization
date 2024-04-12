@@ -1,0 +1,1 @@
+{"text": "text\\<open>The intersection of interiors is a equal to the interior of intersections.\\<close>\n"}

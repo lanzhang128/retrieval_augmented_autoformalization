@@ -1,0 +1,1 @@
+{"text": "text\\<open>The range of the subgroup operation is the whole subgroup.\\<close>\n", "informal": " Given a subgroup H of a binary relation P, the restriction of P to H crossed with H equals H.", "statement": "lemma image_subgr_op: assumes A1: \"IsAsubgroup(H,P)\"\n  shows \"restrict(P,H\\<times>H)``(H\\<times>H) = H\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If absolute values of values of some integer function are bounded,\n  then the image a set from the domain is a bounded set.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_3_L20B:\n  assumes \"f:X\\<rightarrow>\\<int>\" and \"A\\<subseteq>X\" and \"\\<forall>x\\<in>A. abs(f`(x)) \\<lsq> L\"\n  shows  \"IsBounded(f``(A),IntegerOrder)\"\n"}

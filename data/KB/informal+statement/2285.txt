@@ -1,0 +1,1 @@
+{"informal": " Assuming x is an element of X and phi(x) is true, there exists an element x in X such that phi(x) holds.", "statement": "lemma witness_exists: assumes \"x\\<in>X\" and \"\\<phi>(x)\" shows \"\\<exists>x\\<in>X. \\<phi>(x)\"\n  "}

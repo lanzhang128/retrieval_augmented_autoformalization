@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a group has only one subgroup of a given order, then this subgroup is normal.\\<close>\n"}

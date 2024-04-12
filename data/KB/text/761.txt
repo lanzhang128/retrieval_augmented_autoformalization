@@ -1,0 +1,1 @@
+{"text": "text\\<open>Type information related to the homomorphism difference expression.\\<close>\n"}

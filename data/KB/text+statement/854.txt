@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of integers has more than just zero in it.\\<close>\n", "statement": "lemma (in int0) int_not_trivial: shows \"\\<int> \\<noteq> {\\<zero>}\"\n  "}

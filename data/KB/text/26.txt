@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the successor of a cardinal is infinite, so is the original\ncardinal.\\<close>\n"}

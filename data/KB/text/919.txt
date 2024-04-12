@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another form of induction on integers. This rewrites the basic theorem \n   \\<open>Int_ZF_3_L7\\<close> substituting $P(-k)$ for $Q(k)$.\\<close>\n"}

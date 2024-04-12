@@ -1,0 +1,1 @@
+{"informal": " If an integer `k` is in the set of integers and `k` is less than zero, then `k` is less than zero.", "statement": "lemma (in int0) Int_ZF_2_L10B: \n  assumes \"k\\<in>\\<int>\" and \"\\<zero>\\<lsq>(\\<rm>k)\"\n  shows \"k\\<lsq>\\<zero>\"\n  "}

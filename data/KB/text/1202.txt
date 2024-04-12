@@ -1,0 +1,1 @@
+{"text": "text\\<open>A simple lemma about multiplication and cancelling of a positive field\n   element.\\<close>\n"}

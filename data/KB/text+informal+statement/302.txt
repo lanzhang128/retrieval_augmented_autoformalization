@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we remove an element and put it back we get the set back.\n\\<close>\n", "informal": " If an element a belongs to a set A, then the set (A with the element a removed) union the set {a} containing only element a is equal to the original set A.", "statement": "lemma rem_add_eq: assumes \"a\\<in>A\" shows \"(A-{a}) \\<union> {a} = A\"\n  "}

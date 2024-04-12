@@ -1,0 +1,1 @@
+{"informal": " Assuming m is an integer, show that the negation of m is equal to the additive inverse of m.", "statement": "lemma (in int0) Int_ZF_1_L9A: assumes A1: \"m\\<in>\\<int>\" \n  shows \"$-m = \\<rm>m\"\n"}

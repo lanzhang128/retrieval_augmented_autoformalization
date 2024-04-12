@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma shows that if \"$\\sim$\" \n  is an equivalence relation and a set \n  $A$ is such that $a\\in A$ and $a\\sim b$ implies $b\\in A$, then\n  $A$ is saturated with respect to the relation.\\<close>\n"}

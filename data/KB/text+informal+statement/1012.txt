@@ -1,0 +1,1 @@
+{"text": "text\\<open>There is only one neutral element in a monoid.\\<close>\n", "informal": " There exists an element e in the monoid G such that for all g in G, both e + g = g and g + e = g hold.", "statement": "lemma (in monoid0) group0_1_L2: shows\n  \"\\<exists>!e. e\\<in>G \\<and> (\\<forall> g\\<in>G. ( (e\\<oplus>g = g) \\<and> g\\<oplus>e = g))\"\n"}

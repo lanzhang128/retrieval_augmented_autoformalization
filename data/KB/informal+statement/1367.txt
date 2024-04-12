@@ -1,0 +1,1 @@
+{"informal": " In the context of the \"loop1\" lemma, \"x is an element of the set L+ if and only if 0 is a predecessor of x and x is not equal to 0.\"", "statement": "lemma (in loop1) posset_definition: \n  shows \"x \\<in> L\\<^sub>+ \\<longleftrightarrow> (\\<zero>\\<lsq>x \\<and> x\\<noteq>\\<zero>)\" \n  "}

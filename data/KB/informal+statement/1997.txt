@@ -1,0 +1,1 @@
+{"informal": " A set Ksatisfies theorem Spec if and only if for every topology T that covers K, property P holds for T.", "statement": "definition Spec (\"_ {is in the spectrum of} _\" 99)\n  where \"Spec(K,P) \\<equiv> \\<forall>T. ((T{is a topology} \\<and> \\<Union>T\\<approx>K) \\<longrightarrow> P(T))\"\n"}

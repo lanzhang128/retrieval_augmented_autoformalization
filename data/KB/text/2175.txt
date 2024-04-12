@@ -1,0 +1,1 @@
+{"text": "text\\<open>This topology is defined over $\\mathbb{N}^+\\cup\\{\\mathbb{N}^+\\}$ or \\<open>csucc(nat)\\<union>{csucc(nat)}\\<close>.\\<close>\n"}

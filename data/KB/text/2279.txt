@@ -1,0 +1,1 @@
+{"text": "text\\<open>Domain and range of the relation of the form $\\bigcup \\{U\\times U : U\\in P\\}$\n  is $\\bigcup P$: \\<close>\n"}

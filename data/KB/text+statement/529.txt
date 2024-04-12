@@ -1,0 +1,1 @@
+{"text": "text\\<open>The function that assigns the neutral element everywhere \n  is an almost homomorphism.\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_2_L9: shows\n  \"ConstantFunction(G,\\<one>) \\<in> AH\" and \"AH\\<noteq>0\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can strenghten the previous lemma: it is sufficient to check if the \n  inverse image of every set in a subbase is open. The proof is rather awkward,\n  as usual when we deal with general intersections. We have to keep track of \n  the case when the collection is empty.\\<close>\n"}

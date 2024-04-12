@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>OrderedGroup_ZF_1_L5J\\<close> where $c=1$.\\<close>\n", "statement": "corollary (in group3) OrderedGroup_ZF_1_L5K: \n  assumes A1: \"a\\<in>G\"  \"b\\<in>G\" and A2: \"\\<one> \\<lsq> a\\<cdot>b\\<inverse>\"\n  shows \"b \\<lsq> a\"\n"}

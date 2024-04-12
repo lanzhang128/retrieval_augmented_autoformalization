@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma has to be used as a rule in some rare cases. \\<close>\n", "statement": "lemma exists_in_set: assumes \"\\<forall>x. x\\<in>A \\<longrightarrow> \\<phi>(x)\" shows \"\\<forall>x\\<in>A. \\<phi>(x)\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>We defined the finite powerset \\<open>FinPow(X)\\<close> as those elements \n  of the powerset that are finite.\\<close>\n", "statement": "definition\n  \"FinPow(X) \\<equiv> {A \\<in> Pow(X). Finite(A)}\"\n"}

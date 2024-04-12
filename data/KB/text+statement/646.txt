@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>binom_prop\\<close> when $n=k+1$ that helps \n  with the induction step in the proof that the binomial coefficient \n  are 1 on the right boundary of the Pascal's triangle.\\<close>\n", "statement": "lemma binom_prop1: assumes \"n\\<in>nat\" \n  shows \"Binom(n #+ 1,n #+ 1) = Binom(n,n)\"\n"}

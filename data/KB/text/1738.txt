@@ -1,0 +1,1 @@
+{"text": "text\\<open>A simple equation from lemma \\<open>simple_equation0\\<close> in \\<open>Group_ZF\\<close> in additive notation \\<close>\n"}

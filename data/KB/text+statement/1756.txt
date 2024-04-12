@@ -1,0 +1,1 @@
+{"text": "text\\<open>Right and left translations are homeomorphisms.\\<close>\n", "statement": "lemma (in topgroup) tr_homeo: assumes \"g\\<in>G\" shows\n  \"IsAhomeomorphism(T,T,RightTranslation(G,f,g))\" and\n  \"IsAhomeomorphism(T,T,LeftTranslation(G,f,g))\"\n  "}

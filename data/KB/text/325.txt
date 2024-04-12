@@ -1,0 +1,1 @@
+{"text": "text\\<open>For linearly ordered finite sets maximum and minimum have desired \n  properties. The reason we need linear order is that we need the order\n  to be total and transitive for the finite sets to have a maximum and minimum\n  and then we also need antisymmetry for the maximum and minimum to be unique.\n\\<close>\n"}

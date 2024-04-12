@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma about splitting the ordered group \"plane\" into 6 subsets. Useful\n  for proofs by cases.\\<close>\n"}

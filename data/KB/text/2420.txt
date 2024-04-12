@@ -1,0 +1,1 @@
+{"text": "text\\<open>We define the notion of composition on the set $X$ as the\n  binary operation on the function space $X\\rightarrow X$\n  that takes two functions and creates the their composition.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The essential condition to show that distributivity is preserved by \n  restrictions to sets that are closed with\n  respect to both operations.\\<close>\n"}

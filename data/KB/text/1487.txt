@@ -1,0 +1,1 @@
+{"text": "text\\<open>The order relation on real numbers is constructed from the set of \n  positive elements in a standard way (see section \n  \"Alternative definitions\" in \\<open>OrderedGroup_ZF\\<close>.)\n\\<close>\n"}

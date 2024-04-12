@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a function is congruent then the equivalence classes of the values\n  that come from the arguments from the same class are the same.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " Assuming that a topology T is ultraconnected, it is normal.", "statement": "lemma (in topology0)UConn_imp_normal:\n  assumes \"T{is ultraconnected}\"\n  shows \"T{is normal}\"\n"}

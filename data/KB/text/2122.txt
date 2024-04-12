@@ -1,0 +1,1 @@
+{"text": "text\\<open>The union of two compact sets, is compact; of any cardinality.\\<close>\n"}

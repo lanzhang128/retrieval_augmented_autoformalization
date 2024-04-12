@@ -1,0 +1,1 @@
+{"text": "text\\<open>Products of open sets are open in the product topology.\\<close>\n"}

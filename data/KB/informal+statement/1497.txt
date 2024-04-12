@@ -1,0 +1,1 @@
+{"informal": " If function f is in the class of bounded integer maps in the real1 context, then its constant component equals zero.", "statement": "lemma (in real1) real_zero_cl_bounded_map: \n  assumes \"f \\<in> BoundedIntMaps\" shows \"[f] = \\<zero>\"\n  "}

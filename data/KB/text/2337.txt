@@ -1,0 +1,1 @@
+{"text": "text\\<open>A more familiar definition of image.\\<close>\n"}

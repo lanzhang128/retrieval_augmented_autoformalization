@@ -1,0 +1,1 @@
+{"text": "text\\<open>Using the lemma above we can show the actual statement: \n  taking the inverse in the subgroup is the same as taking the inverse\n  in the group.\\<close>\n", "statement": "theorem (in group0) group0_3_T1:\n  assumes A1: \"IsAsubgroup(H,P)\" \n  and A2: \"g = restrict(P,H\\<times>H)\"\n  shows \"GroupInv(H,g) = restrict(GroupInv(G,P),H)\"\n"}

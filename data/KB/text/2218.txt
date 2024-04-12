@@ -1,0 +1,1 @@
+{"text": "text\\<open> A map between 2 uniformities is uniformly continuous if it preserves\nthe entourages: \\<close>\n"}

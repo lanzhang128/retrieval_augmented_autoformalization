@@ -1,0 +1,1 @@
+{"informal": " If x is an element of the union of a collection T, then the singleton set {x} is compact in T.", "statement": "lemma singl_compact: \n  assumes \"x\\<in>\\<Union>T\" shows \"{x} {is compact in} T\"\n  "}

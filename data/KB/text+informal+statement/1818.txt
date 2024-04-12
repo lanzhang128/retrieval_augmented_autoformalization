@@ -1,0 +1,1 @@
+{"text": "text\\<open>Boundary of a set is closed.\\<close>\n", "informal": " Assume A is a subset of the union of a collection T in the topology. Then, the boundary of A is closed in T.", "statement": "lemma (in topology0) boundary_closed: \n  assumes A1: \"A \\<subseteq> \\<Union>T\" shows \"\\<partial>A {is closed in} T\"\n"}

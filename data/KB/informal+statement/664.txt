@@ -1,0 +1,1 @@
+{"informal": " Assuming `a` is less than `b`, we have `a` is less than or equal to `b` with exactly one less step.", "statement": "lemma (in int0) Int_ZF_1_2_L3A: assumes A1: \"a\\<lsq>b\"\n  shows \"a\\<rs>\\<one> \\<lsq> b\" \n"}

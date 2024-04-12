@@ -1,0 +1,1 @@
+{"text": "text\\<open>The definition of the nonnegative set in the notation used in the \\<open>loop1\\<close> locale: \\<close>\n"}

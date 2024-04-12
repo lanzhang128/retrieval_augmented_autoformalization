@@ -1,0 +1,1 @@
+{"informal": " If `n` is a natural number and `P(0)` holds true, and for all natural numbers `k`, `P(k)` implies `P(k + 1)`, then `P(n)` also holds true.", "statement": "lemma ind_on_nat1: \n  assumes \"n\\<in>nat\" and \"P(0)\" and \"\\<forall>k\\<in>nat. P(k)\\<longrightarrow>P(k #+ 1)\"\n  shows \"P(n)\" "}

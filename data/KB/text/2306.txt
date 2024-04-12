@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next theorem illustrates the meaning of the concept of \n  function in ZF.\\<close>\n"}

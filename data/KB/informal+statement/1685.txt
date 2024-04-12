@@ -1,0 +1,1 @@
+{"informal": " Assuming that set J is closed in I of the ring0, there exists a set K such that J is a subset of K and J is an element of I.", "statement": "lemma (in ring0) closeBasic:\n  assumes \"U{is closed in}{D(J). J\\<in>\\<I>}\"\n  obtains J where \"J\\<in>\\<I>\" and \"U={K\\<in>Spec. J\\<subseteq>K}\"\n"}

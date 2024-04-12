@@ -1,0 +1,1 @@
+{"informal": " If function f is an injection from set A to set B, then it is an injection from A to the range of f.", "statement": "lemma inj_inj_range: assumes \"f \\<in> inj(A,B)\"\n  shows \"f \\<in> inj(A,range(f))\"\n  "}

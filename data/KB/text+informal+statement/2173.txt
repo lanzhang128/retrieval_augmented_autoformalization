@@ -1,0 +1,1 @@
+{"text": "text\\<open>The cofinite topology on the natural numbers is $T_1$, but\nnot US.\\<close>\n", "informal": " The CoFinite set of natural numbers is not an unbounded set.", "statement": "theorem cofinite_not_US:\n  shows \"\\<not>((CoFinite nat){is US})\"\n"}

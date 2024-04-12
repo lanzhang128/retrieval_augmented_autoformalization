@@ -1,0 +1,1 @@
+{"text": "text\\<open>The order on the set of real numbers is constructed by \n  specifying the set of positive reals. This set is defined\n  as  the projection of the set of positive slopes.\\<close>\n", "statement": "definition\n  \"PositiveReals \\<equiv> {SlopeEquivalenceRel``{s}. s \\<in> PositiveSlopes}\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " In the top group, zero is an element of the group (G).", "statement": "lemma (in topgroup) zero_in_tgroup: shows \"\\<zero>\\<in>G\"\n  "}

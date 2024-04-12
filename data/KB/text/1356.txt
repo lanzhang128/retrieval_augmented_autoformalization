@@ -1,0 +1,1 @@
+{"text": "text\\<open>In this context $x \\leq y$ implies that both $x$ and $y$ belong\n  to $L$.\\<close>\n"}

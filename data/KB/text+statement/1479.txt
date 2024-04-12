@@ -1,0 +1,1 @@
+{"text": "text\\<open>Zero is the class of any finite range function.\\<close>\n", "statement": "lemma (in real0) Real_ZF_1_L10: \n  assumes A1: \"s \\<in> Slopes\"\n  shows \"SlopeEquivalenceRel``{s} = \\<zero> \\<longleftrightarrow> s \\<in> BoundedIntMaps\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Before delving into maximal ideals, lets define some operation on ideals\n  that are useful when formulating some proofs.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of the previous lemma for a function from integers to \n  integers.\\<close>\n", "statement": "corollary (in int0) Int_ZF_1_3_L20C:\n  assumes \"f:\\<int>\\<rightarrow>\\<int>\" and \"\\<forall>m\\<in>\\<int>. abs(f`(m)) \\<lsq> L\"\n  shows \"f``(\\<int>) \\<in> Fin(\\<int>)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Strict order is preserved by translations.\\<close>\n"}

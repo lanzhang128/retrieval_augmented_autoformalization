@@ -1,0 +1,1 @@
+{"text": "text\\<open>We define ordered ring as a commutative ring with linear order \n  that is preserved by \n  translations and such that the set of nonnegative elements is closed\n  under multiplication. Note that this definition does not guarantee \n  that there are no zero divisors in the ring.\\<close>\n"}

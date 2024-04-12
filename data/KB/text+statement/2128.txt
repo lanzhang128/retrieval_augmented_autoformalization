@@ -1,0 +1,1 @@
+{"text": "text\\<open>A set is dense iff it intersects all non-empty, open sets of the topology.\\<close>\n", "statement": "lemma dense_int_open:\n  assumes \"T{is a topology}\" and \"A\\<subseteq>\\<Union>T\"\n  shows \"Closure(A,T)=\\<Union>T \\<longleftrightarrow> (\\<forall>U\\<in>T. U\\<noteq>0 \\<longrightarrow> A\\<inter>U\\<noteq>0)\"\n"}

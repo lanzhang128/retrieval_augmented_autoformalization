@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a function has infinite limit, then we can add such constant\n  such that minimum of those arguments for which the function (plus the constant) \n  is larger than another given constant is greater than a third constant.\n  It is not as complicated as it sounds.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The restriction of a base is a base for the restriction.\\<close>\n", "statement": "lemma subspace_base_topology:\n  assumes \"B {is a base for} T\"\n  shows \"(B {restricted to} Y) {is a base for} (T {restricted to} Y)\"\n"}

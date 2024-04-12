@@ -1,0 +1,1 @@
+{"text": "text\\<open>The product of $T_0$ spaces is $T_0$.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Associativity for the multiplication by natural number and the ring multiplication\n  extended to three elements of the ring:\\<close>\n"}

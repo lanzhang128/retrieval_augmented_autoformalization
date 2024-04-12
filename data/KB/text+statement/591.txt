@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse of an abelian group is an endomorphism.\\<close>\n", "statement": "lemma (in abelian_group) end_inverse_group:\n  shows \"GroupInv(G,P) \\<in> End(G,P)\"\n  "}

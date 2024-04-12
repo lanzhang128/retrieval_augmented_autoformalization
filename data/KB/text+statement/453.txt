@@ -1,0 +1,1 @@
+{"text": "text\\<open>Translations are bijective.\\<close>\n", "statement": "lemma (in group0) trans_bij: assumes \"g\\<in>G\" shows\n  \"RightTranslation(G,P,g) \\<in> bij(G,G)\" and \"LeftTranslation(G,P,g) \\<in> bij(G,G)\"\n"}

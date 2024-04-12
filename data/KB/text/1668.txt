@@ -1,0 +1,1 @@
+{"text": "text\\<open>An import property satisfied by many important rings is\nbeing Noetherian: every ideal is finitely generated.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Products of open sets are open in the product topology.\\<close>\n", "statement": "lemma prod_open_open_prod: \n  assumes A1: \"T {is a topology}\"  \"S {is a topology}\" and\n  A2: \"U\\<in>T\" \"V\\<in>S\"\n  shows \"U\\<times>V \\<in> ProductTopology(T,S)\"\n"}

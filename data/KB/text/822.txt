@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $f$ is a positive slope and $p$ is a positive integer $p$, then \n   $f^{-1}(p)$ (defined as the minimum of the set $\\{n\\in Z_+: p\\leq f(n)\\}$ ) \n  is a (well defined) positive integer.\\<close>\n"}

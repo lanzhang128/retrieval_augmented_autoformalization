@@ -1,0 +1,1 @@
+{"text": "text\\<open>The restriction of a base is a base for the restriction.\\<close>\n"}

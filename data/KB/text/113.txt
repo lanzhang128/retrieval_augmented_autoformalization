@@ -1,0 +1,1 @@
+{"text": "text\\<open>The values of congruent functions are in the space. Note that\n  although this lemma is intended to be used with functions, we don't\n  need to assume that $f$ is a function.\\<close>\n"}

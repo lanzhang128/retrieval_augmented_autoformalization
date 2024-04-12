@@ -1,0 +1,1 @@
+{"text": "text\\<open>This way we arrive at the following definition of a predicate that\n  states that pair of sets is a topological group.\\<close>\n"}

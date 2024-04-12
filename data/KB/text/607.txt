@@ -1,0 +1,1 @@
+{"text": "text\\<open>Since we have uniqueness we can show the inverse of \\<open>fin_indseq_props\\<close>: \n  a sequence that satisfies the inductive sequence properties listed there \n  is the inductively defined sequence. \\<close>\n"}

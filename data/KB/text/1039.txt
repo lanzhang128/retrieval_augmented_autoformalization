@@ -1,0 +1,1 @@
+{"text": "text\\<open>$\\leq$ is antisymmetric, transitive, total, and linear. Proofs by\n  rewrite using definitions.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse image of a subset $U$ of the quotient by the quotient projection is the union\n   of $U$. Note since $U$ is a subset of $A/r$ it is a collection of equivalence classes.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>All the cosets are equipollent.\\<close>\n", "statement": "lemma (in group0) cosets_equipoll:\n  assumes \"IsAsubgroup(H,P)\" \"g1\\<in>G\"\"g2\\<in>G\"\n  defines \"r \\<equiv> QuotientGroupRel(G,P,H)\"\n  shows \"r``{g1} \\<approx> r``{g2}\"\n"}

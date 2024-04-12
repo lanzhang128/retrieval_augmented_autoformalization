@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another sufficient consdition for two a.h. to be almost\n  equal. It is actually just an expansion of the definition\n  of the quotient group relation.\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_4_L12A: assumes \"s\\<in>AH\"  \"r\\<in>AH\"\n  and \"s\\<bullet>(GroupInv(AH,Op1)`(r)) \\<in> FR\"\n  shows \"s\\<cong>r\"  \"r\\<cong>s\"\n"}

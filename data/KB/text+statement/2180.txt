@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a topological space is KC, then its one-point compactification\nis US.\\<close>\n", "statement": "theorem (in topology0) KC_imp_OP_comp_is_US:\n  assumes \"T{is KC}\"\n  shows \"({one-point compactification of}T){is US}\"\n"}

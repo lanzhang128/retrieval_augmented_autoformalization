@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next theorem states that the the natural \n  neighborhood system on $X=\\bigcup T$ indeed is a neighborhood system. \\<close>\n", "statement": "theorem neigh_from_topology:\n  assumes \"T {is a topology}\"\n  shows \"({neighborhood system of} T) {is a neighborhood system on} (\\<Union>T)\"\n"}

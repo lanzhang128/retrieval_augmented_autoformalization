@@ -1,0 +1,1 @@
+{"informal": " In a generalized sense, \"small2\" is equivalent to the range of the embedding function.\n\nAlternatively:\n\nThe set \"small2\" and the range of the embedding function are equal.", "statement": "definition (in generalization) \"small2 \\<equiv> range(embed)\"\n"}

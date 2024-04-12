@@ -1,0 +1,1 @@
+{"text": "text\\<open>Here follow some auxiliary lemmas.\\<close>\n", "statement": "lemma (in topgroup) trans_closure:\n  assumes \"x\\<in>G\" \"A\\<subseteq>G\"\n  shows \"cl(x\\<ltr>A)=x\\<ltr>cl(A)\"\n"}

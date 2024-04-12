@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another lemma about rearranging a product of four group\n  elements.\\<close>\n"}

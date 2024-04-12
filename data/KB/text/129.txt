@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $A$ is saturated then $x\\in A$ iff its class is in the projection \n  of $A$.\\<close>\n"}

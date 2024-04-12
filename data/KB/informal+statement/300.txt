@@ -1,0 +1,1 @@
+{"informal": " Assuming a natural number n, it belongs to the set of finite powers of natural numbers (denoted as FinPow(nat)).", "statement": "lemma nat_finpow_nat: assumes \"n \\<in> nat\" shows \"n \\<in> FinPow(nat)\"\n  "}

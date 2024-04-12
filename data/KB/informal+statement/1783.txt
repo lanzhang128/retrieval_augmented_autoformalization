@@ -1,0 +1,1 @@
+{"informal": " If T is a Topological Space and T satisfies the T2 (Hausdorff) property, then T also satisfies the T3 (Separation) property.", "statement": "corollary (in topgroup) T2_imp_T3:\n  assumes \"T{is T\\<^sub>2}\"\n  shows \"T{is T\\<^sub>3}\" "}

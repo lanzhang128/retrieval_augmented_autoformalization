@@ -1,0 +1,1 @@
+{"text": "text\\<open>A version of \\<open>comp_id_conv\\<close> with weaker assumptions.\\<close>\n", "statement": "lemma comp_conv_id: assumes A1: \"a \\<in> bij(A,B)\" and A2: \"b:B\\<rightarrow>A\" and\n  A3: \"\\<forall>x\\<in>A. b`(a`(x)) = x\"\n  shows \"b \\<in> bij(B,A)\" and  \"a = converse(b)\" and \"b = converse(a)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A set is bounded if it is bounded below and above.\\<close>\n", "statement": "definition\n  \"IsBounded(A,r) \\<equiv> (IsBoundedAbove(A,r) \\<and> IsBoundedBelow(A,r))\"\n"}

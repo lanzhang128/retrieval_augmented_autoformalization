@@ -1,0 +1,1 @@
+{"text": "text\\<open> In the loop context the pair \\<open>(G,A)\\<close> forms a loop. \\<close>\n", "statement": "lemma (in loop0) is_loop: shows \"IsAloop(G,A)\"\n  unfolding IsAloop_def "}

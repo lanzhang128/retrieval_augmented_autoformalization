@@ -1,0 +1,1 @@
+{"text": "text\\<open>A technical lemma about what happens when one absolute value is\n  not greater or equal than another.\\<close>\n"}

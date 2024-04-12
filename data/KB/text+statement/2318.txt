@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another way of expressing that lambda expression is a function.\\<close>\n", "statement": "lemma lam_is_fun_range: assumes \"f={\\<langle>x,g(x)\\<rangle>. x\\<in>X}\"\n  shows \"f:X\\<rightarrow>range(f)\"\n"}

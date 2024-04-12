@@ -1,0 +1,1 @@
+{"text": "text\\<open> Meet of the elements of the lattice is in the lattice. \\<close>\n", "statement": "lemma (in meet_semilatt) meet_props: assumes \"x\\<in>L\" \"y\\<in>L\" \n  shows \"x\\<sqinter>y \\<in> L\" and \"x\\<sqinter>y = inf {x,y}\"\n"}

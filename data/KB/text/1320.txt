@@ -1,0 +1,1 @@
+{"text": "text\\<open>Some variants of the triangle inequality.\\<close>\n"}

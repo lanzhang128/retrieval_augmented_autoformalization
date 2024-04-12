@@ -1,0 +1,1 @@
+{"informal": " In the group0 theory, it is proved that the singleton subset {<one>} is a normal subgroup of group G.", "statement": "corollary (in group0) trivial_normal_subgroup:\n  shows \"IsAnormalSubgroup(G,P,{\\<one>})\"\n"}

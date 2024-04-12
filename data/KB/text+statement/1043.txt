@@ -1,0 +1,1 @@
+{"text": "text\\<open>What is \\<open>succ\\<close>, anyway? It's a union with the singleton of the set.\\<close>\n", "statement": "lemma succ_explained: shows \"succ(n) = n \\<union> {n}\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>An associativity property involving concatenation \n  and appending. For proof we just convert appending to\n  concatenation and use \\<open>concat_assoc\\<close>.\\<close>\n"}

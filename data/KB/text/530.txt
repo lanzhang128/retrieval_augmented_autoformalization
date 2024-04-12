@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the group is abelian, then almost homomorphisms form a \n  subgroup of the lifted group.\\<close>\n"}

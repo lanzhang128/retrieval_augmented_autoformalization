@@ -1,0 +1,1 @@
+{"text": "text\\<open>As it happends to connected spaces, a continuous function from a compact space\nto an anti-compact space has finite range.\\<close>\n"}

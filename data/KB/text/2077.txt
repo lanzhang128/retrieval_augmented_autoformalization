@@ -1,0 +1,1 @@
+{"text": "text\\<open>The closure of a set is itself if it is \\<open>0\\<close> or\nthe union with \\<open>T\\<close>.\\<close>\n"}

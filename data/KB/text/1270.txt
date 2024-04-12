@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can multiply the sides of two inequalities,\n  first of them strict and we get a strict inequality.\\<close>\n"}

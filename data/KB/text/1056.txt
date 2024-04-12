@@ -1,0 +1,1 @@
+{"text": "text\\<open>The term $k \\leq n$ is the same as $k < \\textrm{succ}(n)$.  \\<close>\n"}

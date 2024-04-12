@@ -1,0 +1,1 @@
+{"text": "text\\<open>An open neighborhood of $x$ is a set neighborhood of $\\{ x\\}$. \\<close>\n"}

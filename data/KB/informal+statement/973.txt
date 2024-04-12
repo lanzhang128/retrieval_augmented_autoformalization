@@ -1,0 +1,1 @@
+{"informal": " If A is an element in a complex number set and A is not equal to zero, then A divided by A equals one.", "statement": "lemma (in MMIsar0) MMI_dividt: \n   shows \"( A \\<in> \\<complex> \\<and> A \\<noteq> \\<zero> ) \\<longrightarrow> ( A \\<cdiv> A ) = \\<one>\"\n"}

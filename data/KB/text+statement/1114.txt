@@ -1,0 +1,1 @@
+{"text": "text\\<open> \\<open>Order_ZF_2_L1\\<close>, implication from right to left.\\<close>\n", "statement": "lemma Order_ZF_2_L1B: assumes \"\\<langle> a,x\\<rangle> \\<in> r\"  \"\\<langle> x,b\\<rangle> \\<in> r\"\n  shows \"x \\<in> Interval(r,a,b)\"\n  "}

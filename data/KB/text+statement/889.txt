@@ -1,0 +1,1 @@
+{"text": "text\\<open>If two integers are nonnegative, then the opposite\n  of one is less or equal than the other and the sum is also nonnegative.\\<close>\n", "statement": "lemma (in int0) Int_ZF_2_L14A: \n  assumes \"\\<zero>\\<lsq>m\"  \"\\<zero>\\<lsq>n\"\n  shows \n  \"(\\<rm>m) \\<lsq> n\"\n  \"\\<zero> \\<lsq> m \\<ra> n\"\n  "}

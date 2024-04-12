@@ -1,0 +1,1 @@
+{"text": "text\\<open>The classes of almost homomorphisms form a ring.\\<close>\n", "statement": "theorem (in group1) Ring_ZF_1_1_T1: \n  assumes \"R = QuotientGroupRel(AH,Op1,FR)\"\n  and \"A = ProjFun2(AH,R,Op1)\" \"M = ProjFun2(AH,R,Op2)\"\n  shows \"IsAring(AH//R,A,M)\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a\\cdot b^{-1}$ is nonnegative, then $b \\leq a$. This maybe used to\n  recover the order from the set of nonnegative elements and serve as a way\n  to define order by prescibing that set (see the \"Alternative definitions\"\n  section).\\<close>\n"}

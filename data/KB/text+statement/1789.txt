@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every locally-compact subgroup of a $T_0$ group is closed.\\<close>\n", "statement": "theorem (in topgroup) loc_compact_T0_closed:\n  assumes \"IsAsubgroup(H,f)\" \"(T{restricted to}H){is locally-compact}\" \"T{is T\\<^sub>0}\"\n  shows \"H{is closed in}T\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition of natural order on integers as a relation on \\<open>int\\<close>.\n  In the standard Isabelle/ZF the inequality relation on integers\n  is denoted \\<open>\\<le>\\<close> prepended with the dollar sign.\\<close>\n", "statement": "definition\n  \"IntegerOrder \\<equiv> {p \\<in> int\\<times>int. fst(p) $\\<le> snd(p)}\"\n"}

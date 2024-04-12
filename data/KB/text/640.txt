@@ -1,0 +1,1 @@
+{"text": "text\\<open>The notion that will actually be used is the binomial coefficient ${n\\choose k}$\n  which we define as the value at the right place of the Pascal's triangle. \\<close>\n"}

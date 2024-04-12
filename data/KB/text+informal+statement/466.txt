@@ -1,0 +1,1 @@
+{"text": "text\\<open>An alternative definition of a group inverse of a set.\\<close>\n", "informal": " If A is a subset of group G, then the inverse of A is equal to the set of all elements with their inverses in A.", "statement": "lemma (in group4) interval_inv: assumes \"A\\<subseteq>G\"\n  shows \"A\\<sinv> = {x\\<inverse>.x\\<in>A}\"\n"}

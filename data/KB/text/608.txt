@@ -1,0 +1,1 @@
+{"text": "text\\<open>A corollary about the domain of a finite inductive sequence.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If relation $R$ orders a set $A$, (in Metamath sense) then $R$ \n  is irreflexive, transitive and linear therefore is a total order on $A$ \n  (in Isabelle sense).\\<close>\n"}

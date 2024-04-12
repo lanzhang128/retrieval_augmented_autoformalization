@@ -1,0 +1,1 @@
+{"text": "text\\<open>Having a group and a normal subgroup $N$ \n  we can create another group\n  consisting of eqivalence classes of the relation \n  $a\\sim b \\equiv a\\cdot b^{-1} \\in N$.  We will refer to this relation\n  as the quotient group relation. The classes of this relation are in \n  fact cosets of subgroup $H$.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the order relation has a property that every nonempty bounded set \n  attains a minimum (for example integers are like that), \n  then every nonempty set bounded below attains a minimum.\\<close>\n"}

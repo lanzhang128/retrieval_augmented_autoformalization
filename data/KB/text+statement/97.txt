@@ -1,0 +1,1 @@
+{"text": "text\\<open>Adding a new maximum to a set appends it to the enumeration.\\<close>\n", "statement": "lemma (in enums) enum_append: \n  assumes A1: \"A \\<in> FinPow(X)\" and A2: \"b \\<in> X-A\" and \n  A3: \"\\<forall>a\\<in>A. a\\<lsq>b\"\n  shows \" \\<sigma>(A \\<union> {b}) = \\<sigma>(A)\\<hookleftarrow> b\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open> Another fact we will need is that for every $x\\in X=\\bigcup T$ the neighborhoods of $x$\n  form a filter \\<close>\n"}

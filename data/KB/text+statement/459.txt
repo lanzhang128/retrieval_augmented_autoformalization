@@ -1,0 +1,1 @@
+{"text": "text\\<open>A technical lemma about solving equations with translations.\\<close>\n", "statement": "lemma (in group0) ltrans_inv_in: assumes A1: \"V\\<subseteq>G\" and A2: \"y\\<in>G\" and\n  A3: \"x \\<in> LeftTranslation(G,P,y)``(GroupInv(G,P)``(V))\"\n  shows \"y \\<in> LeftTranslation(G,P,x)``(V)\"\n"}

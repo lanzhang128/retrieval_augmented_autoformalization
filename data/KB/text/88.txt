@@ -1,0 +1,1 @@
+{"text": "text\\<open>And it has the intended value.\\<close>\n"}

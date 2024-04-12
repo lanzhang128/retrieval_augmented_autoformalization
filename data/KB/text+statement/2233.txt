@@ -1,0 +1,1 @@
+{"text": "text\\<open> Every uniform cover has a star refinement. \\<close>\n", "statement": "lemma unicov_has_star_ref: \n  assumes \"\\<Theta> {are uniform covers of} X\" and \"P\\<in>\\<Theta>\"\n  shows \"\\<exists>Q\\<in>\\<Theta>. (Q <\\<^sup>* P)\"\n  "}

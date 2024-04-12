@@ -1,0 +1,1 @@
+{"text": "text\\<open>Some properties of singletons.\\<close>\n"}

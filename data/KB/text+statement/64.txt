@@ -1,0 +1,1 @@
+{"text": "text\\<open>All complex numbers have additive inverses.\\<close>\n", "statement": "lemma (in complex0) axnegex: assumes A1: \"a \\<in> \\<complex>\"\n  shows \"\\<exists>x\\<in>\\<complex>. a \\<ca> x  = \\<zero>\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition of the right inverse as a function on $G$: \\<close>\n"}

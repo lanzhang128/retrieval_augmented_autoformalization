@@ -1,0 +1,1 @@
+{"text": "text\\<open>We first differenciate the spectrum of the lindeloef property depending\non some axiom of choice.\\<close>\n", "statement": "lemma lindeloef_spec1:\n  assumes \"{the axiom of} nat {choice holds for subsets}(Pow(nat))\"\n  shows \"(A {is in the spectrum of} (\\<lambda>T. ((\\<Union>T){is lindeloef in}T))) \\<longleftrightarrow> (A\\<lesssim>nat)\"\n  "}

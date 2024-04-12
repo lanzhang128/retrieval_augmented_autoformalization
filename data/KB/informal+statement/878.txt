@@ -1,0 +1,1 @@
+{"informal": " Assuming i is less than k, we have i is less than or equal to k, and the negation of i is greater than or equal to the negation of k.", "statement": "lemma (in int0) Int_ZF_2_L10: assumes \"k \\<lsq> i\"\n  shows \n  \"(\\<rm>i) \\<lsq> (\\<rm>k)\"   \n  \"$-i \\<lsq> $-k\" \n  "}

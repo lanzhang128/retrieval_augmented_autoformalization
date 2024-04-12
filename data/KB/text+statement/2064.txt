@@ -1,0 +1,1 @@
+{"text": "text\\<open>The topology is defined in the set $X$\\<close>\n", "statement": "lemma union_cocardinal:\n  assumes \"T\\<noteq>0\"\n  shows \"\\<Union> CoCardinal(X,T) = X\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " In the context of the finitesup1 theory, prove that A is a subgroup of M.", "statement": "theorem (in finsupp1) fin_sup_group:\n  shows \"IsAsubgroup(\\<M>,\\<A>)\"\n"}

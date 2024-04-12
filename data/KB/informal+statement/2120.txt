@@ -1,0 +1,1 @@
+{"informal": " A set K is Lindeloef in a topos T if and only if K is compact in T and every element in the successor natural number of T (i.e., T with one more element) is in the topos T.", "statement": "definition\n  IsLindeloef  (\"_{is lindeloef in}_\" 90) where\n  \"K {is lindeloef in} T\\<equiv>K{is compact of cardinal}csucc(nat){in}T\"\n"}

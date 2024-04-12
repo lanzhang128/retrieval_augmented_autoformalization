@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a\\leq 1$ and $a\\neq 1$, then $a \\in G\\setminus G^{+}$.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L4C:\n  assumes A1: \"a\\<lsq>\\<one>\" and A2: \"a\\<noteq>\\<one>\"\n  shows \"a \\<in> G-G\\<^sup>+\"\n"}

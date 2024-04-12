@@ -1,0 +1,1 @@
+{"text": "text\\<open>A formula for tail of a finite list.\\<close>\n", "statement": "lemma tail_as_set: assumes \"n \\<in> nat\" and \"a: n #+ 1 \\<rightarrow> X\"\n  shows \"Tail(a) = {\\<langle>k,a`(k #+ 1)\\<rangle>. k\\<in>n}\"\n  "}

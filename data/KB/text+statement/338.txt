@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition that specifies how to convert a sequence $a$ \n  of elements of $Y$ into a sequence of transformations of $X$, given a binary operation\n  $f :X\\times Y \\rightarrow X$.\\<close>\n", "statement": "definition\n  \"Seq2TrSeq(f,a) \\<equiv> {\\<langle>k,Fix2ndVar(f,a`(k))\\<rangle>. k \\<in> domain(a)}\"\n"}

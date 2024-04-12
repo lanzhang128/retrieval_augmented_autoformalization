@@ -1,0 +1,1 @@
+{"text": "text\\<open>For total and transitive relations finite set has a minimum.\\<close>\n", "statement": "theorem Finite_ZF_1_1_T1B: \n  assumes A1: \"r {is total on} X\" and A2: \"trans(r)\"\n  and A3: \"B \\<in> Fin(X)\"\n  shows \"B=0 \\<or> HasAminimum(r,B)\"\n"}

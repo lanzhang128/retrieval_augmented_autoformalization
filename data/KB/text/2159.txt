@@ -1,0 +1,1 @@
+{"text": "text\\<open>We first differenciate the spectrum of the lindeloef property depending\non some axiom of choice.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition of order relation on the real line.\\<close>\n"}

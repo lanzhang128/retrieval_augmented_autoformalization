@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another lemma about cancelling with two elements.\\<close>\n", "statement": "lemma (in group0) group0_4_L6AB: \n  assumes A1: \"P {is commutative on} G\" and A2: \"a\\<in>G\"  \"b\\<in>G\"\n  shows \n  \"a\\<cdot>(a\\<cdot>b)\\<inverse> = b\\<inverse>\"\n  \"a\\<cdot>(b\\<cdot>a\\<inverse>) = b\"\n"}

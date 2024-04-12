@@ -1,0 +1,1 @@
+{"informal": " In the context of the `field0` theory, prove that field `K` with type `A` and multiplication operation `M` has no divisions by zero.", "statement": "lemma (in field0) field_has_no_zero_divs: shows \"HasNoZeroDivs(K,A,M)\"\n"}

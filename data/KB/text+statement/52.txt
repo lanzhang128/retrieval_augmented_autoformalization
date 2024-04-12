@@ -1,0 +1,1 @@
+{"text": "text\\<open>Complex multiplication is a complex valued binary\n  operation on complex numbers.\\<close>\n", "statement": "lemma (in complex0) axmulopr: shows \"CplxMul(R,A,M): \\<complex> \\<times> \\<complex> \\<rightarrow> \\<complex>\"\n"}

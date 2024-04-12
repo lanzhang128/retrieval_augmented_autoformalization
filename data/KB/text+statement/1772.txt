@@ -1,0 +1,1 @@
+{"text": "text\\<open> Every neighborhood of zero has a symmetric subset that is a neighborhood of zero.\\<close>\n", "statement": "theorem (in topgroup) exists_sym_zerohood:\n  assumes \"U\\<in>\\<N>\\<^sub>0\"\n  shows \"\\<exists>V\\<in>\\<N>\\<^sub>0. (V\\<subseteq>U \\<and> (\\<sm>V)=V)\"\n"}

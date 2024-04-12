@@ -1,0 +1,1 @@
+{"text": "text\\<open>Semigroup operation is closed.\\<close>\n"}

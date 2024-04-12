@@ -1,0 +1,1 @@
+{"text": "text\\<open>We added only one new point to the space.\\<close>\n", "statement": "lemma (in topology0) op_compact_total:\n  shows \"\\<Union>({one-point compactification of}T)={\\<Union>T}\\<union>(\\<Union>T)\"\n"}

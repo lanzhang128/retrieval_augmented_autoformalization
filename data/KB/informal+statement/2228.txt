@@ -1,0 +1,1 @@
+{"informal": " A relation P <* Q holds if and only if for every element U in P, there exists an element V in Q such that the star neighborhood of U in P is contained in V.", "statement": "definition\n  IsStarRefinement (\"_ <\\<^sup>* _\" 90)\n  where \"P <\\<^sup>* Q \\<equiv> \\<forall>U\\<in>P.\\<exists>V\\<in>Q. Star(U,P) \\<subseteq> V\"\n"}

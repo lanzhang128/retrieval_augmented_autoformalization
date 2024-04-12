@@ -1,0 +1,1 @@
+{"text": "text\\<open>A linear order is partial order.\\<close>\n", "statement": "lemma Order_ZF_1_L2: assumes \"IsLinOrder(X,r)\" \n  shows \"IsPartOrder(X,r)\" \n  "}

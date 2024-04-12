@@ -1,0 +1,1 @@
+{"text": "text\\<open>The relation defined by a positive set is transitive.\\<close>\n", "statement": "lemma (in group0) OrderedGroup_ZF_5_L3:\n  assumes A1: \"r = {p \\<in> G\\<times>G. fst(p) = snd(p) \\<or> fst(p)\\<inverse>\\<cdot>snd(p) \\<in> H}\"\n  and A2: \"H\\<subseteq>G\"  \"H {is closed under} P\"\n  shows \"trans(r)\"\n"}

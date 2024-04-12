@@ -1,0 +1,1 @@
+{"informal": " If elements a, b, and c are in a group G, and a * b equals a * c, then b equals c.", "statement": "lemma (in group0) cancel_left: assumes \"a\\<in>G\"  \"b\\<in>G\"  \"c\\<in>G\" \"a\\<cdot>b = a\\<cdot>c\"\n  shows \"b=c\"\n"}

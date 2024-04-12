@@ -1,0 +1,1 @@
+{"informal": " The lemma \"inter_empty_empty\" asserts that the intersection of the empty set with itself is equal to the empty set.", "statement": "lemma inter_empty_empty: shows \"\\<Inter>0 = 0\" by (rule Inter_0)\n"}

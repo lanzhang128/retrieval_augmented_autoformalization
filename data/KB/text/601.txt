@@ -1,0 +1,1 @@
+{"text": "text\\<open>A very important homomorphism is given by taking every element\n  to its class in a group quotient. Recall that $\\lambda x\\in X. p(x)$\n  is an alternative notation for function defined as a set of pairs,\n  see lemma \\<open>lambda_fun_alt\\<close> in theory \\<open>func1.thy\\<close>.\\<close>\n"}

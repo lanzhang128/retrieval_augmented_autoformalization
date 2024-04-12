@@ -1,0 +1,1 @@
+{"text": "text\\<open>Basic properties of sequences defined by equation $x_{n+1}=f_n (x_n)$.\\<close>\n"}

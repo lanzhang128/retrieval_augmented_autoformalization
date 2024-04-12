@@ -1,0 +1,1 @@
+{"text": "text\\<open>For antisymmetric relations maximum of a set is unique if it exists.\\<close>\n", "statement": "lemma Order_ZF_4_L1: assumes A1: \"antisym(r)\" and A2: \"HasAmaximum(r,A)\"\n  shows \"\\<exists>!M. M\\<in>A \\<and> (\\<forall>x\\<in>A. \\<langle> x,M\\<rangle> \\<in> r)\"\n"}

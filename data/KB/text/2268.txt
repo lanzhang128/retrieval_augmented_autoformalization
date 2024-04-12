@@ -1,0 +1,1 @@
+{"text": "text\\<open>Here we define a restriction of a collection of sets to a given set. \n  In romantic math this is typically denoted $X\\cap M$ and means \n  $\\{X\\cap A : A\\in M \\} $. Note there is also restrict$(f,A)$ \n  defined for relations in ZF.thy.\\<close>\n"}

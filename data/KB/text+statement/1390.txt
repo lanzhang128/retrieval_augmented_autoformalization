@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma just expands the condition that requires the set\n  of nonnegative elements to be closed with respect to multiplication.\n  These are properties of totally ordered groups.\\<close>\n", "statement": "lemma (in  ring1) OrdRing_ZF_1_L5: \n  assumes \"\\<zero>\\<lsq>a\"  \"\\<zero>\\<lsq>b\"\n  shows \"\\<zero> \\<lsq> a\\<cdot>b\"\n  "}

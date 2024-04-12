@@ -1,0 +1,1 @@
+{"text": "text\\<open>The \"exclusive or\" is the same as negation of equivalence.\\<close>\n"}

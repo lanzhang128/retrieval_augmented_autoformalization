@@ -1,0 +1,1 @@
+{"text": "text\\<open>The previous construction preserves anti-hyperconnectedness.\\<close>\n", "statement": "theorem (in topology0) COF_comp_antiHConn:\n  assumes \"T{is anti-}IsHConnected\" \"\\<not>(\\<Union>T\\<prec>nat)\"\n  shows \"((({one-point compactification of}(CoFinite (\\<Union>T)))-{{\\<Union>T}})\\<union>T) {is anti-}IsHConnected\"\n"}

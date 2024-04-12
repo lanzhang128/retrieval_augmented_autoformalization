@@ -1,0 +1,1 @@
+{"text": "text\\<open>We will need this lemma to assert that ZF generalization \n  is an arbitrary generalization:\\<close>\n", "statement": "lemma mem_not_refl_2: shows \"{t} \\<notin> t\"\n  "}

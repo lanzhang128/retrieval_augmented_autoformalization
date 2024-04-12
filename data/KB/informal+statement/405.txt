@@ -1,0 +1,1 @@
+{"informal": " In the group `G` with respect to the relation `P`, if `g` is an element of `G` and the inverse image of `V` under `g` is a subset of `G`, then `g`'s inverse is an element of `V`.", "statement": "lemma (in group0) ginv_image_el: assumes \"V\\<subseteq>G\" \"g \\<in> GroupInv(G,P)``(V)\"\n  shows \"g\\<inverse> \\<in> V\"\n  "}

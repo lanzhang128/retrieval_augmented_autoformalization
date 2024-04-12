@@ -1,0 +1,1 @@
+{"text": "text\\<open>A group is a quasigroup and a loop.\\<close>\n"}

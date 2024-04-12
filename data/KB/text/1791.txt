@@ -1,0 +1,1 @@
+{"text": "text\\<open>We define interior of a set $A$ as the union of all open sets \n  contained in $A$. We use \\<open>Interior(A,T)\\<close> to denote the \n  interior of A.\\<close>\n"}

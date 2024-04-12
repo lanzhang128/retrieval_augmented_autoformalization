@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image of a set by translation is the same as the inverse image by\nby the inverse element translation.\\<close>\n"}

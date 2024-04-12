@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another type of space is an US-space; those where sequences\nhave at most one limit.\\<close>\n", "statement": "definition\n  IsUS (\"_{is US}\") where\n  \"T{is US} \\<equiv> \\<forall>N x y. (N:nat\\<rightarrow>\\<Union>T) \\<and> NetConvTop(\\<langle>N,Le\\<rangle>,x,T) \\<and> NetConvTop(\\<langle>N,Le\\<rangle>,y,T) \\<longrightarrow> y=x\"\n"}

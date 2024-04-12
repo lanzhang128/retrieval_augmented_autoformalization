@@ -1,0 +1,1 @@
+{"informal": " The lemma \"axi2m1\" in the theory \"complex0\" states that the square of the imaginary unit i equals zero in the complex number system.", "statement": "lemma (in complex0) axi2m1: shows \"\\<i>\\<cdot>\\<i> \\<ca> \\<one> = \\<zero>\"\n  "}

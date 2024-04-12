@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the group order is total, then the group is ordered linearly.\\<close>\n"}

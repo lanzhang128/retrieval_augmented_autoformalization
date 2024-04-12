@@ -1,0 +1,1 @@
+{"informal": " In the group3 theory, there is a lemma named OrderedGroup_ZF_1_L1 stating that the group0 relation holds on the group G and the binary operation P.", "statement": "lemma (in group3) OrderedGroup_ZF_1_L1: shows \"group0(G,P)\"\n  "}

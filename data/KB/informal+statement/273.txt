@@ -1,0 +1,1 @@
+{"informal": " In the context of DetFinStateAuto (a determistic finite state automaton), the following corollary asserts that the language defined by intersecting two regular languages over the alphabet Sigma is also a regular language.", "statement": "corollary (in DetFinStateAuto) regular_intersect:\n  shows \"LanguageDFSA{is a regular language on}\\<Sigma>\"\n  "}

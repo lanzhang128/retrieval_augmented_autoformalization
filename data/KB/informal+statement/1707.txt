@@ -1,0 +1,1 @@
+{"informal": " In the semigroup 1 setting, if x is an element of the set X, then the singular product {x} and the function application a(x) are equal.", "statement": "lemma (in semigr1) gen_prod_singleton: \n  assumes A1: \"x \\<in> X\"\n  shows  \"\\<pr>({x},a) = a`(x)\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Reformulation of the definition of composition of two relations: \\<close>\n", "statement": "lemma rel_compdef: \n  shows \"\\<langle>x,z\\<rangle> \\<in> r O s  \\<longleftrightarrow>  (\\<exists>y. \\<langle>x,y\\<rangle> \\<in> s \\<and> \\<langle>y,z\\<rangle> \\<in> r)\" \n  unfolding comp_def by auto\n"}

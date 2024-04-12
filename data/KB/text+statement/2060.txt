@@ -1,0 +1,1 @@
+{"text": "text\\<open>The collection of subsets of a set whose complement\nis strictly bounded by a cardinal is a topology given some assumptions\non the cardinal.\\<close>\n", "statement": "definition \n\"CoCardinal(X,T) \\<equiv> {F\\<in>Pow(X). X-F \\<prec> T}\\<union> {0}\"\n"}

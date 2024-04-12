@@ -1,0 +1,1 @@
+{"informal": " If x is a subset of y, then both x and y are elements of set L.", "statement": "lemma (in loop1) less_members: assumes \"x\\<ls>y\" shows \"x\\<in>L\" and \"y\\<in>L\" \n  "}

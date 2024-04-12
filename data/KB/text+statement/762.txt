@@ -1,0 +1,1 @@
+{"text": "text\\<open>Slopes map integers into integers.\\<close>\n", "statement": "lemma (in int1) Int_ZF_2_1_L2B: \n  assumes A1: \"f\\<in>\\<S>\" and A2: \"m\\<in>\\<int>\" \n  shows \"f`(m) \\<in> \\<int>\"\n"}

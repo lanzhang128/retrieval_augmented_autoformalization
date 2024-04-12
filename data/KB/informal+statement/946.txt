@@ -1,0 +1,1 @@
+{"informal": " In the setting where `L` is a semilattice with respect to operation `r`, and `L` is non-empty, `r` has the down-directed property over `L`. That is, every element in `L` has a `r`-predecessor in `L`.", "statement": "lemma meet_down_directs: assumes \"IsMeetSemilattice(L,r)\" \"L\\<noteq>0\"\n  shows \"r {down-directs} L\"\n"}

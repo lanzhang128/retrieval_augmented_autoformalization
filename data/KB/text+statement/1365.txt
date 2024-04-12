@@ -1,0 +1,1 @@
+{"text": "text\\<open>The nonnegative set is contained in the loop.\\<close>\n", "statement": "lemma (in loop1) nonneg_subset: shows \"L\\<^sup>+ \\<subseteq> L\"\n  "}

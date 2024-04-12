@@ -1,0 +1,1 @@
+{"text": "text\\<open>Secondly, let's show that the \\<open>CoCardinal X Q\\<close>\ntopologies for different sets $Q$ are all ordered\nas the partial order of sets. (The order is linear when considering only cardinals)\\<close>\n", "statement": "lemma order_cocardinal_top:\n  fixes X\n  assumes \"Q1\\<lesssim>Q2\"\n  shows \"CoCardinal(X,Q1) \\<subseteq> CoCardinal(X,Q2)\"\n"}

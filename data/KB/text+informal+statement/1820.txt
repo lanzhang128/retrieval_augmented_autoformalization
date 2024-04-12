@@ -1,0 +1,1 @@
+{"text": "text\\<open>Complement of an open set is closed.\\<close>\n", "informal": " In the topology setting (topology0): if A is an element of the topology T, then the set T minus A is closed in T.", "statement": "lemma (in topology0) Top_3_L9: assumes A1: \"A\\<in>T\" \n  shows \"(\\<Union>T - A) {is closed in} T\"\n"}

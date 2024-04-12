@@ -1,0 +1,1 @@
+{"informal": " Given functions `f: X -> X`, an element `x in X`, and a natural number `n`, the domain of the InductiveSequence `InductiveSequenceN(x, f, n)` equals `succ(n)`.", "statement": "corollary fin_indseq_domain: \n  assumes A1: \"f: X\\<rightarrow>X\" and A2: \"x\\<in>X\" and A3: \"n \\<in> nat\" \n  shows \"domain(InductiveSequenceN(x,f,n)) = succ(n)\"\n"}

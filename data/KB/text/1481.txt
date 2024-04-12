@@ -1,0 +1,1 @@
+{"text": "text\\<open>A one-side implication of the equivalence from \\<open>Real_ZF_1_L10\\<close>:\n  the class of a bounded integer map is the real zero.\\<close>\n"}

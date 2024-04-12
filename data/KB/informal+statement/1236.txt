@@ -1,0 +1,1 @@
+{"informal": " In the group3 theory, if element a is not equal to one and is multiplicatively inverted to one, then a is the identity element.", "statement": "lemma (in group3) OrderedGroup_ZF_1_L5AB:\n  assumes A1: \"\\<one>\\<lsq>a\" shows \"a\\<inverse>\\<lsq>\\<one>\" and \"\\<not>(a\\<lsq>\\<one> \\<and> a\\<noteq>\\<one>)\"\n"}

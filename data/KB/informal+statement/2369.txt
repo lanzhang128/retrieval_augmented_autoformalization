@@ -1,0 +1,1 @@
+{"informal": " If function `f` is an injection from set `A` to `B` and set `C` is a subset of `A`, then the image of the difference `A - C` under `f` equals the difference of the images of `A` and `C` under `f`.", "statement": "lemma inj_image_dif: \n  assumes A1: \"f \\<in> inj(A,B)\" and A2: \"C \\<subseteq> A\"\n  shows \"f``(A-C) = f``(A) - f``(C)\"\n"}

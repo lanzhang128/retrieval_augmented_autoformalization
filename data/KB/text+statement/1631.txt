@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another property with three elements.\\<close>\n", "statement": "lemma (in ring0) Ring_ZF_1_L10A: \n  assumes A1: \"a\\<in>R\"  \"b\\<in>R\"  \"c\\<in>R\"\n  shows \"a\\<ra>(b\\<rs>c) = a\\<ra>b\\<rs>c\"\n  "}

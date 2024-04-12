@@ -1,0 +1,1 @@
+{"informal": " In group G, given that r is a total order on the elements of G and a is an element of G, we have that there exists an element one such that a is less than one.", "statement": "lemma (in group3) OrderedGroup_ZF_3_L3E: \n  assumes \"r {is total on} G\" and \"a\\<in>G\"\n  shows \"\\<one> \\<lsq> \\<bar>a\\<bar>\"\n  "}

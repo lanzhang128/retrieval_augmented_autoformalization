@@ -1,0 +1,1 @@
+{"text": "text\\<open>What is the additive group inverse in the group of integers?\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_L9A: assumes A1: \"m\\<in>\\<int>\" \n  shows \"$-m = \\<rm>m\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " Given a topology T, and an element x that belongs to the union of all sets in T, the neighborhood system M of T is a filter on the union of T.", "statement": "lemma neighs_is_filter:\n  assumes \"T {is a topology}\" and \"x \\<in> \\<Union>T\" \n  defines Mdef: \"\\<M> \\<equiv> {neighborhood system of} T\"\n  shows \"\\<M>`(x) {is a filter on} (\\<Union>T)\"\n"}

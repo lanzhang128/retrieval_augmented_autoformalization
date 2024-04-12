@@ -1,0 +1,1 @@
+{"text": "text\\<open>The embedding of integers preserves the order.\\<close>\n", "informal": " Assuming m is less than k in the real numbers, show that the sets of real numbers less than m and less than k overlap.", "statement": "lemma (in real1) Real_ZF_1_4_L5: assumes A1: \"m\\<zlq>k\"\n  shows \"m\\<^sup>R \\<lsq> k\\<^sup>R\"\n"}

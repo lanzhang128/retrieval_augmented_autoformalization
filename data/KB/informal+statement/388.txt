@@ -1,0 +1,1 @@
+{"informal": " In the group0 theory, there is a lemma stated that for all relations P on the product space G x G, P is a function from G x G to G.", "statement": "lemma (in group0) group_oper_fun: shows \"P : G\\<times>G\\<rightarrow>G\"\n  "}

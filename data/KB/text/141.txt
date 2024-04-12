@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we multiply two different numbers by a nonzero number, the results \n  will be different.\\<close>\n"}

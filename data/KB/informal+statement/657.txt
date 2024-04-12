@@ -1,0 +1,1 @@
+{"informal": " Given integers a and b, if a is in the set of integers and b is in the set of integers, then the relation a successor b is equivalent to the relation a is the immediate predecessor of b.", "statement": "lemma (in int0) Int_ZF_1_1_L5B:\n  assumes \"a\\<in>\\<int>\"  \"b\\<in>\\<int>\"\n  shows \"a\\<rs>(\\<rm>b) = a\\<ra>b\"\n  "}

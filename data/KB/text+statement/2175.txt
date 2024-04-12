@@ -1,0 +1,1 @@
+{"text": "text\\<open>This topology is defined over $\\mathbb{N}^+\\cup\\{\\mathbb{N}^+\\}$ or \\<open>csucc(nat)\\<union>{csucc(nat)}\\<close>.\\<close>\n", "statement": "lemma extension_pow_union:\n  shows \"\\<Union>(Pow(csucc(nat)) \\<union> {{csucc(nat)}\\<union>S. S\\<in>(CoCountable csucc(nat))-{0}})=csucc(nat)\\<union>{csucc(nat)}\"\n"}

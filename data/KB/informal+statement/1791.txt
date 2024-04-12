@@ -1,0 +1,1 @@
+{"informal": " The set `Interior(A, T)` is defined to be the union of all sets `U` in `T` that are subset of `A`.", "statement": "definition\n  \"Interior(A,T) \\<equiv> \\<Union> {U\\<in>T. U \\<subseteq> A}\"\n"}

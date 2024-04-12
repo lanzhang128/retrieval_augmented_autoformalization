@@ -1,0 +1,1 @@
+{"informal": " In the real numbers, the set of non-zero real numbers is non-empty.", "statement": "lemma (in reals) pos_non_empty: shows \"\\<real>\\<^sub>+\\<noteq>0\"\n  "}

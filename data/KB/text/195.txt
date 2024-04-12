@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>Finite1_L15\\<close> where the second\n  set is a singleton. In \\<open>Group_ZF_3\\<close> theory this corresponds \n  to the situation where we multiply by a constant.\\<close>\n"}

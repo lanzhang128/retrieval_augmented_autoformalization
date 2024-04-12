@@ -1,0 +1,1 @@
+{"text": "text\\<open> Every neighborhood of zero has a symmetric subset that is a neighborhood of zero.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition of the maximum of a set.\\<close>\n"}

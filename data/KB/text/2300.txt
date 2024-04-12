@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse image by a composition is the composition of inverse images.\\<close>\n"}

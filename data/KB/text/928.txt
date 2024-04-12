@@ -1,0 +1,1 @@
+{"text": "text\\<open>Extending an integer interval by one is the same as adding the new \n  endpoint.\\<close>\n"}

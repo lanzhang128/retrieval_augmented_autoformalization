@@ -1,0 +1,1 @@
+{"informal": " In the context of the `fieldd` theory, `division` is a function from `K` times `K` to `0` less than `K`.", "statement": "lemma (in fieldd) div_fun: shows \"division: K\\<times>K\\<^sub>0 \\<rightarrow> K\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can think about the group inverse (the function) \n  as the inverse image of the neutral element. Recall that\n  in Isabelle \\<open>f-``(A)\\<close> denotes the inverse image of\n  the set $A$.\\<close>\n", "statement": "theorem (in group0) group0_2_T3: shows \"P-``{\\<one>} = GroupInv(G,P)\"\n"}

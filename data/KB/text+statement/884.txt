@@ -1,0 +1,1 @@
+{"text": "text\\<open>Adding a natural number increases integers.\\<close>\n", "statement": "lemma (in int0) Int_ZF_2_L12: assumes A1: \"i\\<in>\\<int>\" and A2: \"n\\<in>nat\"\n  shows \"i \\<lsq> i $+ $#n\"\n"}

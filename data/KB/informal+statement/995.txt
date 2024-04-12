@@ -1,0 +1,1 @@
+{"informal": " In a metric space, the disk centered at point c with radius R is equal to the set of all points x such that the distance between c and x is less than or equal to R.", "statement": "lemma (in pmetric_space) disk_definition: shows \"disk(c,R) = {x\\<in>X. d`\\<langle>c,x\\<rangle> \\<ls> R}\"\n"}

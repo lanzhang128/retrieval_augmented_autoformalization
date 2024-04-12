@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a partial function $g:X_1\\supseteq A\\rightarrow X_2$ is continuous with\nrespect to $(\\tau_1,\\tau_2)$, then $A$ is open (in $\\tau_1$) and \nthe function is continuous in the relative topology.\\<close>\n"}

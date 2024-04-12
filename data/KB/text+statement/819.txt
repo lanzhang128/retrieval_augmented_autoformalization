@@ -1,0 +1,1 @@
+{"text": "text\\<open>Identity function is a positive slope.\\<close>\n", "statement": "lemma (in int1) Int_ZF_2_3_L11: shows \"id(\\<int>) \\<in> \\<S>\\<^sub>+\"\n"}

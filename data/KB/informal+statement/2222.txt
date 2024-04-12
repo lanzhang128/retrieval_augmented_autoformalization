@@ -1,0 +1,1 @@
+{"informal": " if U is an element of set P, then U is a subset of Star(U,P), where Star(U,P) denotes the set of all elements that are in U or in some element that is in U and belongs to P.", "statement": "lemma element_subset_star: assumes \"U\\<in>P\" shows \"U \\<subseteq> Star(U,P)\"\n  "}

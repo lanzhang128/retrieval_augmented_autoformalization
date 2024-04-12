@@ -1,0 +1,1 @@
+{"text": "text\\<open>Slopes map integers into integers.\\<close>\n", "informal": " If function f is an element of set S and m is an integer, then the application of function f to integer m is also an integer.", "statement": "lemma (in int1) Int_ZF_2_1_L2B: \n  assumes A1: \"f\\<in>\\<S>\" and A2: \"m\\<in>\\<int>\" \n  shows \"f`(m) \\<in> \\<int>\"\n"}

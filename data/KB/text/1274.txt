@@ -1,0 +1,1 @@
+{"text": "text\\<open>If an element belongs to the positive set, then it is not the unit\n  and its inverse does not belong to the positive set.\\<close>\n"}

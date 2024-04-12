@@ -1,0 +1,1 @@
+{"informal": " Given that exactly one of the propositions p, q, r holds, p is equivalent to the negation of q or r.", "statement": "lemma Fol1_L8A: assumes A1: \"Exactly_1_of_3_holds(p,q,r)\"\n  shows \"p \\<longleftrightarrow> \\<not>(q \\<or> r)\"\n"}

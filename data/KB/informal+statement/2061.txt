@@ -1,0 +1,1 @@
+{"informal": " Assuming the infinite cardinality of set Q, CoCardinal(X,Q) is a topology.", "statement": "lemma CoCar_is_topology:\n  assumes \"InfCard (Q)\"\n  shows \"CoCardinal(X,Q) {is a topology}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>In the article \\cite{ReVa80}, we can find some results on anti-properties.\\<close>\n", "statement": "theorem (in topology0) anti_T0:\n  shows \"(T{is anti-}isT0) \\<longleftrightarrow> T={0,\\<Union>T}\"\n"}

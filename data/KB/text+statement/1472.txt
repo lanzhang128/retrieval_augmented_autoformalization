@@ -1,0 +1,1 @@
+{"text": "text\\<open>Lets try out our notation to see that zero and one are real numbers.\\<close>\n", "statement": "lemma (in real0) Real_ZF_1_L4: shows \"\\<zero>\\<in>\\<real>\"  \"\\<one>\\<in>\\<real>\"\n  "}

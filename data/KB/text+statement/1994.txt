@@ -1,0 +1,1 @@
+{"text": "text\\<open>A compact Hausdorff space is normal.\\<close>\n", "statement": "corollary (in topology0) T2_compact_is_normal:\n  assumes \"T{is T\\<^sub>2}\" \"(\\<Union>T){is compact in}T\"\n  shows \"T{is normal}\" unfolding IsNormal_def\n"}

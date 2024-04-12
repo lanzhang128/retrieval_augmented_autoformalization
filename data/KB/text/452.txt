@@ -1,0 +1,1 @@
+{"text": "text\\<open>Composition of translations by an element and its inverse is identity.\\<close>\n"}

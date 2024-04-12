@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can multiply the sides of two inequalities,\n  second of them strict and we get a strict inequality.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L12D:\n  assumes A1: \"a\\<lsq>b\" and A2: \"c\\<ls>d\"\n  shows \"a\\<cdot>c \\<ls> b\\<cdot>d\"\n"}

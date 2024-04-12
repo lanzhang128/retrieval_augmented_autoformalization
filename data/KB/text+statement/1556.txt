@@ -1,0 +1,1 @@
+{"text": "text\\<open>The embedding of integers preserves the strict order.\\<close>\n", "statement": "lemma (in real1) Real_ZF_1_4_L5A: assumes A1: \"m\\<zlq>k\"  \"m\\<noteq>k\"\n  shows \"m\\<^sup>R \\<ls> k\\<^sup>R\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The essential condition to show the distributivity for the \n  operations defined on classes of almost homomorphisms.\\<close>\n"}

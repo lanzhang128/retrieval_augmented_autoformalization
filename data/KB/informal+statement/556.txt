@@ -1,0 +1,1 @@
+{"informal": " If `s` is congruent to `r` in `group1`, then the element `s(n) * r(n)^-1` belongs to `G`, and `n` is an element of `G`. Therefore, the set `{s(n) * r(n)^-1 | n in G}` is a finite subset of `G`.", "statement": "lemma (in group1) Group_ZF_3_4_L11:\n  assumes A1: \"s\\<cong>r\"\n  shows \"{s`(n)\\<cdot>(r`(n))\\<inverse>. n\\<in>G} \\<in> Fin(G)\"\n"}

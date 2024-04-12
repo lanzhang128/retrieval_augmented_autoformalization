@@ -1,0 +1,1 @@
+{"text": "text\\<open>A subcollection of a partition is a partition\nof its union.\\<close>\n"}

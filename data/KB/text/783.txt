@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the slope condition holds for all pairs of integers such that one integer is \n  positive and the second one is nonnegative, then it holds when both integers are \n  nonnegative.\\<close>\n"}

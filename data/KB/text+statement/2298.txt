@@ -1,0 +1,1 @@
+{"text": "text\\<open>There is a value for each argument.\\<close>\n", "statement": "lemma func1_1_L2: assumes A1: \"f:X\\<rightarrow>Y\"  \"x\\<in>X\" \n  shows \"\\<exists>y\\<in>Y. \\<langle>x,y\\<rangle> \\<in> f\"  \n"}

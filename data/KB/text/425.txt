@@ -1,0 +1,1 @@
+{"text": "text\\<open>The neutral element of a subgroup is the same as that of the group.\\<close>\n"}

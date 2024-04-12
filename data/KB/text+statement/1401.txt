@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a\\leq b$, then $0\\leq b-a$.\\<close>\n", "statement": "lemma (in ring1) OrdRing_ZF_1_L13: assumes \"a\\<lsq>b\"\n  shows \"\\<zero> \\<lsq> b\\<rs>a\"\n  "}

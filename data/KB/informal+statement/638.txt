@@ -1,0 +1,1 @@
+{"informal": " If n is a natural number, then the (n+1)th row of Pascal's Triangle is all zeros.", "statement": "lemma pascal_val_beyond: assumes \"n\\<in>nat\" \n  shows \"(PascalTriangle`(n))`(succ(n)) = 0\"\n"}

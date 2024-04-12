@@ -1,0 +1,1 @@
+{"text": "text\\<open>IntegerAddition adds integers and IntegerMultiplication multiplies\n  integers. This states that the ZF functions \\<open>IntegerAddition\\<close> and\n  \\<open>IntegerMultiplication\\<close> give the same results as the higher-order\n  equivalents defined in the standard \\<open>Int\\<close> theory.\\<close>\n"}

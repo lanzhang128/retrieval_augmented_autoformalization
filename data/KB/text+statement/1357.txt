@@ -1,0 +1,1 @@
+{"text": "text\\<open>In this context $x < y$ implies that both $x$ and $y$ belong\n  to $L$.\\<close>\n", "statement": "lemma (in loop1) less_members: assumes \"x\\<ls>y\" shows \"x\\<in>L\" and \"y\\<in>L\" \n  "}

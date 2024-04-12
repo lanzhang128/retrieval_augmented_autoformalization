@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a family of sets is closed with respect to taking intersections\n  of two sets then it is closed with respect to taking intersections \n  of any nonempty finite collection.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a\\cdot b$ is nonnegative and $b$ is positive, then $a$ is \n  nonnegative. Proof by contradiction.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_3_L9:\n  assumes A1: \"a\\<in>\\<int>\"  \"b\\<in>\\<int>\"\n  and A2:  \"\\<not>(b\\<lsq>\\<zero>)\" and A3: \"a\\<cdot>b \\<lsq> \\<zero>\" \n  shows \"a\\<lsq>\\<zero>\"\n"}

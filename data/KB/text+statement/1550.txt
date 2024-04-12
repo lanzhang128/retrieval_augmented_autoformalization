@@ -1,0 +1,1 @@
+{"text": "text\\<open>The embedding of sum of integers is the sum of embeddings.\\<close>\n", "statement": "lemma (in real1) Real_ZF_1_4_L1A: assumes \"m \\<in> int\"  \"k \\<in> int\"\n  shows \"m\\<^sup>R \\<ra> k\\<^sup>R = ((m\\<za>k)\\<^sup>R)\"\n  "}

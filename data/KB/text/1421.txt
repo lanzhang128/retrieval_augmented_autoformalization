@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another (in addition to \\<open>OrdRing_ZF_1_L6\\<close> sufficient condition \n  that defines order in an ordered ring starting from the positive set.\\<close>\n"}

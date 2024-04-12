@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $\\Phi$ is a uniformity on $X$ then every element of $\\Phi$ is a subset of $X\\times X$ \n  whose domain is $X$. \\<close>\n", "statement": "lemma uni_domain: \n  assumes \"\\<Phi> {is a uniformity on} X\" \"W\\<in>\\<Phi>\" \n  shows \"W \\<subseteq> X\\<times>X\" and \"domain(W) = X\" \n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image of any set is contained in the range.\\<close>\n", "statement": "lemma func1_1_L6: assumes A1: \"f:X\\<rightarrow>Y\" \n  shows \"f``(B) \\<subseteq> range(f)\" and \"f``(B) \\<subseteq> Y\"\n"}

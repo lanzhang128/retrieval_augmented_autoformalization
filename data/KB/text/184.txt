@@ -1,0 +1,1 @@
+{"text": "text\\<open>Next is a restatement of the above lemma that \n  does not depend on the IntPr meta-function.\\<close>\n"}

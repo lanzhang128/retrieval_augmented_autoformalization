@@ -1,0 +1,1 @@
+{"informal": " The lemma \"pascal_sequence\" asserts that the list containing the pair {0, 1} is an element of the set NELists(nat), and that PascalTriangle is a function from natural numbers to the set NELists(nat).", "statement": "lemma pascal_sequence: \n  shows \"{\\<langle>0,1\\<rangle>} \\<in> NELists(nat)\" and \"PascalTriangle: nat \\<rightarrow> NELists(nat)\"\n  "}

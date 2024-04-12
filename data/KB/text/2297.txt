@@ -1,0 +1,1 @@
+{"text": "text\\<open>A variant of \\<open>func1_1_L1A\\<close>.\\<close>\n"}

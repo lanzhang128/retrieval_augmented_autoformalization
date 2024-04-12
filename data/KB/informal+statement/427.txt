@@ -1,0 +1,1 @@
+{"informal": " If H is a subgroup of set P and elements a and b belong to H, then the product a * b also belongs to H.", "statement": "lemma (in group0) group0_3_L6: assumes A1: \"IsAsubgroup(H,P)\"\n  and A2: \"a\\<in>H\" \"b\\<in>H\"\n  shows \"a\\<cdot>b \\<in> H\"\n"}

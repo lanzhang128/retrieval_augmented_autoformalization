@@ -1,0 +1,1 @@
+{"text": "text\\<open>Bounded integer sets are finite.\\<close>\n", "informal": " Assuming \"A\" is a bounded set in the integer order, it belongs to the finite set of integers.", "statement": "lemma (in int0) Int_ZF_4_L6: assumes A1: \"IsBounded(A,IntegerOrder)\"\n  shows \"A \\<in> Fin(\\<int>)\"\n"}

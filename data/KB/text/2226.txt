@@ -1,0 +1,1 @@
+{"text": "text\\<open>A cover $\\mathcal{R}$ (of $X$) is said to be a \"barycentric refinement\" of a cover $\\mathcal{C}$ \n  iff for every $x\\in X$ the star of $\\{x\\}$ in $\\mathcal{R}$ is contained \n  in some $C\\in \\mathcal{C}$. \\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>Int_ZF_2_L9B\\<close> with weaker assumptions.\\<close>\n"}

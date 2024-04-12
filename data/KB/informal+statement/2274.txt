@@ -1,0 +1,1 @@
+{"informal": " Given that element `a` is in the set {x in X | p(x)}, it follows that `a` is an element of X and property p holds for `a`.", "statement": "lemma comprehension: assumes \"a \\<in> {x\\<in>X. p(x)}\"\n  shows \"a\\<in>X\" and \"p(a)\" "}

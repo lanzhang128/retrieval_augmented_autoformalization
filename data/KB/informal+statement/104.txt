@@ -1,0 +1,1 @@
+{"informal": " If `A` is an equivalence relation with reflexivity `equiv(A,r)`, and `x` and `y` are elements of `A` with the same image under `r`, then `<xy>` is an element of `r`.", "statement": "lemma same_image_equiv: \n  assumes \"equiv(A,r)\" \"y\\<in>A\" \"r``{x} = r``{y}\"\n  shows \"\\<langle>x,y\\<rangle> \\<in> r\" "}

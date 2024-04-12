@@ -1,0 +1,1 @@
+{"text": "text\\<open>If exactly one of $p,q,r$ holds and $q$ is true, then \n  $r$ can not be true.\\<close>\n"}

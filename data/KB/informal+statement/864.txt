@@ -1,0 +1,1 @@
+{"informal": " Assuming the set A is bounded below in the integer order, it is a subset of the set of integers.", "statement": "lemma (in int0) Int_ZF_2_L1C: \n  assumes A1: \"IsBoundedBelow(A,IntegerOrder)\"\n  shows \"A\\<subseteq>\\<int>\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A variant of induction useful for finite sequences.\\<close>\n"}

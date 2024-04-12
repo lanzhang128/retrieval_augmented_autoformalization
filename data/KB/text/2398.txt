@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we fix the second variable, we get a function of the first\n  variable.\\<close>\n"}

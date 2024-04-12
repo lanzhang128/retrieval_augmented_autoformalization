@@ -1,0 +1,1 @@
+{"text": "text\\<open>A closed subspace of a compact space of any cardinality, is also\ncompact of the same cardinality.\\<close>\n"}

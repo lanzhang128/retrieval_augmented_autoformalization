@@ -1,0 +1,1 @@
+{"text": "text\\<open>A reformulation of the definition of a strict version of an order.\n\\<close>\n", "statement": "lemma def_of_strict_ver: shows \n  \"\\<langle>x,y\\<rangle> \\<in> StrictVersion(r) \\<longleftrightarrow> \\<langle>x,y\\<rangle> \\<in> r \\<and> x\\<noteq>y\"\n  "}

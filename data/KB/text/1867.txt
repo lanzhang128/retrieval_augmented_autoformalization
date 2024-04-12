@@ -1,0 +1,1 @@
+{"text": "text\\<open>In densely ordered sets, intervals are infinite.\\<close>\n"}

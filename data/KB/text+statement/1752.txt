@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another corollary of \\<open>lrtrans_image\\<close> \\<close>\n", "statement": "corollary (in topgroup) elements_in_ltrans_inv: assumes \"B\\<subseteq>G\" \"g\\<in>G\" \"q\\<in>B\" \"t=g\\<ra>q\"\n  shows \"t \\<in> g\\<ltr>B\"\n  "}

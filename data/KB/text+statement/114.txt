@@ -1,0 +1,1 @@
+{"text": "text\\<open>The following lemma is a two-variables equivalent of \n  \\<open>EquivClass_1_L6\\<close>.\\<close>\n", "statement": "lemma EquivClass_1_L9:\n  assumes A1: \"equiv(A,r)\" and A2: \"Congruent2(r,f)\" \n  and A3: \"p \\<in> (A//r)\\<times>(A//r)\"\n  shows \"(\\<Union> z \\<in> fst(p)\\<times>snd(p). r``{f`(z)}) \\<in> A//r\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The conjugate of a subgroup is a subgroup.\\<close>\n", "statement": "theorem (in group0) conj_group_is_group:\n  assumes \"IsAsubgroup(H,P)\" \"g\\<in>G\"\n  shows \"IsAsubgroup({g\\<cdot>(h\\<cdot>g\\<inverse>). h\\<in>H},P)\"\n"}

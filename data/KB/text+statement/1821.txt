@@ -1,0 +1,1 @@
+{"text": "text\\<open>A set is contained in its closure.\\<close>\n", "statement": "lemma (in topology0) cl_contains_set: assumes \"A \\<subseteq> \\<Union>T\" shows \"A \\<subseteq> cl(A)\"\n  "}

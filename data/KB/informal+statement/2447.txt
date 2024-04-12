@@ -1,0 +1,1 @@
+{"informal": " The set of slice projections of a set X is defined as the set of ordered pairs (p, x) such that p is an element of X.", "statement": "definition\n  \"SliceProjection(X) \\<equiv> {\\<langle>p,fst(p)\\<rangle>. p \\<in> X }\"\n"}

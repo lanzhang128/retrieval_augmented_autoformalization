@@ -1,0 +1,1 @@
+{"text": "text\\<open>First we prove a lemma that in a $T_2$ space two points \n  can be separated by the closure of an open set.\\<close>\n"}

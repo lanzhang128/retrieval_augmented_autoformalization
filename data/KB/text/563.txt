@@ -1,0 +1,1 @@
+{"text": "text\\<open>Almost homomorphisms form a monoid with composition.\n  The identity function on the group is the neutral element there.\\<close>\n"}

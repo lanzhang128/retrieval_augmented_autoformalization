@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another version of the triangle inequality.\\<close>\n", "statement": "lemma (in int0) Int_triangle_ineq2: \n  assumes \"m\\<in>\\<int>\"  \"n\\<in>\\<int>\"\n  and \"abs(m\\<rs>n) \\<lsq> k\"\n  shows \n  \"abs(m) \\<lsq> abs(n)\\<ra>k\"\n  \"m\\<rs>k \\<lsq> n\"\n  \"m \\<lsq> n\\<ra>k\"\n  \"n\\<rs>k \\<lsq> m\"\n  "}

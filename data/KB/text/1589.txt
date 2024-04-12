@@ -1,0 +1,1 @@
+{"text": "text\\<open>The candidate for the supremum of $S$ is not greater than \n  any upper bound of $S$.\\<close>\n"}

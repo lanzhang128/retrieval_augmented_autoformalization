@@ -1,0 +1,1 @@
+{"text": "text\\<open>Each nonzero real number has a real inverse\\<close>\n", "statement": "lemma (in complex0) axrrecex: \n  assumes A1:  \"a \\<in> \\<real>\"   \"a \\<noteq> \\<zero>\"\n  shows \"\\<exists>x\\<in>\\<real>. a \\<cdot> x = \\<one>\"\n"}

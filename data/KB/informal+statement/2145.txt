@@ -1,0 +1,1 @@
+{"informal": " The one-point compactification of a topological space T is a topology.", "statement": "theorem (in topology0) op_comp_is_top:\n  shows \"({one-point compactification of}T){is a topology}\" unfolding IsATopology_def\n"}

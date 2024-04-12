@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next theorem is a version of induction on natural numbers\n  that I was thought in school.\\<close>\n"}

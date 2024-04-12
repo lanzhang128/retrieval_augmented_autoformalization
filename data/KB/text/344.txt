@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>foldseq_restrict\\<close> when the longer\n  sequence is created from the shorter one by appending\n  one element.\\<close>\n"}

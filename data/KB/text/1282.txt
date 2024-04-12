@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of positive elements of a \n  nontrivial linearly ordered group is not empty.\\<close>\n"}

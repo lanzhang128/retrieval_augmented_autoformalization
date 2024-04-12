@@ -1,0 +1,1 @@
+{"informal": " Assuming n and k are natural numbers, and x and y are elements of a ring R, the binary operation BT(n,k,x,y) is also an element of the ring R.", "statement": "lemma (in ring3) bt_type: assumes \"n\\<in>nat\" \"k\\<in>nat\" \"x\\<in>R\" \"y\\<in>R\" \n  shows \"BT(n,k,x,y) \\<in> R\"\n  "}

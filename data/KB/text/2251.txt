@@ -1,0 +1,1 @@
+{"text": "text\\<open>If all sets of a nonempty collection are the same, then its union \n  is the same.\\<close>\n"}

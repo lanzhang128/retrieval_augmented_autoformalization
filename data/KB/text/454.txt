@@ -1,0 +1,1 @@
+{"text": "text\\<open>Converse of a translation is translation by the inverse.\\<close>\n"}

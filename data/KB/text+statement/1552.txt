@@ -1,0 +1,1 @@
+{"text": "text\\<open>The embedding of the product of integers is the product of embeddings.\\<close>\n", "statement": "lemma (in real1) Real_ZF_1_4_L1C: assumes \"m \\<in> int\"  \"k \\<in> int\"\n  shows \"m\\<^sup>R \\<cdot> k\\<^sup>R = (m\\<zmu>k)\\<^sup>R\"\n  "}

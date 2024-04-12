@@ -1,0 +1,1 @@
+{"text": "text\\<open>An alternative definition of a group inverse of a set.\\<close>\n"}

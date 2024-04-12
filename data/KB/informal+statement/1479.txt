@@ -1,0 +1,1 @@
+{"informal": " Assuming s is an element of Slopes, the reflexive relation SlopeEquivalenceRel{s} holds if and only if s is an element of BoundedIntMaps in real numbers.", "statement": "lemma (in real0) Real_ZF_1_L10: \n  assumes A1: \"s \\<in> Slopes\"\n  shows \"SlopeEquivalenceRel``{s} = \\<zero> \\<longleftrightarrow> s \\<in> BoundedIntMaps\"\n"}

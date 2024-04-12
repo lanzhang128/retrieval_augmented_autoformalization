@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can use theorems proven in the \\<open>field1\\<close> context whenever we\n  talk about an ordered field.\\<close>\n", "statement": "lemma OrdField_ZF_1_L2: assumes \"IsAnOrdField(K,A,M,r)\"\n  shows \"field1(K,A,M,r)\"\n  "}

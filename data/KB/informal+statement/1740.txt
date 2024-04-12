@@ -1,0 +1,1 @@
+{"informal": " In the top group, if V is a subset of G, then the complement of V is also a subset of G and equals the set of all elements not in V.", "statement": "lemma (in topgroup) ginv_image_add: assumes \"V\\<subseteq>G\" \n  shows \"(\\<sm>V)\\<subseteq>G\" and \"(\\<sm>V) = {\\<rm>x. x \\<in> V}\" \n  "}

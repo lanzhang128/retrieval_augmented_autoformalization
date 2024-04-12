@@ -1,0 +1,1 @@
+{"text": "text\\<open>The essential condition to show that the order on integers is \n  preserved by translations.\\<close>\n", "statement": "lemma (in int0) int_ord_transl_inv: \n  assumes A1: \"k \\<in> \\<int>\" and A2: \"m \\<lsq> n\" \n  shows \"m\\<ra>k \\<lsq> n\\<ra>k \"  \"k\\<ra>m\\<lsq> k\\<ra>n \"\n"}

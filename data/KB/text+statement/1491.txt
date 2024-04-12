@@ -1,0 +1,1 @@
+{"text": "text\\<open>It is useful to have the definition of addition and multiplication \n  in the \\<open>real1\\<close> context notation.\\<close>\n", "statement": "lemma (in real1) Real_ZF_1_1_L4: \n  assumes A1: \"f \\<in> \\<S>\"  \"g \\<in> \\<S>\"\n  shows\n  \"[f] \\<ra> [g] = [f\\<fp>g]\"\n  \"[f] \\<cdot> [g] = [f\\<circ>g]\"\n"}

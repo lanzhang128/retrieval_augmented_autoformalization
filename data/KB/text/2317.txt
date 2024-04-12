@@ -1,0 +1,1 @@
+{"text": "text\\<open>Identical meaning as \\<open>ZF_fun_from_tot_val\\<close>, but\n  phrased a bit differently.\\<close>\n"}

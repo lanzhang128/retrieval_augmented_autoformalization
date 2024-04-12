@@ -1,0 +1,1 @@
+{"text": "text\\<open>A composition of a finite range function with another function is \n  a finite range function.\\<close>\n", "statement": "lemma Finite1_L20: assumes A1:\"f \\<in> FinRangeFunctions(X,Y)\"\n  and A2: \"g : Y\\<rightarrow>Z\"\n  shows \"g O f \\<in> FinRangeFunctions(X,Z)\"\n"}

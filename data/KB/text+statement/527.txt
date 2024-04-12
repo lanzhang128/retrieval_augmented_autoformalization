@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse of an almost homomorphism  maps the group into itself.\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_2_L7: \n  assumes \"s \\<in> AH\"\n  shows \"\\<sim>s : G\\<rightarrow>G\"\n  "}

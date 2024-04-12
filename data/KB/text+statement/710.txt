@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set is bounded, then the absolute values of the elements of that\n  set are bounded.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_3_L20A: assumes \"IsBounded(A,IntegerOrder)\"\n  shows \"\\<exists>L. \\<forall>a\\<in>A. abs(a) \\<lsq> L\"\n  "}

@@ -1,0 +1,1 @@
+{"informal": " Assuming x is not an element of X and the pair {x, A} is in the bisections of X united with x, then X is a non-empty set and A is equal to X.", "statement": "lemma point_set_bisec: \n  assumes A1: \"x \\<notin> X\" and A2: \"\\<langle>{x}, A\\<rangle> \\<in> Bisections(X \\<union> {x})\"\n  shows \"A = X\" and \"X \\<noteq> 0\"\n"}

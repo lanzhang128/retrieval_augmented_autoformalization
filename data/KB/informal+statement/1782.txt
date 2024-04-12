@@ -1,0 +1,1 @@
+{"informal": " In the topological group, the topology is regular.", "statement": "theorem (in topgroup) topgroup_reg:\n  shows \"T{is regular}\"\n"}

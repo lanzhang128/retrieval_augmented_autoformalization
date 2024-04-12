@@ -1,0 +1,1 @@
+{"text": "text\\<open>There are three types of cardinals, the zero one, the succesors\nof other cardinals and the limit cardinals.\\<close>\n", "statement": "lemma Card_cases_disj: \n  assumes \"Card(i)\" \n  shows \"i=0 | (\\<exists>j. Card(j) \\<and> i=csucc(j)) | LimitC(i)\"\n"}

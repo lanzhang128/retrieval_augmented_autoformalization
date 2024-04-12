@@ -1,0 +1,1 @@
+{"text": "text\\<open>An identity with three field elements, inverse and cancelling.\\<close>\n", "statement": "lemma (in field0) Field_ZF_2_L6: assumes A1: \"a\\<in>K\"  \"b\\<in>K\"  \"b\\<noteq>\\<zero>\"  \"c\\<in>K\"\n  shows \"a\\<cdot>b\\<cdot>(c\\<cdot>b\\<inverse>) = a\\<cdot>c\"\n"}

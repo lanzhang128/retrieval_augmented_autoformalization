@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every point from an open set has a neighboorhood from the base\n  that is contained in the set.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>It is useful to have a direct statement that the \n  quotient group relation is an equivalence relation for the group of AH and\n  subgroup FR.\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_3_L3: shows\n  \"QuotientGroupRel(AH,Op1,FR) \\<subseteq> AH \\<times> AH\" and\n  \"equiv(AH,QuotientGroupRel(AH,Op1,FR))\"\n  "}

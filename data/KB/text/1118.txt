@@ -1,0 +1,1 @@
+{"text": "text\\<open>For transitive relations the endpoints have to be in the relation for\n  the interval to be nonempty.\\<close>\n"}

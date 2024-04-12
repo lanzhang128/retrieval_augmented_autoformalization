@@ -1,0 +1,1 @@
+{"text": "text\\<open>In this context $a \\leq b$ implies that both $a$ and $b$ belong \n  to $G$.\\<close>\n"}

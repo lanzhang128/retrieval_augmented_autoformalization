@@ -1,0 +1,1 @@
+{"text": "text\\<open>An alternative syntax for defining a function: instead of writing \n  $\\{\\langle x,p(x)\\rangle. x\\in X\\}$ we can write $\\lambda x\\in X. p(x)$. \\<close>\n", "statement": "lemma lambda_fun_alt: shows \"{\\<langle>x,p(x)\\<rangle>. x\\<in>X} = (\\<lambda>x\\<in>X. p(x))\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " \"Prepend a with x is defined as the pair (k, if k is zero then x else a(k-1)), where k is a natural number in the domain of a plus one.\"", "statement": "definition\n  \"Prepend(a,x) \\<equiv> {\\<langle>k,if k = 0 then x else a`(k #- 1)\\<rangle>. k\\<in>domain(a) #+ 1}\"\n"}

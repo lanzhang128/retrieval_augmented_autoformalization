@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group inverse (in the quotient group) of a class (coset) is the class\n  of the inverse.\\<close>\n"}

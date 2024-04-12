@@ -1,0 +1,1 @@
+{"text": "text\\<open>A more convenient reformulation of \\<open>prod_list_of_lists\\<close>.\n\\<close>\n"}

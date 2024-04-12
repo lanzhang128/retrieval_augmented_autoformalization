@@ -1,0 +1,1 @@
+{"text": "text\\<open>The one point compactification, gives indeed a compact topological space.\\<close>\n"}

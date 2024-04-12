@@ -1,0 +1,1 @@
+{"informal": " In the ring1 context, if a is strictly smaller than b, and b is strictly smaller than c, then a is strictly smaller than c.", "statement": "lemma (in ring1) ring_strict_ord_trans:  \n  assumes A1: \"a\\<ls>b\" and A2: \"b\\<lsq>c\"\n  shows \"a\\<ls>c\"\n"}

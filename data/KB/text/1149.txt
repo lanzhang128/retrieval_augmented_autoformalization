@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set has an infimum then it cannot be empty.  \\<close>\n"}

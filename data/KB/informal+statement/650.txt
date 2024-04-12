@@ -1,0 +1,1 @@
+{"informal": " Assuming m is less than k and n is a non-zero natural number, m divided by n is less than or equal to k divided by n.", "statement": "lemma (in int0) IntDiv_ZF_1_L4: \n  assumes A1: \"m \\<lsq> k\" and A2: \"\\<zero>\\<lsq>n\"  \"n\\<noteq>\\<zero>\"\n  shows \"m zdiv n \\<lsq>  k zdiv n\"\n"}

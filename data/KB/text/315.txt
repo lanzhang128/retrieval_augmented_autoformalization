@@ -1,0 +1,1 @@
+{"text": "text\\<open>Union of two finite subsets is a finite subset.\\<close>\n"}

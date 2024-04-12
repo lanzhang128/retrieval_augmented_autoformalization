@@ -1,0 +1,1 @@
+{"text": "text\\<open>A product of (strictly) positive elements is not the unit.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L11: \n  assumes A1: \"\\<one>\\<lsq>a\"  \"\\<one>\\<lsq>b\"\n  and A2: \"\\<one> \\<noteq> a\"  \"\\<one> \\<noteq> b\"\n  shows \"\\<one> \\<noteq> a\\<cdot>b\"\n"}

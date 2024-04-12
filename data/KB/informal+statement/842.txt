@@ -1,0 +1,1 @@
+{"informal": " \"IntegerMultiplication is the equivalence relation on integers x and integers c, such that x * (the second component of) x equals c.\"", "statement": "definition\n  \"IntegerMultiplication \\<equiv> \n    { \\<langle> x,c\\<rangle> \\<in> (int\\<times>int)\\<times>int. fst(x) $* snd(x) = c}\"\n"}

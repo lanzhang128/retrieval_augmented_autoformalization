@@ -1,0 +1,1 @@
+{"informal": " If natural number n and natural number k are such that k is less than or equal to n, then (n minus (k plus one)) is equal to (n minus k) plus one.", "statement": "lemma nat_subtr_simpl0: assumes \"n\\<in>nat\" \"k\\<in>n\" \n  shows \"n #- (k #+ 1) #+ 1 = n #- k\"\n"}

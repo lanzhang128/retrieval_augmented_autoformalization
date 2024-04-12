@@ -1,0 +1,1 @@
+{"text": "text\\<open>Two ways of saying that there are no natural numbers between $n$ and $n+1$.\\<close>\n"}

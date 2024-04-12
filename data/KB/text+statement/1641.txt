@@ -1,0 +1,1 @@
+{"text": "text\\<open>The ring is trivial iff $0=1$.\\<close>\n", "statement": "lemma (in ring0) Ring_ZF_1_L17: shows \"R = {\\<zero>} \\<longleftrightarrow> \\<zero>=\\<one>\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Uniform spaces are regular ($T_3$). \\<close>\n"}

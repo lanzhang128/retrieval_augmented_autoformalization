@@ -1,0 +1,1 @@
+{"text": "text\\<open>One element of a monoid is that element.\\<close>\n", "informal": " In the monoid1 setting, if x is a natural number (belongs to the monoid), then multiplying 1 and x gives x itself.", "statement": "lemma (in monoid1) nat_mult_one: assumes \"x\\<in>G\" shows \"1\\<cdot>x = x\"\n"}

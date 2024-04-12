@@ -1,0 +1,1 @@
+{"text": "text\\<open>For groups the left and right inverse are the same as the group inverse. \\<close>\n"}

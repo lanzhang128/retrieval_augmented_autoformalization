@@ -1,0 +1,1 @@
+{"text": "text\\<open>First, a transitive closure variation on @{thm rtrancl_unfold}.\\<close>\n"}

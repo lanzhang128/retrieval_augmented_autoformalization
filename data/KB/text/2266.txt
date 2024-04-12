@@ -1,0 +1,1 @@
+{"text": "text\\<open>A simple version of \\<open> ZF1_1_L9\\<close>.\\<close>\n"}

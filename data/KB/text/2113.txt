@@ -1,0 +1,1 @@
+{"text": "text\\<open>The open intervals and rays satisfy the base condition.\\<close>\n"}

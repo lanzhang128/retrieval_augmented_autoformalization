@@ -1,0 +1,1 @@
+{"informal": " If function f from X to Y exists, then the image of f is a subset of Y.", "statement": "lemma func1_1_L5B: \n  assumes  A1: \"f:X\\<rightarrow>Y\" shows \"range(f) \\<subseteq> Y\"\n"}

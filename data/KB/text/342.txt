@@ -1,0 +1,1 @@
+{"text": "text\\<open>Basic properties of the sequence of partial folds of a sequence \n  $a = \\{y_k\\}_{k\\in \\{0,..,n\\} }$.\\<close>\n"}

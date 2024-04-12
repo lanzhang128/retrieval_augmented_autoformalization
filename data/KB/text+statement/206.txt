@@ -1,0 +1,1 @@
+{"text": "text\\<open>For a finite sequence we define the sequence of all elements \n  except the first one. This corresponds to the \"tail\" function in Haskell.\n  We call it \\<open>Tail\\<close> here as well.\\<close>\n", "statement": "definition  \n  \"Tail(a) \\<equiv> {\\<langle>k, a`(succ(k))\\<rangle>. k \\<in> pred(domain(a))}\"\n"}

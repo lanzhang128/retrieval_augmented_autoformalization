@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another condition for continuity: it is sufficient to check if the \n  inverse image of every set in a base is open.\\<close>\n"}

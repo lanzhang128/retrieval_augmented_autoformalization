@@ -1,0 +1,1 @@
+{"informal": " If condition `phi` holds for an element `c` that is in a set `X`, then `c` is in the set of elements in `X` that satisfy `phi`.", "statement": "lemma mem_cond_in_set: assumes \"\\<phi>(c)\" and \"c\\<in>X\"\n  shows \"c \\<in> {x\\<in>X. \\<phi>(x)}\" "}

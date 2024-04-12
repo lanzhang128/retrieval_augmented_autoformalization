@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image by an order isomorphism \n  of a bounded above and nonempty set is bounded above.\\<close>\n"}

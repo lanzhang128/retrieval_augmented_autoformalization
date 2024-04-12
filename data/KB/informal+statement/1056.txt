@@ -1,0 +1,1 @@
+{"informal": " In Isabelle/ZF, the lemma \"leq_mem_succ\" states that for all natural numbers k and n, k is less than or equal to n if and only if k is the successor of n.", "statement": "lemma leq_mem_succ: shows \"k\\<le>n \\<longleftrightarrow> k < succ(n)\" by simp\n"}

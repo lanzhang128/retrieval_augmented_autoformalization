@@ -1,0 +1,1 @@
+{"text": "text\\<open>The inverse of a nonzero field element is nonzero.\\<close>\n", "statement": "lemma (in field0) Field_ZF_1_L5: assumes A1: \"a\\<in>K\"  \"a\\<noteq>\\<zero>\"\n  shows \"a\\<inverse> \\<in> K\\<^sub>0\"  \"(a\\<inverse>)\\<^sup>2 \\<in> K\\<^sub>0\"   \"a\\<inverse> \\<in> K\"  \"a\\<inverse> \\<noteq> \\<zero>\"\n"}

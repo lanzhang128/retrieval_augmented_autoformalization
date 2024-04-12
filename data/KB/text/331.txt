@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma allows to prove statements of the form \n  \\<open>Exactly_1_of_3_holds(p,q,r)\\<close>.\\<close>\n"}

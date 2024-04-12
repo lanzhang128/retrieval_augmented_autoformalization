@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of integers is not empty, of course.\\<close>\n", "informal": " The lemma \"int_not_empty\" in the theory \"int0\" of Isabelle/ZF asserts that the set of integers is not empty. In natural language, we can express it as: \"The set of integers is non-empty.\"", "statement": "lemma (in int0) int_not_empty: shows \"\\<int> \\<noteq> 0\"\n  "}

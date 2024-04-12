@@ -1,0 +1,1 @@
+{"informal": " In the context of loop1, if x, y, and z are elements of set L and x right-adjacent to z is less than or equal to y right-adjacent to z, then x is less than y.", "statement": "lemma (in loop1) strict_ineq_cancel_right: assumes \"x\\<in>L\" \"y\\<in>L\" \"z\\<in>L\" and \"x\\<ra>z \\<ls> y\\<ra>z\" \n  shows  \"x\\<ls>y\"\n  "}

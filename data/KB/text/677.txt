@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another rearrangement with three integers. Property of abelian groups.\\<close>\n"}

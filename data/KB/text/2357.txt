@@ -1,0 +1,1 @@
+{"text": "text\\<open>Which function space a restricted function belongs to?\\<close>\n"}

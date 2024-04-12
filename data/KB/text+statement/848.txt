@@ -1,0 +1,1 @@
+{"text": "text\\<open>Zero is neutral for addition and one for multiplication.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_L6: shows \"($# 0)\\<in>\\<int> \\<and> \n  (\\<forall>x\\<in>\\<int>. ($# 0)\\<ra>x = x \\<and> x\\<ra>($# 0) = x)\"\n  \"($# 1)\\<in>\\<int> \\<and> \n  (\\<forall>x\\<in>\\<int>. ($# 1)\\<cdot>x = x \\<and> x\\<cdot>($# 1) = x)\"\n  "}

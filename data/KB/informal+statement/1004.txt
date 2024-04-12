@@ -1,0 +1,1 @@
+{"informal": " In the context of a metric space, Open_Balls is defined as the union over all elements c in X of the sets of points that are inside the balls centered at c with any positive real radius r.", "statement": "definition (in pmetric_space1) Open_Balls\n  where \"Open_Balls \\<equiv> \\<Union>c\\<in>X. {ball(c,r). r \\<in> \\<real>\\<^sub>+}\"\n"}

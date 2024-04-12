@@ -1,0 +1,1 @@
+{"text": "text\\<open>Identity is an order isomorphism.\\<close>\n", "statement": "lemma id_ord_iso: shows \"id(X) \\<in> ord_iso(X,r,X,r)\"\n  "}

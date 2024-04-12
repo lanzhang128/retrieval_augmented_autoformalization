@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image of a finite set is finite.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The essential condition to show antisymmetry of the order on integers.\\<close>\n", "statement": "lemma (in int0) Int_ZF_2_L3: \n  assumes A1: \"m \\<lsq> n\"  \"n \\<lsq> m\"  \n  shows \"m=n\"\n"}

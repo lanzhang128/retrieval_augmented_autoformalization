@@ -1,0 +1,1 @@
+{"informal": " If function `f` maps pairs of `X` and `Y` to `Z`, and `x` is an element of `X`, then `Fix1stVar(f,x)` is a function from `Y` to `Z`.", "statement": "lemma fix_1st_var_fun: assumes A1: \"f : X\\<times>Y \\<rightarrow> Z\" and A2: \"x\\<in>X\"\n  shows \"Fix1stVar(f,x) : Y \\<rightarrow> Z\"\n"}

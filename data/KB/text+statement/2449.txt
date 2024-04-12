@@ -1,0 +1,1 @@
+{"text": "text\\<open> Given 2 functions $f:A\\to B$ and $g:C\\to D$ , we can consider a function $h:A\\times C \\to B\\times D$\nsuch that $h(x,y)=\\langle f(x),g(y)\\rangle$ \\<close>\n", "statement": "definition\n  ProdFunction where\n  \"ProdFunction(f,g) \\<equiv> {\\<langle>z,\\<langle>f`(fst(z)),g`(snd(z))\\<rangle>\\<rangle>. z\\<in>domain(f)\\<times>domain(g)}\"\n"}

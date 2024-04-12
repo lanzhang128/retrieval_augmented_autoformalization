@@ -1,0 +1,1 @@
+{"text": "text\\<open>If an element of the domain of a function belongs to a set, \n  then its value belongs to the image of that set.\\<close>\n", "statement": "lemma func1_1_L15D: assumes \"f:X\\<rightarrow>Y\"  \"x\\<in>A\"  \"A\\<subseteq>X\"\n  shows \"f`(x) \\<in> f``(A)\"\n  "}

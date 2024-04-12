@@ -1,0 +1,1 @@
+{"text": "text\\<open>A simple rearrangement with four real numbers.\\<close>\n", "statement": "lemma (in real0) Real_ZF_1_L7A: \n  assumes \"a\\<in>\\<real>\"  \"b\\<in>\\<real>\"  \"c\\<in>\\<real>\"  \"d\\<in>\\<real>\"\n  shows \"a\\<rs>b \\<ra> (c\\<rs>d) = a\\<ra>c\\<rs>b\\<rs>d\"\n  "}

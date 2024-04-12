@@ -1,0 +1,1 @@
+{"text": "text\\<open>The binomial theorem: if $x,y$ are elements of a commutative ring, $n\\in \\mathbb{N}$\n   then $(x+y)^n = \\sum_{k=0}^{n} {n \\choose k} x^{n-k} y^k$.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " In the group G+, if a is an element, then a is not the identity element and a' (the inverse of a) is not in G+.", "statement": "lemma (in group3) OrderedGroup_ZF_1_L15:\n   assumes A1: \"a\\<in>G\\<^sub>+\"  shows \"a\\<noteq>\\<one>\"  \"a\\<inverse>\\<notin>G\\<^sub>+\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " A set X is countable if and only if its cardinality can be naturally numbered.", "statement": "definition\n  Cocountable (\"CoCountable _\" 90) where\n  \"CoCountable X \\<equiv> CoCardinal(X,csucc(nat))\"\n"}

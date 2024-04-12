@@ -1,0 +1,1 @@
+{"informal": " In the semilattice `join_semilatt`, the associativity of the join operation holds: for all sets `x`, `y`, and `z` in `L`, we have `x \u228e (y \u228e z) = (x \u228e y) \u228e z`.", "statement": "lemma (in join_semilatt) join_assoc: assumes \"x\\<in>L\" \"y\\<in>L\" \"z\\<in>L\"\n  shows \"x\\<squnion>(y\\<squnion>z) = x\\<squnion>y\\<squnion>z\"\n"}

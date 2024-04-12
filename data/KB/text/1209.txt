@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can put a positive factor on the other side of an inequality,\n  changing it to its inverse, version with a product initially on the \n  right hand side.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Although we have bypassed this fact when proving that \n  group of almost homomorphisms divided by the subgroup of finite\n  range functions is a group, it is still useful to know directly \n  that the first group operation on AH is congruent with respect to the\n  quotient group relation.\\<close>\n"}

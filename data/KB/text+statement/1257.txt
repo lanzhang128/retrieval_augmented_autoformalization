@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>OrderedGroup_ZF_1_L8\\<close> when one of \n  the elements is the unit.\\<close>\n", "statement": "corollary (in group3) OrderedGroup_ZF_1_L8A:\n  assumes A1: \"r {is total on} G\"\n  and A2: \"a\\<in>G\" and A3: \"\\<not>(\\<one>\\<lsq>a)\"\n  shows \"\\<one> \\<lsq> a\\<inverse>\"  \"\\<one>\\<noteq>a\"  \"a\\<lsq>\\<one>\"\n"}

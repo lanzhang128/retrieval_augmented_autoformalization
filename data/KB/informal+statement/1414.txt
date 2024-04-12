@@ -1,0 +1,1 @@
+{"informal": " In the ring1 context, if a and b are elements of the ring, then a * b = a * b (with bars denoting the additive and multiplicative inverses).", "statement": "lemma (in ring1) OrdRing_ZF_2_L5:\n  assumes A1: \"a\\<in>R\" \"b\\<in>R\"\n  shows \"\\<bar>a\\<cdot>b\\<bar> = \\<bar>a\\<bar>\\<cdot>\\<bar>b\\<bar>\"\n"}

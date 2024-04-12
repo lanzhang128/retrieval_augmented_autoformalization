@@ -1,0 +1,1 @@
+{"text": "text\\<open>The opposite of an element of \\<open>\\<int>\\<^sub>+\\<close> cannot belong to\n  \\<open>\\<int>\\<^sub>+\\<close>.\\<close>\n"}

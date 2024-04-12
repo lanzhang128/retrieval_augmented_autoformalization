@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another variation on the induction theme:\n  If we can show something holds for the empty set and\n  if it holds for all finite sets with \n  at most $k$ elements then it holds for all \n  finite sets with at most $k+1$\n  elements, the it holds for all finite sets.\\<close>\n"}

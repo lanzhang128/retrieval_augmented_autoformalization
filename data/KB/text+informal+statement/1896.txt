@@ -1,0 +1,1 @@
+{"text": "text\\<open>Homeomorphisms are open maps.\\<close>\n", "informal": " If function `f` is a homeomorphism from set `T` to set `S`, and `U` is an element of `T`, then `f(U)` is an element of `S`.", "statement": "lemma homeo_open: assumes \"IsAhomeomorphism(T,S,f)\" and \"U\\<in>T\"\n  shows \"f``(U) \\<in> S\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma is just to see the definition of the positive set\n  in our notation.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L2A: \n  shows \"g\\<in>G\\<^sub>+ \\<longleftrightarrow> (\\<one>\\<lsq>g \\<and> g\\<noteq>\\<one>)\"\n  "}

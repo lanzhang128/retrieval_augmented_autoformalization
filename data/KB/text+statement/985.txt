@@ -1,0 +1,1 @@
+{"text": "text\\<open>Some simple arithmetics.\\<close>\n", "statement": "lemma (in complex0) arith: shows\n  \"\\<two> \\<ca> \\<two> = \\<four>\"\n  \"\\<two>\\<cdot>\\<two> = \\<four>\"\n  \"\\<three>\\<cdot>\\<two> = \\<six>\"\n  \"\\<three>\\<cdot>\\<three> = \\<nine>\"\n"}

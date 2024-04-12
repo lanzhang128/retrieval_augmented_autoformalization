@@ -1,0 +1,1 @@
+{"text": "text\\<open>The set of all words, and the set of no words are languages.\\<close>\n", "statement": "lemma full_empty_language:\n  assumes \"Finite(\\<Sigma>)\"\n  shows \"Lists(\\<Sigma>) {is a language with alphabet} \\<Sigma>\"\n  and \"0 {is a language with alphabet} \\<Sigma>\"\n  unfolding IsALanguage_def[OF assms] by auto\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Restriction of an inductive sequence to a finite domain\n  is the corresponding finite inductive sequence.\\<close>\n", "statement": "lemma indseq_restr_eq: \n  assumes A1: \"f: X\\<rightarrow>X\" and A2: \"x\\<in>X\" and A3: \"n \\<in> nat\"\n  shows \n  \"restrict(InductiveSequence(x,f),succ(n)) = InductiveSequenceN(x,f,n)\"\n"}

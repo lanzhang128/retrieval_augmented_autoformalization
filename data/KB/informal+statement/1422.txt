@@ -1,0 +1,1 @@
+{"informal": " In the ring1 theory, if zero is not equal to one, then neither the additive semigroup R+ nor the set R itself is a finite set.", "statement": "theorem (in ring1) ord_ring_infinite: assumes \"\\<zero>\\<noteq>\\<one>\"\n  shows \n  \"R\\<^sub>+ \\<notin> Fin(R)\"\n  \"R \\<notin> Fin(R)\"\n  "}

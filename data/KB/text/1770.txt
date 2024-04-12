@@ -1,0 +1,1 @@
+{"text": "text\\<open>Right and left translating an neighboorhood of zero by a point and its negative \n  makes it back a neighboorhood of zero.\\<close>\n"}

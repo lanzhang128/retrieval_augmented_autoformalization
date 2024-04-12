@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can choose an element from a nonempty set.\\<close>\n"}

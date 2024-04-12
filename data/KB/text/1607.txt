@@ -1,0 +1,1 @@
+{"text": "text\\<open>Distributive laws for finite sums in a ring: \n  $(\\sum_{k=0}^{n-1}q(k))\\cdot x = \\sum_{k=0}^{n-1}q(k)\\cdot x$ and \n  $x\\cdot (\\sum_{k=0}^{n-1}q(k)) = \\sum_{k=0}^{n-1}x\\cdot q(k)$. \\<close>\n"}

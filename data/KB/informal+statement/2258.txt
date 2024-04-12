@@ -1,0 +1,1 @@
+{"informal": " Given that X is not equal to 0 and for all x in X, b(x) equals c, it follows that the set of values {b(x) | x is in X} is equal to the singleton set {c}.", "statement": "lemma ZF1_1_L5: assumes \"X\\<noteq>0\" and \"\\<forall>x\\<in>X. b(x) = c\"\n  shows \"{b(x). x\\<in>X} = {c}\" "}

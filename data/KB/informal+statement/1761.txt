@@ -1,0 +1,1 @@
+{"informal": " In the group topology context, prove that the function \"f\" is a homeomorphism with respect to group inverse \"G\\ inj f\".", "statement": "lemma (in topgroup) inv_homeo: shows \"IsAhomeomorphism(T,T,GroupInv(G,f))\"\n  "}

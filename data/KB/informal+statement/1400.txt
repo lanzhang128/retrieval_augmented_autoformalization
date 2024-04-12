@@ -1,0 +1,1 @@
+{"informal": " In the ring1 theory, there is no number b in the ring R such that a equals the square of b, whenever a is different from zero.", "statement": "lemma (in ring1) OrdRing_ZF_1_L12: \n  assumes A1: \"a\\<lsq>\\<zero>\"  \"a\\<noteq>\\<zero>\"\n  shows \"\\<not>(\\<exists>b\\<in>R. a = (b\\<^sup>2))\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " Assuming A is a subset of the union of a topology T, the boundary of A is equal to its closure minus its interior.", "statement": "lemma (in topology0) Top_3_L12: assumes A1: \"A \\<subseteq> \\<Union>T\"\n  shows \"\\<partial>A = cl(A) - int(A)\"\n"}

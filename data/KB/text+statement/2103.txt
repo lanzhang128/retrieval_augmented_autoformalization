@@ -1,0 +1,1 @@
+{"text": "text\\<open>A partition satisfies the base condition.\\<close>\n", "statement": "lemma partition_base_condition:\n  assumes \"P {is a partition of} X\"\n  shows \"P {satisfies the base condition}\"\n"}

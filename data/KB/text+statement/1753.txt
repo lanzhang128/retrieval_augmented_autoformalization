@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another corollary of \\<open>rtrans_image_add\\<close> \\<close>\n", "statement": "lemma (in topgroup) elements_in_rtrans_inv:\n  assumes \"B\\<subseteq>G\" \"g\\<in>G\" \"q\\<in>B\" \"t=q\\<ra>g\"\n  shows \"t \\<in> B\\<rtr>g\"\n  "}

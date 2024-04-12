@@ -1,0 +1,1 @@
+{"text": "text\\<open>Analogously we say that a relation $r$ down-directs a set\n  if every two-element subset of $X$ has a lower bound. \\<close>\n"}

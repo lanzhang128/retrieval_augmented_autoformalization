@@ -1,0 +1,1 @@
+{"informal": " A binary relation f on a group G is an invariant if and only if for all x, y in G, applying f to the pair x, y yields the neutral element of the group.", "statement": "definition\n  \"GroupInv(G,f) \\<equiv> {\\<langle>x,y\\<rangle> \\<in> G\\<times>G. f`\\<langle>x,y\\<rangle> = TheNeutralElement(G,f)}\"\n"}

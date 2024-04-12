@@ -1,0 +1,1 @@
+{"text": "text\\<open>Singleton is in the finite powerset.\\<close>\n", "informal": " Assuming that \"x is an element of X,\" then the singleton set {x} is an element of FinPow(X) (the power set of X). \n\nOr, more succinctly:\n\nIf x \u2208 X, then {x} \u2208 FinPow(X).", "statement": "lemma singleton_in_finpow: assumes \"x \\<in> X\"\n  shows \"{x} \\<in> FinPow(X)\" "}

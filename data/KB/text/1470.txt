@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can use theorems proven in \\<open>group0\\<close> and \\<open>group1\\<close>\n  contexts applied to the group of real numbers.\\<close>\n"}

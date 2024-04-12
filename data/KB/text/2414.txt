@@ -1,0 +1,1 @@
+{"text": "text\\<open>Associative operation restricted to a set that is closed with\n  resp. to this operation is associative.\\<close>\n"}

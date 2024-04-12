@@ -1,0 +1,1 @@
+{"informal": " In the group0 theory, if V is a subset of G, then the inverse image of V under the group operation is a subset of G and equals the set of inverses of elements in V.", "statement": "lemma (in group0) ginv_image: assumes \"V\\<subseteq>G\" \n  shows \"GroupInv(G,P)``(V) \\<subseteq> G\" and \"GroupInv(G,P)``(V) = {g\\<inverse>. g \\<in> V}\"  \n"}

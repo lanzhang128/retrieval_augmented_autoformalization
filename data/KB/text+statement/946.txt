@@ -1,0 +1,1 @@
+{"text": "text\\<open>In a (nonempty) meet semi-lattice the relation down-directs the set. \\<close>\n", "statement": "lemma meet_down_directs: assumes \"IsMeetSemilattice(L,r)\" \"L\\<noteq>0\"\n  shows \"r {down-directs} L\"\n"}

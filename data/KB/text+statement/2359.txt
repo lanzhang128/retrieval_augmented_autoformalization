@@ -1,0 +1,1 @@
+{"text": "text\\<open>A function restricted to its domain is itself.\\<close>\n", "statement": "lemma restrict_domain: assumes \"f:X\\<rightarrow>Y\"\n  shows \"restrict(f,X) = f\"\n"}

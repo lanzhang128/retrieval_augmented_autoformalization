@@ -1,0 +1,1 @@
+{"text": "text\\<open>A consistency condition: if we make the list shorter, then we get a shorter\n  sequence of partial folds with the same values as in the original sequence. \n  This can be proven as a special case of \\<open>fin_indseq_var_f_restrict\\<close>\n  but a proof using \\<open>fold_seq_props\\<close> and induction turns out to be \n  shorter.\\<close>\n"}

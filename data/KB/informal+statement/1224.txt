@@ -1,0 +1,1 @@
+{"informal": " In the group3 theory, if element a is less than element b, and element b is less than element a, then a and b are equal.", "statement": "lemma (in group3) group_order_antisym:\n  assumes A1: \"a\\<lsq>b\"  \"b\\<lsq>a\" shows \"a=b\"\n"}

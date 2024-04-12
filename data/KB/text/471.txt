@@ -1,0 +1,1 @@
+{"text": "text\\<open>Inverse and square of a subgroup is this subgroup.\\<close>\n"}

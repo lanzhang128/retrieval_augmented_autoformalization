@@ -1,0 +1,1 @@
+{"text": "text\\<open>Anti-compactness ereases the differences between several properties.\\<close>\n", "informal": " If a topology is anti-compact, then it is equivalent to being both compact and T1 (separation axiom).", "statement": "lemma (in topology0) anticompact_KC_equiv_T1:\n  assumes \"T{is anti-compact}\"\n  shows \"T{is KC}\\<longleftrightarrow>T{is T\\<^sub>1}\"\n"}

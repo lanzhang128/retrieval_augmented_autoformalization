@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition of \\<open>zf_newbig\\<close> as the range of \\<open>zf_move\\<close>.\\<close>\n", "statement": "definition (in generalization) \"zf_newbig \\<equiv> range(zf_move)\"\n"}

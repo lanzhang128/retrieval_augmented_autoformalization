@@ -1,0 +1,1 @@
+{"text": "text\\<open>Product of positive integers is positive.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_3_L8: \n  assumes \"a\\<in>\\<int>\"  \"b\\<in>\\<int>\" \n  and \"\\<not>(a\\<lsq>\\<zero>)\"  \"\\<not>(b\\<lsq>\\<zero>)\"\n  shows \"\\<not>((a\\<cdot>b) \\<lsq> \\<zero>)\"\n  "}

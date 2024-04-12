@@ -1,0 +1,1 @@
+{"text": "text\\<open>The neutral element class is neutral in the projection.\\<close>\n"}

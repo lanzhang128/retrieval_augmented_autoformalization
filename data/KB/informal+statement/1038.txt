@@ -1,0 +1,1 @@
+{"informal": " For all natural numbers a and b, a is less than or equal to b or vice versa.", "statement": "lemma NatOrder_ZF_1_L1:\n  assumes \"a\\<in>nat\" and \"b\\<in>nat\"\n  shows \"a \\<le> b \\<or> b \\<le> a\"\n"}

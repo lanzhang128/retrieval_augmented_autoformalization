@@ -1,0 +1,1 @@
+{"informal": " In the group `group3`, if an element `a` is in the positive part `G+`, then the neutral element `<bar>a<bar>` is equal to `a`.", "statement": "lemma (in group3) OrderedGroup_ZF_3_L2B:\n  assumes \"a\\<in>G\\<^sub>+\" shows \"\\<bar>a\\<bar> = a\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma rephrases the definition of \\<open>Last\\<close>.\n  Recall that in ZF we have $\\{0,1,2,..,n\\} = n+1=$\\<open>succ\\<close>$(n)$.\\<close>\n"}

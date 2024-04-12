@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the set is too small or the cardinal too large, then the topology\nis just the discrete topology.\\<close>\n", "statement": "lemma discrete_cocardinal:\n  assumes \"X\\<prec>T\"\n  shows \"CoCardinal(X,T) = Pow(X)\"\n"}

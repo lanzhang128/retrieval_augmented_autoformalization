@@ -1,0 +1,1 @@
+{"text": "text\\<open>The topological subspaces of the \\<open>(PTopology X U)\\<close>\nare partition topologies.\\<close>\n", "statement": "lemma subspace_ptopology:\n  assumes \"U{is a partition of}X\"\n  shows \"(PTopology X U) {restricted to} Y=(PTopology (X\\<inter>Y) ((U {restricted to} Y)-{0}))\"\n"}

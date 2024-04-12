@@ -1,0 +1,1 @@
+{"informal": " In the group `G`:\n\nIf an element `a` is in `G+` (the positive part of `G`), then `a` is equal to its additive inverse.", "statement": "lemma (in group3) OrderedGroup_ZF_3_L2:\n  assumes A1: \"a\\<in>G\\<^sup>+\" shows \"\\<bar>a\\<bar> = a\"\n"}

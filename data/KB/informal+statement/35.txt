@@ -1,0 +1,1 @@
+{"informal": " \"CommSetFold is the set obtained by folding function f over the disjoint union of sets {a} and {b}, where b is in the bijective image of the set \u039b under its bijection onto itself.\"", "statement": "definition\n  \"CommSetFold(f,a,\\<Lambda>) = \\<Union>{Fold1(f,a O b). b \\<in> bij(|\\<Lambda>|, \\<Lambda>)}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A union of two subgroups is a subgroup iff \n  one of the subgroups is a subset of the other subgroup.\\<close>\n"}

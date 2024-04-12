@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the cartesian product of the images of $x$ and $y$ by a \n  symmetric relation $W$ has a nonempty intersection with $R$\n  then $x$ is in relation $W\\circ (R\\circ W)$ with $y$. \\<close>\n"}

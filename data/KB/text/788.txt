@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $s$ is a slope, then $\\gamma (s,m,n)$ is uniformly bounded.\\<close>\n"}

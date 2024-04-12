@@ -1,0 +1,1 @@
+{"text": "text\\<open>Ordered field is a field, of course.\\<close>\n", "statement": "lemma OrdField_ZF_1_L1A: assumes \"IsAnOrdField(K,A,M,r)\"\n  shows \"IsAfield(K,A,M)\"\n  "}

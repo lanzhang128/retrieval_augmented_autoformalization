@@ -1,0 +1,1 @@
+{"text": "text\\<open>A variant of induction useful for finite sequences.\\<close>\n", "statement": "lemma fin_nat_ind: assumes A1: \"n \\<in> nat\" and A2: \"k \\<in> succ(n)\"\n  and A3: \"P(0)\" and A4: \"\\<forall>j\\<in>n. P(j)  \\<longrightarrow> P(succ(j))\"\n  shows \"P(k)\"\n"}

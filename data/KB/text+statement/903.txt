@@ -1,0 +1,1 @@
+{"text": "text\\<open>A different version of the triangle inequality.\\<close>\n", "statement": "lemma (in int0) Int_triangle_ineq1: \n  assumes A1: \"m\\<in>\\<int>\"  \"n\\<in>\\<int>\"\n  shows \n  \"abs(m\\<rs>n) \\<lsq> abs(n)\\<ra>abs(m)\"\n  \"abs(m\\<rs>n) \\<lsq> abs(m)\\<ra>abs(n)\"\n"}

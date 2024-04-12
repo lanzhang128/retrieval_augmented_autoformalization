@@ -1,0 +1,1 @@
+{"text": "text\\<open>A sufficient condition for a set to be bounded below.\\<close>\n", "informal": " If every element in set A is in relation r with some element l, then set A is boundedly below relation r.", "statement": "lemma Order_ZF_3_L9: assumes A1: \"\\<forall>a\\<in>A. \\<langle>l,a\\<rangle> \\<in> r\"\n  shows \"IsBoundedBelow(A,r)\"\n"}

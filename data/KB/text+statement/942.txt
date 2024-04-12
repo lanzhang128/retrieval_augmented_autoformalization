@@ -1,0 +1,1 @@
+{"text": "text\\<open> In a join-semilattice join is indeed a binary operation. \\<close>\n", "statement": "lemma join_is_binop: assumes \"IsJoinSemilattice(L,r)\" \n  shows \"Join(L,r) :  L\\<times>L \\<rightarrow> L\"\n"}

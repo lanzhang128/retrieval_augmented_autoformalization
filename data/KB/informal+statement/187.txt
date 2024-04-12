@@ -1,0 +1,1 @@
+{"informal": " If function `f` maps a finite set `X` to `Y` and `N` is an element of `X`, then `f`'s image of `N` is an element of the finite set `Y`.", "statement": "lemma Finite1_L6A: assumes A1: \"f:X\\<rightarrow>Y\" and A2: \"N \\<in> Fin(X)\"\n  shows \"f``(N) \\<in> Fin(Y)\"\n"}

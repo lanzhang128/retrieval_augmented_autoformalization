@@ -1,0 +1,1 @@
+{"text": "text\\<open>A couple useful rearrangements with three elements: \n  we can insert a $b\\cdot b^{-1}$ \n  between two group elements (another version) and one about a product of \n  an element and inverse of a product, and two others.\\<close>\n"}

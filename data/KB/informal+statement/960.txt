@@ -1,0 +1,1 @@
+{"informal": " \"Right Inverse of relation G over set A: x is in G if and only if there exists a y in G such that the composition of A(x,y) is the neutral element for A.\"", "statement": "definition\n  \"RightInv(G,A) \\<equiv> {\\<langle>x,\\<Union>{y\\<in>G. A`\\<langle>x,y\\<rangle> = TheNeutralElement(G,A)}\\<rangle>. x\\<in>G}\"\n"}

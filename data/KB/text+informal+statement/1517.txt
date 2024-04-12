@@ -1,0 +1,1 @@
+{"text": "text\\<open>Real order is transitive.\\<close>\n", "informal": " In the real numbers, if a is less than b, and b is less than c, then a is less than c.", "statement": "lemma (in real1) real_ord_transitive: assumes A1: \"a\\<lsq>b\"  \"b\\<lsq>c\"\n  shows \"a\\<lsq>c\"\n"}

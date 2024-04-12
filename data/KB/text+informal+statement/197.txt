@@ -1,0 +1,1 @@
+{"text": "text\\<open>Definition of finite range functions.\\<close>\n", "informal": " A function from X to Y is in FinRangeFunctions if its domain X is finite, and its range Y is in the finite set sphere.", "statement": "definition\n  \"FinRangeFunctions(X,Y) \\<equiv> {f:X\\<rightarrow>Y. f``(X) \\<in> Fin(Y)}\"\n"}

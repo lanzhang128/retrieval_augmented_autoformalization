@@ -1,0 +1,1 @@
+{"informal": " The lemma \"mem_not_refl_2\" states that an element does not belong to itself in the set '{t}'. In other words, '{t}' is not a member of 't'.", "statement": "lemma mem_not_refl_2: shows \"{t} \\<notin> t\"\n  "}

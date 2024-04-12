@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the right hand side of an inequality is positive we can multiply it \n  by a number that is greater than one.\\<close>\n"}

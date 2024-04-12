@@ -1,0 +1,1 @@
+{"text": "text\\<open>The values of the translations are what we expect.\\<close>\n", "statement": "lemma (in group0) group0_5_L2: assumes \"g\\<in>G\" \"a\\<in>G\"\n  shows \n  \"RightTranslation(G,P,g)`(a) = a\\<cdot>g\"\n  \"LeftTranslation(G,P,g)`(a) = g\\<cdot>a\"\n  "}

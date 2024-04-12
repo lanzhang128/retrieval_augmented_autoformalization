@@ -1,0 +1,1 @@
+{"text": "text\\<open>Successors of natural numbers are subsets of the \n  set of natural numbers.\\<close>\n"}

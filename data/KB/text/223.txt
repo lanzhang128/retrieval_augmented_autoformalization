@@ -1,0 +1,1 @@
+{"text": "text\\<open>Properties of \\<open>Init\\<close>.\\<close>\n"}

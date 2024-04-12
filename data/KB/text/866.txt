@@ -1,0 +1,1 @@
+{"text": "text\\<open>The essential condition to show antisymmetry of the order on integers.\\<close>\n"}

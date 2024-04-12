@@ -1,0 +1,1 @@
+{"text": "text\\<open>Function defined on a singleton is a single pair.\\<close>\n", "statement": "lemma func_singleton_pair: assumes A1: \"f : {a}\\<rightarrow>X\"\n  shows \"f = {\\<langle>a, f`(a)\\<rangle>}\"\n"}

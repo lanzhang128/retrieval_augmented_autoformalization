@@ -1,0 +1,1 @@
+{"text": "text\\<open>The join-topology build from the cofinite topology on the natural numbers,\nand the excluded set topology on the natural numbers excluding \\<open>{0,1}\\<close>;\nis just the union of both.\\<close>\n"}

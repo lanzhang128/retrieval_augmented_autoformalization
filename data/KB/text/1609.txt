@@ -1,0 +1,1 @@
+{"text": "text\\<open>To shorten the notation in the proof of the binomial theorem we give a name to the\n  binomial term ${n \\choose k} x^{n-k} y^k$.\\<close>\n"}

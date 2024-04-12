@@ -1,0 +1,1 @@
+{"text": "text\\<open>A continuous bijection that is an open map is a homeomorphism.\\<close>\n"}

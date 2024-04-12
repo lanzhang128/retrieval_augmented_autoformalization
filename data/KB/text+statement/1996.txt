@@ -1,0 +1,1 @@
+{"text": "text\\<open>The separation properties $T_0$, $T_1$, $T_2$ y $T_3$ are hereditary.\\<close>\n", "statement": "theorem regular_here:\n  assumes \"T{is regular}\" \"A\\<in>Pow(\\<Union>T)\" shows \"(T{restricted to}A){is regular}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Since \\<open>G\\<close> is always a group containing the set, we may take\nthe intersection of all subgroups bigger than the set; and hence\nthe result is the subgroup we searched.\\<close>\n"}

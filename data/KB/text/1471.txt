@@ -1,0 +1,1 @@
+{"text": "text\\<open>In \\<open>real0\\<close> context all theorems proven in the \\<open>ring0\\<close>,\n  context are valid.\\<close>\n"}

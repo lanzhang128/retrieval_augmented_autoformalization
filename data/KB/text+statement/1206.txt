@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can multiply an inequality by the inverse of a positive element.\\<close>\n", "statement": "lemma (in field1) OrdField_ZF_2_L3:\n  assumes \"a\\<lsq>b\"  and \"c\\<in>R\\<^sub>+\" shows \"a\\<cdot>(c\\<inverse>) \\<lsq> b\\<cdot>(c\\<inverse>)\"\n  "}

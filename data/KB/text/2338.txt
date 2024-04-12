@@ -1,0 +1,1 @@
+{"text": "text\\<open> For two functions with the same domain $X$ and the codomain $Y,Z$ resp., we can define\n  a third one that maps $X$ to the cartesian product of $Y$ and $Z$. \\<close>\n"}

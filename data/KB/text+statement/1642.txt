@@ -1,0 +1,1 @@
+{"text": "text\\<open>The sets $\\{m\\cdot x. x\\in R\\}$ and  $\\{-m\\cdot x. x\\in R\\}$\n  are the same.\\<close>\n", "statement": "lemma (in ring0) Ring_ZF_1_L18: assumes A1: \"m\\<in>R\"\n  shows \"{m\\<cdot>x. x\\<in>R} = {(\\<rm>m)\\<cdot>x. x\\<in>R}\"\n"}

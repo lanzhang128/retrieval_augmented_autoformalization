@@ -1,0 +1,1 @@
+{"text": "text\\<open>Interior of a bigger set is bigger.\\<close>\n", "statement": "lemma (in topology0) interior_mono: \n  assumes A1: \"A\\<subseteq>B\" shows \"int(A) \\<subseteq> int(B)\"\n"}

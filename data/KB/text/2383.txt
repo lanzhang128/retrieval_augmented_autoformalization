@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma about extending a bijection by one point.\\<close>\n"}

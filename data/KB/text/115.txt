@@ -1,0 +1,1 @@
+{"text": "text\\<open>Congruent functions of two variables can be projected.\\<close>\n"}

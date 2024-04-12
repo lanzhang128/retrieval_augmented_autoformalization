@@ -1,0 +1,1 @@
+{"text": "text\\<open>Order isomorhisms preserve the images of relations.\n  In other words taking the image of a point by a relation\n  commutes with the function.\\<close>\n"}

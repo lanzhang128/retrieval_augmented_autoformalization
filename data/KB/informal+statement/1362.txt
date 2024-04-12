@@ -1,0 +1,1 @@
+{"informal": " In the context of the \"loop1\" theory, if elements x, y, and z are in the set L, and z is to the left of x with respect to the relation <ra>, then x is to the left of y.", "statement": "lemma (in loop1) ineq_cancel_left: assumes \"x\\<in>L\" \"y\\<in>L\" \"z\\<in>L\" and \"z\\<ra>x \\<lsq> z\\<ra>y\" \n  shows  \"x\\<lsq>y\"\n"}

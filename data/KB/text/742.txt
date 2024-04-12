@@ -1,0 +1,1 @@
+{"text": "text\\<open>Intgers greater than one in \\<open>\\<int>\\<^sub>+\\<close> belong to \\<open>\\<int>\\<^sub>+\\<close>.\n  This is a property of ordered groups and follows from \n  \\<open>OrderedGroup_ZF_1_L19\\<close>, but Isabelle's simplifier has problems \n  using that result directly, so we reprove it specifically for integers.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"informal": " In the MMISar0 theory, there is a result (lemma) named MMI_recnt, which states that any real number A belongs to the set of real numbers, and therefore also belongs to the set of complex numbers.", "statement": "  lemma (in MMIsar0) MMI_recnt: \n   shows \"A \\<in> \\<real> \\<longrightarrow> A \\<in> \\<complex>\"\n"}

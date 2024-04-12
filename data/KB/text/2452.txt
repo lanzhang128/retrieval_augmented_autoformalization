@@ -1,0 +1,1 @@
+{"text": "text\\<open>Somewhat technical lemma about inverse image of a set by a \\<open>ProdFunction(f,f)\\<close>. \\<close>\n"}

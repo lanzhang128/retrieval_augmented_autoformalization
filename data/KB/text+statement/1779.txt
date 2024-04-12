@@ -1,0 +1,1 @@
+{"text": "text\\<open>We prove the equivalence between $T_0$ and $T_1$ first.\\<close>\n", "statement": "theorem (in topgroup) neu_closed_imp_T1:\n  assumes \"{\\<zero>}{is closed in}T\"\n  shows \"T{is T\\<^sub>1}\"\n"}

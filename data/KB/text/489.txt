@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a group is abelian, then its lift to a function space is also \n  abelian.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open> An associative loop is a group.\\<close>\n", "informal": " If G is a loop with relation P and P is an associative relation on G, then G is a group under relation P.", "statement": "theorem assoc_loop_is_gr: assumes \"IsAloop(G,P)\" and \"P {is associative on} G\"\n  shows \"IsAgroup(G,P)\" \n"}

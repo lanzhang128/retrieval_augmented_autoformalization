@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every bounded set is an image of a subset of an interval that starts at \n  $1$.\\<close>\n"}

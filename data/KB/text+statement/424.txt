@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group's neutral element (denoted $1$ in the group0 context)\n  is a neutral element for the subgroup with respect to the group action.\\<close>\n", "statement": "lemma (in group0) group0_3_L3:\n  assumes \"IsAsubgroup(H,P)\"\n  shows \"\\<forall>h\\<in>H. \\<one>\\<cdot>h = h \\<and> h\\<cdot>\\<one> = h\"\n  "}

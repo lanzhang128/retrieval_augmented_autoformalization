@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another way of looking at translations is that they are sections\n  of the group operation.\\<close>\n", "statement": "lemma (in group0) trans_eq_section: assumes \"g\\<in>G\" shows\n  \"RightTranslation(G,P,g) = Fix2ndVar(P,g)\" and\n  \"LeftTranslation(G,P,g) =  Fix1stVar(P,g)\"\n"}

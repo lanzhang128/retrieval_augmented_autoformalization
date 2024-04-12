@@ -1,0 +1,1 @@
+{"text": "text\\<open>It is handy to have a version of \\<open> Group_ZF_3_2_L4\\<close>\n  specifically for almost homomorphisms.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Equivalence relations are symmetric.\\<close>\n", "informal": " If X is equivalent to a relation r, and (x, y) is an element of r, then (y, x) must also be an element of r.", "statement": "lemma equiv_is_sym: assumes A1: \"equiv(X,r)\" and A2: \"\\<langle>x,y\\<rangle> \\<in> r\"\n  shows  \"\\<langle>y,x\\<rangle> \\<in> r\"\n"}

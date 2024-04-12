@@ -1,0 +1,1 @@
+{"text": "text\\<open>Product topology base is closed with respect to intersections.\\<close>\n", "statement": "lemma prod_top_base_inter: \n  assumes A1: \"T {is a topology}\" and  \n  A2: \"U \\<in> ProductTopBase(I,T)\"  \"V \\<in> ProductTopBase(I,T)\"\n  shows \"U\\<inter>V \\<in> ProductTopBase(I,T)\"\n"}

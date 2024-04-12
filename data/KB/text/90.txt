@@ -1,0 +1,1 @@
+{"text": "text\\<open>Direct product of commutative operations is commutative.\\<close>\n"}

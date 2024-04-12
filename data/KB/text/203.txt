@@ -1,0 +1,1 @@
+{"text": "text\\<open>We define the set of lists with values in set $X$ as \\<open>Lists(X)\\<close>.\\<close>\n"}

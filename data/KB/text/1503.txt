@@ -1,0 +1,1 @@
+{"text": "text\\<open>Negative of a real number is a real number. Property of groups.\\<close>\n"}

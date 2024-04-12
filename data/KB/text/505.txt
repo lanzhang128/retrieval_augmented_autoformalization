@@ -1,0 +1,1 @@
+{"text": "text\\<open>The class (coset) of the neutral element is the neutral\n  element of the quotient group.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>First order version of the induction for the finite powerset.\\<close>\n"}

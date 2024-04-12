@@ -1,0 +1,1 @@
+{"text": "text\\<open>First, we define the set of homeomorphisms.\\<close>\n", "statement": "definition\n  \"HomeoG(T) \\<equiv> {f:\\<Union>T\\<rightarrow>\\<Union>T. IsAhomeomorphism(T,T,f)}\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>OrdRing_ZF_3_L7\\<close>: a ring element greater\n  or equal than $1$ is positive.\\<close>\n"}

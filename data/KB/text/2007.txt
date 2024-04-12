@@ -1,0 +1,1 @@
+{"text": "text\\<open>In the article \\cite{ReVa80}, we can find some results on anti-properties.\\<close>\n"}

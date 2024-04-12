@@ -1,0 +1,1 @@
+{"text": "text\\<open>A nonempty list can be decomposed into concatenation of its first element and \n  the tail.\\<close>\n", "statement": "lemma first_concat_tail: assumes \"n\\<in>nat\" \"a:succ(n)\\<rightarrow>X\"\n  shows \"a = Concat({\\<langle>0,a`(0)\\<rangle>},Tail(a))\"\n"}

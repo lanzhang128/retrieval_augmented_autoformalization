@@ -1,0 +1,1 @@
+{"informal": " Given an integer `a`, if it is an element of the integers, then the product of `a` and 2 is equal to the sum of `a`, 1, and 2, and `a` is equal to the product of 2 and `a`.", "statement": "lemma (in int0) Int_ZF_1_2_L11: assumes A1: \"a\\<in>\\<int>\"\n  shows \n  \"a\\<ra>\\<one>\\<ra>\\<two> = a\\<ra>\\<three>\"\n  \"a = \\<two>\\<cdot>a \\<rs> a\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>A quite involved inequality.\\<close>\n"}

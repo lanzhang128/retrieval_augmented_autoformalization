@@ -1,0 +1,1 @@
+{"text": "text\\<open>The quotient projection $b\\mapsto r\\{ b\\}$ is a function that maps the domain of the \n  relation to the quotient. Note we do not need to assume that $r$ is an equivalence relation. \\<close>\n"}

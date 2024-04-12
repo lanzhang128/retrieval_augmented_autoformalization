@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the subgroup is normal, the group operation is congruent \n  with respect to the quotient group relation.\\<close>\n", "statement": "lemma Group_ZF_2_4_L5A:\n  assumes \"IsAgroup(G,P)\"\n  and \"IsAnormalSubgroup(G,P,H)\" \n  shows \"Congruent2(QuotientGroupRel(G,P,H),P)\"\n  "}

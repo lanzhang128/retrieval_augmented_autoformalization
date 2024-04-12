@@ -1,0 +1,1 @@
+{"text": "text\\<open>The lifted operation acts on the functions in a natural way defined\n  by the monoid operation.\\<close>\n"}

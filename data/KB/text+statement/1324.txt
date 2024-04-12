@@ -1,0 +1,1 @@
+{"text": "text\\<open>In linearly ordered groups $|a|\\leq L$ implies $a \\leq L$\n  (it would be $a \\leq L$ in the additive notation).\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_3_L8A:\n  assumes A1: \"r {is total on} G\" \n  and A2: \"a\\<in>G\" and A3: \"\\<bar>a\\<bar>\\<lsq>L\"\n  shows \n  \"a\\<lsq>L\"\n  \"\\<one>\\<lsq>L\"\n"}

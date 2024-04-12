@@ -1,0 +1,1 @@
+{"text": "text\\<open>Triangle inequality for linearly ordered abelian groups. \n  It would be nice to drop commutativity or give an example that shows we\n  can't do that.\\<close>\n"}

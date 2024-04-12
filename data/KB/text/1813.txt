@@ -1,0 +1,1 @@
+{"text": "text\\<open>The collection of closed covers of a subset of the carrier of topology\n  is never empty. This is good to know, as we want to intersect this collection\n  to get the closure.\\<close>\n"}

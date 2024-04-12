@@ -1,0 +1,1 @@
+{"text": "text\\<open> The excluded set topology consists of subsets of $X$ that are disjoint with a fixed set $U$. \\<close>\n", "informal": " A set U is the excluded set of X if and only if the intersection of U and any subset F of X is the empty set, except for X itself.", "statement": "definition \"ExcludedSet(X,U) \\<equiv> {F\\<in>Pow(X). U \\<inter> F=0}\\<union> {X}\"\n"}

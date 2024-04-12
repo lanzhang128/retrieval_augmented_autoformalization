@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a property is invariant with respect to taking the inverse\n  and it is true on the nonnegative set, than it is true on the whole\n  group.\\<close>\n"}

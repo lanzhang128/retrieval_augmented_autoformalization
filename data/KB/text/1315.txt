@@ -1,0 +1,1 @@
+{"text": "text\\<open> $|a\\cdot b^{-1}| = |b\\cdot a^{-1}|$. It doesn't look so strange in the \n  additive notation: $|a-b| = |b-a|$.\\<close>\n"}

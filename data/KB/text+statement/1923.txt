@@ -1,0 +1,1 @@
+{"text": "text\\<open>When the index set is finite, the definition of \\<open>ProductTopBase(I,T)\\<close> \ncan be simplifed.\\<close>\n", "statement": "lemma fin_prod_def_nat: assumes A1: \"n\\<in>nat\" and A2: \"T {is a topology}\"  \n  shows \"ProductTopBase(n,T) = {FinProd(n\\<rightarrow>\\<Union>T,W). W\\<in>n\\<rightarrow>T}\"\n"}

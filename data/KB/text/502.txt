@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma states the essential condition for congruency of \n  the group operation with respect to the quotient group relation.\\<close>\n"}

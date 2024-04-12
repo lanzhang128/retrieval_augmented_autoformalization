@@ -1,0 +1,1 @@
+{"text": "text\\<open>Negative of a nonnegative is nonpositive.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_3_L16: assumes A1: \"\\<zero> \\<lsq> m\"\n  shows \"(\\<rm>m) \\<lsq> \\<zero>\"\n"}

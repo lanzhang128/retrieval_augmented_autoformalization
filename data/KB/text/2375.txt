@@ -1,0 +1,1 @@
+{"text": "text\\<open>The domain of a bijection between $X$ and $Y$ is $X$.\\<close>\n"}

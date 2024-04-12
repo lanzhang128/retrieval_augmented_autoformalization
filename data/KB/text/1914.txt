@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a fuction is continuous on each set of a collection of open sets, then\n  it is continuous on the union of them. We could use continuity with respect to\n  the relative topology here, but we know that on open sets this is the same as the\n  original topology.\\<close>\n"}

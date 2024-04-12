@@ -1,0 +1,1 @@
+{"text": "text\\<open>Floor of (real) zero is (integer) zero.\\<close>\n", "statement": "lemma (in real1) floor_01_is_zero_one: shows \n  \"\\<lfloor>\\<zero>\\<rfloor> = \\<zero>\\<^sub>Z\"   \"\\<lfloor>\\<one>\\<rfloor> = \\<one>\\<^sub>Z\"\n"}

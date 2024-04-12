@@ -1,0 +1,1 @@
+{"text": "text\\<open>What is the value of a sum of monoid-valued functions?\\<close>\n", "statement": "lemma (in finsupp) finsupp_sum_val: \n  assumes \"f:X \\<rightarrow>M\"  \"g:X \\<rightarrow>M\" and \"x \\<in> X\"\n  shows \"(f\\<oplus>g)`(x) = f`(x) \\<ra> g`(x)\"\n  "}

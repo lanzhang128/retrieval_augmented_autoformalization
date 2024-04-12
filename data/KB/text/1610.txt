@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $n,k$ are natural numbers and $x,y$ are ring elements then the binomial term is \n  an element of the ring. \\<close>\n"}

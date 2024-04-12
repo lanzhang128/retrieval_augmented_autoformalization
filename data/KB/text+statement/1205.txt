@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>OrdField_ZF_2_L1\\<close> when we multiply\n  an inverse by an element.\\<close>\n", "statement": "lemma (in field1) OrdField_ZF_2_L2: \n  assumes A1: \"a\\<in>R\\<^sub>+\" and A2: \"a\\<inverse> \\<ls> b\"\n  shows \"\\<one> \\<ls> b\\<cdot>a\"\n"}

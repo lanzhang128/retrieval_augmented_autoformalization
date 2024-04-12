@@ -1,0 +1,1 @@
+{"text": "text\\<open>The strict order on complex reals is transitive - the explicit version\n  of \\<open>cplx_strict_ord_trans\\<close>.\\<close>\n"}

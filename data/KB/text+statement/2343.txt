@@ -1,0 +1,1 @@
+{"text": "text\\<open>The image of an intersection is contained in the \n  intersection of the images.\\<close>\n", "statement": "lemma image_of_Inter: assumes  A1: \"f:X\\<rightarrow>Y\" and\n  A2: \"I\\<noteq>0\" and A3: \"\\<forall>i\\<in>I. P(i) \\<subseteq> X\"\n  shows \"f``(\\<Inter>i\\<in>I. P(i)) \\<subseteq> ( \\<Inter>i\\<in>I. f``(P(i)) )\"\n"}

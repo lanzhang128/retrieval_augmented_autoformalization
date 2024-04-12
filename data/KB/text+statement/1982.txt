@@ -1,0 +1,1 @@
+{"text": "text\\<open>An open neighborhood of $x$ is a set neighborhood of $\\{ x\\}$. \\<close>\n", "statement": "corollary open_nei_singl: assumes \"V\\<in>T\" \"x\\<in>V\"\n  shows  \"V \\<in> ({set neighborhood system of} T)`{x}\"\n  "}

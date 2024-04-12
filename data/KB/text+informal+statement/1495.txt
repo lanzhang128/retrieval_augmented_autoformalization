@@ -1,0 +1,1 @@
+{"text": "text\\<open>Multiplication is commutative on reals.\\<close>\n", "informal": " The RealMultiplication operation is commutative on RealNumbers in Isabelle/ZF.", "statement": "lemma real_mult_commutative: shows\n  \"RealMultiplication {is commutative on} RealNumbers\"\n  "}

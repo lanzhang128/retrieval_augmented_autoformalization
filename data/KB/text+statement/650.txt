@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma essentially translates \\<open>zdiv_mono1\\<close> from \n  standard Isabelle to our notation.\\<close>\n", "statement": "lemma (in int0) IntDiv_ZF_1_L4: \n  assumes A1: \"m \\<lsq> k\" and A2: \"\\<zero>\\<lsq>n\"  \"n\\<noteq>\\<zero>\"\n  shows \"m zdiv n \\<lsq>  k zdiv n\"\n"}

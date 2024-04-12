@@ -1,0 +1,1 @@
+{"text": "text\\<open>It is, at least for some people, surprising that the spectrum of some properties cannot be completely\ndetermined in \\emph{ZF}.\\<close>\n"}

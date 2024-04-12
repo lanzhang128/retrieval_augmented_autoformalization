@@ -1,0 +1,1 @@
+{"text": "text\\<open>Projection of a section of an open set is open. This is dual of \n\\<open>prod_sec_open1\\<close> with a very similar proof.\\<close>\n"}

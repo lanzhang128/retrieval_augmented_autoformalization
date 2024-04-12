@@ -1,0 +1,57 @@
+{
+    "0": {
+        "type": "lemma",
+        "text": "text\\<open> Barycentric refinement of a barycentric refinement is a star refinement. \\<close>\n",
+        "assumes": "assumes \"P\\<in>Covers(X)\" \"Q\\<in>Covers(X)\" \"R\\<in>Covers(X)\" \"P <\\<^sup>B Q\" \"Q <\\<^sup>B R\" \"X\\<noteq>0\" \n  ",
+        "using": [
+            "cover_nonempty"
+        ],
+        "statement": "lemma bary_bary_star: \n  assumes \"P\\<in>Covers(X)\" \"Q\\<in>Covers(X)\" \"R\\<in>Covers(X)\" \"P <\\<^sup>B Q\" \"Q <\\<^sup>B R\" \"X\\<noteq>0\" \n  shows \"P <\\<^sup>* R\"\n",
+        "proof": "proof -\n  { fix U assume \"U\\<in>P\" \n    { assume \"U = 0\"\n      then have \"Star(U,P) = 0\" unfolding Star_def by simp\n      from assms(6,3) obtain V where \"V\\<in>R\" using cover_nonempty by auto\n      with \\<open>Star(U,P) = 0\\<close> have \"\\<exists>V\\<in>R. Star(U,P) \\<subseteq> V\" by auto\n    }\n    moreover \n    { assume \"U\\<noteq>0\"\n      then obtain x\\<^sub>0 where \"x\\<^sub>0\\<in>U\" by auto\n      with assms(1,2,5) \\<open>U\\<in>P\\<close> obtain V where \"V\\<in>R\" and \"Star({x\\<^sub>0},Q) \\<subseteq> V\"\n        unfolding Covers_def IsBarycentricRefinement_def by auto\n      have \"Star(U,P) \\<subseteq> V\"\n      proof -\n        { fix W assume \"W\\<in>P\" and \"W\\<inter>U \\<noteq> 0\"\n          from \\<open>W\\<inter>U \\<noteq> 0\\<close> obtain x where \"x\\<in>W\\<inter>U\" by auto\n          with assms(2) \\<open>U\\<in>P\\<close> have  \"x\\<in>\\<Union>P\" by auto\n          with assms(4) obtain C where \"C\\<in>Q\" and \"Star({x},P) \\<subseteq> C\"\n            unfolding IsBarycentricRefinement_def by blast\n          with \\<open>U\\<in>P\\<close> \\<open>W\\<in>P\\<close> \\<open>x\\<in>W\\<inter>U\\<close> \\<open>x\\<^sub>0\\<in>U\\<close> \\<open>Star({x\\<^sub>0},Q) \\<subseteq> V\\<close> have \"W\\<subseteq>V\" \n            unfolding Star_def by blast\n        } then show \"Star(U,P) \\<subseteq> V\" unfolding Star_def by auto        \n      qed\n      with \\<open>V\\<in>R\\<close> have \"\\<exists>V\\<in>R. Star(U,P) \\<subseteq> V\" by auto\n    }\n    ultimately have \"\\<exists>V\\<in>R. Star(U,P) \\<subseteq> V\" by auto\n  } then show \"P <\\<^sup>* R\" unfolding IsStarRefinement_def by simp\nqed\n",
+        "source": "IsarMathLib/UniformSpace_ZF_2.thy",
+        "id": 2477
+    },
+    "1": {
+        "type": "lemma",
+        "text": "text\\<open>The next lemma states that the result of a sum does not depend\n  on the order we calculate it. This is similar to lemma \n  \\<open>prod_order_irr\\<close> in the \\<open>Semigroup\\<close> theory,\n  except that the \\<open>semigr1\\<close> locale assumes\n  that the domain of the function we sum up is linearly\n  ordered, while in \\<open>commsemigr\\<close> we don't have\n  this assumption.\\<close>\n",
+        "assumes": "assumes A1: \"A \\<in> FinPow(X)\" \"A \\<noteq> 0\" and A2: \"b \\<in> bij(|A|,A)\" \n  ",
+        "using": [
+            "csgassoc",
+            "semigr0_def",
+            "bij_converse_bij",
+            "card_fin_is_nat",
+            "natord_lin_on_each_nat",
+            "ind_rel_pres_lin",
+            "FinPow_def",
+            "csgaisfun",
+            "restrict_fun",
+            "semigr1_axioms.intro",
+            "semigr1_def",
+            "csgcomm",
+            "bij_def",
+            "surj_def",
+            "comp_restrict",
+            "CommSetFolddef"
+        ],
+        "statement": "lemma (in commsemigr) sum_over_set_bij: \n  assumes A1: \"A \\<in> FinPow(X)\" \"A \\<noteq> 0\" and A2: \"b \\<in> bij(|A|,A)\" \n  shows \"(\\<ssum>(A,a)) = (\\<Sum> (a O b))\"\n",
+        "proof": "proof -\n  have \n    \"\\<forall>c \\<in> bij(|A|,A). \\<forall> d \\<in> bij(|A|,A). (\\<Sum>(a O c)) = (\\<Sum>(a O d))\"\n  proof -\n    { fix c assume \"c \\<in> bij(|A|,A)\"\n      fix d assume \"d \\<in> bij(|A|,A)\"\n      let ?r = \"InducedRelation(converse(c), Le)\"\n      have \"semigr1(G,f,A,?r,restrict(a, A))\"\n      proof -\n\thave \"semigr0(G,f)\" using csgassoc semigr0_def by simp\n\tmoreover from A1 \\<open>c \\<in> bij(|A|,A)\\<close> have \"IsLinOrder(A,?r)\" \n\t  using bij_converse_bij card_fin_is_nat \n            natord_lin_on_each_nat ind_rel_pres_lin by simp\n\tmoreover from A1 have \"restrict(a, A) : A \\<rightarrow> G\"\n\t  using FinPow_def csgaisfun restrict_fun by simp\n\tultimately show ?thesis using semigr1_axioms.intro semigr1_def \n\t  by simp\n      qed\n      moreover have \"f {is commutative on} G\" using csgcomm\n\tby simp\n      moreover from A1 have \"A \\<in>  FinPow(A)\" \"A \\<noteq> 0\"\n\tusing FinPow_def by auto\n      moreover note \\<open>c \\<in> bij(|A|,A)\\<close> \\<open>d \\<in> bij(|A|,A)\\<close>\n      ultimately have \n\t\"Fold1(f,restrict(a,A) O c) = Fold1(f,restrict(a,A) O d)\"\n\tby (rule semigr1.prod_bij_same)\n      hence \"(\\<Sum> (restrict(a,A) O c)) = (\\<Sum> (restrict(a,A) O d))\"\n\tby simp\n      moreover from A1 \\<open>c \\<in> bij(|A|,A)\\<close> \\<open>d \\<in> bij(|A|,A)\\<close>\n      have \n\t\"restrict(a,A) O c = a O c\" and \"restrict(a,A) O d = a O d\"\n\tusing bij_def surj_def csgaisfun FinPow_def comp_restrict\n\tby auto\n      ultimately have \"(\\<Sum>(a O c)) = (\\<Sum>(a O d))\" by simp\n      } thus ?thesis by blast\n    qed\n  with A2 have \"(\\<Union>{\\<Sum>(a O b). b \\<in> bij(|A|, A)}) = (\\<Sum> (a O b))\"\n    by (rule singleton_comprehension)\n  then show ?thesis using CommSetFolddef by simp\nqed\n",
+        "source": "IsarMathLib/CommutativeSemigroup_ZF.thy",
+        "id": 41
+    },
+    "2": {
+        "type": "lemma",
+        "text": "text\\<open>We can multiply strict inequality by a positive element.\\<close>\n",
+        "assumes": "assumes A1: \"HasNoZeroDivs(R,A,M)\" and \n  A2: \"a\\<ls>b\" and A3: \"c\\<in>R\\<^sub>+\"\n  ",
+        "using": [
+            "OrdRing_ZF_1_L3",
+            "PositiveSet_def",
+            "OrdRing_ZF_1_L9A",
+            "Ring_ZF_1_L12A",
+            "IsCommutative_def"
+        ],
+        "statement": "lemma (in ring1) OrdRing_ZF_3_L13: \n  assumes A1: \"HasNoZeroDivs(R,A,M)\" and \n  A2: \"a\\<ls>b\" and A3: \"c\\<in>R\\<^sub>+\"\n  shows \n  \"a\\<cdot>c \\<ls> b\\<cdot>c\"\n  \"c\\<cdot>a \\<ls> c\\<cdot>b\"\n",
+        "proof": "proof -\n  from A2 A3 have T: \"a\\<in>R\"  \"b\\<in>R\"  \"c\\<in>R\"  \"c\\<noteq>\\<zero>\"\n    using OrdRing_ZF_1_L3 PositiveSet_def by auto\n  from A2 A3 have \"a\\<cdot>c \\<lsq> b\\<cdot>c\" using OrdRing_ZF_1_L9A\n    by simp\n  moreover from A1 A2 T have \"a\\<cdot>c \\<noteq> b\\<cdot>c\"\n    using Ring_ZF_1_L12A by auto\n  ultimately show \"a\\<cdot>c \\<ls> b\\<cdot>c\" by simp\n  moreover from mult_commut T have \"a\\<cdot>c = c\\<cdot>a\" and \"b\\<cdot>c = c\\<cdot>b\"\n    using IsCommutative_def by auto\n  ultimately show \"c\\<cdot>a \\<ls> c\\<cdot>b\" by simp\nqed\n",
+        "source": "IsarMathLib/OrderedRing_ZF.thy",
+        "id": 1589
+    }
+}

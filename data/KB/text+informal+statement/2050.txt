@@ -1,0 +1,1 @@
+{"text": "text\\<open>The identity function is a homeomorphism.\\<close>\n", "informal": " In the context of the `topology0` theory, the identity function `id` is an element of the `HomeoG(T)` group of homeomorphisms for the set `T`.", "statement": "lemma (in topology0) homeo_id:\n  shows \"id(\\<Union>T)\\<in>HomeoG(T)\"\n"}

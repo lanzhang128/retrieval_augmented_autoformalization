@@ -1,0 +1,1 @@
+{"informal": " If every element in set B maps to an element in set C, and N is a finite power set of B, then the set of images of elements in N belongs to the finite power set of C.", "statement": "lemma fin_image_fin: assumes \"\\<forall>V\\<in>B. K(V)\\<in>C\" and \"N \\<in> FinPow(B)\"\n  shows \"{K(V). V\\<in>N} \\<in> FinPow(C)\"\n"}

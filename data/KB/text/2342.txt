@@ -1,0 +1,1 @@
+{"text": "text\\<open>The difference of images is contained in the image of difference.\\<close>\n"}

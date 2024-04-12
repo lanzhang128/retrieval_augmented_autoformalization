@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the axiom of countable choice holds for subsets of the power set of the\nnatural numbers, then there exists a topological space that is anti-lindeloef\nbut no anti-compact.\\<close>\n"}

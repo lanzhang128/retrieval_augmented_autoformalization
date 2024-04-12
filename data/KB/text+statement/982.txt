@@ -1,0 +1,1 @@
+{"text": "text\\<open>One more inequality.\\<close>\n", "statement": "lemma (in complex0) ledivp1t: \n  assumes A1:  \"a \\<in> \\<real>\"   \"b \\<in> \\<real>\" and\n  A2: \"\\<zero> \\<lsq> a\"  \"\\<zero> \\<lsq> b\"\n  shows \"(a\\<cdiv>(b \\<ca> \\<one>))\\<cdot>b \\<lsq> a\"\n"}

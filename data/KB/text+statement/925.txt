@@ -1,0 +1,1 @@
+{"text": "text\\<open>A trivial calculation lemma that allows to subtract and add one.\\<close>\n", "statement": "lemma Int_ZF_4_L1A: \n  assumes \"m\\<in>int\" shows \"m $- $#1 $+ $#1 = m\"\n  "}

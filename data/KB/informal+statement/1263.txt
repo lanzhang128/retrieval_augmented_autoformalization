@@ -1,0 +1,1 @@
+{"informal": " In the group3 theory, it is assumed that \"a < b\". The lemma states that the inverse of the product of \"b\" and \"a\" is equal to the identity element \"\\<one>\". \n\nIn other words, if \"a < b\" then \"b * a^(-1) = \\<one>\".", "statement": "lemma (in group3) OrderedGroup_ZF_1_L9D: assumes A1: \"a\\<lsq>b\"\n  shows \"\\<one> \\<lsq> b\\<cdot>a\\<inverse>\"\n"}

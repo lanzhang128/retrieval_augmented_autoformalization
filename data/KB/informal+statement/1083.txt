@@ -1,0 +1,1 @@
+{"informal": " A binary relation r on a set X is up-directed if it is a preorder relation (reflexive and transitive) and every element has an upper bound in X with respect to r. In other words, for all x in X, there exists y in X such that x r y.", "statement": "definition\n  \"IsUpDirectedSet(X,r) \\<equiv>  IsPreorder(X,r) \\<and> (r {up-directs} X)\"\n"}

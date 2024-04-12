@@ -1,0 +1,1 @@
+{"text": "text\\<open>Supremum of any subset of reals that is bounded above is real.\\<close>\n", "statement": "lemma (in complex0) sup_is_real: \n  assumes \"A \\<subseteq> \\<real> \" and \"A \\<noteq> 0\" and \"\\<exists>x\\<in>\\<real>. \\<forall>y\\<in>A. y \\<lsq> x\"\n  shows \"Sup(A,\\<real>,\\<cltrrset>) \\<in> \\<real>\"  \n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Nonnegative integers are positive ones plus zero.\\<close>\n", "statement": "lemma (in int0) Int_ZF_1_5_L3A: shows \"\\<int>\\<^sup>+ = \\<int>\\<^sub>+ \\<union> {\\<zero>}\"\n  "}

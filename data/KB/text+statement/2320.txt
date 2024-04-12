@@ -1,0 +1,1 @@
+{"text": "text\\<open>An hypotheses-free form of \\<open>ZF_fun_from_tot_val1\\<close>: the value of a function\n  $X\\ni x \\mapsto p(x)$ is $p(x)$ for all $x\\in X$. \\<close>\n", "statement": "lemma ZF_fun_from_tot_val2: shows \"\\<forall>x\\<in>X. {\\<langle>x,b(x)\\<rangle>. x\\<in>X}`(x) = b(x)\"\n  "}

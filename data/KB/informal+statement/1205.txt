@@ -1,0 +1,1 @@
+{"informal": " In the context of the `field1` theory, we have the following statement:\n\nGiven `a` is an element of the set `R+`, and `a` is the inverse of `b`, then `1` is less than `b * a`.", "statement": "lemma (in field1) OrdField_ZF_2_L2: \n  assumes A1: \"a\\<in>R\\<^sub>+\" and A2: \"a\\<inverse> \\<ls> b\"\n  shows \"\\<one> \\<ls> b\\<cdot>a\"\n"}

@@ -1,0 +1,1 @@
+{"informal": " If relation `r` is antisymmetric and `(a, b)` is in `r`, then the reverse pair `(b, a)` is not in the strict version of `r`.", "statement": "lemma geq_impl_not_less: \n  assumes A1: \"antisym(r)\" and A2: \"\\<langle>a,b\\<rangle> \\<in> r\"\n  shows \"\\<langle>b,a\\<rangle> \\<notin> StrictVersion(r)\"\n"}

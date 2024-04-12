@@ -1,0 +1,1 @@
+{"text": "text\\<open>Every generated subgroup is a subgroup\\<close>\n", "statement": "theorem (in group0) subgroupGen_is_subgroup:\n  assumes \"X\\<subseteq>G\"\n  shows \"IsAsubgroup(\\<langle>X\\<rangle>\\<^sub>G,P)\"\n"}

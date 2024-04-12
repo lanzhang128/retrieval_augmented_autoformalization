@@ -1,0 +1,1 @@
+{"text": "text\\<open>Finally we are ready to prove that real numbers form an ordered ring\n with no zero divisors.\\<close>\n"}

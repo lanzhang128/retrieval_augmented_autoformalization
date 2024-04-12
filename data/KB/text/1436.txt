@@ -1,0 +1,1 @@
+{"text": "text\\<open>In ordered rings with no zero divisors if at \n  least one of $a,b$ is not zero, then\n  $0 < a^2+b^2$, in particular $a^2+b^2\\neq 0$.\\<close>\n"}

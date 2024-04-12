@@ -1,0 +1,1 @@
+{"text": "text\\<open>The generated subgroup contains the original set\\<close>\n"}

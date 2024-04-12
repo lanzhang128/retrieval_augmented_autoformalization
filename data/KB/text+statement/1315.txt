@@ -1,0 +1,1 @@
+{"text": "text\\<open> $|a\\cdot b^{-1}| = |b\\cdot a^{-1}|$. It doesn't look so strange in the \n  additive notation: $|a-b| = |b-a|$.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_3_L7B:\n  assumes A1: \"r {is total on} G\" and A2: \"a\\<in>G\" \"b\\<in>G\"\n  shows \"\\<bar>a\\<cdot>b\\<inverse>\\<bar> = \\<bar>b\\<cdot>a\\<inverse>\\<bar>\"\n"}

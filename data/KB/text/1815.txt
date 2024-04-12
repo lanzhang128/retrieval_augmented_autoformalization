@@ -1,0 +1,1 @@
+{"text": "text\\<open>The union and intersection of two closed sets are closed.\\<close>\n"}

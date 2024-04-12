@@ -1,0 +1,1 @@
+{"text": "text\\<open>A subset of integers is bounded iff it is finite.\\<close>\n", "statement": "theorem (in int0) Int_bounded_iff_fin: \n  shows \"IsBounded(A,IntegerOrder)\\<longleftrightarrow> A\\<in>Fin(\\<int>)\"\n  "}

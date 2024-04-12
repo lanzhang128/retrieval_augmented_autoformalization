@@ -1,0 +1,1 @@
+{"text": "text\\<open>Function is a subset of cartesian product.\\<close>\n", "informal": " If function f maps from X to Y, then f is a subset of the Cartesian product X times Y.", "statement": "lemma fun_subset_prod: assumes A1: \"f:X\\<rightarrow>Y\" shows \"f \\<subseteq> X\\<times>Y\"\n"}

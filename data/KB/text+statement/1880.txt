@@ -1,0 +1,1 @@
+{"text": "text\\<open>Identity is in the space of continuous functions from $\\bigcup \\tau$ to itself.\\<close>\n", "statement": "lemma id_cont_sp: shows \"{\\<langle>x,x\\<rangle>. x\\<in>\\<Union>\\<tau>} \\<in> Cont(\\<tau>,\\<tau>)\"\n"}

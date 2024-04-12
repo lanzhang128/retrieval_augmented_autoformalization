@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the group is abelian, then almost homomorphisms form a group\n  with the first operation, hence we can use theorems proven in group0\n  context aplied to this group.\\<close>\n", "statement": "lemma (in group1) Group_ZF_3_2_L10A: \n  shows \"IsAgroup(AH,Op1)\" \"group0(AH,Op1)\"\n    "}

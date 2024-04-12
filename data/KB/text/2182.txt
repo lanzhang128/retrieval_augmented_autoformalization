@@ -1,0 +1,1 @@
+{"text": "text\\<open>As a last result in this section, the one-point compactification of our topology is not a KC space.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>If a set $-A\\subseteq G$ is bounded above, then $A$ is bounded below.\\<close>\n"}

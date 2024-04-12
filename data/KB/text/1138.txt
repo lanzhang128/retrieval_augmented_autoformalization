@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next definition is the strict version of the linear order.\n  What we write as \\<open>R Orders A\\<close> is written $R Ord A$ in Metamath.\n\\<close>\n"}

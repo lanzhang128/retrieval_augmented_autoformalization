@@ -1,0 +1,1 @@
+{"text": "text\\<open>Two classes are equal iff the slopes that represent them \n  are almost equal.\\<close>\n", "statement": "lemma Real_ZF_1_L13: assumes \"s \\<in> Slopes\"  \"p \\<in> Slopes\"\n  and \"r = SlopeEquivalenceRel\"\n  shows \"r``{s} = r``{p} \\<longleftrightarrow> \\<langle>s,p\\<rangle> \\<in>  r\"\n  "}

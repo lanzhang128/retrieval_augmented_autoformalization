@@ -1,0 +1,1 @@
+{"text": "text\\<open>If one slope is not greater then another on positive integers,\n  then they are almost equal or the difference is a positive slope.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The lift of an associative function is associative.\\<close>\n"}

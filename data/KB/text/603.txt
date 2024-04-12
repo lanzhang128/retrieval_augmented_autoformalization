@@ -1,0 +1,1 @@
+{"text": "text\\<open>A lemma about restricting finite sequences needed for the proof of\n  the inductive step of the existence and uniqueness of finite inductive seqences.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>An order isomoprhism preserves antisymmetry.\\<close>\n", "statement": "lemma ord_iso_pres_antsym: assumes A1: \"f \\<in> ord_iso(A,r,B,R)\" and \n  A2: \"r \\<subseteq> A\\<times>A\" and A3: \"antisym(R)\"\n  shows \"antisym(r)\"\n"}

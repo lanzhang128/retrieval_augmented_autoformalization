@@ -1,0 +1,1 @@
+{"text": "text\\<open>A property of the \\<open>Exactly_1_of_3_holds\\<close> predicate.\\<close>\n"}

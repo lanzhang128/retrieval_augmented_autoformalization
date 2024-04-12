@@ -1,0 +1,1 @@
+{"text": "text\\<open>The boundary of a set is given by the union of the sets\nof the partition which have non empty intersection with the set\nbut that are not fully contained in it. Another equivalent\nstatement would be: the union of the sets\nof the partition which have non empty intersection with the set\nand its complement.\\<close>\n"}

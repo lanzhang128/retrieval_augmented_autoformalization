@@ -1,0 +1,1 @@
+{"informal": " In the set-up of the \"field1\" context, it is shown that \"R\" is an ordinal field with respect to the element \"A\" and order type \"M\". Thus, \"field0(R, A, M)\" holds true.", "statement": "lemma (in field1) OrdField_ZF_1_L1B: shows \"field0(R,A,M)\"\n  "}

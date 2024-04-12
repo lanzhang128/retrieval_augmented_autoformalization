@@ -1,0 +1,1 @@
+{"text": "text\\<open>The difference between the a number and the embedding of its floor\n  is (strictly) less than one.\\<close>\n", "statement": "lemma (in real1) Real_ZF_1_4_L17B: assumes A1: \"a\\<in>\\<real>\"\n  shows \n  \"a \\<rs> \\<lfloor>a\\<rfloor>\\<^sup>R \\<ls> \\<one>\"\n  \"a \\<ls> (\\<one>\\<^sub>Z \\<za> \\<lfloor>a\\<rfloor>)\\<^sup>R\"\n"}

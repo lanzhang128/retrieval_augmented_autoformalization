@@ -1,0 +1,1 @@
+{"text": "text\\<open>Theorem proven in \\<open>field0\\<close> and \\<open>field1\\<close> contexts \n  are valid as applied to real numbers.\\<close>\n", "statement": "lemma field_cntxts_ok: shows \n  \"field0(RealNumbers,RealAddition,RealMultiplication)\"\n  \"field1(RealNumbers,RealAddition,RealMultiplication,OrderOnReals)\"\n  "}

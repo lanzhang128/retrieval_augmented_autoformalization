@@ -1,0 +1,1 @@
+{"text": "text\\<open>Cartesian product of finite subsets is a finite subset of \n  cartesian product.\\<close>\n", "statement": "lemma Finite1_L14: assumes A1: \"A \\<in> Fin(X)\" \"B \\<in> Fin(Y)\"\n  shows \"A\\<times>B \\<in> Fin(X\\<times>Y)\"\n"}

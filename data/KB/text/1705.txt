@@ -1,0 +1,1 @@
+{"text": "text\\<open>A composition of enumeration of a nonempty \n  finite subset of $\\mathbb{N}$\n  with a sequence of elements of $G$ is a nonempty list of elements of $G$.\n  This implies that a product over set of a finite set of indices belongs\n  to the (carrier of) semigroup.\n\\<close>\n"}

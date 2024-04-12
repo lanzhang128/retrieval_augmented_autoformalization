@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can put an element on the other side of an equation.\\<close>\n", "statement": "lemma (in group0) group0_2_L18:\n  assumes A1: \"a\\<in>G\"  \"b\\<in>G\"\n  and A2: \"c = a\\<cdot>b\"\n  shows \"c\\<cdot>b\\<inverse> = a\"  \"a\\<inverse>\\<cdot>c = b\" \n"}

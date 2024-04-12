@@ -1,0 +1,1 @@
+{"text": "text\\<open>If the set which is included is not a subset of \\<open>X\\<close>,\nthen the topology is trivial.\\<close>\n"}

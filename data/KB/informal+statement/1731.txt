@@ -1,0 +1,1 @@
+{"informal": " In the context of the topological group G, if g is an element in G, then g is also an element in G.", "statement": "lemma (in topgroup) neg_in_tgroup: assumes \"g\\<in>G\" shows \"(\\<rm>g) \\<in> G\"\n  "}

@@ -1,0 +1,1 @@
+{"informal": " A predicate A over the integers is bounded if and only if it is a finite set.", "statement": "theorem (in int0) Int_bounded_iff_fin: \n  shows \"IsBounded(A,IntegerOrder)\\<longleftrightarrow> A\\<in>Fin(\\<int>)\"\n  "}

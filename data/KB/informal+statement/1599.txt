@@ -1,0 +1,1 @@
+{"informal": " In the real numbers, the collection of open sets forms a topology, whose union equals the entire real number line, and is T2 (Hausdorff).", "statement": "theorem (in reals) reals_is_top: \n  shows \"\\<tau>\\<^sub>\\<real> {is a topology}\" \"\\<Union>\\<tau>\\<^sub>\\<real> = \\<real>\" \"\\<tau>\\<^sub>\\<real> {is T\\<^sub>2}\"\n  "}

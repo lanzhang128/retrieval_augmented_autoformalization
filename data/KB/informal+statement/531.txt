@@ -1,0 +1,1 @@
+{"informal": " In the group1 theory, we have the lemma:\n\nAH is a group with operation Op1, and Op1 defines a group operation on AH.", "statement": "lemma (in group1) Group_ZF_3_2_L10A: \n  shows \"IsAgroup(AH,Op1)\" \"group0(AH,Op1)\"\n    "}

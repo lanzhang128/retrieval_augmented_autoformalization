@@ -1,0 +1,1 @@
+{"informal": " If a topology is sober, then it is a T0 topology.", "statement": "lemma (in topology0) sober_imp_T0:\n  assumes \"T{is sober}\"\n  shows \"T{is T\\<^sub>0}\"\n"}

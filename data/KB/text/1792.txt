@@ -1,0 +1,1 @@
+{"text": "text\\<open>A set is closed if it is contained in the carrier of topology\n  and its complement is open.\\<close>\n"}

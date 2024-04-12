@@ -1,0 +1,1 @@
+{"text": "text\\<open>An injection is injective onto its range. Suggested by Victor Porton.\\<close>\n", "statement": "lemma inj_inj_range: assumes \"f \\<in> inj(A,B)\"\n  shows \"f \\<in> inj(A,range(f))\"\n  "}

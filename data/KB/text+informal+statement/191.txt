@@ -1,0 +1,1 @@
+{"text": "text\\<open>A finite subset is a finite subset of itself.\\<close>\n", "informal": " If A is an element of the finite set X, then A is an element of the finite set {A}.", "statement": "lemma Finite1_L13: \n  assumes A1:\"A \\<in> Fin(X)\" shows \"A \\<in> Fin(A)\"\n"}

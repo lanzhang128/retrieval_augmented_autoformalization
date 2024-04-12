@@ -1,0 +1,1 @@
+{"text": "text\\<open>What is the product of one element list?\\<close>\n", "statement": "lemma (in semigr0) prod_of_1elem: assumes A1: \"a: 1 \\<rightarrow> G\"\n  shows \"(\\<Prod> a) = a`(0)\"\n"}

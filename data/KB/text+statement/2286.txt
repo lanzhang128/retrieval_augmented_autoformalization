@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another lemma that concludes existence of some set.\\<close>\n", "statement": "lemma witness_exists1: assumes \"x\\<in>X\" \"\\<phi>(x)\" \"\\<psi>(x)\"\n  shows \"\\<exists>x\\<in>X. \\<phi>(x) \\<and> \\<psi>(x)\"\n  "}

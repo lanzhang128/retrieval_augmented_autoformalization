@@ -1,0 +1,1 @@
+{"text": "text\\<open>Left rays are infinite.\\<close>\n", "statement": "theorem dense_order_inf_lrays:\n  assumes \"IsLinOrder(X,r)\" \"LeftRayX(X,r,c)\\<noteq>0\"\"c\\<in>X\"  \"X{is dense with respect to}r\"\n  shows \"\\<not>Finite(LeftRayX(X,r,c))\"\n"}

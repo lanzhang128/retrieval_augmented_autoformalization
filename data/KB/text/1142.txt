@@ -1,0 +1,1 @@
+{"text": "text\\<open>A converse of \\<open>orders_imp_tot_ord\\<close>. Together with that\n  theorem this shows that Metamath's notion of an order relation is equivalent to\n  Isabelles \\<open>tot_ord\\<close> predicate.\\<close>\n"}

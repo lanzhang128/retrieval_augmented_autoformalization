@@ -1,0 +1,1 @@
+{"text": "text\\<open>Convergence of a net implies the convergence of the corresponding filter.\\<close>\n"}

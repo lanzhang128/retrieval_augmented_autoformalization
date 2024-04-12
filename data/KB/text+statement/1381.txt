@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma assures us that we are talking about ordered rings \n  in the \\<open>ring1\\<close> context.\\<close>\n", "statement": "lemma (in ring1) OrdRing_ZF_1_L1: shows \"IsAnOrdRing(R,A,M,r)\"\n  "}

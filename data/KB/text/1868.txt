@@ -1,0 +1,1 @@
+{"text": "text\\<open>Left rays are infinite.\\<close>\n"}

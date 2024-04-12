@@ -1,0 +1,1 @@
+{"informal": " An enumeration of a set A with respect to a relation r is defined as the union of the images of the order isomorphism between A and its order type and Le (least element) under r.", "statement": "definition\n  \"Enumeration(A,r) \\<equiv> \\<Union> ord_iso(|A|,Le,A,r)\"\n"}

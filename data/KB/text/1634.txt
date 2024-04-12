@@ -1,0 +1,1 @@
+{"text": "text\\<open>In rings with no zero divisors we can cancel nonzero factors.\\<close>\n"}

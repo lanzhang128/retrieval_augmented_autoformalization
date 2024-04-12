@@ -1,0 +1,1 @@
+{"text": "text\\<open>if $a^{-1} = 1$, then $a=1$.\\<close>\n"}

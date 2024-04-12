@@ -1,0 +1,1 @@
+{"text": "text\\<open>All theorems proven in the \\<open>ring1\\<close>\n  (about ordered rings), \\<open>group3\\<close> (about ordered groups) and\n  \\<open>group1\\<close> (about groups)\n  contexts are valid as applied to ordered real numbers with addition \n  and (real) order.\\<close>\n"}

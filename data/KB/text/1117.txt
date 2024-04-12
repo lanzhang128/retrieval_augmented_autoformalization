@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $a,b,c,d$ are in this order, then $[b,c]\\subseteq [a,d]$. We\n  only need trasitivity for this to be true.\\<close>\n"}

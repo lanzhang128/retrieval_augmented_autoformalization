@@ -1,0 +1,1 @@
+{"text": "text\\<open>The following lemma is a two-variables equivalent \n  of \\<open>EquivClass_1_L3\\<close>.\\<close>\n"}

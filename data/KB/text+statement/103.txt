@@ -1,0 +1,1 @@
+{"text": "text\\<open>Elements that belong to the same equivalence class are equivalent.\\<close>\n", "statement": "lemma EquivClass_1_L2A:\n  assumes \"equiv(A,r)\"  \"C \\<in> A//r\"  \"x\\<in>C\"  \"y\\<in>C\"\n  shows \"\\<langle>x,y\\<rangle> \\<in> r\" \n  "}

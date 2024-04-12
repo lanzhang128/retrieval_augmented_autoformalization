@@ -1,0 +1,1 @@
+{"informal": " If natural number n and function r, which maps successor of natural numbers to natural numbers, then GenBinom function at succeeding succeeding natural number of n will result in a natural number.", "statement": "lemma gen_binom_fun_val: assumes \"n\\<in>nat\" \"r:succ(n)\\<rightarrow>nat\"\n  shows \"GenBinom`(r):succ(succ(n)) \\<rightarrow> nat\"\n"}

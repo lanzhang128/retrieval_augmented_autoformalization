@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group inverse is a function that maps G into G.\\<close>\n", "statement": "theorem group0_2_T2: \n  assumes A1: \"IsAgroup(G,f)\" shows \"GroupInv(G,f) : G\\<rightarrow>G\"\n"}

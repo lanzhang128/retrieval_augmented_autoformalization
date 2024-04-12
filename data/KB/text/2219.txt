@@ -1,0 +1,1 @@
+{"text": "text\\<open> The set of all covers of $X$ is called \\<open>Covers(X)\\<close>. \\<close>\n"}

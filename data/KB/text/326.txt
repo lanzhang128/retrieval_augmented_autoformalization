@@ -1,0 +1,1 @@
+{"text": "text\\<open>A special case of \\<open>Finite_ZF_1_T2\\<close> when the set has three\n  elements.\\<close>\n"}

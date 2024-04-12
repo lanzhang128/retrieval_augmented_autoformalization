@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another way of looking at the constant function - it's a set of pairs\n  $\\langle x,c\\rangle$ as $x$ ranges over $X$. \\<close>\n", "statement": "lemma const_fun_def_alt: shows \"ConstantFunction(X,c) = {\\<langle>x,c\\<rangle>. x\\<in>X}\"\n  unfolding ConstantFunction_def by auto\n"}

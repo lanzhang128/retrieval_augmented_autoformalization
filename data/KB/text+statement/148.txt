@@ -1,0 +1,1 @@
+{"text": "text\\<open>For total and transitive relations \n  nonempty finite set has a maximum.\\<close>\n", "statement": "theorem fin_has_max: \n  assumes A1: \"r {is total on} X\" and A2: \"trans(r)\"\n  and A3: \"B \\<in> FinPow(X)\" and A4: \"B \\<noteq> 0\"\n  shows \"HasAmaximum(r,B)\"\n"}

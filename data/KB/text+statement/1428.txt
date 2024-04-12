@@ -1,0 +1,1 @@
+{"text": "text\\<open>Adding a positive element to $a$ strictly increases $a$.\n  Property of ordered groups.\\<close>\n", "statement": "lemma (in ring1) OrdRing_ZF_3_L9: assumes A1: \"a\\<in>R\"  \"b\\<in>R\\<^sub>+\"\n  shows \"a \\<lsq> a\\<ra>b\"  \"a \\<noteq> a\\<ra>b\"\n  "}

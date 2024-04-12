@@ -1,0 +1,1 @@
+{"informal": " \"The expression 'add' represents the same value as the interal interpretation of the sum of the expressions 'x' and 'y'.\"\n\nOr more concisely: \"add(x,y) is interpreted as the interal representation of x + y.\"", "statement": "definition add where\n  \"add(x,y) \\<equiv> int_interpr.zf_move`(int_interpr.ret`x $+ int_interpr.ret`y)\"\n"}

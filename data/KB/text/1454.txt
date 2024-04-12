@@ -1,0 +1,1 @@
+{"text": "text\\<open>Similarly the right division is defined as a function on $G\\times G$.  \\<close>\n"}

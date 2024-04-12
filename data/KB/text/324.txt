@@ -1,0 +1,1 @@
+{"text": "text\\<open>For transitive and total relations finite sets are bounded.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Interior of a set $A$ is contained in $A$.\\<close>\n", "statement": "lemma (in topology0) Top_2_L1: shows \"int(A) \\<subseteq> A\"\n  "}

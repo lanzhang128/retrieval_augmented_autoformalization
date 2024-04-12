@@ -1,0 +1,1 @@
+{"text": "text\\<open>The next lemma shows that if the if we restrict the monoid operation to\n  a subset of $G$ that contains the neutral element, then the \n  neutral element of the monoid operation is also neutral with the \n  restricted operation. \\<close>\n"}

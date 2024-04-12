@@ -1,0 +1,1 @@
+{"text": "text\\<open> An associative loop is a group.\\<close>\n", "statement": "theorem assoc_loop_is_gr: assumes \"IsAloop(G,P)\" and \"P {is associative on} G\"\n  shows \"IsAgroup(G,P)\" \n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The projection of commutative operation is commutative.\\<close>\n", "statement": "theorem EquivClass_2_T1:\n  assumes \"equiv(A,r)\" and \"Congruent2(r,f)\"\n  and \"f {is commutative on} A\"\n  shows \"ProjFun2(A,r,f) {is commutative on} A//r\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>In the group0 context we can apply theorems proven in monoid0 context\n  to the lifted monoid.\\<close>\n"}

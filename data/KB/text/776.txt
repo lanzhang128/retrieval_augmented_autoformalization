@@ -1,0 +1,1 @@
+{"text": "text\\<open>A simple but useful identity.\\<close>\n"}

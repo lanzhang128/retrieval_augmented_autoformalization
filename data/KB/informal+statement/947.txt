@@ -1,0 +1,1 @@
+{"informal": " If L is a join semilattice and L is non-empty, then every up-directed set in L contains the join of all its elements. \n\nOr more succinctly: In a join semilattice L, every upward directed subset has a join.", "statement": "lemma join_up_directs: assumes \"IsJoinSemilattice(L,r)\" \"L\\<noteq>0\"\n  shows \"r {up-directs} L\"\n"}

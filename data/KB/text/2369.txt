@@ -1,0 +1,1 @@
+{"text": "text\\<open>For injections the image a difference of two sets is\n  the difference of images\\<close>\n"}

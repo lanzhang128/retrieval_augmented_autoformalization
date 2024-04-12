@@ -1,0 +1,1 @@
+{"text": "text\\<open>The value of the inverse of an injection on a point of the image \n  of a set belongs to that set.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>Another version of sufficient condition for two slopes to be almost\n  equal: if the difference of two slopes is a finite range function, then\n  they are almost equal.\\<close>\n"}

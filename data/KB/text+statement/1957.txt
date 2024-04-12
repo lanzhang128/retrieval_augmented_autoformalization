@@ -1,0 +1,1 @@
+{"text": "text\\<open>Convergence of a net implies the convergence of the corresponding filter.\\<close>\n", "statement": "theorem (in topology0) net_conver_filter_of_net_conver:\n  assumes \"N {is a net on} \\<Union>T\" and \"N \\<rightarrow>\\<^sub>N x\"\n  shows \"(Filter N..(\\<Union>T)) \\<rightarrow>\\<^sub>F x\"\n"}

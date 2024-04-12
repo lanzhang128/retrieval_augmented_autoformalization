@@ -1,0 +1,1 @@
+{"text": "text\\<open>The order on integers is reflexive.\\<close>\n", "statement": "lemma (in int0) int_ord_is_refl: shows \"refl(\\<int>,IntegerOrder)\"\n  "}

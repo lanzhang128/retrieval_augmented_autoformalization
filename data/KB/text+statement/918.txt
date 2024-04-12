@@ -1,0 +1,1 @@
+{"text": "text\\<open>Induction on integers, version with ZF increment function.\\<close>\n", "statement": "theorem (in int0) Induction_on_int: \n  assumes A1: \"i\\<lsq>k\" and A2: \"Q(i)\"\n  and A3: \"\\<forall>m. i\\<lsq>m \\<and> Q(m) \\<longrightarrow> Q(m\\<ra>\\<one>)\"\n  shows \"Q(k)\"\n"}

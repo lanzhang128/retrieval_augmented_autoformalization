@@ -1,0 +1,1 @@
+{"text": "text\\<open>In Hausdorff spaces, the previous result is an equivalence.\\<close>\n"}

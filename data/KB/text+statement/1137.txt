@@ -1,0 +1,1 @@
+{"text": "text\\<open>If $A$ is bounded below, then the set of elements in a set $A$ \n  that are nongreater than a given element is bounded.\\<close>\n", "statement": "lemma Order_ZF_3_L16: assumes A1: \"IsBoundedBelow(A,r)\"\n  shows \"IsBounded({x\\<in>A. \\<langle>x,a\\<rangle> \\<in> r},r)\"\n"}

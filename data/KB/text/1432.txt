@@ -1,0 +1,1 @@
+{"text": "text\\<open>A sufficient condition for an element to be in the set\n  of positive ring elements.\\<close>\n"}

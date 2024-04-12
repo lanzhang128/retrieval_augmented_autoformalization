@@ -1,0 +1,1 @@
+{"text": "text\\<open>If one element is greater or equal and not equal to another,\n  then it is not smaller or equal.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L8AA: \n  assumes A1: \"a\\<lsq>b\" and A2: \"a\\<noteq>b\"\n  shows \"\\<not>(b\\<lsq>a)\"\n"}

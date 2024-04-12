@@ -1,0 +1,1 @@
+{"text": "text\\<open>The values of congruent functions are in the space.\\<close>\n", "statement": "lemma EquivClass_1_L4:\n  assumes A1: \"equiv(A,r)\" and A2: \"C \\<in> A//r\"  \"x\\<in>C\"\n  and A3: \"Congruent(r,f)\"\n  shows \"f`(x) \\<in> A\"\n"}

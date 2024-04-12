@@ -1,0 +1,1 @@
+{"text": "text\\<open>The group operation is associative. This is another technical lemma \n  that allows to shorten the list of referenced lemmas in some proofs.\\<close>\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>From any set, we may construct the minimal ideal containing that set\\<close>\n", "statement": "definition (in ring0) generatedIdeal (\"\\<langle>_\\<rangle>\\<^sub>I\")\n  where \"X\\<subseteq>R \\<Longrightarrow> \\<langle>X\\<rangle>\\<^sub>I \\<equiv> \\<Inter>{I\\<in>\\<I>. X \\<subseteq> I}\"\n"}

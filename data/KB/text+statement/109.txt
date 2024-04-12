@@ -1,0 +1,1 @@
+{"text": "text\\<open>Congruent functions can be projected.\\<close>\n", "statement": "lemma EquivClass_1_T0: \n  assumes \"equiv(A,r)\"  \"Congruent(r,f)\"\n  shows \"ProjFun(A,r,f) : A//r \\<rightarrow> A//r\"\n  "}

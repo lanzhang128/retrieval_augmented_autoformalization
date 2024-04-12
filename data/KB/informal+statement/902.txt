@@ -1,0 +1,1 @@
+{"informal": " In the int0 theory of Isabelle/ZF, we have the following fact: the absolute value of zero is equal to zero.", "statement": "lemma (in int0) Int_ZF_2_L18: shows \"abs(\\<zero>) = \\<zero>\"\n  "}

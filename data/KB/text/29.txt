@@ -1,0 +1,1 @@
+{"text": "text\\<open>Next we define a general form of $Q$ choice where we don't require a collection of files\n  to be included in a file.\\<close>\n"}

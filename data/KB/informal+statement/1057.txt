@@ -1,0 +1,1 @@
+{"informal": " If natural number n contains element k such that succ(n) contains succ(k), then k is an element of n.", "statement": "lemma succ_mem: \n  assumes \"n \\<in> nat\" \"succ(k) \\<in> succ(n)\"\n  shows \"k\\<in>n\"\n  "}

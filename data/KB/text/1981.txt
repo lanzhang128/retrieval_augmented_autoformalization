@@ -1,0 +1,1 @@
+{"text": "text\\<open>An open set is a set neighborhood of itself.\\<close>\n"}

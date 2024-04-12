@@ -1,0 +1,1 @@
+{"text": "text\\<open>If we restrict the inverse to a subgroup, then the restricted \n  inverse is onto the subgroup.\\<close>\n"}

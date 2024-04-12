@@ -1,0 +1,1 @@
+{"text": "text\\<open>In conclusion, every locally compact Hausdorff topological space is regular; since this property is hereditary.\\<close>\n", "statement": "corollary (in topology0) locally_compact_T2_imp_regular:\n  assumes \"T{is locally-compact}\" \"T{is T\\<^sub>2}\"\n  shows \"T{is regular}\"\n"}

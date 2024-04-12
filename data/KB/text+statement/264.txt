@@ -1,0 +1,1 @@
+{"text": "text\\<open>The string ends with $1$ state\\<close>\n", "statement": "definition starts1 where\n  \"starts1 \\<equiv> 1\"\n"}

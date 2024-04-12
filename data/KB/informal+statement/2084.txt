@@ -1,0 +1,1 @@
+{"informal": " In natural language:\n\nTheorem topology0_includedset: The topology0 relation holds for the IncludedSet relation between a set X and a tower T.", "statement": "theorem topology0_includedset:\n  shows \"topology0(IncludedSet(X,T))\"\n  "}

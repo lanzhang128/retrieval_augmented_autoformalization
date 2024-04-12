@@ -1,0 +1,1 @@
+{"text": "text\\<open>A generalization of \\<open>prod_append\\<close> to the products\n  over sets of indices.\\<close>\n"}

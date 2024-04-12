@@ -1,0 +1,1 @@
+{"informal": " In the group3 theory, if r is a total function on a finite set G and B is an element of Fin(G), then the set B is bounded by r.", "statement": "theorem (in group3) ord_group_fin_bounded:\n  assumes \"r {is total on} G\" and \"B\\<in>Fin(G)\" \n  shows \"IsBounded(B,r)\"\n  "}

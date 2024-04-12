@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can decompose the finite powerset into collection of\n  sets of the same natural cardinalities.\\<close>\n", "statement": "lemma finpow_decomp: \n  shows \"FinPow(X) = (\\<Union>n \\<in> nat. {A \\<in> Pow(X). A \\<approx> n})\"\n  "}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>The strict order on complex reals is transitive - the explicit version\n  of \\<open>cplx_strict_ord_trans\\<close>.\\<close>\n", "statement": "lemma (in complex0) pre_axlttrn: \n  assumes A1: \"a \\<lsr> b\"   \"b \\<lsr> c\"\n  shows \"a \\<lsr> c\"\n"}

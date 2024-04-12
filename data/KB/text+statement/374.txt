@@ -1,0 +1,1 @@
+{"text": "text\\<open>\\<open>token\\<close> is not in \\<open>small\\<close>.\\<close>\n", "statement": "lemma (in generalization) token_not_small: shows \"\\<langle>token,x\\<rangle>\\<notin>small\"\n"}

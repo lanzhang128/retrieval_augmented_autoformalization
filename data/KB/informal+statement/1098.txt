@@ -1,0 +1,1 @@
+{"informal": " A set A with respect to the real number r has an infimum if and only if it has a maximum for the set of elements in A that minimize the distance to r.", "statement": "definition\n  \"HasAnInfimum(r,A) \\<equiv> HasAmaximum(r,\\<Inter>a\\<in>A. r-``{a})\"\n"}

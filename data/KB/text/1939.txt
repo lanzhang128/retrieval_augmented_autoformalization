@@ -1,0 +1,1 @@
+{"text": "text\\<open>Not all the sets of a filter are needed to be consider at all times; as it happens\nwith a topology we can consider bases.\\<close>\n"}

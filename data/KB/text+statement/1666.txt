@@ -1,0 +1,1 @@
+{"text": "text\\<open>Any ideal is a normal subgroup\\<close>\n", "statement": "lemma (in ring0) ideal_normal_add_subgroup:\n  assumes \"I\\<triangleleft>R\"\n  shows \"IsAnormalSubgroup(R,A,I)\"\n  "}

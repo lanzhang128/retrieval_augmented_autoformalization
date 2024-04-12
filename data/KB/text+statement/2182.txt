@@ -1,0 +1,1 @@
+{"text": "text\\<open>As a last result in this section, the one-point compactification of our topology is not a KC space.\\<close>\n", "statement": "theorem extension_pow_OP_not_KC:\n  shows \"\\<not>(({one-point compactification of}(Pow(csucc(nat)) \\<union> {{csucc(nat)}\\<union>S. S\\<in>(CoCountable csucc(nat))-{0}})){is KC})\"\n"}

@@ -1,0 +1,1 @@
+{"text": "text\\<open>For linearly ordered groups each element is either the unit, \n  positive or its inverse is positive.\\<close>\n", "statement": "lemma (in group3) OrdGroup_decomp: \n  assumes A1: \"r {is total on} G\" and A2: \"a\\<in>G\" \n  shows \"Exactly_1_of_3_holds (a=\\<one>,a\\<in>G\\<^sub>+,a\\<inverse>\\<in>G\\<^sub>+)\"\n"}

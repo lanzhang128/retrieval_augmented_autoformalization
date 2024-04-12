@@ -1,0 +1,1 @@
+{"informal": " Assuming m and n are both zero, we have m is less than or equal to n and zero is less than or equal to m plus n.", "statement": "lemma (in int0) Int_ZF_2_L14A: \n  assumes \"\\<zero>\\<lsq>m\"  \"\\<zero>\\<lsq>n\"\n  shows \n  \"(\\<rm>m) \\<lsq> n\"\n  \"\\<zero> \\<lsq> m \\<ra> n\"\n  "}

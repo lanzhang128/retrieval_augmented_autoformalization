@@ -1,0 +1,1 @@
+{"text": "text\\<open>Image of a greater set is greater.\\<close>\n", "informal": " Assuming that set A is a subset of set B, it can be shown that the image of set A under function f is a subset of the image of set B under the same function f.", "statement": "lemma func1_1_L8: assumes A1: \"A\\<subseteq>B\"  shows \"f``(A)\\<subseteq> f``(B)\"\n  "}

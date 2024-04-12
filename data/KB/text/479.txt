@@ -1,0 +1,1 @@
+{"text": "text\\<open>Monoids can be lifted to a function space.\\<close>\n"}

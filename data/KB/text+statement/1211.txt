@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can put a positive factor on the other side of a strict\n  inequality, changing it to its inverse, version with a product\n  initially on the right hand side.\\<close>\n", "statement": "lemma (in field1) OrdField_ZF_2_L6A:\n  assumes A1: \"b\\<in>R\"  \"c\\<in>R\\<^sub>+\" and A2: \"a \\<ls> b\\<cdot>c\"\n  shows \"a\\<cdot>c\\<inverse> \\<ls> b\"\n"}

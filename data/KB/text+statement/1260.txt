@@ -1,0 +1,1 @@
+{"text": "text\\<open>We can move an element to the other side of an inequality.\\<close>\n", "statement": "lemma (in group3) OrderedGroup_ZF_1_L9A:\n  assumes A1: \"a\\<in>G\"  \"b\\<in>G\"  \"c\\<in>G\"\n  shows \"a\\<cdot>b \\<lsq> c  \\<longleftrightarrow> a \\<lsq> c\\<cdot>b\\<inverse>\"\n"}

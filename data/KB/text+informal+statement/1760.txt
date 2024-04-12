@@ -1,0 +1,1 @@
+{"text": "text\\<open>Inverse of an open set is open.\\<close>\n", "informal": " If an element `V` is in a topological space `T`, then its open ball `\\<sm>V` is also in `T`.", "statement": "lemma (in topgroup) open_inv_open: assumes \"V\\<in>T\" shows \"(\\<sm>V) \\<in> T\"\n  "}

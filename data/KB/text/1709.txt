@@ -1,0 +1,1 @@
+{"text": "text\\<open>Very similar to \\<open>gen_prod_append\\<close>: a relation\n  between a product over a set of indices and the product\n  over the set with the maximum removed.\\<close>\n"}

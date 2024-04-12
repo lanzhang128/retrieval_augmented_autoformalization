@@ -1,0 +1,1 @@
+{"text": "text\\<open>Zero and one are integers.\\<close>\n", "informal": " The lemma \"int_zero_one_are_int\" in the theory \"int0\" states that both zero and one are elements of the integer domain.", "statement": "lemma (in int0) int_zero_one_are_int: shows \"\\<zero>\\<in>\\<int>\"  \"\\<one>\\<in>\\<int>\"\n  "}

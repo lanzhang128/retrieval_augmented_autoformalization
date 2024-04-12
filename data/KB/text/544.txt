@@ -1,0 +1,1 @@
+{"text": "text\\<open>The class of an almost homomorphism $s$ is the neutral element\n  of the quotient group of almost homomorphisms iff $s$ is a finite range\n  function.\\<close>\n"}
