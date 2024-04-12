@@ -1,5 +1,5 @@
 {
     "system": "",
-    "user": "Translate the following Isabelle/Isar code: \n{statement}\n into a natural language version statement as brief as possible: ",
+    "user": "Translate the following Isabelle/ZF code: \n{statement}\n into a natural language version statement as brief as possible: ",
     "assistant": ""
 }
