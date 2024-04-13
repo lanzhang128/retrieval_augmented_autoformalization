@@ -2,9 +2,9 @@ import json
 import argparse
 import os.path
 import torch
-import time
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from isabelle.file_handler import parse_error_file
+from tqdm import tqdm
 
 
 if __name__ == '__main__':
@@ -47,9 +47,6 @@ if __name__ == '__main__':
         tokenizer = AutoTokenizer.from_pretrained(model_id, use_fast=True)
 
         print(f'Generating with {model_name} and {model.dtype} precision..')
-        count = 0
-        start_time = time.time()
-
         for key in json_dic.keys():
             text = json_dic[key]['text']
             statement = json_dic[key]['statement']
@@ -95,10 +92,6 @@ if __name__ == '__main__':
                     refined_code = refined_code[:-4]
 
             result_dic[key] = {'text': text, 'statement': refined_code}
-
-            count += 1
-            if count % 1 == 0:
-                print(f'Finished {count}/{len(json_dic)} samples, time elapsed {time.time() - start_time:.2f}s.')
 
         with open(args.result_json, 'w', encoding='utf-8') as f:
             json.dump(result_dic, f, ensure_ascii=False, indent=4)

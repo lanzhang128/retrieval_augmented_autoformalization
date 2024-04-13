@@ -1,8 +1,8 @@
 import json
 import argparse
 import torch
-import time
 from transformers import AutoModelForCausalLM, AutoTokenizer
+from tqdm import tqdm
 
 
 if __name__ == '__main__':
@@ -46,10 +46,7 @@ if __name__ == '__main__':
         tokenizer = AutoTokenizer.from_pretrained(model_id, use_fast=True)
 
         print(f'Autoformalizing test set with {model_name} and {model.dtype} precision..')
-        count = 0
-        start_time = time.time()
-
-        for key in json_dic.keys():
+        for key in tqdm(json_dic.keys()):
             text = json_dic[key]['text']
             messages = []
             if mode != 0:
@@ -81,10 +78,6 @@ if __name__ == '__main__':
                 formal = formal[:-4]
 
             result_dic[key] = {'text': text, 'statement': formal}
-
-            count += 1
-            if count % 1 == 0:
-                print(f'Finished {count}/{len(json_dic)} samples, time elapsed {time.time() - start_time:.2f}s.')
 
         with open(args.result_json, 'w', encoding='utf-8') as f:
             json.dump(result_dic, f, ensure_ascii=False, indent=4)

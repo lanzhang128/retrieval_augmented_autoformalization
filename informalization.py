@@ -1,9 +1,9 @@
 import os
 import json
 import argparse
-import time
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
+from tqdm import tqdm
 
 
 if __name__ == '__main__':
@@ -25,10 +25,8 @@ if __name__ == '__main__':
         print(f'Informalizing {split} set with {model_id} and {model.dtype} precision.')
         with open(f'data/IsarMathLib/extraction/{split}.json', 'r', encoding='utf-8') as f:
             json_dic = json.load(f)
-        count = 0
-        start_time = time.time()
 
-        for key in json_dic.keys():
+        for key in tqdm(json_dic.keys()):
             statement = json_dic[key]['statement']
             messages = [{'role': 'user', 'content': prompt['user'].replace('{statement}', statement)}]
             encodeds = tokenizer.apply_chat_template(messages, return_tensors='pt')
@@ -46,9 +44,6 @@ if __name__ == '__main__':
                     informal = informal[:-4]
 
             json_dic[key]['informal'] = informal
-            count += 1
-            if count % 1 == 0:
-                print(f'Finished {count}/{len(json_dic)} samples, time elapsed {time.time()-start_time:.2f}s.')
 
         with open(f'{args.data_folder}/{split}.json', 'w', encoding='utf-8') as f:
             json.dump(json_dic, f, ensure_ascii=False, indent=4)
