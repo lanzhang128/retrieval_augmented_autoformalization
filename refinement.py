@@ -47,7 +47,7 @@ if __name__ == '__main__':
         tokenizer = AutoTokenizer.from_pretrained(model_id, use_fast=True)
 
         print(f'Generating with {model_name} and {model.dtype} precision..')
-        for key in json_dic.keys():
+        for key in tqdm(json_dic.keys()):
             text = json_dic[key]['text']
             statement = json_dic[key]['statement']
             content = prompt['user'].replace('{text}', text)
