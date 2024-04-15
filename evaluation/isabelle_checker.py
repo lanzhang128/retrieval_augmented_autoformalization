@@ -13,11 +13,9 @@ class IsabelleChecker:
                  session_name='IsarMathLib',
                  server_log_file='server.log',
                  isabelle_dirs=None,
-                 port=8888,
                  watchdog_timeout=60,
                  timeout=120):
         self.checker = Isabelle(session_name=session_name,
-                                port=port,
                                 log_file=server_log_file,
                                 dirs=isabelle_dirs,
                                 watchdog_timeout=watchdog_timeout)
