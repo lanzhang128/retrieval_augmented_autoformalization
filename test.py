@@ -15,6 +15,8 @@ if __name__ == '__main__':
                         help='json file that stores results')
     parser.add_argument('--metrics', nargs='+', default=['BLEU', 'ChrF', 'RUBY', 'Pass', 'CodeBERTScore'],
                         help='metrics to evaluate results')
+    parser.add_argument('--port', default=8888, type=int,
+                        help='port number for Isabelle checker')
     parser.add_argument('--no_post', action='store_true', help='no postprocessing')
     args = parser.parse_args()
 
@@ -61,6 +63,7 @@ if __name__ == '__main__':
             score_dic.update(CodeBERTScore().evaluate(ref_texts, can_texts, nl_texts))
         elif metric == 'Pass':
             checker = IsabelleChecker(session_name='IsarMathLib',
+                                      port=args.port,
                                       server_log_file=args.result_json[:-4] + 'log',
                                       isabelle_dirs=['../Isabelle2023'])
             score_dic.update(checker.evaluate(files_dir=args.result_json[:-5],
