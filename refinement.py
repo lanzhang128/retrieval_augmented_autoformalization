@@ -71,10 +71,11 @@ if __name__ == '__main__':
 
             thy_file_path = os.path.join(args.result_json[:-5], f'test_{key}.thy')
             error_log_path = os.path.join(args.result_json[:-5], f'test_{key}.error.log')
-            validity, syntax_error = parse_error_file(error_log_path, thy_file_path)
-            content = content.replace('{syntax_error}', syntax_error)
+            validity, first_syntax_error, all_syntax_error = parse_error_file(error_log_path, thy_file_path)
+            content = content.replace('{first_syntax_error}', first_syntax_error)
+            content = content.replace('{all_syntax_error}', all_syntax_error)
 
-            if mode == 'refine' and validity:
+            if mode == '2' and validity:
                 refined_code = statement
             else:
                 messages = []
