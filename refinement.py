@@ -69,8 +69,8 @@ if __name__ == '__main__':
                     examples_ret += temp_dic[i]['statement'] + '\n'
             content = content.replace('{examples_ret}', examples_ret)
 
-            thy_file_path = os.path.join(args.result_json[:-5], f'test_{key}.thy')
-            error_log_path = os.path.join(args.result_json[:-5], f'test_{key}.error.log')
+            thy_file_path = os.path.join(args.test_json[:-5], f'test_{key}.thy')
+            error_log_path = os.path.join(args.test_json[:-5], f'test_{key}.error.log')
             validity, first_syntax_error, all_syntax_error = parse_error_file(error_log_path, thy_file_path)
             content = content.replace('{first_syntax_error}', first_syntax_error)
             content = content.replace('{all_syntax_error}', all_syntax_error)
