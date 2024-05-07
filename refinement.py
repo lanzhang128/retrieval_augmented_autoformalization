@@ -75,7 +75,7 @@ if __name__ == '__main__':
             content = content.replace('{first_syntax_error}', first_syntax_error)
             content = content.replace('{all_syntax_error}', all_syntax_error)
 
-            if mode == '2' and validity:
+            if mode[0] == '2' and validity:
                 refined_code = statement
             else:
                 messages = []
