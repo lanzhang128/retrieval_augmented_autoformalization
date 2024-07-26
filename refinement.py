@@ -5,6 +5,7 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from isabelle.file_handler import parse_error_file
 from tqdm import tqdm
+from autoformalization import OpenAIModel
 
 
 if __name__ == '__main__':
@@ -21,6 +22,8 @@ if __name__ == '__main__':
                         help='json file containing few-shot data')
     parser.add_argument('--retrieval_folder', default='results/BM25_retrieval_t',
                         help='retrieval results folder')
+    parser.add_argument('--openai_api', default='api_key.txt',
+                        help='openai api key txt file')
     args = parser.parse_args()
 
     model_name = args.model_name
@@ -97,4 +100,50 @@ if __name__ == '__main__':
         with open(args.result_json, 'w', encoding='utf-8') as f:
             json.dump(result_dic, f, ensure_ascii=False, indent=4)
     else:
-        raise ValueError(f'{model_name} is currently not supported.')
+        with open(args.openai_api, 'r', encoding='utf-8') as f:
+            api_key = f.read()
+
+        model = OpenAIModel(api_key=api_key, engine=model_name)
+
+        for key in tqdm(json_dic.keys()):
+            text = json_dic[key]['text']
+            statement = json_dic[key]['statement']
+            content = prompt['user'].replace('{text}', text)
+            content = content.replace('{isabelle_code}', statement)
+
+            examples_fix = ''
+            if '{examples_fix}' in prompt['user']:
+                with open(args.shot_json, 'r', encoding='utf-8') as f:
+                    temp_dic = json.load(f)
+                for i in temp_dic.keys():
+                    examples_fix += temp_dic[i]['statement'] + '\n'
+            content = content.replace('{examples_fix}', examples_fix)
+
+            examples_ret = ''
+            if '{examples_ret}' in prompt['user']:
+                with open(f'{args.retrieval_folder}/{key}.json', 'r', encoding='utf-8') as f:
+                    temp_dic = json.load(f)
+                for i in temp_dic.keys():
+                    examples_ret += temp_dic[i]['statement'] + '\n'
+            content = content.replace('{examples_ret}', examples_ret)
+
+            thy_file_path = os.path.join(args.test_json[:-5], f'test_{key}.thy')
+            error_log_path = os.path.join(args.test_json[:-5], f'test_{key}.error.log')
+            validity, first_syntax_error, all_syntax_error = parse_error_file(error_log_path, thy_file_path)
+            content = content.replace('{first_syntax_error}', first_syntax_error)
+            content = content.replace('{all_syntax_error}', all_syntax_error)
+
+            if mode[0] == '2' and validity:
+                refined_code = statement
+            else:
+                messages = []
+                messages.append({'role': 'user', 'content': content})
+                refined_code = model.chat(messages)
+
+                if refined_code[-4:] == '</s>':
+                    refined_code = refined_code[:-4]
+
+            result_dic[key] = {'text': text, 'statement': refined_code}
+
+        with open(args.result_json, 'w', encoding='utf-8') as f:
+            json.dump(result_dic, f, ensure_ascii=False, indent=4)

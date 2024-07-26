@@ -3,6 +3,48 @@ import argparse
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from tqdm import tqdm
+from openai import OpenAI
+import tenacity
+
+
+class OpenAIModel:
+    def __init__(self, api_key, engine):
+        self.api_key = api_key
+        self.engine = engine
+        self.client = OpenAI(api_key=self.api_key)
+
+    @tenacity.retry(wait=tenacity.wait_exponential(
+            multiplier=1, min=4, max=30))
+    def completion_with_backoff(self, **kwargs):
+        try:
+            return self.client.chat.completions.create(**kwargs)
+        except Exception as e:
+            print(e)
+            raise e
+
+    def chat(self, messages):
+        try:
+            response = self.completion_with_backoff(
+                model=self.engine,
+                temperature=0,
+                max_tokens=1000,
+                messages=messages,
+                stream=True
+            )
+        except Exception as e:
+            print('Error:', e)
+            return
+
+        result = []
+
+        for chunk in response:
+            if hasattr(chunk, 'choices') and len(
+                chunk.choices) > 0 and hasattr(
+                    chunk.choices[0], 'delta') and chunk.choices[
+                        0].delta.content is not None:
+                result.append(str(chunk.choices[0].delta.content))
+
+        return ''.join(result)
 
 
 if __name__ == '__main__':
@@ -19,6 +61,8 @@ if __name__ == '__main__':
                         help='json file containing few-shot data')
     parser.add_argument('--retrieval_folder', default='results/BM25_retrieval_tis',
                         help='retrieval results folder')
+    parser.add_argument('--openai_api', default='api_key.txt',
+                        help='openai api key txt file')
     args = parser.parse_args()
 
     model_name = args.model_name
@@ -82,4 +126,36 @@ if __name__ == '__main__':
         with open(args.result_json, 'w', encoding='utf-8') as f:
             json.dump(result_dic, f, ensure_ascii=False, indent=4)
     else:
-        raise ValueError(f'{model_name} is currently not supported.')
+        with open(args.openai_api, 'r', encoding='utf-8') as f:
+            api_key = f.read()
+
+        model = OpenAIModel(api_key=api_key, engine=model_name)
+
+        for key in tqdm(json_dic.keys()):
+            text = json_dic[key]['text']
+            messages = []
+            if mode != 0:
+                if mode == 1:
+                    with open(args.shot_json, 'r', encoding='utf-8') as f:
+                        temp_dic = json.load(f)
+                elif mode == 2:
+                    with open(f'{retrieval_folder}/{key}.json', 'r', encoding='utf-8') as f:
+                        temp_dic = json.load(f)
+                for i in temp_dic.keys():
+                    temp_text = temp_dic[i]['text']
+                    messages.append({'role': 'user', 'content': prompt['user'].replace('{text}', temp_text)})
+                    temp_statement = temp_dic[i]['statement']
+                    messages.append(
+                        {'role': 'assistant', 'content': prompt['assistant'].replace('{statement}', temp_statement)})
+
+            messages.append({'role': 'user', 'content': prompt['user'].replace('{text}', text)})
+
+            formal = model.chat(messages)
+
+            if formal[-4:] == '</s>':
+                formal = formal[:-4]
+
+            result_dic[key] = {'text': text, 'statement': formal}
+
+        with open(args.result_json, 'w', encoding='utf-8') as f:
+            json.dump(result_dic, f, ensure_ascii=False, indent=4)
