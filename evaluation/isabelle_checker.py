@@ -32,7 +32,6 @@ class IsabelleChecker:
         for key, import_thy, text, statement in zip(tqdm(keys), imports, texts, statements):
             thy_file_path = os.path.join(files_dir, f'test_{key}.thy')
             error_log_path = os.path.join(files_dir, f'test_{key}.error.log')
-            write_to_thy_file(thy_file_path, f'test_{key}', import_thy, text, statement)
 
             if os.path.exists(error_log_path):
                 with open(error_log_path, 'r') as f:
