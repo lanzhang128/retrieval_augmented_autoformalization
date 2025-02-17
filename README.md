@@ -58,3 +58,25 @@ Evaluate results by choosing from 5 metrics: BLEU, ChrF, RUBY, CodeBERTScore, Pa
 python test.py --ref_json data/IsarMathLib/extraction/test.json --result_json results/mistral_t_auto_0.json --metric BLEU ChrF RUBY CodeBERTScore Pass
 python test.py --ref_json data/IsarMathLib/extraction/test.json --result_json results/mistral_t_auto_0.json --metric BLEU ChrF RUBY CodeBERTScore Pass --no_post
 ```
+
+## Cite
+If you find this repository useful, please cite:
+```
+@inproceedings{zhang-etal-2024-consistent,
+    title = "Consistent Autoformalization for Constructing Mathematical Libraries",
+    author = "Zhang, Lan  and
+      Quan, Xin  and
+      Freitas, Andre",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.233/",
+    doi = "10.18653/v1/2024.emnlp-main.233",
+    pages = "4020--4033"
+}
+```
