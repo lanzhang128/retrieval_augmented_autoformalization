@@ -1,4 +1,4 @@
-# Retrieval Augmented Autoformalization with Refinement (Auto-correction)
+# Consistent Autoformalization for Constructing Mathematical Libraries
 
 ## How to set up IsarMathLib in Isabelle
 First, you should download [Isabelle](https://isabelle.in.tum.de/) and add its "bin" to your PATH variable. In Linuxs systems, run
